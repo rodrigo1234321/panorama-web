@@ -6,7 +6,7 @@ const RSS_URL = 'https://news.google.com/rss/search?q=Argentina&hl=es-419&gl=AR&
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const NOTICIAS_FILE = path.join(__dirname, '../noticias.json');
 const TWEET_FILE = path.join(__dirname, '../tweet.txt');
-const SITE_URL = process.env.SITE_URL || 'https://panorama-web.vercel.app';
+const SITE_URL = process.env.SITE_URL || 'https://panorama-web-one.vercel.app';
 
 if (!GEMINI_API_KEY) {
   console.error('Error: La variable de entorno GEMINI_API_KEY no está configurada.');
