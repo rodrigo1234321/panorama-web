@@ -209,14 +209,51 @@ function updateDatabase(newArticles) {
       console.log('Borrador de tweet con link extraído y guardado en tweet.txt.');
     }
 
-    // Clean up the tweet property from the JSON to keep it lean and match front-end
+    const VALID_IMAGES = [
+      'img/economia_inflacion.png',
+      'img/economia_campo.png',
+      'img/sociedad_salud.png',
+      'img/sociedad_comedor.png',
+      'img/politica_congreso.png',
+      'img/fallback_general.png'
+    ];
+
+    // Clean up the tweet property from the JSON and normalize image paths
     const cleanNewArticles = newArticles.map(art => {
       const { tweet, ...rest } = art;
+      if (rest.imagen) {
+        rest.imagen = rest.imagen.toLowerCase().trim();
+        if (rest.imagen.includes('comedor')) rest.imagen = 'img/sociedad_comedor.png';
+        else if (rest.imagen.includes('campo')) rest.imagen = 'img/economia_campo.png';
+        else if (rest.imagen.includes('inflacion') || rest.imagen.includes('inflación')) rest.imagen = 'img/economia_inflacion.png';
+        else if (rest.imagen.includes('salud')) rest.imagen = 'img/sociedad_salud.png';
+        else if (rest.imagen.includes('congreso')) rest.imagen = 'img/politica_congreso.png';
+        
+        if (!VALID_IMAGES.includes(rest.imagen)) {
+          rest.imagen = 'img/fallback_general.png';
+        }
+      } else {
+        rest.imagen = 'img/fallback_general.png';
+      }
       return rest;
     });
 
     const cleanExistingNews = existingNews.map(art => {
       const { tweet, ...rest } = art;
+      if (rest.imagen) {
+        rest.imagen = rest.imagen.toLowerCase().trim();
+        if (rest.imagen.includes('comedor')) rest.imagen = 'img/sociedad_comedor.png';
+        else if (rest.imagen.includes('campo')) rest.imagen = 'img/economia_campo.png';
+        else if (rest.imagen.includes('inflacion') || rest.imagen.includes('inflación')) rest.imagen = 'img/economia_inflacion.png';
+        else if (rest.imagen.includes('salud')) rest.imagen = 'img/sociedad_salud.png';
+        else if (rest.imagen.includes('congreso')) rest.imagen = 'img/politica_congreso.png';
+        
+        if (!VALID_IMAGES.includes(rest.imagen)) {
+          rest.imagen = 'img/fallback_general.png';
+        }
+      } else {
+        rest.imagen = 'img/fallback_general.png';
+      }
       return rest;
     });
     
