@@ -49,20 +49,20 @@ async function fetchNews() {
     }
     
     console.log(`Se encontraron ${items.length} noticias en el RSS.`);
-    return items.slice(0, 15); // Process the top 15 news items
+    return items.slice(0, 20); // Process the top 20 news items
   } catch (err) {
     console.error('Error al obtener el RSS:', err);
     process.exit(1);
   }
 }
-// Call Gemini API to process and format news
+// Call Gemini API to process and format news
 async function generateArticles(newsItems) {
   console.log('Llamando a la API de Gemini para procesar y redactar las noticias...');
   const today = new Date().toISOString().split('T')[0];
   
   const prompt = `
     Sos el editor jefe de "Panorama.ar", un medio digital argentino de opinión y análisis crítico, agudo y directo.
-    Tu misión: elegir las 4 noticias que generen más debate, conversación e interés público de la lista de entrada.
+    Tu misión: elegir las 7 noticias que generen más debate, conversación e interés público de la lista de entrada.
     Priorizá temas de economía, política y sociedad que dividan opiniones, presenten diferentes puntos de vista o requieran un análisis profundo.
     
     TONO EDITORIAL:
