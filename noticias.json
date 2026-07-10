@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Argentina entre la pasión futbolística y los desafíos políticos",
+    "bajada": "La nación vive una coyuntura donde la euforia del Mundial 2026 se entrelaza con una compleja agenda política interna.",
+    "cuerpo": "La Argentina de hoy se encuentra en un cruce de caminos, donde la efervescencia generada por la participación de su selección en el Mundial 2026 convive con una dinámica política marcada por importantes debates y decisiones. Este escenario dual captura la atención de la ciudadanía, que oscila entre el fervor deportivo y la preocupación por el rumbo del país.\n\nEl ambiente mundialista, con la expectativa de un posible éxito de la albiceleste, proporciona un respiro y un espacio de unidad. Sin embargo, los desafíos en el ámbito político persisten, con discusiones sobre reformas estructurales y la gestión de la administración en un contexto global y regional.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-entre-pasion-futbolistica-y-desafios-politicos",
+    "fecha": "2026-07-10",
+    "imagen": "img/politica_congreso.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Suiza sin una figura clave para el encuentro contra Argentina en cuartos",
+    "bajada": "La selección suiza de fútbol confirmó la ausencia de uno de sus jugadores más importantes para el partido de cuartos de final del Mundial 2026 contra Argentina.",
+    "cuerpo": "La noticia se dio a conocer hoy, generando repercusión en la previa del crucial encuentro por los cuartos de final del Mundial 2026. La baja de esta figura representa un desafío táctico para el equipo europeo, que deberá reajustar su estrategia para enfrentar a la selección argentina.\n\nEste desarrollo añade un elemento adicional de expectativa al partido, que ya de por sí es uno de los más esperados de la fase eliminatoria. Ambas selecciones buscarán avanzar a las semifinales en un choque que promete intensidad.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "suiza-sin-figura-clave-cuartos-argentina",
+    "fecha": "2026-07-10",
+    "imagen": "img/fallback_general.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El contrabando representa el 5% del PBI argentino según estudio regional",
+    "bajada": "Un reciente informe revela el impacto del contrabando en la economía argentina, alcanzando un 5% del Producto Bruto Interno y afectando a diversos sectores productivos.",
+    "cuerpo": "Un estudio regional exhaustivo arrojó cifras preocupantes sobre el contrabando en Argentina, señalando que esta actividad ilícita ya equivale al 5% del Producto Bruto Interno del país. Este fenómeno no solo socava la recaudación fiscal, sino que también distorsiona la competencia y genera pérdidas significativas para la industria y el comercio formal.\n\nLos sectores más afectados incluyen una amplia gama de bienes de consumo, desde textiles y electrónicos hasta productos agropecuarios. La lucha contra el contrabando se presenta como un desafío clave para la política económica nacional, con el objetivo de proteger la producción local y garantizar la transparencia del mercado.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "contrabando-5-pbi-argentina",
+    "fecha": "2026-07-10",
+    "imagen": "img/economia_inflacion.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Hackeo a la AFA expone críticas internas sobre arbitraje",
+    "bajada": "Un ciberataque de origen egipcio a la Asociación del Fútbol Argentino (AFA) ha resultado en la filtración de correos electrónicos que contendrían quejas sobre el arbitraje.",
+    "cuerpo": "La Asociación del Fútbol Argentino (AFA) fue blanco de un hackeo atribuido a un grupo egipcio, lo que derivó en la divulgación de comunicaciones internas. Entre el material filtrado, se destacan correos electrónicos que aparentemente expresan descontento y críticas hacia decisiones arbitrales recientes relacionadas con partidos de la selección argentina.\n\nEste incidente ha generado revuelo en el ámbito deportivo y mediático, poniendo de manifiesto posibles tensiones internas o insatisfacciones con el desempeño arbitral. Las autoridades de la AFA se encuentran investigando el alcance del ataque y la veracidad de los contenidos expuestos.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "hackeo-afa-expone-criticas-arbitraje",
+    "fecha": "2026-07-10",
+    "imagen": "img/fallback_general.png",
+    "destacada": false
+  },
+  {
     "titulo": "Impacto del Contrabando: Representa el 5% del PBI Argentino",
     "bajada": "Un reciente estudio revela la alarmante magnitud del contrabando en Argentina, señalando su contribución del 5% al Producto Bruto Interno y los sectores más afectados.",
     "cuerpo": "El contrabando ha alcanzado proporciones preocupantes en Argentina, contribuyendo con el 5% al Producto Bruto Interno (PBI), según un estudio regional divulgado hoy. Este fenómeno ilícito impacta severamente en diversos sectores económicos, distorsionando mercados y generando pérdidas significativas para la recaudación fiscal y las empresas que operan dentro de la legalidad.\n\nLa investigación detalla cómo esta actividad ilegal se ha consolidado en el país, afectando principalmente a industrias como la textil, el tabaco, la electrónica y las bebidas, entre otras. La magnitud del contrabando no solo implica una competencia desleal, sino que también fomenta redes criminales y debilita la economía formal, dificultando el crecimiento y la inversión.",
@@ -33,7 +81,7 @@
     "slug": "golpe-para-suiza-figura-clave-se-pierde-mundial-argentina",
     "fecha": "2026-07-10",
     "imagen": "img/fallback_general.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Hackeo a la AFA: Mails Críticos al Arbitraje Mundialista Salen a la Luz",
