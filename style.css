@@ -581,18 +581,19 @@ header {
   display: flex;
   flex-direction: column;
   cursor: pointer;
-  
-  /* Scroll-driven entry animation */
-  animation: fade-slide-up linear both;
-  animation-timeline: view();
-  animation-range: entry 0% entry 25%;
+}
 
-  content-visibility: auto;
-  contain-intrinsic-size: auto 380px;
+/* Scroll-driven entry animation (only on browsers that support it, without content-visibility conflict) */
+@supports (animation-timeline: view()) {
+  .feed-card {
+    animation: fade-slide-up linear both;
+    animation-timeline: view();
+    animation-range: entry 5% entry 30%;
+  }
 }
 
 @keyframes fade-slide-up {
-  from { opacity: 0; transform: translateY(28px); }
+  from { opacity: 0; transform: translateY(24px); }
   to { opacity: 1; transform: translateY(0); }
 }
 
