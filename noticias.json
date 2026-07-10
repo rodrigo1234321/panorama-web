@@ -1,5 +1,53 @@
 [
   {
+    "titulo": "Impacto del Contrabando: Representa el 5% del PBI Argentino",
+    "bajada": "Un reciente estudio revela la alarmante magnitud del contrabando en Argentina, señalando su contribución del 5% al Producto Bruto Interno y los sectores más afectados.",
+    "cuerpo": "El contrabando ha alcanzado proporciones preocupantes en Argentina, contribuyendo con el 5% al Producto Bruto Interno (PBI), según un estudio regional divulgado hoy. Este fenómeno ilícito impacta severamente en diversos sectores económicos, distorsionando mercados y generando pérdidas significativas para la recaudación fiscal y las empresas que operan dentro de la legalidad.\n\nLa investigación detalla cómo esta actividad ilegal se ha consolidado en el país, afectando principalmente a industrias como la textil, el tabaco, la electrónica y las bebidas, entre otras. La magnitud del contrabando no solo implica una competencia desleal, sino que también fomenta redes criminales y debilita la economía formal, dificultando el crecimiento y la inversión.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "impacto-del-contrabando-5-pbi-argentino",
+    "fecha": "2026-07-10",
+    "imagen": "img/economia_inflacion.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Brutal Asalto a Jubilado Durante Partido de la Selección",
+    "bajada": "Un hombre de 76 años fue torturado y despojado de sus ahorros de toda la vida en un violento asalto ocurrido en Ituzaingó, mientras se disputaba el partido de la Selección Argentina.",
+    "cuerpo": "Un trágico suceso conmocionó a la localidad de Ituzaingó, provincia de Buenos Aires, donde un jubilado de 76 años fue víctima de un violento robo en su hogar. El hecho ocurrió mientras la atención del país estaba puesta en el partido de la Selección Argentina, momento aprovechado por los delincuentes.\n\nLos asaltantes ingresaron a la vivienda, maniataron y torturaron al anciano, logrando sustraerle sus ahorros de toda la vida, que ascendían a diez mil dólares. La brutalidad del ataque ha generado indignación y preocupación en la comunidad, poniendo de manifiesto la vulnerabilidad de los adultos mayores frente a la delincuencia.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "brutal-asalto-jubilado-partido-seleccion",
+    "fecha": "2026-07-10",
+    "imagen": "img/fallback_general.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Golpe para Suiza: Figura Clave Se Pierde Cruce Mundialista Contra Argentina",
+    "bajada": "La selección de Suiza confirma la ausencia de una de sus principales figuras para el crucial partido de cuartos de final del Mundial frente a Argentina.",
+    "cuerpo": "La Selección de Suiza enfrentará a Argentina en los cuartos de final del Mundial con una baja sensible. Se ha confirmado que una de sus figuras clave no podrá ser parte del encuentro debido a una lesión, lo que representa un golpe significativo para las aspiraciones del equipo europeo.\n\nEsta noticia podría influir en la estrategia del entrenador suizo y en el desarrollo del decisivo partido contra la Albiceleste. La ausencia del jugador se suma a la tensión previa al importante cruce que definirá el pase a las semifinales del torneo.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "golpe-para-suiza-figura-clave-se-pierde-mundial-argentina",
+    "fecha": "2026-07-10",
+    "imagen": "img/fallback_general.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Hackeo a la AFA: Mails Críticos al Arbitraje Mundialista Salen a la Luz",
+    "bajada": "La Asociación del Fútbol Argentino (AFA) fue víctima de un hackeo atribuido a un grupo egipcio, resultando en la divulgación de correos internos con críticas al arbitraje.",
+    "cuerpo": "La Asociación del Fútbol Argentino (AFA) ha sido blanco de un ciberataque, presuntamente perpetrado por un grupo de hackers egipcios. Este incidente de seguridad informática ha llevado a la divulgación de comunicaciones internas, incluyendo correos electrónicos que expresan críticas hacia el arbitraje en el contexto del actual Mundial.\n\nLa filtración ha generado revuelo en el ámbito deportivo y mediático, con el mensaje \"no esperen paz en sus redes\" por parte de los responsables del hackeo. La AFA se encuentra evaluando las implicaciones de esta brecha de seguridad y los pasos a seguir ante la información expuesta.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "hackeo-afa-mails-criticos-arbitraje-mundialista",
+    "fecha": "2026-07-10",
+    "imagen": "img/fallback_general.png",
+    "destacada": false
+  },
+  {
     "slug": "inflacion-mensual-piso-dos-anos",
     "titulo": "La inflación mensual perforó el piso de los últimos dos años, según el último relevamiento",
     "bajada": "El dato sorprendió a las consultoras privadas, que proyectaban un número más alto. El Gobierno lo celebra como prueba de que el plan de estabilización está rindiendo frutos, aunque persisten dudas sobre el impacto en el consumo.",
@@ -8,7 +56,7 @@
     "fecha": "2026-06-20",
     "autor": "Redacción Economía",
     "lectura": "6 min de lectura",
-    "destacada": true,
+    "destacada": false,
     "imagen": "img/economia_inflacion.png"
   },
   {
