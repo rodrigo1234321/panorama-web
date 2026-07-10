@@ -5,6 +5,7 @@ const path = require('path');
 const RSS_URL = 'https://news.google.com/rss/search?q=Argentina&hl=es-419&gl=AR&ceid=AR:es-419';
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const NOTICIAS_FILE = path.join(__dirname, '../noticias.json');
+const TWEET_FILE = path.join(__dirname, '../tweet.txt');
 
 if (!GEMINI_API_KEY) {
   console.error('Error: La variable de entorno GEMINI_API_KEY no está configurada.');
@@ -85,6 +86,7 @@ async function generateArticles(newsItems) {
         * Si es de leyes, el Congreso, debates políticos, gobernadores o elecciones: "img/politica_congreso.png"
         * De lo contrario: "img/fallback_general.png"
     - destacada: Marca con true la más relevante de todas, y las otras en false.
+    - tweet: Un borrador de tweet o post de X de menos de 280 caracteres resumiendo de forma atractiva pero objetiva la noticia, incluyendo 1 o 2 hashtags relevantes (ej: #Economia #Argentina).
   `;
 
   const requestBody = {
@@ -112,9 +114,10 @@ async function generateArticles(newsItems) {
             slug: { type: "STRING" },
             fecha: { type: "STRING" },
             imagen: { type: "STRING" },
-            destacada: { type: "BOOLEAN" }
+            destacada: { type: "BOOLEAN" },
+            tweet: { type: "STRING" }
           },
-          required: ["titulo", "bajada", "cuerpo", "categoria", "autor", "lectura", "slug", "fecha", "imagen", "destacada"]
+          required: ["titulo", "bajada", "cuerpo", "categoria", "autor", "lectura", "slug", "fecha", "imagen", "destacada", "tweet"]
         }
       }
     }
@@ -157,9 +160,26 @@ function updateDatabase(newArticles) {
       existingNews = JSON.parse(fileData);
     }
     
-    // Combine and remove duplicates based on the slug
-    const allNews = [...newArticles, ...existingNews];
+    // Extract the tweet of the featured story before stripping it out from the saved JSON
+    const featuredStory = newArticles.find(n => n.destacada) || newArticles[0];
+    if (featuredStory && featuredStory.tweet) {
+      fs.writeFileSync(TWEET_FILE, featuredStory.tweet.trim(), 'utf8');
+      console.log('Borrador de tweet extraído y guardado en tweet.txt.');
+    }
+
+    // Clean up the tweet property from the JSON to keep it lean and match front-end
+    const cleanNewArticles = newArticles.map(art => {
+      const { tweet, ...rest } = art;
+      return rest;
+    });
+
+    const cleanExistingNews = existingNews.map(art => {
+      const { tweet, ...rest } = art;
+      return rest;
+    });
     
+    // Combine and remove duplicates based on the slug
+    const allNews = [...cleanNewArticles, ...cleanExistingNews];
     const uniqueSlugs = new Set();
     const mergedNews = [];
     

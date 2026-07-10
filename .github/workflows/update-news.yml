@@ -2,7 +2,7 @@ name: Auto Actualizar Noticias
 
 on:
   schedule:
-    # Se ejecuta a las 09:00 y 21:00 (Hora Argentina), que equivale a las 12:00 y 00:00 UTC
+    # Se ejecuta cada 12 horas: a las 09:00 y a las 21:00 (Hora de Argentina)
     - cron: '0 0,12 * * *'
   workflow_dispatch: # Permite disparar la automatización manualmente desde la pestaña Actions en GitHub
 
@@ -35,3 +35,22 @@ jobs:
           git add noticias.json
           # Solo hacer commit si el archivo noticias.json cambió
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: actualización periódica de noticias" && git push)
+
+      - name: Mostrar Borrador de Tweet para X
+        if: always()
+        run: |
+          if [ -f tweet.txt ]; then
+            echo "### 🗞️ Panorama.ar — Automatización de Noticias" >> $GITHUB_STEP_SUMMARY
+            echo "El sitio web de Panorama.ar se ha actualizado con éxito con noticias frescas de hoy." >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "#### 🐦 Borrador del Tweet sugerido para X:" >> $GITHUB_STEP_SUMMARY
+            echo '```text' >> $GITHUB_STEP_SUMMARY
+            cat tweet.txt >> $GITHUB_STEP_SUMMARY
+            echo '' >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "*Tip: ¡Solo copialo y pegalo en tu cuenta de X!*" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "### 🗞️ Panorama.ar — Automatización de Noticias" >> $GITHUB_STEP_SUMMARY
+            echo "No se encontraron nuevas noticias hoy o no se pudo generar el borrador de Tweet." >> $GITHUB_STEP_SUMMARY
+          fi
