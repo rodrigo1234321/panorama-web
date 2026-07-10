@@ -55,33 +55,30 @@ async function fetchNews() {
     process.exit(1);
   }
 }
-
-// Call Gemini API to process and format news
+// Call Gemini API to process and format news
 async function generateArticles(newsItems) {
   console.log('Llamando a la API de Gemini para procesar y redactar las noticias...');
-  
   const today = new Date().toISOString().split('T')[0];
   
   const prompt = `
-    Sos el editor jefe de "Panorama.ar", un medio digital argentino con estilo directo, incisivo y sin pelos en la lengua.
-    Tu misión: elegir las 4 noticias MÁS POLÉMICAS, CONTROVERSIALES o que generen más debate de la lista.
-    Priorizá temas que dividan opiniones, expongan contradicciones del poder, generen indignación o toquen temas sensibles.
+    Sos el editor jefe de "Panorama.ar", un medio digital argentino de opinión y análisis crítico, agudo y directo.
+    Tu misión: elegir las 4 noticias que generen más debate, conversación e interés público de la lista de entrada.
+    Priorizá temas de economía, política y sociedad que dividan opiniones, presenten diferentes puntos de vista o requieran un análisis profundo.
     
     TONO EDITORIAL:
-    - Provocador pero inteligente. No seas vulgar, sé filoso.
-    - Usá preguntas retóricas en los títulos cuando sea efectivo (ej: "¿Quién se beneficia realmente?").
-    - Señalá contradicciones, datos incómodos y lo que nadie quiere decir.
-    - Que el lector sienta que NECESITA opinar después de leer.
-    - Incluí datos concretos (cifras, porcentajes, nombres) para dar peso a la polémica.
-    - NO inventes datos. Basate en los hechos reales pero presentalos de forma que generen reflexión y debate.
+    - Crítico, agudo y directo. Hacé preguntas reflexivas en los títulos cuando sea efectivo (ej: "¿Quién se beneficia realmente?").
+    - Analizá las contradicciones de los distintos sectores, datos de la realidad y opiniones encontradas.
+    - Buscá que el lector reflexione y quiera debatir sobre el tema tras leer la nota.
+    - Incluí datos concretos (cifras, porcentajes, nombres de voceros/sectores) para dar peso a la nota.
+    - NO inventes datos. Basate en los hechos reales de la entrada, presentados de forma atractiva para generar conversación.
     
     NOTICIAS DE ENTRADA:
     ${JSON.stringify(newsItems, null, 2)}
     
     Reglas de generación para cada noticia:
-    - titulo: Título PROVOCADOR y polémico que genere clicks y debate. Puede usar preguntas retóricas, ironía o señalar contradicciones. Máximo 15 palabras.
-    - bajada: Un gancho corto que profundice la polémica del título y obligue a seguir leyendo.
-    - cuerpo: Redacta 2-3 párrafos con tono editorial incisivo separados por saltos de línea dobles (\\n\\n). Exponé las contradicciones, mencioná a los responsables por nombre, incluí cifras. Cerrá con una pregunta o reflexión que invite al debate.
+    - titulo: Título AGUDO que llame a la reflexión y al debate. Puede usar preguntas retóricas o señalar contrastes. Máximo 15 palabras.
+    - bajada: Un gancho corto que introduzca el dilema o punto central de la discusión.
+    - cuerpo: Redacta 2-3 párrafos con tono de análisis crítico y periodismo de opinión, separados por saltos de línea dobles (\\n\\n). Exponé los diferentes argumentos, cifras y datos. Cerrá con una pregunta reflexiva que invite al debate.
     - categoria: Clasifica en "economia", "sociedad" o "politica".
     - autor: "Redacción Panorama".
     - lectura: Tiempo estimado (ej: "3 min").
@@ -94,8 +91,8 @@ async function generateArticles(newsItems) {
         * Educación, comedores, pobreza, protestas: "img/sociedad_comedor.png"
         * Leyes, Congreso, debates políticos, elecciones: "img/politica_congreso.png"
         * Otro: "img/fallback_general.png"
-    - destacada: true solo para la MÁS polémica, el resto false.
-    - tweet: Borrador de tweet/post de X. MÁXIMO 230 caracteres (para dejar espacio al link). Tono picante y directo que genere retweets. Incluí 1-2 hashtags relevantes. NO incluyas ningún link, el link se agrega automáticamente después.
+    - destacada: true solo para la MÁS relevante para el debate público, el resto false.
+    - tweet: Borrador de tweet/post de X. MÁXIMO 230 caracteres (para dejar espacio al link). Tono directo y analítico que llame al debate. Incluí 1-2 hashtags relevantes. NO incluyas ningún link, el link se agrega automáticamente después.
   `;
 
   const requestBody = {
@@ -129,7 +126,25 @@ async function generateArticles(newsItems) {
           required: ["titulo", "bajada", "cuerpo", "categoria", "autor", "lectura", "slug", "fecha", "imagen", "destacada", "tweet"]
         }
       }
-    }
+    },
+    safetySettings: [
+      {
+        category: "HARM_CATEGORY_HARASSMENT",
+        threshold: "BLOCK_ONLY_HIGH"
+      },
+      {
+        category: "HARM_CATEGORY_HATE_SPEECH",
+        threshold: "BLOCK_ONLY_HIGH"
+      },
+      {
+        category: "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+        threshold: "BLOCK_ONLY_HIGH"
+      },
+      {
+        category: "HARM_CATEGORY_DANGEROUS_CONTENT",
+        threshold: "BLOCK_ONLY_HIGH"
+      }
+    ]
   };
 
   try {
@@ -148,13 +163,29 @@ async function generateArticles(newsItems) {
     }
 
     const data = await res.json();
-    const textResponse = data.candidates[0].content.parts[0].text;
+    
+    if (!data.candidates || data.candidates.length === 0) {
+      console.error("La respuesta de la API no contiene candidatos. Respuesta completa:", JSON.stringify(data, null, 2));
+      throw new Error("La API de Gemini no devolvió candidatos de respuesta. Posiblemente bloqueado por filtros de seguridad.");
+    }
+    
+    const candidate = data.candidates[0];
+    if (candidate.finishReason && candidate.finishReason !== "STOP") {
+      console.warn(`Advertencia: La generación finalizó con motivo: ${candidate.finishReason}`);
+    }
+    
+    if (!candidate.content || !candidate.content.parts || candidate.content.parts.length === 0) {
+      console.error("El candidato de respuesta no contiene partes de contenido. Candidato completo:", JSON.stringify(candidate, null, 2));
+      throw new Error("El candidato de la API de Gemini no contiene partes de texto.");
+    }
+
+    const textResponse = candidate.content.parts[0].text;
     const articles = JSON.parse(textResponse);
     
     console.log(`Gemini generó ${articles.length} artículos exitosamente.`);
     return articles;
   } catch (err) {
-    console.error('Error al procesar noticias con Gemini:', err);
+    console.error('Error detallado al procesar noticias con Gemini:', err.stack || err);
     process.exit(1);
   }
 }
