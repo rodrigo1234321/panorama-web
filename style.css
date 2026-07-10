@@ -6,11 +6,31 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
 
-/* ---------- Design tokens with light-dark() ---------- */
+/* ---------- Design tokens with light-dark() and robust fallbacks ---------- */
 :root {
   color-scheme: light dark;
 
-  /* Base Colors - Fusing Editorial Cream & Ink */
+  /* Fallback values for older engines */
+  --bg:           oklch(0.98 0.004 80);
+  --bg-card:      #ffffff;
+  --bg-navbar:    oklch(0.98 0.004 80 / 0.90);
+  --text-main:    oklch(0.12 0.005 80);
+  --text-soft:    oklch(0.48 0.01 80);
+  --text-muted:   oklch(0.65 0.01 80);
+  --border-color: oklch(0.91 0.004 80);
+  --primary:      oklch(0.48 0.20 25);
+  --primary-glow: oklch(0.48 0.20 25 / 0.12);
+  --economia:     oklch(0.48 0.16 145);
+  --economia-bg:  oklch(0.95 0.03 145);
+  --sociedad:     oklch(0.45 0.18 250);
+  --sociedad-bg:  oklch(0.95 0.03 250);
+  --politica:     oklch(0.55 0.16 75);
+  --politica-bg:  oklch(0.96 0.03 75);
+  --shadow-sm:    0 1px 3px oklch(0 0 0 / 0.04);
+  --shadow-md:    0 4px 20px oklch(0 0 0 / 0.06);
+  --shadow-lg:    0 12px 40px oklch(0 0 0 / 0.08);
+
+  /* Modern engines rewrite with light-dark() */
   --bg:           light-dark(oklch(0.98 0.004 80), oklch(0.12 0.005 80));
   --bg-card:      light-dark(#ffffff, oklch(0.16 0.008 80));
   --bg-navbar:    light-dark(oklch(0.98 0.004 80 / 0.90), oklch(0.12 0.005 80 / 0.90));
@@ -45,8 +65,49 @@
 }
 
 /* Explicit theme overrides */
-[data-theme="light"] { color-scheme: light; }
-[data-theme="dark"]  { color-scheme: dark; }
+[data-theme="light"] {
+  color-scheme: light;
+  --bg:           oklch(0.98 0.004 80);
+  --bg-card:      #ffffff;
+  --bg-navbar:    oklch(0.98 0.004 80 / 0.90);
+  --text-main:    oklch(0.12 0.005 80);
+  --text-soft:    oklch(0.48 0.01 80);
+  --text-muted:   oklch(0.65 0.01 80);
+  --border-color: oklch(0.91 0.004 80);
+  --primary:      oklch(0.48 0.20 25);
+  --primary-glow: oklch(0.48 0.20 25 / 0.12);
+  --economia:     oklch(0.48 0.16 145);
+  --economia-bg:  oklch(0.95 0.03 145);
+  --sociedad:     oklch(0.45 0.18 250);
+  --sociedad-bg:  oklch(0.95 0.03 250);
+  --politica:     oklch(0.55 0.16 75);
+  --politica-bg:  oklch(0.96 0.03 75);
+  --shadow-sm:    0 1px 3px oklch(0 0 0 / 0.04);
+  --shadow-md:    0 4px 20px oklch(0 0 0 / 0.06);
+  --shadow-lg:    0 12px 40px oklch(0 0 0 / 0.08);
+}
+
+[data-theme="dark"]  {
+  color-scheme: dark;
+  --bg:           oklch(0.12 0.005 80);
+  --bg-card:      oklch(0.16 0.008 80);
+  --bg-navbar:    oklch(0.12 0.005 80 / 0.90);
+  --text-main:    oklch(0.98 0.004 80);
+  --text-soft:    oklch(0.72 0.01 80);
+  --text-muted:   oklch(0.55 0.01 80);
+  --border-color: oklch(0.24 0.008 80);
+  --primary:      oklch(0.60 0.22 25);
+  --primary-glow: oklch(0.60 0.22 25 / 0.20);
+  --economia:     oklch(0.68 0.16 145);
+  --economia-bg:  oklch(0.22 0.05 145);
+  --sociedad:     oklch(0.65 0.18 250);
+  --sociedad-bg:  oklch(0.20 0.05 250);
+  --politica:     oklch(0.72 0.15 75);
+  --politica-bg:  oklch(0.22 0.05 75);
+  --shadow-sm:    0 1px 3px oklch(0 0 0 / 0.2);
+  --shadow-md:    0 4px 20px oklch(0 0 0 / 0.3);
+  --shadow-lg:    0 12px 40px oklch(0 0 0 / 0.4);
+}
 
 /* ---------- Reset & Base ---------- */
 *, *::before, *::after {

@@ -7,6 +7,12 @@
   <title>Panorama — Noticias de Argentina</title>
   <meta name="description" content="Economía, sociedad y política argentina en tiempo real, sin vueltas.">
   <link rel="stylesheet" href="style.css">
+  <script>
+    // Previene el parpadeo en modo oscuro aplicando el tema antes de renderizar
+    const savedTheme = localStorage.getItem('theme') || 
+      (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', savedTheme);
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 </head>
@@ -457,6 +463,17 @@
       return r.json();
     })
     .then(data => {
+      if (!Array.isArray(data) || data.length === 0) {
+        gridNode.innerHTML = `
+          <div class="no-results">
+            <h3>No hay noticias publicadas</h3>
+            <p>Por favor, ejecutá la automatización de noticias para poblar la portada.</p>
+          </div>`;
+        contadorNode.textContent = '0 notas';
+        loadMoreBtn.classList.add('hidden');
+        return;
+      }
+
       // Ordenar por fecha desc.
       const ordenadas = data.slice().sort((a, b) => new Date(b.fecha) - new Date(a.fecha));
 

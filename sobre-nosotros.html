@@ -7,6 +7,12 @@
   <title>Sobre Nosotros — Panorama.ar</title>
   <meta name="description" content="Quiénes somos y cómo contactar a Panorama.ar, noticias de economía, sociedad y política de Argentina.">
   <link rel="stylesheet" href="style.css">
+  <script>
+    // Previene el parpadeo en modo oscuro aplicando el tema antes de renderizar
+    const savedTheme = localStorage.getItem('theme') || 
+      (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+    document.documentElement.setAttribute('data-theme', savedTheme);
+  </script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 </head>
