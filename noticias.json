@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Quién paga el 5% del PBI en contrabando? La sombra oculta.",
+    "bajada": "Un estudio regional destapa la alarmante cifra del comercio ilegal en Argentina y sus costos para la economía formal.",
+    "cuerpo": "El contrabando no es un delito menor; es un cáncer que corroe la economía argentina, alcanzando ya el 5% del Producto Bruto Interno, según un reciente estudio regional. Esta cifra escandalosa significa que millones de dólares evaden controles, impuestos y regulaciones, alimentando circuitos informales y precarizando el mercado laboral. ¿Qué sectores son los más afectados? Desde la indumentaria hasta la electrónica, pasando por alimentos, las industrias nacionales luchan contra una competencia desleal que mina su capacidad de producción y empleo. Los datos son claros: mientras algunos denuncian la carga impositiva, la sombra del contrabando demuestra la ineficacia de los controles y la complicidad de ciertos actores. Esto no solo afecta la recaudación fiscal, sino que también distorsiona precios y ahuyenta inversiones.\n\n¿Estamos dispuestos a seguir mirando para otro lado mientras una parte sustancial de nuestra riqueza se fuga por la puerta trasera? La pregunta es: ¿quién se beneficia realmente de este esquema y qué medidas concretas se están tomando para desmantelarlo, más allá de la retórica?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "quien-paga-el-5-del-pbi-en-contrabando-la-sombra-oculta",
+    "fecha": "2026-07-10",
+    "imagen": "img/economia_inflacion.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Acuerdos arancelarios: ¿victoria de Milei o trampa para la industria?",
+    "bajada": "Se destraban negociaciones clave que redefinirán el futuro comercial del país, con la mirada puesta en la agenda de Milei.",
+    "cuerpo": "La agenda económica de Javier Milei sigue avanzando, y un nuevo acuerdo arancelario parece estar en el horizonte, con fecha para sellar compromisos. Mientras el gobierno celebra un aparente destrabe que promete \"modernizar\" la economía, surgen interrogantes sobre el impacto real que tendrá en la ya vapuleada industria nacional. ¿Qué aranceles quedan y a quién benefician? Los sectores exportadores podrían ver una ventaja, pero la industria local, que compite con productos importados, podría enfrentar un escenario aún más complejo. Reducir barreras sin un plan de competitividad robusto, ¿es un salto al vacío o una oportunidad real de crecimiento?\n\nVoceros del gobierno hablan de apertura y eficiencia, pero las cámaras industriales temen una avalancha de bienes extranjeros que sofocará la producción y el empleo argentino. La historia nos ha mostrado que los \"ajustes\" arancelarios rara vez son neutrales y siempre dejan ganadores y perdedores. En este contexto, la \"fecha\" que mira Milei para sellar estos compromisos no es solo un calendario, es un punto de inflexión. ¿Se priorizará la integración global a cualquier costo interno, o existe un verdadero balance entre apertura y protección estratégica?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "acuerdos-arancelarios-victoria-de-milei-o-trampa-para-la-industria",
+    "fecha": "2026-07-10",
+    "imagen": "img/politica_congreso.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: ¿fútbol es política o política es fútbol?",
+    "bajada": "La obsesión nacional por la pelota vuelve a cruzarse con las divisiones políticas, más allá de cualquier figura externa.",
+    "cuerpo": "Una vez más, Argentina se encuentra inmersa en una batidora donde fútbol y política se mezclan hasta volverse indistinguibles. Lo curioso, como bien señala un análisis, es que \"esta vez no es culpa de Trump\". La pasión por el Mundial expone las grietas sociales y las tensiones políticas internas. ¿Es el fútbol un escape de la realidad o un espejo amplificado de nuestras contradicciones? Desde los discursos de los líderes hasta las reacciones en redes, cada jugada, cada victoria o derrota, se convierte en un símbolo, una bandera para posicionamientos ideológicos.\n\nEsta simbiosis es tan vieja como el país, pero se intensifica en tiempos de polarización. Mientras algunos llaman a la unión nacional, otros utilizan la euforia o la frustración deportiva para capitalizar políticamente. La pregunta es si, en esta vorágine, perdemos de vista los problemas estructurales que persisten más allá de la cancha. ¿Podrá Argentina algún día separar el análisis de la gestión pública del fervor que despierta un gol, o estamos condenados a vivir en esta constante mezcla donde un penal fallido puede tener más peso que un debate legislativo crucial?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-futbol-es-politica-o-politica-es-futbol",
+    "fecha": "2026-07-10",
+    "imagen": "img/politica_congreso.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Hackeo a AFA: ¿seguridad digital o guerra de fake news?",
+    "bajada": "Un ataque cibernético a la AFA expone supuestos mails críticos sobre arbitraje, desatando una tormenta en redes.",
+    "cuerpo": "La Asociación del Fútbol Argentino (AFA) fue blanco de un hackeo \"egipcio\" que filtró supuestos correos electrónicos con críticas al arbitraje. Este incidente no solo pone en jaque la seguridad digital de una de las instituciones más importantes del país, sino que también desata una ola de especulaciones y acusaciones en un contexto de alta tensión mundialista. \"¿No esperen paz en sus redes?\", advirtió la AFA, evidenciando la fragilidad de la información en la era digital y la facilidad con la que puede ser manipulada para generar discordia.\n\nMás allá de la veracidad de los mails filtrados, el episodio abre un debate crucial sobre la ciberseguridad y la manipulación de la opinión pública. ¿Es un ataque genuino con información comprometedora, o una operación de desinformación para desestabilizar? La reacción en redes sociales muestra la avidez por la polémica y la rapidez con la que se propagan las narrativas, reales o falsas. Este hackeo nos obliga a preguntarnos: ¿cuán vulnerables son nuestras instituciones a estos ataques, y hasta qué punto la \"verdad\" en la era digital es una construcción sujeta a la interpretación y la manipulación de terceros?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "hackeo-a-afa-seguridad-digital-o-guerra-de-fake-news",
+    "fecha": "2026-07-10",
+    "imagen": "img/fallback_general.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Suiza y Argentina: ¿negocios aparte del fútbol?",
+    "bajada": "Mientras la cancha los enfrenta, fuera de ella, el intercambio económico entre ambos países bate récords históricos.",
+    "cuerpo": "La fiebre mundialista pone a Argentina y Suiza frente a frente en cuartos de final, pero más allá del césped, la relación entre ambos países vive su mejor momento en términos económicos. El intercambio comercial ha alcanzado un \"máximo histórico\", una realidad que contrasta con la intensidad de la competencia deportiva. ¿Qué revela este dato? Que las relaciones económicas suelen operar con lógicas diferentes a las pasiones deportivas, buscando estabilidad y beneficio mutuo. Sin embargo, también es un recordatorio de que la narrativa pública muchas veces se enfoca en el espectáculo, dejando de lado los flujos de capital y bienes que realmente mueven el mundo.\n\nEste pico en el intercambio comercial, que incluye desde inversiones hasta exportaciones e importaciones, muestra la diversificación de las relaciones internacionales argentinas y la búsqueda de nuevos mercados y socios estratégicos. Mientras los titulares se centran en quién gana el partido, el verdadero juego económico se desarrolla en despachos y mesas de negociación. ¿Estamos prestando suficiente atención a las oportunidades y desafíos que surgen de estos lazos comerciales, o el ruido del fútbol distrae de lo que realmente importa para el desarrollo del país a largo plazo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "suiza-y-argentina-negocios-aparte-del-futbol",
+    "fecha": "2026-07-10",
+    "imagen": "img/economia_inflacion.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Despido mundialista: ¿insensibilidad o abuso laboral?",
+    "bajada": "La historia de un jefe que despidió a sus empleados tras alentarlos a ver un partido de la Selección desata polémica.",
+    "cuerpo": "La euforia mundialista volvió a exponer las tensiones en el ámbito laboral. Un caso que generó indignación: un empleador que, tras \"invitar\" a sus trabajadores a ver un partido de la Selección Argentina, procedió a despedirlos. ¿Es un acto de \"insensibilidad mundial\" como lo califican algunos, o una flagrante muestra de abuso laboral y falta de ética empresarial? La línea entre el \"permiso\" y la coacción se vuelve difusa cuando las decisiones empresariales afectan directamente el sustento de las familias.\n\nEste episodio no es aislado y enciende una alarma sobre la precariedad laboral y la falta de garantías en muchos sectores. Mientras el país se une en torno a la pelota, la realidad social golpea a quienes dependen de un empleo informal o sin protecciones adecuadas. La pregunta que surge es: ¿hasta qué punto la pasión por el fútbol puede ser utilizada como excusa para prácticas laborales cuestionables, y qué responsabilidad tienen las empresas en garantizar un trato justo a sus empleados, incluso en tiempos de fervor colectivo?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "despido-mundialista-insensibilidad-o-abuso-laboral",
+    "fecha": "2026-07-10",
+    "imagen": "img/sociedad_comedor.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Milei y la Selección: ¿respaldo genuino o estrategia populista?",
+    "bajada": "El presidente Milei se suma al fervor mundialista, generando debate sobre la relación entre política y pasión popular.",
+    "cuerpo": "En la previa de los cuartos de final del Mundial, el presidente Javier Milei no dudó en mostrar su \"fuerte respaldo\" a la Selección Argentina. Este gesto, replicado por casi todos los líderes políticos en momentos de gloria deportiva, abre el interrogante sobre su verdadera motivación. ¿Es un apoyo genuino a la Scaloneta, una forma de conectar con el sentir popular o una estrategia política para capitalizar la euforia nacional y desviar la atención de temas más complejos de su gestión? La ambigüedad de estos actos suele generar debate, dividiendo opiniones entre quienes ven un gesto de unidad y quienes denuncian un uso \"populista\" del fútbol.\n\nHistóricamente, la política ha buscado cobijarse bajo el manto del fútbol, aprovechando su capacidad de movilizar masas y generar identificación. En un país polarizado, la Selección se erige como uno de los pocos puntos de encuentro. Sin embargo, ¿es ético o productivo para la política instrumentalizar este sentimiento? ¿Hasta qué punto el \"aguante\" presidencial a la Selección es un reflejo de su verdadera agenda para el país, o solo un eco efímero en la marea de la pasión? El análisis crítico invita a ir más allá de la foto.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-y-la-seleccion-respaldo-genuino-o-estrategia-populista",
+    "fecha": "2026-07-10",
+    "imagen": "img/politica_congreso.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Contrabando: 5% del PBI, o la otra cara de la crisis argentina?",
     "bajada": "Un estudio regional revela la alarmante cifra y expone la complicidad detrás de la economía informal.",
     "cuerpo": "El contrabando, lejos de ser un delito marginal, se consolida como un pilar oscuro de la economía argentina, representando ya el 5% del Producto Bruto Interno. Esta cifra, que surge de un reciente estudio regional, no solo es un indicador de la informalidad rampante, sino un termómetro de la desprotección estatal y la evasión fiscal a gran escala. Mientras el gobierno busca ajustar las cuentas públicas, vastos sectores productivos operan en las sombras, erosionando la recaudación y la competitividad de quienes cumplen las reglas.\n\nLos sectores más golpeados son la indumentaria, el calzado y la electrónica, donde la entrada ilegal de productos distorsiona precios y destruye empleos formales. Voceros de cámaras empresariales advierten sobre una competencia desleal insostenible, mientras que expertos económicos señalan la ineficacia de los controles y la posible connivencia de ciertos actores. Este panorama revela una doble vara: ¿cómo se exigen sacrificios a la ciudadanía si el Estado es incapaz de frenar el sangrado de una economía sumergida que crece sin pausa?\n\nLa pregunta es inevitable: ¿quiénes son los verdaderos beneficiados de este sistema de contrabando masivo y quiénes pagan el costo real de esta evasión que ya supera cifras escandalosas?",
@@ -9,7 +93,7 @@
     "slug": "contrabando-5-por-ciento-pbi-crisis-argentina",
     "fecha": "2026-07-10",
     "imagen": "img/economia_inflacion.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "¿Fútbol y finanzas: Suiza, un socio de oro mientras miramos el Mundial?",
@@ -197,83 +281,6 @@
     "fecha": "2026-06-20",
     "autor": "Redacción",
     "lectura": "3 min de lectura",
-    "imagen": "img/fallback_general.png"
-  },
-  {
-    "slug": "tension-senado-ley-previsional",
-    "titulo": "Tensión en el Senado por el dictamen de la nueva ley previsional",
-    "bajada": "Bloques opositores piden modificaciones de último momento antes de habilitar el debate en el recinto, previsto para la semana próxima.",
-    "cuerpo": "La comisión de Previsión Social del Senado vivió una sesión cargada de tensión esta semana, en medio de los intentos del oficialismo por avanzar con el dictamen de la nueva ley previsional antes del cierre del período de sesiones.\n\nVarios senadores de la oposición pidieron postergar la firma del dictamen hasta incorporar modificaciones referidas a la fórmula de movilidad jubilatoria, un punto que consideran central y que, según afirman, no fue suficientemente debatido en las reuniones previas.\n\nDesde el oficialismo confían en poder firmar el dictamen en los próximos días para habilitar el debate en el recinto la semana próxima, aunque reconocen que todavía falta cerrar acuerdos con al menos dos bloques clave para asegurar el quórum.",
-    "categoria": "politica",
-    "fecha": "2026-06-20",
-    "autor": "Redacción",
-    "lectura": "4 min de lectura",
-    "imagen": "img/politica_congreso.png"
-  },
-  {
-    "slug": "consultas-salud-mental-hospitales",
-    "titulo": "Aumentan un 18% las consultas por salud mental en hospitales públicos",
-    "bajada": "Especialistas advierten sobre la sobrecarga del sistema y reclaman mayor presupuesto para programas de atención primaria.",
-    "cuerpo": "Un relevamiento realizado en hospitales públicos de distintas provincias mostró un incremento del 18% en las consultas vinculadas a salud mental durante el último año, una tendencia que los especialistas vienen señalando desde hace tiempo.\n\nLos profesionales consultados atribuyen el aumento a una combinación de factores: mayor conciencia social sobre la importancia de la atención psicológica, sumado a un contexto socioeconómico que genera más cuadros de ansiedad y estrés en la población.\n\nDesde distintos colegios profesionales reclamaron al Estado un refuerzo presupuestario para los programas de atención primaria en salud mental, advirtiendo que la demanda actual supera ampliamente la capacidad de respuesta del sistema público en varias jurisdicciones.",
-    "categoria": "sociedad",
-    "fecha": "2026-06-19",
-    "autor": "Redacción",
-    "lectura": "5 min de lectura",
-    "imagen": "img/sociedad_salud.png"
-  },
-  {
-    "slug": "industria-automotriz-mejor-mes-patentamientos",
-    "titulo": "La industria automotriz reporta su mejor mes de patentamientos en tres años",
-    "bajada": "El financiamiento en cuotas y la estabilidad cambiaria impulsaron las ventas, aunque persisten dudas sobre el segundo semestre.",
-    "cuerpo": "El sector automotriz cerró el mes con el mejor número de patentamientos en tres años, según los datos difundidos por la asociación que nuclea a los concesionarios del país.\n\nDesde el sector explicaron que la combinación de mayor financiamiento en cuotas y un tipo de cambio relativamente estable durante los últimos meses impulsó la decisión de compra de muchas familias que venían postergando el cambio de vehículo.\n\nDe todas formas, algunas terminales automotrices mostraron cautela respecto a la sostenibilidad del repunte de cara al segundo semestre, en un contexto donde el poder adquisitivo de los salarios todavía no logra recuperar los niveles previos a la crisis.",
-    "categoria": "economia",
-    "fecha": "2026-06-19",
-    "autor": "Redacción",
-    "lectura": "4 min de lectura",
-    "imagen": "img/economia_campo.png"
-  },
-  {
-    "slug": "baja-abandono-escolar-secundario",
-    "titulo": "Un relevamiento muestra una leve baja en la tasa de abandono escolar secundario",
-    "bajada": "El informe destaca mejoras en provincias del norte del país, aunque la brecha con el promedio nacional sigue siendo amplia.",
-    "cuerpo": "Un informe elaborado por especialistas en educación reveló una leve baja en la tasa de abandono escolar en el nivel secundario a nivel nacional, con mejoras particularmente notables en varias provincias del norte argentino.\n\nEl estudio destacó el impacto positivo de programas de acompañamiento y becas estudiantiles implementados en los últimos años en jurisdicciones como Salta, Chaco y Misiones, donde la tasa de abandono venía siendo históricamente más alta que el promedio nacional.\n\nPese a la mejora, los autores del informe advirtieron que la brecha entre esas provincias y el promedio nacional sigue siendo amplia, y remarcaron la necesidad de sostener en el tiempo las políticas de retención escolar para consolidar la tendencia.",
-    "categoria": "sociedad",
-    "fecha": "2026-06-19",
-    "autor": "Redacción",
-    "lectura": "4 min de lectura",
-    "imagen": "img/fallback_general.png"
-  },
-  {
-    "slug": "gobernadores-patagonicos-regalias",
-    "titulo": "Gobernadores patagónicos se reúnen para coordinar un reclamo conjunto por regalías",
-    "bajada": "La agenda incluye coparticipación, obra pública pendiente y el reparto de fondos para infraestructura energética.",
-    "cuerpo": "Gobernadores de las provincias patagónicas se reunieron esta semana para coordinar una agenda común de reclamos al Gobierno nacional, centrada principalmente en la actualización del esquema de regalías por explotación de recursos naturales.\n\nEl encuentro, que contó con la participación de mandatarios de distintos signos políticos, también abordó la situación de la obra pública pendiente en la región y el reparto de fondos destinados a infraestructura energética, un tema sensible para varias provincias productoras.\n\nLos gobernadores acordaron presentar un documento conjunto en las próximas semanas, en lo que definieron como un primer paso hacia una mesa de diálogo permanente con la Casa Rosada sobre estos temas.",
-    "categoria": "politica",
-    "fecha": "2026-06-18",
-    "autor": "Redacción",
-    "lectura": "5 min de lectura",
-    "imagen": "img/politica_congreso.png"
-  },
-  {
-    "slug": "banco-central-racha-compras-reservas",
-    "titulo": "El Banco Central acumula su mejor racha de compras de reservas en el año",
-    "bajada": "El equipo económico destacó el dato en redes sociales como una señal de fortaleza, aunque analistas piden cautela de cara al verano.",
-    "cuerpo": "El Banco Central acumuló en las últimas jornadas su mejor racha de compras netas de divisas en lo que va del año, un dato que el equipo económico se encargó de difundir rápidamente en redes sociales como muestra de la fortaleza del esquema cambiario actual.\n\nLa mayor liquidación del agro y un ingreso más estable de divisas por turismo explican buena parte de la mejora en el saldo comprador de la autoridad monetaria durante el período.\n\nAnalistas privados, sin embargo, pidieron cautela antes de sacar conclusiones definitivas, señalando que la temporada de verano suele traer una mayor demanda de dólares para viajes al exterior, lo que podría poner a prueba la capacidad de acumulación de reservas en los próximos meses.",
-    "categoria": "economia",
-    "fecha": "2026-06-18",
-    "autor": "Redacción",
-    "lectura": "3 min de lectura",
-    "imagen": "img/economia_inflacion.png"
-  },
-  {
-    "slug": "intendentes-conurbano-distancian-discurso",
-    "titulo": "Intendentes del conurbano se distancian del discurso de su espacio nacional",
-    "bajada": "Referentes locales priorizan agenda de gestión municipal de cara a un año electoral más complejo de lo previsto.",
-    "cuerpo": "Varios intendentes del conurbano bonaerense optaron en las últimas semanas por despegar su discurso público de las definiciones más confrontativas de sus referentes a nivel nacional, en lo que en el ámbito político se interpreta como una estrategia de cara a un año electoral que se anticipa más complejo de lo previsto.\n\nEn declaraciones públicas y entrevistas locales, varios jefes comunales pusieron el foco en la gestión municipal cotidiana —obra pública, seguridad y servicios— antes que en las disputas de la política nacional, en un giro que algunos analistas vinculan con el desgaste que ese tipo de confrontación suele generar en el electorado local.\n\nLa estrategia no es uniforme en todo el espacio, y genera ciertas tensiones internas entre los sectores más identificados con la conducción nacional y los intendentes que privilegian su construcción territorial propia.",
-    "categoria": "politica",
-    "fecha": "2026-06-17",
-    "autor": "Redacción",
-    "lectura": "4 min de lectura",
     "imagen": "img/fallback_general.png"
   }
 ]
