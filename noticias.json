@@ -1,0 +1,179 @@
+[
+  {
+    "slug": "inflacion-mensual-piso-dos-anos",
+    "titulo": "La inflación mensual perforó el piso de los últimos dos años, según el último relevamiento",
+    "bajada": "El dato sorprendió a las consultoras privadas, que proyectaban un número más alto. El Gobierno lo celebra como prueba de que el plan de estabilización está rindiendo frutos, aunque persisten dudas sobre el impacto en el consumo.",
+    "cuerpo": "El índice de precios al consumidor difundido esta semana marcó el registro mensual más bajo desde hace dos años, según el relevamiento oficial. El número estuvo varios puntos por debajo de lo que anticipaban las consultoras privadas en su última encuesta de expectativas.\n\nDesde el equipo económico destacaron el dato como una señal de que el plan de estabilización está dando resultados, y lo vincularon con la desaceleración en la emisión monetaria y la relativa calma cambiaria de las últimas semanas.\n\nSin embargo, algunos analistas privados pusieron paños fríos al entusiasmo oficial. Señalaron que parte de la baja responde a una comparación estadística favorable contra un mes de alta base, y que todavía resta ver cómo evoluciona el dato en los próximos meses, especialmente de cara al verano, cuando suelen acelerarse los precios estacionales.\n\nDe todas formas, el dato fue recibido con cautela optimista en los mercados, donde los bonos en pesos tuvieron una jornada positiva tras la publicación del informe.",
+    "categoria": "economia",
+    "fecha": "2026-06-20",
+    "autor": "Redacción Economía",
+    "lectura": "6 min de lectura",
+    "destacada": true,
+    "imagen": "img/economia_inflacion.png"
+  },
+  {
+    "slug": "oficialismo-votos-reforma-extraordinarias",
+    "titulo": "El oficialismo busca los votos para aprobar la reforma en extraordinarias",
+    "bajada": "Bloques opositores piden modificaciones de último momento antes de habilitar el debate en el recinto.",
+    "cuerpo": "El oficialismo intensificó esta semana las negociaciones con los bloques dialoguistas para reunir los votos necesarios y avanzar con el proyecto de reforma durante las sesiones extraordinarias.\n\nFuentes parlamentarias señalaron que el oficialismo todavía no logra cerrar el número en la Cámara baja, donde varios bloques provinciales condicionan su apoyo a cambios puntuales en el texto, principalmente en los artículos vinculados a la coparticipación.\n\nEl Gobierno confía en poder destrabar la negociación en los próximos días, aunque desde la oposición advierten que no van a acompañar un proyecto que no incorpore sus observaciones. El debate en el recinto podría quedar postergado si no se alcanza un acuerdo antes del cierre del período extraordinario.",
+    "categoria": "politica",
+    "fecha": "2026-06-20",
+    "autor": "Redacción",
+    "lectura": "4 min de lectura",
+    "imagen": "img/politica_congreso.png"
+  },
+  {
+    "slug": "comedores-comunitarios-conurbano",
+    "titulo": "Crece la demanda en comedores comunitarios del conurbano bonaerense",
+    "bajada": "Organizaciones sociales reportan un aumento sostenido en la asistencia durante el último trimestre.",
+    "cuerpo": "Distintas organizaciones sociales que gestionan comedores comunitarios en el conurbano bonaerense reportaron un incremento sostenido en la cantidad de personas que asisten diariamente a comer, una tendencia que se viene profundizando en los últimos tres meses.\n\nReferentes barriales explicaron que el aumento no se limita a familias en situación de calle o desempleo, sino que cada vez es mayor la proporción de personas con trabajo formal que igualmente recurren a estos espacios para completar la alimentación familiar.\n\nLas organizaciones reclaman una actualización más frecuente de la asistencia alimentaria estatal, que según afirman no logra acompañar el ritmo de la demanda real en los barrios populares del Gran Buenos Aires.",
+    "categoria": "sociedad",
+    "fecha": "2026-06-20",
+    "autor": "Redacción",
+    "lectura": "5 min de lectura",
+    "imagen": "img/sociedad_comedor.png"
+  },
+  {
+    "slug": "campo-liquidacion-divisas-retenciones",
+    "titulo": "El campo acelera la liquidación de divisas antes del cambio de retenciones",
+    "bajada": "Productores buscan anticiparse a la nueva normativa que entraría en vigencia el mes próximo.",
+    "cuerpo": "El sector agroexportador aceleró el ritmo de liquidación de divisas en las últimas semanas, en un intento de los productores por anticiparse al esquema de retenciones que el Gobierno tiene previsto modificar a partir del mes próximo.\n\nSegún datos de las entidades del sector, el ingreso de dólares por exportaciones del agro mostró un repunte notable respecto al mismo período del año anterior, impulsado principalmente por la comercialización de soja y maíz de la última cosecha.\n\nDesde las cámaras que nuclean a los exportadores señalaron que la incertidumbre sobre el esquema definitivo de retenciones genera distorsiones en las decisiones de venta, y reclamaron al Gobierno mayor previsibilidad en las reglas de juego para el sector.",
+    "categoria": "economia",
+    "fecha": "2026-06-20",
+    "autor": "Redacción",
+    "lectura": "3 min de lectura",
+    "imagen": "img/economia_campo.png"
+  },
+  {
+    "slug": "dolar-blue-estable-tension-cambiaria",
+    "titulo": "El dólar blue cerró estable pese a la tensión cambiaria de la semana",
+    "bajada": "El Banco Central mantuvo el ritmo de intervención y logró contener la brecha cambiaria en un contexto de mayor demanda estacional.",
+    "cuerpo": "El dólar paralelo cerró la semana sin variaciones significativas, pese al clima de mayor tensión cambiaria que se vivió en los últimos días por el aumento estacional de la demanda de divisas.\n\nEl Banco Central sostuvo su estrategia de intervención en el mercado de cambios y logró mantener controlada la brecha entre el tipo de cambio oficial y los financieros, en un movimiento que el equipo económico interpreta como una señal de fortaleza de las reservas disponibles.\n\nOperadores del mercado señalaron que la calma actual podría verse puesta a prueba en las próximas semanas, a medida que se acerque la temporada de mayor demanda estacional de moneda extranjera vinculada al turismo y al pago de importaciones.",
+    "categoria": "economia",
+    "fecha": "2026-06-20",
+    "autor": "Redacción",
+    "lectura": "3 min de lectura",
+    "imagen": "img/fallback_general.png"
+  },
+  {
+    "slug": "tension-senado-ley-previsional",
+    "titulo": "Tensión en el Senado por el dictamen de la nueva ley previsional",
+    "bajada": "Bloques opositores piden modificaciones de último momento antes de habilitar el debate en el recinto, previsto para la semana próxima.",
+    "cuerpo": "La comisión de Previsión Social del Senado vivió una sesión cargada de tensión esta semana, en medio de los intentos del oficialismo por avanzar con el dictamen de la nueva ley previsional antes del cierre del período de sesiones.\n\nVarios senadores de la oposición pidieron postergar la firma del dictamen hasta incorporar modificaciones referidas a la fórmula de movilidad jubilatoria, un punto que consideran central y que, según afirman, no fue suficientemente debatido en las reuniones previas.\n\nDesde el oficialismo confían en poder firmar el dictamen en los próximos días para habilitar el debate en el recinto la semana próxima, aunque reconocen que todavía falta cerrar acuerdos con al menos dos bloques clave para asegurar el quórum.",
+    "categoria": "politica",
+    "fecha": "2026-06-20",
+    "autor": "Redacción",
+    "lectura": "4 min de lectura",
+    "imagen": "img/politica_congreso.png"
+  },
+  {
+    "slug": "consultas-salud-mental-hospitales",
+    "titulo": "Aumentan un 18% las consultas por salud mental en hospitales públicos",
+    "bajada": "Especialistas advierten sobre la sobrecarga del sistema y reclaman mayor presupuesto para programas de atención primaria.",
+    "cuerpo": "Un relevamiento realizado en hospitales públicos de distintas provincias mostró un incremento del 18% en las consultas vinculadas a salud mental durante el último año, una tendencia que los especialistas vienen señalando desde hace tiempo.\n\nLos profesionales consultados atribuyen el aumento a una combinación de factores: mayor conciencia social sobre la importancia de la atención psicológica, sumado a un contexto socioeconómico que genera más cuadros de ansiedad y estrés en la población.\n\nDesde distintos colegios profesionales reclamaron al Estado un refuerzo presupuestario para los programas de atención primaria en salud mental, advirtiendo que la demanda actual supera ampliamente la capacidad de respuesta del sistema público en varias jurisdicciones.",
+    "categoria": "sociedad",
+    "fecha": "2026-06-19",
+    "autor": "Redacción",
+    "lectura": "5 min de lectura",
+    "imagen": "img/sociedad_salud.png"
+  },
+  {
+    "slug": "industria-automotriz-mejor-mes-patentamientos",
+    "titulo": "La industria automotriz reporta su mejor mes de patentamientos en tres años",
+    "bajada": "El financiamiento en cuotas y la estabilidad cambiaria impulsaron las ventas, aunque persisten dudas sobre el segundo semestre.",
+    "cuerpo": "El sector automotriz cerró el mes con el mejor número de patentamientos en tres años, según los datos difundidos por la asociación que nuclea a los concesionarios del país.\n\nDesde el sector explicaron que la combinación de mayor financiamiento en cuotas y un tipo de cambio relativamente estable durante los últimos meses impulsó la decisión de compra de muchas familias que venían postergando el cambio de vehículo.\n\nDe todas formas, algunas terminales automotrices mostraron cautela respecto a la sostenibilidad del repunte de cara al segundo semestre, en un contexto donde el poder adquisitivo de los salarios todavía no logra recuperar los niveles previos a la crisis.",
+    "categoria": "economia",
+    "fecha": "2026-06-19",
+    "autor": "Redacción",
+    "lectura": "4 min de lectura",
+    "imagen": "img/economia_campo.png"
+  },
+  {
+    "slug": "baja-abandono-escolar-secundario",
+    "titulo": "Un relevamiento muestra una leve baja en la tasa de abandono escolar secundario",
+    "bajada": "El informe destaca mejoras en provincias del norte del país, aunque la brecha con el promedio nacional sigue siendo amplia.",
+    "cuerpo": "Un informe elaborado por especialistas en educación reveló una leve baja en la tasa de abandono escolar en el nivel secundario a nivel nacional, con mejoras particularmente notables en varias provincias del norte argentino.\n\nEl estudio destacó el impacto positivo de programas de acompañamiento y becas estudiantiles implementados en los últimos años en jurisdicciones como Salta, Chaco y Misiones, donde la tasa de abandono venía siendo históricamente más alta que el promedio nacional.\n\nPese a la mejora, los autores del informe advirtieron que la brecha entre esas provincias y el promedio nacional sigue siendo amplia, y remarcaron la necesidad de sostener en el tiempo las políticas de retención escolar para consolidar la tendencia.",
+    "categoria": "sociedad",
+    "fecha": "2026-06-19",
+    "autor": "Redacción",
+    "lectura": "4 min de lectura",
+    "imagen": "img/fallback_general.png"
+  },
+  {
+    "slug": "gobernadores-patagonicos-regalias",
+    "titulo": "Gobernadores patagónicos se reúnen para coordinar un reclamo conjunto por regalías",
+    "bajada": "La agenda incluye coparticipación, obra pública pendiente y el reparto de fondos para infraestructura energética.",
+    "cuerpo": "Gobernadores de las provincias patagónicas se reunieron esta semana para coordinar una agenda común de reclamos al Gobierno nacional, centrada principalmente en la actualización del esquema de regalías por explotación de recursos naturales.\n\nEl encuentro, que contó con la participación de mandatarios de distintos signos políticos, también abordó la situación de la obra pública pendiente en la región y el reparto de fondos destinados a infraestructura energética, un tema sensible para varias provincias productoras.\n\nLos gobernadores acordaron presentar un documento conjunto en las próximas semanas, en lo que definieron como un primer paso hacia una mesa de diálogo permanente con la Casa Rosada sobre estos temas.",
+    "categoria": "politica",
+    "fecha": "2026-06-18",
+    "autor": "Redacción",
+    "lectura": "5 min de lectura",
+    "imagen": "img/politica_congreso.png"
+  },
+  {
+    "slug": "banco-central-racha-compras-reservas",
+    "titulo": "El Banco Central acumula su mejor racha de compras de reservas en el año",
+    "bajada": "El equipo económico destacó el dato en redes sociales como una señal de fortaleza, aunque analistas piden cautela de cara al verano.",
+    "cuerpo": "El Banco Central acumuló en las últimas jornadas su mejor racha de compras netas de divisas en lo que va del año, un dato que el equipo económico se encargó de difundir rápidamente en redes sociales como muestra de la fortaleza del esquema cambiario actual.\n\nLa mayor liquidación del agro y un ingreso más estable de divisas por turismo explican buena parte de la mejora en el saldo comprador de la autoridad monetaria durante el período.\n\nAnalistas privados, sin embargo, pidieron cautela antes de sacar conclusiones definitivas, señalando que la temporada de verano suele traer una mayor demanda de dólares para viajes al exterior, lo que podría poner a prueba la capacidad de acumulación de reservas en los próximos meses.",
+    "categoria": "economia",
+    "fecha": "2026-06-18",
+    "autor": "Redacción",
+    "lectura": "3 min de lectura",
+    "imagen": "img/economia_inflacion.png"
+  },
+  {
+    "slug": "intendentes-conurbano-distancian-discurso",
+    "titulo": "Intendentes del conurbano se distancian del discurso de su espacio nacional",
+    "bajada": "Referentes locales priorizan agenda de gestión municipal de cara a un año electoral más complejo de lo previsto.",
+    "cuerpo": "Varios intendentes del conurbano bonaerense optaron en las últimas semanas por despegar su discurso público de las definiciones más confrontativas de sus referentes a nivel nacional, en lo que en el ámbito político se interpreta como una estrategia de cara a un año electoral que se anticipa más complejo de lo previsto.\n\nEn declaraciones públicas y entrevistas locales, varios jefes comunales pusieron el foco en la gestión municipal cotidiana —obra pública, seguridad y servicios— antes que en las disputas de la política nacional, en un giro que algunos analistas vinculan con el desgaste que ese tipo de confrontación suele generar en el electorado local.\n\nLa estrategia no es uniforme en todo el espacio, y genera ciertas tensiones internas entre los sectores más identificados con la conducción nacional y los intendentes que privilegian su construcción territorial propia.",
+    "categoria": "politica",
+    "fecha": "2026-06-17",
+    "autor": "Redacción",
+    "lectura": "4 min de lectura",
+    "imagen": "img/fallback_general.png"
+  },
+  {
+    "slug": "plan-siniestralidad-vial-rutas-nacionales",
+    "titulo": "Organizaciones civiles presentan un plan para reducir la siniestralidad vial en rutas nacionales",
+    "bajada": "La propuesta incluye más controles de velocidad y un programa de educación vial obligatoria en escuelas secundarias.",
+    "cuerpo": "Un conjunto de organizaciones civiles dedicadas a la seguridad vial presentó esta semana un plan integral para reducir la siniestralidad en las rutas nacionales, que en los últimos años se mantuvo entre las principales causas de muerte violenta en el país.\n\nLa propuesta contempla la instalación de más radares de control de velocidad en los tramos con mayor índice de accidentes, así como la incorporación de un programa de educación vial obligatoria en el currículum de las escuelas secundarias de todo el país.\n\nLos referentes de las organizaciones remarcaron que buena parte de los siniestros viales son evitables, y pidieron al Gobierno nacional y a las provincias que prioricen la inversión en infraestructura y señalización en las rutas con mayor flujo de tránsito de cargas.",
+    "categoria": "sociedad",
+    "fecha": "2026-06-17",
+    "autor": "Redacción",
+    "lectura": "3 min de lectura",
+    "imagen": "img/fallback_general.png"
+  },
+  {
+    "slug": "exportaciones-economia-conocimiento-record",
+    "titulo": "Las exportaciones de economía del conocimiento marcan un nuevo récord trimestral",
+    "bajada": "El sector tecnológico consolida su lugar como tercer generador de divisas del país, detrás del agro y la energía.",
+    "cuerpo": "Las exportaciones del sector de economía del conocimiento alcanzaron un nuevo récord trimestral, según datos difundidos por la cámara que nuclea a las empresas de software y servicios tecnológicos del país.\n\nCon este resultado, el sector consolida su posición como el tercer generador de divisas genuinas de la economía argentina, solo detrás del complejo agroexportador y el sector energético, en un fenómeno que viene sosteniéndose en los últimos años pese a la volatilidad macroeconómica.\n\nDesde la cámara empresaria destacaron que buena parte del crecimiento responde a la demanda sostenida de talento argentino por parte de empresas extranjeras, y reclamaron al Gobierno la implementación de incentivos fiscales adicionales para sostener la competitividad del sector frente a otros países de la región.",
+    "categoria": "economia",
+    "fecha": "2026-06-16",
+    "autor": "Redacción",
+    "lectura": "5 min de lectura",
+    "imagen": "img/economia_campo.png"
+  },
+  {
+    "slug": "interes-oficios-tecnicos-egresados",
+    "titulo": "Crece el interés por oficios técnicos entre los egresados del secundario",
+    "bajada": "Escuelas técnicas reportan más inscripciones, en un contexto de alta demanda laboral del sector industrial y de la construcción.",
+    "cuerpo": "Las escuelas técnicas de distintas provincias reportaron un incremento en las inscripciones para el ciclo lectivo próximo, en un contexto de alta demanda laboral de oficios vinculados a la industria y la construcción.\n\nDirectivos de instituciones técnicas explicaron que cada vez más estudiantes y familias ven en estas carreras una salida laboral más rápida y concreta que la de otras orientaciones, especialmente en un mercado de trabajo donde faltan perfiles calificados en electricidad, mecánica y soldadura.\n\nCámaras empresarias del sector industrial celebraron la tendencia, aunque remarcaron que todavía existe un desfasaje entre la cantidad de egresados técnicos y la demanda real de las empresas, por lo que reclamaron más inversión en equipamiento para los talleres de las escuelas públicas.",
+    "categoria": "sociedad",
+    "fecha": "2026-06-15",
+    "autor": "Redacción",
+    "lectura": "4 min de lectura",
+    "imagen": "img/fallback_general.png"
+  },
+  {
+    "slug": "oposicion-proyecto-coparticipacion-federal",
+    "titulo": "La oposición presentó un proyecto alternativo de coparticipación federal",
+    "bajada": "Busca instalar el debate de cara al año próximo, con el respaldo de varios bloques provinciales y gobernadores dialoguistas.",
+    "cuerpo": "Un grupo de legisladores opositores presentó esta semana un proyecto alternativo de reforma al régimen de coparticipación federal de impuestos, con el objetivo de instalar el debate de cara al período legislativo del año próximo.\n\nLa iniciativa cuenta con el respaldo de varios bloques provinciales y de un grupo de gobernadores considerados dialoguistas, que vienen reclamando desde hace tiempo una actualización del esquema vigente, que consideran desactualizado respecto a las necesidades actuales de las provincias.\n\nDesde el oficialismo todavía no se pronunciaron formalmente sobre el proyecto, aunque fuentes del Gobierno deslizaron que cualquier reforma al esquema de coparticipación debería formar parte de una discusión más amplia sobre el reordenamiento de las cuentas públicas a nivel nacional.",
+    "categoria": "politica",
+    "fecha": "2026-06-15",
+    "autor": "Redacción",
+    "lectura": "4 min de lectura",
+    "imagen": "img/politica_congreso.png"
+  }
+]
