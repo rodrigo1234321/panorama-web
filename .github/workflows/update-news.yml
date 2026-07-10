@@ -26,6 +26,7 @@ jobs:
       - name: Ejecutar script de reposición de noticias
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_URL: ${{ vars.SITE_URL }}
         run: node scripts/update-news.js
 
       - name: Commitear y Subir cambios

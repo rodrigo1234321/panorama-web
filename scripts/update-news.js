@@ -6,6 +6,7 @@ const RSS_URL = 'https://news.google.com/rss/search?q=Argentina&hl=es-419&gl=AR&
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const NOTICIAS_FILE = path.join(__dirname, '../noticias.json');
 const TWEET_FILE = path.join(__dirname, '../tweet.txt');
+const SITE_URL = process.env.SITE_URL || 'https://panorama-web.vercel.app';
 
 if (!GEMINI_API_KEY) {
   console.error('Error: La variable de entorno GEMINI_API_KEY no está configurada.');
@@ -62,31 +63,39 @@ async function generateArticles(newsItems) {
   const today = new Date().toISOString().split('T')[0];
   
   const prompt = `
-    Toma la lista de títulos y enlaces de noticias de Argentina que se proporciona a continuación.
-    Selecciona las 4 noticias más importantes de hoy y redacta artículos objetivos, profesionales y concisos en español neutro de Argentina.
-    Usa el tono editorial de "Panorama.ar", sin sesgos políticos ni sensacionalismo.
+    Sos el editor jefe de "Panorama.ar", un medio digital argentino con estilo directo, incisivo y sin pelos en la lengua.
+    Tu misión: elegir las 4 noticias MÁS POLÉMICAS, CONTROVERSIALES o que generen más debate de la lista.
+    Priorizá temas que dividan opiniones, expongan contradicciones del poder, generen indignación o toquen temas sensibles.
+    
+    TONO EDITORIAL:
+    - Provocador pero inteligente. No seas vulgar, sé filoso.
+    - Usá preguntas retóricas en los títulos cuando sea efectivo (ej: "¿Quién se beneficia realmente?").
+    - Señalá contradicciones, datos incómodos y lo que nadie quiere decir.
+    - Que el lector sienta que NECESITA opinar después de leer.
+    - Incluí datos concretos (cifras, porcentajes, nombres) para dar peso a la polémica.
+    - NO inventes datos. Basate en los hechos reales pero presentalos de forma que generen reflexión y debate.
     
     NOTICIAS DE ENTRADA:
     ${JSON.stringify(newsItems, null, 2)}
     
     Reglas de generación para cada noticia:
-    - titulo: Titulo impactante pero neutral.
-    - bajada: Resumen de un párrafo corto de la noticia.
-    - cuerpo: Redacta el contenido en 2 o 3 párrafos concisos y bien estructurados separados por saltos de línea dobles (\\n\\n). Debe basarse en el hecho real.
-    - categoria: Clasifica la noticia en "economia", "sociedad" o "politica" según corresponda.
-    - autor: Debe ser "Redacción Panorama".
-    - lectura: Tiempo estimado de lectura, por ejemplo "3 min".
-    - slug: URL slug único basado en el título, en minúsculas y sin caracteres especiales (por ejemplo: "el-presidente-anuncia-medidas").
-    - fecha: Debe ser hoy "${today}".
-    - imagen: Elige una de estas rutas según el tema:
-        * Si es de inflación, dólar, impuestos o finanzas: "img/economia_inflacion.png"
-        * Si es de campo, sequía, cosechas o ganadería: "img/economia_campo.png"
-        * Si es de salud, hospitales o virus: "img/sociedad_salud.png"
-        * Si es de educación, comedores comunitarios, pobreza o protestas sociales: "img/sociedad_comedor.png"
-        * Si es de leyes, el Congreso, debates políticos, gobernadores o elecciones: "img/politica_congreso.png"
-        * De lo contrario: "img/fallback_general.png"
-    - destacada: Marca con true la más relevante de todas, y las otras en false.
-    - tweet: Un borrador de tweet o post de X de menos de 280 caracteres resumiendo de forma atractiva pero objetiva la noticia, incluyendo 1 o 2 hashtags relevantes (ej: #Economia #Argentina).
+    - titulo: Título PROVOCADOR y polémico que genere clicks y debate. Puede usar preguntas retóricas, ironía o señalar contradicciones. Máximo 15 palabras.
+    - bajada: Un gancho corto que profundice la polémica del título y obligue a seguir leyendo.
+    - cuerpo: Redacta 2-3 párrafos con tono editorial incisivo separados por saltos de línea dobles (\\n\\n). Exponé las contradicciones, mencioná a los responsables por nombre, incluí cifras. Cerrá con una pregunta o reflexión que invite al debate.
+    - categoria: Clasifica en "economia", "sociedad" o "politica".
+    - autor: "Redacción Panorama".
+    - lectura: Tiempo estimado (ej: "3 min").
+    - slug: URL slug basado en el título, minúsculas sin caracteres especiales (ej: "quien-se-beneficia-realmente").
+    - fecha: "${today}".
+    - imagen: Elige según el tema:
+        * Inflación, dólar, impuestos, finanzas: "img/economia_inflacion.png"
+        * Campo, sequía, cosechas, ganadería: "img/economia_campo.png"
+        * Salud, hospitales, virus: "img/sociedad_salud.png"
+        * Educación, comedores, pobreza, protestas: "img/sociedad_comedor.png"
+        * Leyes, Congreso, debates políticos, elecciones: "img/politica_congreso.png"
+        * Otro: "img/fallback_general.png"
+    - destacada: true solo para la MÁS polémica, el resto false.
+    - tweet: Borrador de tweet/post de X. MÁXIMO 230 caracteres (para dejar espacio al link). Tono picante y directo que genere retweets. Incluí 1-2 hashtags relevantes. NO incluyas ningún link, el link se agrega automáticamente después.
   `;
 
   const requestBody = {
@@ -160,11 +169,13 @@ function updateDatabase(newArticles) {
       existingNews = JSON.parse(fileData);
     }
     
-    // Extract the tweet of the featured story before stripping it out from the saved JSON
+    // Extract the tweet of the featured story and append the direct link to the article
     const featuredStory = newArticles.find(n => n.destacada) || newArticles[0];
     if (featuredStory && featuredStory.tweet) {
-      fs.writeFileSync(TWEET_FILE, featuredStory.tweet.trim(), 'utf8');
-      console.log('Borrador de tweet extraído y guardado en tweet.txt.');
+      const articleUrl = `${SITE_URL}/noticia.html?slug=${featuredStory.slug}`;
+      const tweetText = `${featuredStory.tweet.trim()}\n\n👉 ${articleUrl}`;
+      fs.writeFileSync(TWEET_FILE, tweetText, 'utf8');
+      console.log('Borrador de tweet con link extraído y guardado en tweet.txt.');
     }
 
     // Clean up the tweet property from the JSON to keep it lean and match front-end
