@@ -361,7 +361,7 @@
 
   function heroHTML(n) {
     return `
-      <div class="hero-main-card" onclick="location.href='notas/${n.slug}.html'" style="cursor: pointer;">
+      <div class="hero-main-card cat-${n.categoria}" onclick="location.href='notas/${n.slug}.html'" style="cursor: pointer;">
         <img class="hero-bg-img" src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}">
         <div class="hero-gradient-overlay"></div>
         <div class="hero-main-content">
@@ -384,7 +384,7 @@
 
   function sideHTML(n) {
     return `
-      <a class="side-hero-item" href="notas/${n.slug}.html">
+      <a class="side-hero-item cat-${n.categoria}" href="notas/${n.slug}.html">
         <div class="side-hero-img-wrap">
           <img src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}" loading="lazy">
         </div>
@@ -403,7 +403,7 @@
 
   function tarjetaHTML(n) {
     return `
-      <article class="feed-card" onclick="location.href='notas/${n.slug}.html'">
+      <article class="feed-card cat-${n.categoria}" onclick="location.href='notas/${n.slug}.html'">
         <div class="card-img-wrap">
           <img src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}" loading="lazy">
         </div>
@@ -504,10 +504,10 @@
   function renderTicker(notas) {
     const track = document.getElementById('ticker-track');
     const items = notas.slice(0, 6).map(n => `
-      <div class="ticker-item">
+      <a class="ticker-item" href="notas/${n.slug}.html">
         <span class="ticker-bullet">●</span>
         <span>${n.titulo}</span>
-      </div>
+      </a>
     `).join('');
     
     // Duplicar para un bucle continuo fluido

@@ -229,6 +229,16 @@ input:focus-visible {
   gap: 12px;
   padding-right: 32px;
   white-space: nowrap;
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.2s ease;
+}
+
+.ticker-item:hover {
+  color: var(--primary);
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
 }
 
 .ticker-bullet {
@@ -1726,4 +1736,154 @@ footer {
   
   .article-layout { padding: 16px; }
   .progress-bar-container { top: 71px; }
+}
+
+/* ============================================================
+   Premium UI/UX Style Enhancements
+   ============================================================ */
+
+/* 1. Category-Synced Hover Colors for Cards */
+.feed-card.cat-economia:hover h3,
+.side-hero-item.cat-economia:hover h3,
+.hero-main-card.cat-economia:hover h2 {
+  color: var(--economia);
+  text-decoration-color: var(--economia);
+}
+.feed-card.cat-sociedad:hover h3,
+.side-hero-item.cat-sociedad:hover h3,
+.hero-main-card.cat-sociedad:hover h2 {
+  color: var(--sociedad);
+  text-decoration-color: var(--sociedad);
+}
+.feed-card.cat-politica:hover h3,
+.side-hero-item.cat-politica:hover h3,
+.hero-main-card.cat-politica:hover h2 {
+  color: var(--politica);
+  text-decoration-color: var(--politica);
+}
+
+/* 2. Category-Specific Hover and Active states for Filter Pills */
+.pill-btn[data-cat="economia"]:hover,
+.pill-btn[data-cat="economia"].active {
+  background: var(--economia-bg);
+  color: var(--economia);
+  border-color: var(--economia);
+}
+.pill-btn[data-cat="sociedad"]:hover,
+.pill-btn[data-cat="sociedad"].active {
+  background: var(--sociedad-bg);
+  color: var(--sociedad);
+  border-color: var(--sociedad);
+}
+.pill-btn[data-cat="politica"]:hover,
+.pill-btn[data-cat="politica"].active {
+  background: var(--politica-bg);
+  color: var(--politica);
+  border-color: var(--politica);
+}
+.pill-btn[data-cat="todas"]:hover,
+.pill-btn[data-cat="todas"].active {
+  background: var(--primary-glow);
+  color: var(--primary);
+  border-color: var(--primary);
+}
+
+/* 3. Category-Specific Underlines for Navbar Desktop and Mobile Drawer links */
+.nav-link[data-cat="economia"]::after,
+.drawer-links a[data-cat="economia"]::after {
+  background: var(--economia);
+}
+.nav-link[data-cat="economia"]:hover,
+.nav-link[data-cat="economia"].active,
+.drawer-links a[data-cat="economia"]:hover,
+.drawer-links a[data-cat="economia"].active {
+  color: var(--economia);
+}
+
+.nav-link[data-cat="sociedad"]::after,
+.drawer-links a[data-cat="sociedad"]::after {
+  background: var(--sociedad);
+}
+.nav-link[data-cat="sociedad"]:hover,
+.nav-link[data-cat="sociedad"].active,
+.drawer-links a[data-cat="sociedad"]:hover,
+.drawer-links a[data-cat="sociedad"].active {
+  color: var(--sociedad);
+}
+
+.nav-link[data-cat="politica"]::after,
+.drawer-links a[data-cat="politica"]::after {
+  background: var(--politica);
+}
+.nav-link[data-cat="politica"]:hover,
+.nav-link[data-cat="politica"].active,
+.drawer-links a[data-cat="politica"]:hover,
+.drawer-links a[data-cat="politica"].active {
+  color: var(--politica);
+}
+
+.nav-link[data-cat="todas"]::after,
+.drawer-links a[data-cat="todas"]::after {
+  background: var(--primary);
+}
+.nav-link[data-cat="todas"]:hover,
+.nav-link[data-cat="todas"].active,
+.drawer-links a[data-cat="todas"]:hover,
+.drawer-links a[data-cat="todas"].active {
+  color: var(--primary);
+}
+
+/* 4. Editorial Drop Cap (Letra Capitular) for Article View */
+.article-body > p:first-of-type::first-letter {
+  font-family: var(--font-serif);
+  font-size: 3.6rem;
+  font-weight: 900;
+  float: left;
+  line-height: 0.82;
+  margin-top: 5px;
+  margin-right: 12px;
+  color: var(--primary);
+  background: linear-gradient(135deg, var(--primary), var(--text-main));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.article-main.cat-economia .article-body > p:first-of-type::first-letter {
+  background: linear-gradient(135deg, var(--economia), var(--text-main));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.article-main.cat-sociedad .article-body > p:first-of-type::first-letter {
+  background: linear-gradient(135deg, var(--sociedad), var(--text-main));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.article-main.cat-politica .article-body > p:first-of-type::first-letter {
+  background: linear-gradient(135deg, var(--politica), var(--text-main));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* 5. Custom Branded Hover Colors for Social Sharing Buttons */
+#share-twitter:hover {
+  background: #000000;
+  color: #ffffff;
+  border-color: #000000;
+}
+[data-theme="dark"] #share-twitter:hover {
+  background: #ffffff;
+  color: #000000;
+  border-color: #ffffff;
+}
+
+#share-whatsapp:hover {
+  background: #25D366;
+  color: #ffffff;
+  border-color: #25D366;
+}
+
+#share-copy:hover {
+  background: var(--primary);
+  color: #ffffff;
+  border-color: var(--primary);
 }
