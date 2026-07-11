@@ -283,7 +283,7 @@
         }
 
         resultsContainer.innerHTML = matches.map(n => `
-          <a class="search-result-item" href="noticia.html?slug=${n.slug}">
+          <a class="search-result-item" href="notas/${n.slug}.html">
             <div class="search-result-thumb">
               <img src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}">
             </div>

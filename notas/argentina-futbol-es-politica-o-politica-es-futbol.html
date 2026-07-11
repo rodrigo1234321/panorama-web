@@ -4,9 +4,25 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="view-transition" content="same-origin">
-  <title>Términos y Condiciones — Panorama.ar</title>
-  <meta name="description" content="Términos y condiciones de uso de Panorama.ar.">
-  <link rel="stylesheet" href="style.css">
+  
+  <title>Argentina: ¿fútbol es política o política es fútbol? — Panorama.ar</title>
+  <meta name="description" content="La obsesión nacional por la pelota vuelve a cruzarse con las divisiones políticas, más allá de cualquier figura externa.">
+  
+  <!-- Open Graph / Facebook -->
+  <meta property="og:type" content="article">
+  <meta property="og:url" content="https://panorama-web-one.vercel.app/notas/argentina-futbol-es-politica-o-politica-es-futbol.html">
+  <meta property="og:title" content="Argentina: ¿fútbol es política o política es fútbol?">
+  <meta property="og:description" content="La obsesión nacional por la pelota vuelve a cruzarse con las divisiones políticas, más allá de cualquier figura externa.">
+  <meta property="og:image" content="https://panorama-web-one.vercel.app/img/politica_congreso.png">
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:url" content="https://panorama-web-one.vercel.app/notas/argentina-futbol-es-politica-o-politica-es-futbol.html">
+  <meta name="twitter:title" content="Argentina: ¿fútbol es política o política es fútbol?">
+  <meta name="twitter:description" content="La obsesión nacional por la pelota vuelve a cruzarse con las divisiones políticas, más allá de cualquier figura externa.">
+  <meta name="twitter:image" content="https://panorama-web-one.vercel.app/img/politica_congreso.png">
+
+  <link rel="stylesheet" href="../style.css">
   <script>
     // Previene el parpadeo en modo oscuro aplicando el tema antes de renderizar
     {
@@ -25,9 +41,9 @@
   <div class="max-w-7xl topbar-date-inner">
     <span id="fecha-actual"></span>
     <div class="topbar-date-links">
-      <a href="sobre-nosotros.html">Sobre nosotros</a>
-      <a href="privacidad.html">Privacidad</a>
-      <a href="terminos.html" style="text-decoration: underline;">Términos</a>
+      <a href="../sobre-nosotros.html">Sobre nosotros</a>
+      <a href="../privacidad.html">Privacidad</a>
+      <a href="../index.html#newsletter">Suscribirse</a>
     </div>
   </div>
 </div>
@@ -36,11 +52,11 @@
 <header>
   <div class="max-w-7xl header-inner">
     <!-- Logo -->
-    <a href="index.html" class="logo">Panorama<span>.ar</span></a>
+    <a href="../index.html" class="logo">Panorama<span>.ar</span></a>
     
     <!-- Back to home -->
     <nav class="nav-desktop">
-      <a href="index.html" class="nav-link">← Volver a la portada</a>
+      <a href="../index.html" class="nav-link">← Volver a la portada</a>
     </nav>
     
     <!-- Header Actions -->
@@ -63,12 +79,17 @@
       </button>
 
       <!-- Back to home icon for mobile -->
-      <a href="index.html" class="btn-icon" id="home-mobile-btn" aria-label="Volver a portada" style="display: none;">
+      <a href="../index.html" class="btn-icon" id="home-mobile-btn" aria-label="Volver a portada" style="display: none;">
         <svg fill="none" stroke="currentColor" stroke-width="2" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6"/></svg>
       </a>
     </div>
   </div>
 </header>
+
+<!-- CSS-only reading progress bar -->
+<div class="progress-bar-container">
+  <div class="progress-bar"></div>
+</div>
 
 <!-- Search Overlay Popover -->
 <div id="search-overlay" class="search-overlay" popover="manual">
@@ -88,41 +109,61 @@
   </div>
 </div>
 
-<!-- Main content -->
-<main class="legal-container">
-  <span class="legal-eyebrow">Información legal</span>
-  <h1>Términos y Condiciones</h1>
-  <span class="legal-updated">Última actualización: 20 de junio de 2026</span>
+<!-- Main content container -->
+<main id="contenido">
+  <div class="max-w-7xl article-layout">
+    <!-- Sidebar Compartir -->
+    <aside class="article-sidebar">
+      <span class="share-title">Compartir</span>
+      <button class="share-btn" id="share-copy" aria-label="Copiar enlace" type="button">
+        <svg viewBox="0 0 24 24"><path fill="currentColor" d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76 0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71 0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71 0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76 0 5-2.24 5-5s-2.24-5-5-5z"/></svg>
+      </button>
+      <button class="share-btn" id="share-twitter" aria-label="Compartir en X" type="button">
+        <svg viewBox="0 0 24 24"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+      </button>
+      <button class="share-btn" id="share-whatsapp" aria-label="Compartir en WhatsApp" type="button">
+        <svg viewBox="0 0 24 24"><path fill="currentColor" d="M12.012 2c-5.506 0-9.989 4.478-9.99 9.984a9.96 9.96 0 001.333 4.993L2 22l5.13-1.347a9.927 9.927 0 004.882 1.28h.005c5.505 0 9.988-4.478 9.99-9.985A9.973 9.973 0 0012.012 2zm5.735 14.13c-.252.712-1.263 1.295-1.733 1.353-.43.053-.996.079-2.735-.64-2.22-.92-3.64-3.18-3.75-3.33-.11-.15-.9-1.2-1.01-2.29-.11-1.09.43-1.63.63-1.85.2-.22.44-.33.59-.33.15 0 .28.01.4.02.13.01.27-.04.42.33.16.39.55 1.34.6 1.45.05.11.08.24-.01.4-.08.16-.16.27-.24.36-.08.09-.17.18-.08.34.09.15.42.7.9 1.13.62.55 1.14.72 1.3.8.16.08.26.07.36-.04.1-.11.44-.51.56-.69.12-.17.24-.15.4-.09.17.06 1.09.51 1.28.6.19.09.31.14.36.22.05.08.05.47-.2.1.86zm0 0"/></svg>
+      </button>
+    </aside>
 
-  <p>Al acceder y usar Panorama.ar, aceptás los siguientes términos y condiciones. Te pedimos que los leas con atención.</p>
+    <!-- Contenido del Artículo -->
+    <article class="article-main">
+      <header class="article-header">
+        <span class="tag-badge politica">Política</span>
+        <h1>Argentina: ¿fútbol es política o política es fútbol?</h1>
+        <p class="dek">La obsesión nacional por la pelota vuelve a cruzarse con las divisiones políticas, más allá de cualquier figura externa.</p>
+        <div class="article-byline">
+          <span>Por <strong>Redacción Panorama</strong></span>
+          <span>·</span>
+          <span>10 jul</span>
+          <span>·</span>
+          <span>3 min</span>
+        </div>
+      </header>
 
-  <h2>1. Sobre el sitio</h2>
-  <p>Panorama.ar es un medio digital independiente que publica noticias y análisis sobre economía, sociedad y política de Argentina.</p>
+      <div class="article-img-wrap">
+        <img src="../img/politica_congreso.png" alt="Argentina: ¿fútbol es política o política es fútbol?" fetchpriority="high">
+      </div>
 
-  <h2>2. Uso del contenido</h2>
-  <p>Todo el contenido publicado en Panorama.ar (textos, imágenes y diseño) es propiedad del sitio o de sus autores, salvo que se indique lo contrario. Está permitida la lectura y el uso personal del contenido. Para reproducir, distribuir o citar extensamente nuestras notas en otro medio, pedimos que nos contactes primero y, en cualquier caso, que cites la fuente con un enlace a la nota original.</p>
+      <div class="article-body">
+        <p>Una vez más, Argentina se encuentra inmersa en una batidora donde fútbol y política se mezclan hasta volverse indistinguibles. Lo curioso, como bien señala un análisis, es que "esta vez no es culpa de Trump". La pasión por el Mundial expone las grietas sociales y las tensiones políticas internas. ¿Es el fútbol un escape de la realidad o un espejo amplificado de nuestras contradicciones? Desde los discursos de los líderes hasta las reacciones en redes, cada jugada, cada victoria o derrota, se convierte en un símbolo, una bandera para posicionamientos ideológicos.</p><p>Esta simbiosis es tan vieja como el país, pero se intensifica en tiempos de polarización. Mientras algunos llaman a la unión nacional, otros utilizan la euforia o la frustración deportiva para capitalizar políticamente. La pregunta es si, en esta vorágine, perdemos de vista los problemas estructurales que persisten más allá de la cancha. ¿Podrá Argentina algún día separar el análisis de la gestión pública del fervor que despierta un gol, o estamos condenados a vivir en esta constante mezcla donde un penal fallido puede tener más peso que un debate legislativo crucial?</p>
+      </div>
+    </article>
 
-  <h2>3. Exactitud de la información</h2>
-  <p>Trabajamos para que la información publicada sea precisa y esté actualizada al momento de su publicación. Sin embargo, no garantizamos que el contenido esté siempre libre de errores. Si encontrás una imprecisión, te agradecemos que nos lo hagas saber a través de nuestro canal de contacto.</p>
-
-  <h2>4. Opiniones de terceros</h2>
-  <p>Las notas pueden incluir declaraciones, citas o posturas de funcionarios, especialistas o particulares. Esas opiniones pertenecen a quienes las expresan y no necesariamente representan la posición de Panorama.ar.</p>
-
-  <h2>5. Publicidad</h2>
-  <p>El sitio puede mostrar anuncios publicitarios provistos por redes externas, como Google AdSense. Panorama.ar no se hace responsable por el contenido de esos anuncios ni por los productos o servicios que promocionan.</p>
-
-  <h2>6. Enlaces a sitios externos</h2>
-  <p>Algunas notas pueden incluir enlaces a sitios de terceros. No tenemos control sobre el contenido de esos sitios y no asumimos responsabilidad por su contenido o sus políticas de privacidad.</p>
-
-  <h2>7. Modificaciones</h2>
-  <p>Estos términos pueden actualizarse en cualquier momento. El uso continuado del sitio después de un cambio implica la aceptación de los nuevos términos.</p>
-
-  <h2>8. Contacto</h2>
-  <p>Para consultas sobre estos términos, podés escribirnos a:</p>
-  <p style="font-family:var(--font-mono); font-size:15px; background:var(--bg-card); padding:10px 18px; border:1px solid var(--border-color); border-radius:8px; display:inline-block; margin-top: 8px;">
-    contacto@panorama.ar
-  </p>
+    <!-- Notas Relacionadas -->
+    <section class="related-section" id="related-section-node">
+      <!-- Carga dinámica -->
+    </section>
+  </div>
 </main>
+
+<!-- Toast notification popover -->
+<div id="toast" class="toast-notification" popover="manual">
+  <svg viewBox="0 0 24 24">
+    <path fill="currentColor" d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/>
+  </svg>
+  <span id="toast-msg">Enlace copiado al portapapeles</span>
+</div>
 
 <!-- Footer -->
 <footer>
@@ -146,19 +187,19 @@
     <div class="footer-col">
       <h5>Secciones</h5>
       <ul>
-        <li><a href="index.html#feed" data-cat="economia">Economía</a></li>
-        <li><a href="index.html#feed" data-cat="sociedad">Sociedad</a></li>
-        <li><a href="index.html#feed" data-cat="politica">Política</a></li>
-        <li><a href="index.html#newsletter">Newsletter</a></li>
+        <li><a href="../index.html#feed" data-cat="economia">Economía</a></li>
+        <li><a href="../index.html#feed" data-cat="sociedad">Sociedad</a></li>
+        <li><a href="../index.html#feed" data-cat="politica">Política</a></li>
+        <li><a href="../index.html#newsletter">Newsletter</a></li>
       </ul>
     </div>
     
     <div class="footer-col">
       <h5>Institucional</h5>
       <ul>
-        <li><a href="sobre-nosotros.html">Sobre nosotros</a></li>
-        <li><a href="privacidad.html">Privacidad</a></li>
-        <li><a href="terminos.html">Términos y condiciones</a></li>
+        <li><a href="../sobre-nosotros.html">Sobre nosotros</a></li>
+        <li><a href="../privacidad.html">Privacidad</a></li>
+        <li><a href="../terminos.html">Términos y condiciones</a></li>
         <li><a href="mailto:contacto@panorama.ar">Contacto</a></li>
       </ul>
     </div>
@@ -237,6 +278,33 @@
     document.getElementById('search-results').innerHTML = '';
   });
 
+  // Compartir
+  const btnCopy = document.getElementById('share-copy');
+  const btnTwitter = document.getElementById('share-twitter');
+  const btnWhatsapp = document.getElementById('share-whatsapp');
+  const urlArticulo = window.location.href;
+  const tituloArticulo = "Argentina: ¿fútbol es política o política es fútbol?";
+
+  btnCopy.addEventListener('click', () => {
+    navigator.clipboard.writeText(urlArticulo).then(() => {
+      const toastEl = document.getElementById('toast');
+      const toastMsg = document.getElementById('toast-msg');
+      toastMsg.textContent = 'Enlace copiado al portapapeles';
+      toastEl.showPopover();
+      setTimeout(() => toastEl.hidePopover(), 3000);
+    });
+  });
+
+  btnTwitter.addEventListener('click', () => {
+    const shareUrl = `https://twitter.com/intent/tweet?text=${encodeURIComponent(tituloArticulo)}&url=${encodeURIComponent(urlArticulo)}`;
+    window.open(shareUrl, '_blank', 'noopener,noreferrer');
+  });
+
+  btnWhatsapp.addEventListener('click', () => {
+    const shareUrl = `https://api.whatsapp.com/send?text=${encodeURIComponent(tituloArticulo + ' ' + urlArticulo)}`;
+    window.open(shareUrl, '_blank', 'noopener,noreferrer');
+  });
+
   // Buscador interactivo
   const NOMBRES_CAT = { economia: 'Economía', sociedad: 'Sociedad', politica: 'Política' };
   const resultsContainer = document.getElementById('search-results');
@@ -246,11 +314,9 @@
     const fecha = new Date(dateStr + 'T00:00:00');
     const diffMs = hoy - fecha;
     const diffDias = Math.floor(diffMs / 86400000);
-    
     if (diffDias <= 0) return 'Hoy';
     if (diffDias === 1) return 'Ayer';
     if (diffDias < 7) return `Hace ${diffDias} días`;
-    
     return fecha.toLocaleDateString('es-AR', { day: 'numeric', month: 'short' });
   }
 
@@ -260,26 +326,23 @@
       resultsContainer.innerHTML = '';
       return;
     }
-
-    fetch('noticias.json')
+    fetch('../noticias.json')
       .then(r => r.json())
       .then(notas => {
         const matches = notas.filter(n => 
           n.titulo.toLowerCase().includes(q) || 
           n.bajada.toLowerCase().includes(q) ||
-          (n.cuerpo && n.cuerpo.toLowerCase().includes(q)) ||
-          (n.autor && n.autor.toLowerCase().includes(q))
+          (n.cuerpo && n.cuerpo.toLowerCase().includes(q))
         ).slice(0, 6);
 
         if (matches.length === 0) {
           resultsContainer.innerHTML = `<p style="padding: 24px; text-align: center; font-size: 14px; color: var(--text-soft);">No encontramos resultados para "${q}"</p>`;
           return;
         }
-
         resultsContainer.innerHTML = matches.map(n => `
-          <a class="search-result-item" href="notas/${n.slug}.html">
+          <a class="search-result-item" href="${n.slug}.html">
             <div class="search-result-thumb">
-              <img src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}">
+              <img src="../${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}">
             </div>
             <div class="search-result-info">
               <span class="tag-badge ${n.categoria}">${NOMBRES_CAT[n.categoria] || n.categoria}</span>
@@ -288,12 +351,40 @@
             </div>
           </a>
         `).join('');
-      })
-      .catch(err => {
-        resultsContainer.innerHTML = `<p style="padding: 24px; text-align: center; font-size: 14px; color: var(--text-soft);">Error al buscar noticias.</p>`;
-        console.error(err);
       });
   });
+
+  // Cargar artículos relacionados dinámicamente
+  const catArticulo = "politica";
+  const slugArticulo = "argentina-futbol-es-politica-o-politica-es-futbol";
+  fetch('../noticias.json')
+    .then(r => r.json())
+    .then(notas => {
+      const relacionadas = notas
+        .filter(n => n.categoria === catArticulo && n.slug !== slugArticulo)
+        .sort((a, b) => new Date(b.fecha) - new Date(a.fecha))
+        .slice(0, 3);
+      
+      if (relacionadas.length > 0) {
+        const relNode = document.getElementById('related-section-node');
+        relNode.innerHTML = `
+          <h2>Más sobre ${NOMBRES_CAT[catArticulo] || catArticulo}</h2>
+          <div class="related-grid">
+            ${relacionadas.map(n => `
+              <a class="related-card" href="${n.slug}.html">
+                <div class="related-card-img">
+                  <img src="../${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}" loading="lazy">
+                </div>
+                <div class="related-card-info">
+                  <span class="tag-badge ${n.categoria}">${NOMBRES_CAT[n.categoria] || n.categoria}</span>
+                  <h3>${n.titulo}</h3>
+                </div>
+              </a>
+            `).join('')}
+          </div>
+        `;
+      }
+    });
 </script>
 
 </body>

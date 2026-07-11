@@ -257,7 +257,7 @@
 {
   "prerender": [
     {
-      "where": { "href_matches": "noticia.html?*" },
+      "where": { "href_matches": "notas/*.html" },
       "eagerness": "moderate"
     }
   ]
@@ -361,12 +361,12 @@
 
   function heroHTML(n) {
     return `
-      <div class="hero-main-card" onclick="location.href='noticia.html?slug=${n.slug}'" style="cursor: pointer;">
+      <div class="hero-main-card" onclick="location.href='notas/${n.slug}.html'" style="cursor: pointer;">
         <img class="hero-bg-img" src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}">
         <div class="hero-gradient-overlay"></div>
         <div class="hero-main-content">
           <span class="tag-badge ${n.categoria}">${NOMBRES_CAT[n.categoria] || n.categoria}</span>
-          <a href="noticia.html?slug=${n.slug}">
+          <a href="notas/${n.slug}.html">
             <h2>${n.titulo}</h2>
           </a>
           <p>${n.bajada}</p>
@@ -384,7 +384,7 @@
 
   function sideHTML(n) {
     return `
-      <a class="side-hero-item" href="noticia.html?slug=${n.slug}">
+      <a class="side-hero-item" href="notas/${n.slug}.html">
         <div class="side-hero-img-wrap">
           <img src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}" loading="lazy">
         </div>
@@ -403,7 +403,7 @@
 
   function tarjetaHTML(n) {
     return `
-      <article class="feed-card" onclick="location.href='noticia.html?slug=${n.slug}'">
+      <article class="feed-card" onclick="location.href='notas/${n.slug}.html'">
         <div class="card-img-wrap">
           <img src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}" loading="lazy">
         </div>
@@ -587,7 +587,7 @@
         }
 
         resultsContainer.innerHTML = matches.map(n => `
-          <a class="search-result-item" href="noticia.html?slug=${n.slug}">
+          <a class="search-result-item" href="notas/${n.slug}.html">
             <div class="search-result-thumb">
               <img src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}">
             </div>

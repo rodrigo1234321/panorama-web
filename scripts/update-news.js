@@ -203,7 +203,7 @@ function updateDatabase(newArticles) {
     // Extract the tweet of the featured story and append the direct link to the article
     const featuredStory = newArticles.find(n => n.destacada) || newArticles[0];
     if (featuredStory && featuredStory.tweet) {
-      const articleUrl = `${SITE_URL}/noticia.html?slug=${featuredStory.slug}`;
+      const articleUrl = `${SITE_URL}/notas/${featuredStory.slug}.html`;
       const tweetText = `${featuredStory.tweet.trim()}\n\n👉 ${articleUrl}`;
       fs.writeFileSync(TWEET_FILE, tweetText, 'utf8');
       console.log('Borrador de tweet con link extraído y guardado en tweet.txt.');
@@ -295,8 +295,58 @@ function updateDatabase(newArticles) {
 
     fs.writeFileSync(NOTICIAS_FILE, JSON.stringify(limitedNews, null, 2), 'utf8');
     console.log(`Base de datos actualizada. Total de noticias archivadas: ${limitedNews.length}`);
+
+    // Generar páginas HTML estáticas con etiquetas Open Graph
+    const TEMPLATE_FILE = path.join(__dirname, '../templates/noticia-template.html');
+    const NOTAS_DIR = path.join(__dirname, '../notas');
+
+    if (fs.existsSync(TEMPLATE_FILE)) {
+      console.log('Generando páginas HTML estáticas para cada noticia en /notas...');
+      
+      // Crear directorio /notas si no existe
+      if (!fs.existsSync(NOTAS_DIR)) {
+        fs.mkdirSync(NOTAS_DIR, { recursive: true });
+      }
+
+      const templateContent = fs.readFileSync(TEMPLATE_FILE, 'utf8');
+      const NOMBRES_CAT = { economia: 'Economía', sociedad: 'Sociedad', politica: 'Política' };
+
+      for (const item of limitedNews) {
+        let bodyHtml = '';
+        if (item.cuerpo) {
+          bodyHtml = item.cuerpo.split('\n\n').map(p => `<p>${p}</p>`).join('');
+        } else {
+          bodyHtml = `<p>${item.bajada}</p>`;
+        }
+
+        const formattedDate = new Date(item.fecha + 'T00:00:00').toLocaleDateString('es-AR', {
+          day: 'numeric',
+          month: 'short'
+        });
+
+        // Reemplazar placeholders en la plantilla
+        let html = templateContent
+          .replace(/\{\{TITLE\}\}/g, item.titulo)
+          .replace(/\{\{TITLE_ESCAPED\}\}/g, item.titulo.replace(/"/g, '&quot;'))
+          .replace(/\{\{DEK\}\}/g, item.bajada)
+          .replace(/\{\{SLUG\}\}/g, item.slug)
+          .replace(/\{\{IMAGE\}\}/g, item.imagen || 'img/fallback_general.png')
+          .replace(/\{\{CATEGORY\}\}/g, item.categoria)
+          .replace(/\{\{CATEGORY_LABEL\}\}/g, NOMBRES_CAT[item.categoria] || item.categoria)
+          .replace(/\{\{AUTHOR\}\}/g, item.autor || 'Redacción')
+          .replace(/\{\{DATE\}\}/g, formattedDate)
+          .replace(/\{\{READTIME\}\}/g, item.lectura || '3 min')
+          .replace(/\{\{BODY_HTML\}\}/g, bodyHtml);
+
+        const filePath = path.join(NOTAS_DIR, `${item.slug}.html`);
+        fs.writeFileSync(filePath, html, 'utf8');
+      }
+      console.log(`¡Páginas estáticas generadas con éxito en ${NOTAS_DIR}!`);
+    } else {
+      console.warn('Advertencia: No se encontró la plantilla de noticia templates/noticia-template.html.');
+    }
   } catch (err) {
-    console.error('Error al guardar noticias.json:', err);
+    console.error('Error al guardar noticias.json o generar páginas estáticas:', err);
     process.exit(1);
   }
 }
