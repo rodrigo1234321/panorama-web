@@ -596,6 +596,10 @@
             </div>
           </a>
         `).join('');
+      })
+      .catch(err => {
+        resultsContainer.innerHTML = `<p style="padding: 24px; text-align: center; font-size: 14px; color: var(--text-soft);">Error al buscar noticias.</p>`;
+        console.error(err);
       });
   });
 
