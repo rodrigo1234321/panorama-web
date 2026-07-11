@@ -209,51 +209,33 @@ function updateDatabase(newArticles) {
       console.log('Borrador de tweet con link extraído y guardado en tweet.txt.');
     }
 
-    const VALID_IMAGES = [
-      'img/economia_inflacion.png',
-      'img/economia_campo.png',
-      'img/sociedad_salud.png',
-      'img/sociedad_comedor.png',
-      'img/politica_congreso.png',
-      'img/fallback_general.png'
-    ];
+    // Función hash consistente para asignar una imagen del pool por slug y categoría
+    function getSlugHashImage(slug, category) {
+      let hash = 0;
+      const cleanSlug = slug.trim().toLowerCase();
+      for (let i = 0; i < cleanSlug.length; i++) {
+        hash = (hash << 5) - hash + cleanSlug.charCodeAt(i);
+        hash |= 0;
+      }
+      const index = (Math.abs(hash) % 8) + 1; // 1 a 8
+      
+      const cleanCat = category.trim().toLowerCase();
+      if (['economia', 'sociedad', 'politica'].includes(cleanCat)) {
+        return `img/${cleanCat}_${index}.png`;
+      }
+      return 'img/fallback_general.png';
+    }
 
-    // Clean up the tweet property from the JSON and normalize image paths
+    // Clean up the tweet property from the JSON and assign unique images
     const cleanNewArticles = newArticles.map(art => {
       const { tweet, ...rest } = art;
-      if (rest.imagen) {
-        rest.imagen = rest.imagen.toLowerCase().trim();
-        if (rest.imagen.includes('comedor')) rest.imagen = 'img/sociedad_comedor.png';
-        else if (rest.imagen.includes('campo')) rest.imagen = 'img/economia_campo.png';
-        else if (rest.imagen.includes('inflacion') || rest.imagen.includes('inflación')) rest.imagen = 'img/economia_inflacion.png';
-        else if (rest.imagen.includes('salud')) rest.imagen = 'img/sociedad_salud.png';
-        else if (rest.imagen.includes('congreso')) rest.imagen = 'img/politica_congreso.png';
-        
-        if (!VALID_IMAGES.includes(rest.imagen)) {
-          rest.imagen = 'img/fallback_general.png';
-        }
-      } else {
-        rest.imagen = 'img/fallback_general.png';
-      }
+      rest.imagen = getSlugHashImage(rest.slug, rest.categoria);
       return rest;
     });
 
     const cleanExistingNews = existingNews.map(art => {
       const { tweet, ...rest } = art;
-      if (rest.imagen) {
-        rest.imagen = rest.imagen.toLowerCase().trim();
-        if (rest.imagen.includes('comedor')) rest.imagen = 'img/sociedad_comedor.png';
-        else if (rest.imagen.includes('campo')) rest.imagen = 'img/economia_campo.png';
-        else if (rest.imagen.includes('inflacion') || rest.imagen.includes('inflación')) rest.imagen = 'img/economia_inflacion.png';
-        else if (rest.imagen.includes('salud')) rest.imagen = 'img/sociedad_salud.png';
-        else if (rest.imagen.includes('congreso')) rest.imagen = 'img/politica_congreso.png';
-        
-        if (!VALID_IMAGES.includes(rest.imagen)) {
-          rest.imagen = 'img/fallback_general.png';
-        }
-      } else {
-        rest.imagen = 'img/fallback_general.png';
-      }
+      rest.imagen = getSlugHashImage(rest.slug, rest.categoria);
       return rest;
     });
     
