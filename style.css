@@ -1207,8 +1207,9 @@ header {
 
 /* ---------- Footer ---------- */
 footer {
-  background: var(--text-main);
-  color: light-dark(oklch(0.88 0.005 80 / 0.8), oklch(0.92 0.005 80 / 0.8));
+  background: oklch(0.12 0.005 80); /* Fallback */
+  background: light-dark(oklch(0.12 0.005 80), oklch(0.08 0.005 80));
+  color: oklch(0.88 0.005 80 / 0.8);
   border-top: 1px solid var(--border-color);
   margin-top: 64px;
 }
@@ -1227,7 +1228,7 @@ footer {
   font-size: 26px;
   font-weight: 900;
   margin-bottom: 12px;
-  color: light-dark(oklch(0.98 0.004 80), oklch(0.98 0.004 80));
+  color: oklch(0.98 0.004 80);
 }
 
 .footer-brand h4 span { color: var(--primary); }
@@ -1248,7 +1249,7 @@ footer {
   width: 36px;
   height: 36px;
   border-radius: 50%;
-  border: 1px solid light-dark(oklch(0.88 0.005 80 / 0.2), oklch(0.92 0.005 80 / 0.2));
+  border: 1px solid oklch(0.98 0.004 80 / 0.15);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -1257,8 +1258,8 @@ footer {
 }
 
 .social-btn:hover {
-  background: light-dark(oklch(0.98 0.004 80), oklch(0.98 0.004 80));
-  color: light-dark(oklch(0.12 0.005 80), oklch(0.12 0.005 80));
+  background: oklch(0.98 0.004 80);
+  color: oklch(0.12 0.005 80);
 }
 
 .social-btn svg { width: 16px; height: 16px; }
@@ -1267,7 +1268,7 @@ footer {
   font-family: var(--font-serif);
   font-size: 16px;
   font-weight: 700;
-  color: light-dark(oklch(0.98 0.004 80), oklch(0.98 0.004 80));
+  color: oklch(0.98 0.004 80);
   margin-bottom: 16px;
 }
 
@@ -1284,11 +1285,11 @@ footer {
 }
 
 .footer-col a:hover {
-  color: light-dark(oklch(0.98 0.004 80), oklch(0.98 0.004 80));
+  color: oklch(0.98 0.004 80);
 }
 
 .footer-bottom {
-  border-top: 1px solid light-dark(oklch(0.88 0.005 80 / 0.1), oklch(0.92 0.005 80 / 0.1));
+  border-top: 1px solid oklch(0.98 0.004 80 / 0.1);
   padding: 24px;
 }
 
@@ -1299,7 +1300,7 @@ footer {
   justify-content: space-between;
   align-items: center;
   font-size: 11.5px;
-  color: light-dark(oklch(0.88 0.005 80 / 0.5), oklch(0.92 0.005 80 / 0.5));
+  color: oklch(0.88 0.005 80 / 0.5);
 }
 
 /* ============================================================
