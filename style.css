@@ -1887,3 +1887,96 @@ footer {
   color: #ffffff;
   border-color: var(--primary);
 }
+
+/* ============================================================
+   X Trends Bar Styling
+   ============================================================ */
+.x-trends-bar {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  background: var(--bg-card);
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-md);
+  padding: 12px 18px;
+  margin-top: 16px;
+  margin-bottom: 24px;
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.x-trends-label {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-weight: 700;
+  font-size: 0.9rem;
+  color: var(--text-main);
+  white-space: nowrap;
+}
+
+.x-logo-inline {
+  width: 14px;
+  height: 14px;
+  color: var(--text-main);
+}
+
+.x-trends-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  overflow-x: auto;
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE/Edge */
+  flex: 1;
+}
+
+.x-trends-container::-webkit-scrollbar {
+  display: none; /* Chrome/Safari */
+}
+
+.x-trend-badge {
+  display: inline-flex;
+  align-items: center;
+  background: var(--primary-glow);
+  color: var(--primary);
+  border: 1px solid var(--primary);
+  border-radius: var(--radius-full);
+  padding: 4px 12px;
+  font-size: 0.82rem;
+  font-weight: 600;
+  white-space: nowrap;
+  transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.x-trend-badge:hover {
+  background: var(--primary);
+  color: #ffffff;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
+}
+
+[data-theme="dark"] .x-trend-badge:hover {
+  color: #000000;
+}
+
+.x-trend-skeleton {
+  font-size: 0.85rem;
+  color: var(--text-soft);
+  font-style: italic;
+}
+
+@media (max-width: 768px) {
+  .x-trends-bar {
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 12px;
+    padding: 12px;
+  }
+  .x-trends-container {
+    width: 100%;
+  }
+}

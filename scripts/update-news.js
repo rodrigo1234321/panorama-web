@@ -5,6 +5,7 @@ const path = require('path');
 const RSS_URL = 'https://news.google.com/rss/search?q=Argentina&hl=es-419&gl=AR&ceid=AR:es-419';
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const NOTICIAS_FILE = path.join(__dirname, '../noticias.json');
+const TRENDS_FILE = path.join(__dirname, '../trends.json');
 const TWEET_FILE = path.join(__dirname, '../tweet.txt');
 const SITE_URL = process.env.SITE_URL || 'https://panorama-web-one.vercel.app';
 
@@ -21,6 +22,38 @@ function decodeHtml(str) {
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'");
+}
+
+// Fetch Twitter/X trends in Argentina by scraping getdaytrends.com
+async function fetchTrends() {
+  console.log('Obteniendo tendencias de X (Twitter) en Argentina...');
+  try {
+    const res = await fetch('https://getdaytrends.com/argentina/');
+    if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+    const html = await res.text();
+    
+    const trendRegex = /<a class="string" href="\/argentina\/trend\/[^"]+?">([^<]+?)<\/a>/g;
+    const trends = [];
+    let match;
+    while ((match = trendRegex.exec(html)) !== null) {
+      const trendText = match[1].trim();
+      if (!trends.includes(trendText)) {
+        trends.push(trendText);
+      }
+    }
+    
+    console.log(`Se encontraron ${trends.length} tendencias en X.`);
+    const topTrends = trends.slice(0, 15);
+    
+    // Save trends to trends.json
+    fs.writeFileSync(TRENDS_FILE, JSON.stringify(topTrends, null, 2), 'utf8');
+    console.log('trends.json actualizado.');
+    
+    return topTrends;
+  } catch (err) {
+    console.warn('Advertencia: No se pudieron obtener las tendencias de X:', err.message);
+    return [];
+  }
 }
 
 // Fetch RSS feed using native fetch
@@ -55,27 +88,31 @@ async function fetchNews() {
     process.exit(1);
   }
 }
-// Call Gemini API to process and format news
-async function generateArticles(newsItems) {
+// Call Gemini API to process and format news aligning with X trends
+async function generateArticles(newsItems, trends = []) {
   console.log('Llamando a la API de Gemini para procesar y redactar las noticias...');
   const today = new Date().toISOString().split('T')[0];
   
   const prompt = `
     Sos el editor jefe de "Panorama.ar", un medio digital argentino de opinión y análisis crítico, agudo y directo.
-    Tu misión: elegir las 7 noticias que generen más debate, conversación e interés público de la lista de entrada.
-    Priorizá temas de economía, política y sociedad que dividan opiniones, presenten diferentes puntos de vista o requieran un análisis profundo.
+    Tu misión: elegir las 7 noticias de la lista de entrada que mejor se conecten con las tendencias actuales en redes sociales (X/Twitter) en Argentina.
     
-    TONO EDITORIAL:
-    - Crítico, agudo y directo. Hacé preguntas reflexivas en los títulos cuando sea efectivo (ej: "¿Quién se beneficia realmente?").
-    - Analizá las contradicciones de los distintos sectores, datos de la realidad y opiniones encontradas.
-    - Buscá que el lector reflexione y quiera debatir sobre el tema tras leer la nota.
-    - Incluí datos concretos (cifras, porcentajes, nombres de voceros/sectores) para dar peso a la nota.
-    - NO inventes datos. Basate en los hechos reales de la entrada, presentados de forma atractiva para generar conversación.
+    TENDENCIAS ACTUALES DE X EN ARGENTINA:
+    ${JSON.stringify(trends, null, 2)}
     
-    NOTICIAS DE ENTRADA:
+    NOTICIAS DE ENTRADA (Google News):
     ${JSON.stringify(newsItems, null, 2)}
     
-    Reglas de generación para cada noticia:
+    Reglas de selección y redacción:
+    1. Vinculación con tendencias: Seleccioná las 7 noticias que estén más alineadas, directa o indirectamente, con los temas que están en tendencia en X en Argentina. Por ejemplo, si una tendencia es "Boca" o "Tapia", dale prioridad a noticias sobre fútbol, la AFA o controversias institucionales. Si una tendencia es "Dólar" o "Impuestos", priorizá temas de economía. Si no hay tendencias claras de política/economía, vinculá y adaptá temas de interés social que generen debate nacional.
+    2. Tono editorial:
+       - Crítico, agudo y directo. Hacé preguntas reflexivas en los títulos cuando sea efectivo (ej: "¿Quién se beneficia realmente?").
+       - Analizá las contradicciones de los distintos sectores, datos de la realidad y opiniones encontradas.
+       - Buscá que el lector reflexione y quiera debatir sobre el tema tras leer la nota.
+       - Incluí datos concretos (cifras, porcentajes, nombres de voceros/sectores) para dar peso a la nota.
+       - NO inventes datos. Basate en los hechos reales de la entrada.
+    
+    Campos para cada noticia en el JSON de salida:
     - titulo: Título AGUDO que llame a la reflexión y al debate. Puede usar preguntas retóricas o señalar contrastes. Máximo 15 palabras.
     - bajada: Un gancho corto que introduzca el dilema o punto central de la discusión.
     - cuerpo: Redacta 2-3 párrafos con tono de análisis crítico y periodismo de opinión, separados por saltos de línea dobles (\\n\\n). Exponé los diferentes argumentos, cifras y datos. Cerrá con una pregunta reflexiva que invite al debate.
@@ -84,15 +121,9 @@ async function generateArticles(newsItems) {
     - lectura: Tiempo estimado (ej: "3 min").
     - slug: URL slug basado en el título, minúsculas sin caracteres especiales (ej: "quien-se-beneficia-realmente").
     - fecha: "${today}".
-    - imagen: Elige según el tema:
-        * Inflación, dólar, impuestos, finanzas: "img/economia_inflacion.png"
-        * Campo, sequía, cosechas, ganadería: "img/economia_campo.png"
-        * Salud, hospitales, virus: "img/sociedad_salud.png"
-        * Educación, comedores, pobreza, protestas: "img/sociedad_comedor.png"
-        * Leyes, Congreso, debates políticos, elecciones: "img/politica_congreso.png"
-        * Otro: "img/fallback_general.png"
-    - destacada: true solo para la MÁS relevante para el debate público, el resto false.
-    - tweet: Borrador de tweet/post de X. MÁXIMO 230 caracteres (para dejar espacio al link). Tono directo y analítico que llame al debate. Incluí 1-2 hashtags relevantes. NO incluyas ningún link, el link se agrega automáticamente después.
+    - imagen: "img/fallback_general.png" (este campo se sobreescribirá con la imagen del pool por hash en el pipeline de limpieza, poné cualquier valor).
+    - destacada: true solo para la MÁS relevante para el debate público nacional y su conexión con tendencias de X, el resto false.
+    - tweet: Borrador de tweet/post de X. MÁXIMO 230 caracteres (para dejar espacio al link). Tono directo y analítico que llame al debate. Incluí 1-2 hashtags de las tendencias provistas si son aplicables. NO incluyas ningún link.
   `;
 
   const requestBody = {
@@ -335,12 +366,13 @@ function updateDatabase(newArticles) {
 
 // Execute pipeline
 async function main() {
+  const trends = await fetchTrends();
   const newsItems = await fetchNews();
   if (newsItems.length === 0) {
     console.log('No se encontraron noticias para actualizar hoy.');
     return;
   }
-  const newArticles = await generateArticles(newsItems);
+  const newArticles = await generateArticles(newsItems, trends);
   updateDatabase(newArticles);
   console.log('Pipeline de noticias finalizado con éxito.');
 }

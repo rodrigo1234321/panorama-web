@@ -139,6 +139,17 @@
     </div>
   </section>
 
+  <!-- Twitter/X Trends Bar -->
+  <div class="x-trends-bar max-w-7xl">
+    <div class="x-trends-label">
+      <svg viewBox="0 0 24 24" class="x-logo-inline"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+      <span>Tendencias en X:</span>
+    </div>
+    <div class="x-trends-container" id="x-trends-list">
+      <span class="x-trend-skeleton">Cargando tendencias...</span>
+    </div>
+  </div>
+
   <!-- Ornament Divider -->
   <div class="ornament-divider">
     <span class="ornament-text">Lo más reciente</span>
@@ -490,6 +501,17 @@
       
       renderFeed();
       renderTicker(ordenadas);
+
+      // Cargar tendencias de X
+      fetch('trends.json')
+        .then(r => r.ok ? r.json() : [])
+        .then(trends => {
+          renderTrends(trends);
+        })
+        .catch(err => {
+          console.warn('Error al cargar tendencias:', err);
+          renderTrends([]);
+        });
     })
     .catch(err => {
       gridNode.innerHTML = `
@@ -512,6 +534,39 @@
     
     // Duplicar para un bucle continuo fluido
     track.innerHTML = items + items;
+  }
+
+  // Carga y renderizado de tendencias en X
+  function renderTrends(trends) {
+    const listNode = document.getElementById('x-trends-list');
+    if (!listNode) return;
+    
+    if (!trends || trends.length === 0) {
+      listNode.innerHTML = '<span class="x-trend-skeleton">No hay tendencias disponibles en este momento.</span>';
+      return;
+    }
+    
+    listNode.innerHTML = trends.slice(0, 10).map(t => {
+      const cleanTrend = t.replace('#', '');
+      return `
+        <a href="#" class="x-trend-badge" onclick="filterByTrend(event, '${cleanTrend}')">
+          ${t}
+        </a>
+      `;
+    }).join('');
+  }
+
+  window.filterByTrend = function(e, trendTerm) {
+    e.preventDefault();
+    const searchInput = document.getElementById('search-main-input');
+    const searchOverlay = document.getElementById('search-overlay');
+    if (searchInput && searchOverlay) {
+      searchOverlay.showPopover();
+      searchInput.value = trendTerm;
+      // Disparar evento input para activar búsqueda
+      searchInput.dispatchEvent(new Event('input', { bubbles: true }));
+      setTimeout(() => searchInput.focus(), 50);
+    }
   }
 
   // Filtros de categoría de feed
