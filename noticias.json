@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Argentina vs. Suiza: ¿Qué partido ganamos de verdad?",
+    "bajada": "Mientras la euforia mundialista nos abraza, la realidad económica nos golpea con datos preocupantes.",
+    "cuerpo": "La gesta de la Selección Argentina en el Mundial nos une y distrae, pero es innegable el fuerte contraste con la situación económica real del país frente a Suiza. En el \"partido de la inflación\", Argentina lamentablemente \"gana por goleada\", aunque no sea la victoria que necesitamos. Esta disparidad invita a reflexionar sobre qué batallas priorizamos y dónde realmente se juegan los destinos de la nación.\n\nLos datos económicos de Suiza, sin ahondar en comparaciones odiosas, revelan una estabilidad envidiable frente a la volatilidad argentina. ¿Es esta fiebre futbolística una vía de escape necesaria o una peligrosa cortina de humo que impide abordar los problemas estructurales con la seriedad que merecen? El desafío es trasladar esa misma pasión y unidad nacional a la construcción de un futuro económico sostenible.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-suiza-que-partido-ganamos-de-verdad",
+    "fecha": "2026-07-12",
+    "imagen": "img/economia_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Suiza: ¿modelo de nación o espejo incómodo para Argentina?",
+    "bajada": "Más allá del fútbol, la comparación de dos realidades económicas que no pueden ser más opuestas.",
+    "cuerpo": "La victoria de Argentina sobre Suiza en el campo de juego opaca una verdad ineludible: la abismal diferencia económica y social entre ambos países. Suiza, 67 veces más pequeña, se erige como una potencia económica con problemas resueltos, mientras Argentina, con su vasta geografía y recursos, lidia con crisis recurrentes. Esta confrontación invita a un análisis profundo más allá del resultado deportivo.\n\n¿Por qué un país con menos recursos naturales y territorio ha logrado una estabilidad que el nuestro parece esquiva? Mientras la pasión por el fútbol nos une, las cifras económicas y la calidad de vida nos separan. ¿Es la gestión, la cultura cívica o la visión a largo plazo lo que define esta brecha? Es hora de mirar más allá del gol.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "suiza-modelo-de-nacion-o-espejo-incomodo-para-argentina",
+    "fecha": "2026-07-12",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Infantino, Suiza y la FIFA: ¿Un árbitro imparcial?",
+    "bajada": "El presidente suizo de la FIFA bajo la lupa mientras Argentina juega un partido crucial.",
+    "cuerpo": "Con Argentina enfrentando a Suiza en un partido de alto voltaje, las miradas se vuelven hacia Gianni Infantino, presidente suizo de la FIFA. Su nacionalidad genera inevitablemente preguntas sobre la imparcialidad en un deporte que mueve pasiones y miles de millones. ¿Hasta qué punto la institucionalidad de la FIFA puede garantizar la transparencia cuando sus líderes están tan conectados a uno de los contendientes?\n\nLa figura de Infantino, a menudo envuelta en controversias y decisiones que impactan globalmente, reaviva el debate sobre la gobernanza del fútbol mundial. Más allá del resultado en la cancha, este contexto nos obliga a preguntarnos: ¿son las reglas del juego realmente parejas para todos? La transparencia y la ética en los organismos reguladores son tan importantes como el talento de los jugadores.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "infantino-suiza-y-la-fifa-un-arbitro-imparcial",
+    "fecha": "2026-07-12",
+    "imagen": "img/politica_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Brazalete negro: ¿Duelo nacional o gesto olvidado?",
+    "bajada": "El significado detrás del símbolo que llevó Argentina, ¿es comprendido por todos los hinchas?",
+    "cuerpo": "La Selección Argentina lució un brazalete negro contra Suiza, un gesto de duelo que rara vez es explicado en el fragor de la competencia. ¿Cuántos hinchas realmente conocen el motivo detrás de este símbolo y su implicancia? Este detalle, en un evento de magnitud mundialista, expone la tensión entre el espectáculo deportivo y la memoria colectiva de la nación.\n\nEl fútbol, capaz de unir un país, también puede, paradójicamente, despolitizar o relegar a un segundo plano temas de profunda relevancia social. Mientras celebramos cada gol, ¿estamos prestando la debida atención a los homenajes y a las historias que representan? ¿O la euforia colectiva diluye el mensaje original, convirtiéndolo en un mero adorno sin contenido?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "brazalete-negro-duelo-nacional-o-gesto-olvidado",
+    "fecha": "2026-07-12",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Gol de Mac Allister: ¿Héroes efímeros o legado duradero?",
+    "bajada": "Un gol que desató la alegría nacional, pero ¿cuánto perdura esa euforia en la memoria colectiva?",
+    "cuerpo": "El golazo de Mac Allister contra Suiza desató una oleada de euforia, consolidando la victoria argentina en los cuartos de final. En esos momentos, el país entero vibra al unísono, pero es crucial preguntarse: ¿cuánto tiempo dura este espíritu de unidad y heroísmo más allá del pitido final? ¿Son los futbolistas héroes efímeros cuyo impacto se limita a los 90 minutos, o sus hazañas pueden inspirar un cambio más profundo?\n\nLa sociedad argentina tiene una particularidad en elevar a sus ídolos deportivos a un pedestal casi inalcanzable. Este fenómeno, si bien genera pasión, también puede desviar la atención de problemas urgentes que requieren la misma cohesión y determinación. ¿Qué lecciones de perseverancia y trabajo en equipo podemos extraer de la cancha para aplicarlas en la vida diaria de la nación?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "gol-de-mac-allister-heroes-efimeros-o-legado-duradero",
+    "fecha": "2026-07-12",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Speed en Argentina: ¿Fenómeno viral o superficialidad mediática?",
+    "bajada": "La presencia de influencers globales en la cancha, ¿refleja un genuino interés o una estrategia de marketing?",
+    "cuerpo": "La aparición de la celebridad de internet \"Speed\" con la camiseta argentina en el partido contra Suiza, y su interacción con los hinchas, pone en relieve el impacto de las redes sociales en eventos masivos. ¿Es su presencia una muestra de la globalización del fervor futbolístico o una estrategia calculada para capitalizar la atención en momentos de alta visibilidad? El fenómeno de los influencers cada vez más permea el ámbito deportivo.\n\nEste cruce entre el show deportivo y el espectáculo digital genera preguntas sobre la autenticidad de la pasión de los hinchas y el rol de estas figuras en el fomento del patriotismo. ¿Estamos frente a una nueva forma de vivir el fútbol o a una superficialidad que busca clicks antes que emociones genuinas? La línea entre el fanatismo real y el contenido viral se vuelve cada vez más difusa.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "speed-en-argentina-fenomeno-viral-o-superficialidad-mediatica",
+    "fecha": "2026-07-12",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Milei contra Argentina? El juego político en plena fiebre mundialista.",
+    "bajada": "Mientras el país se une por el fútbol, las tensiones políticas no dan tregua, ¿o sí?",
+    "cuerpo": "En plena efervescencia mundialista, con la nación vibrando al unísono por la Selección, la política sigue su curso con fuertes declaraciones como \"Milei apuesta contra la Argentina\". Este contraste entre la unidad deportiva y la polarización política invita a la reflexión. ¿Es posible dejar de lado las diferencias en pos de un objetivo común, o la grieta es tan profunda que ni el fútbol puede cerrarla?\n\nMientras millones se unen detrás de una misma camiseta, los debates sobre el futuro del país, las medidas económicas y las confrontaciones ideológicas continúan. ¿Es esta una oportunidad perdida para que la dirigencia política capitalice el espíritu de unidad, o es una muestra de que las prioridades son distintas? La pregunta es si la pasión futbolera puede traducirse en compromiso cívico duradero.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-contra-argentina-el-juego-politico-en-plena-fiebre-mundialista",
+    "fecha": "2026-07-12",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿El regreso de Villa: ¿perdón o pragmatismo en Boca Juniors?",
     "bajada": "La ausencia del colombiano en Salta reaviva el debate sobre su futuro y la moral deportiva en el club.",
     "cuerpo": "La noticia de que Sebastián Villa no se suma al plantel de Boca para la Copa Argentina, sumada a los rumores de su regreso, desata una ola de preguntas sobre los valores que priman en el fútbol argentino. ¿Es la necesidad deportiva una carta blanca para obviar condenas y controversias, o estamos ante una señal de que el pragmatismo supera cualquier ética en las instituciones más grandes del país? Los hinchas se dividen entre quienes priorizan el rendimiento en cancha y quienes exigen una postura firme ante situaciones extradeportivas.\n\nEste tira y afloja entre la sanción y la posible reinserción de un jugador condenado por violencia de género plantea un precedente delicado. ¿Hasta dónde puede un club, emblema de la sociedad argentina, relativizar ciertas faltas en pos de resultados? La dirigencia, con el ojo puesto en la Copa, deberá justificar una decisión que trascenderá lo meramente futbolístico.",
@@ -9,7 +93,7 @@
     "slug": "el-regreso-de-villa-perdon-o-pragmatismo-en-boca-juniors",
     "fecha": "2026-07-11",
     "imagen": "img/sociedad_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Rattín: ¿Solo una leyenda, o un espejo de un fútbol que ya no existe?",
@@ -201,90 +285,6 @@
     "slug": "peter-thiel-argentina-inversion-disruptiva-ideologia",
     "fecha": "2026-07-11",
     "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Fútbol y política: ¿batidora nacional o reflejo de una sociedad?",
-    "bajada": "El Mundial vuelve a ser un escape, pero también un espejo de las tensiones y pasiones argentinas. ¿Cuán real es la dicotomía?",
-    "cuerpo": "Argentina, una vez más, se ve \"arrojada a una batidora de fútbol y política\", como señalaba un medio. Con el Mundial 2026 en pleno auge, la pasión por la Selección se erige como un bálsamo colectivo, capaz de eclipsar, al menos por un rato, las urgencias económicas y las disputas políticas. ¿Es el fútbol una válvula de escape necesaria para una sociedad bajo presión, o una cortina de humo que impide abordar los problemas estructurales con la seriedad que requieren?\n\nLa realidad es más compleja que una simple dicotomía. El fútbol, en Argentina, es intrínsecamente político y social. Las celebraciones masivas, la construcción de héroes y villanos, y la identificación con la bandera reflejan valores, frustraciones y esperanzas colectivas. Mientras algunos líderes intentan capitalizar la euforia deportiva, otros advierten sobre el riesgo de que la \"fiebre mundialista\" desvíe la atención de debates cruciales.\n\n¿Puede una nación permitirse que la política se pause por un evento deportivo, o es este fenómeno una parte indisoluble de nuestra identidad que los políticos deben aprender a entender y gestionar?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "futbol-politica-batidora-nacional-identidad",
-    "fecha": "2026-07-11",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿FIFA favorece a Argentina? ¿O el mundo simplemente nos 'odia'?",
-    "bajada": "Entre la euforia mundialista y las teorías conspirativas, Argentina se mira en el espejo de la percepción global.",
-    "cuerpo": "La pregunta \"¿La FIFA favorece a Argentina? ¿El mundo realmente nos odia?\" resuena en cada Mundial y, en esta edición de 2026, no es la excepción. Tras cada fallo arbitral polémico o comentario internacional, resurge el debate sobre una supuesta \"mano negra\" o un \"ninguneo\" sistemático hacia el país. Esta narrativa de \"nosotros contra el mundo\" cala hondo en la psique colectiva argentina, alimentando tanto el orgullo nacional como un cierto victimismo.\n\nAnalistas deportivos y observadores internacionales suelen desestimar las teorías de favoritismo o conspiración, atribuyendo los fallos a la complejidad del juego y la presión. Sin embargo, la persistencia de estas ideas revela una profunda inseguridad en la percepción de Argentina en el ámbito global, quizás un eco de su propia historia de altibajos económicos y políticos. La victoria deportiva se convierte así en una reafirmación identitaria frente a un \"otro\" que parece siempre juzgar.\n\nMás allá del fútbol, ¿qué nos dice esta necesidad de sentirnos favorecidos o, en su defecto, \"odiados\" por el mundo sobre nuestra propia identidad como nación y nuestra capacidad de autocrítica?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fifa-favorece-argentina-mundo-nos-odia",
-    "fecha": "2026-07-11",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El 'ninguneo' europeo: ¿Mito o realidad del fútbol argentino?",
-    "bajada": "La prensa del Viejo Continente y sus comentarios sobre la Selección reabren la herida del orgullo nacional.",
-    "cuerpo": "\"Los europeos te ningunean, Argentina\", titula un importante medio deportivo, haciendo eco de una percepción arraigada en el imaginario colectivo: la supuesta subestimación o desprecio de parte de la prensa y el público europeo hacia el fútbol argentino. Desde comentarios sobre el estilo de juego hasta la minimización de sus figuras, cada Mundial reaviva esta tensión entre el Viejo Continente y nuestra nación.\n\nEsta sensación de \"ninguneo\" se alimenta de factores históricos, culturales y deportivos. La visión eurocéntrica del fútbol, que a menudo privilegia sus ligas y talentos, choca con el orgullo sudamericano. Sin embargo, ¿cuánto de este \"ninguneo\" es una realidad objetiva y cuánto una lectura subjetiva, teñida por una hipersensibilidad nacional? La reacción de los hinchas y el eco mediático demuestran que esta \"herida\" sigue abierta.\n\n¿Es esta percepción de desprecio una simple estrategia para motivar a la Selección o revela una verdadera brecha cultural y de valoración en el deporte mundial?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "ninguneo-europeo-mito-realidad-futbol-argentino",
-    "fecha": "2026-07-11",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Lamine Yamal y el 'ninguneo': ¿ofensa o inocencia generacional?",
-    "bajada": "El joven talento español desata la ira argentina con un gesto que algunos interpretan como desdén. ¿Qué hay detrás de la polémica?",
-    "cuerpo": "El \"ninguneo\" de Lamine Yamal a la Selección argentina, que \"enfureció a los hinchas\", fue uno de los incidentes más comentados del Mundial. El joven prodigio español, con apenas 16 años, realizó un comentario o gesto que, si bien pudo ser interpretado como una muestra de su \"inocencia\" o desconocimiento cultural por algunos, para la mayoría de los argentinos fue una clara señal de desdén. La polémica desnudó la sensibilidad nacional ante cualquier atisbo de subestimación.\n\nEste episodio no solo refleja la intensidad con la que los argentinos viven el fútbol, sino también la brecha generacional y cultural. Mientras algunos lo ven como un reflejo de la soberbia europea, otros consideran que es una reacción exagerada ante la actitud de un adolescente. ¿Fue una provocación intencional o una simple imprudencia en un contexto de alta presión? El debate se extiende más allá de la cancha, tocando el orgullo patrio y la forma en que se perciben las interacciones entre distintas culturas futbolísticas.\n\n¿Hasta qué punto debemos interpretar las acciones de un joven jugador como una ofensa nacional, o es la reacción colectiva un síntoma de una susceptibilidad que excede el ámbito deportivo?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "lamine-yamal-ninguneo-ofensa-inocencia-generacional",
-    "fecha": "2026-07-11",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Quién paga el 5% del PBI en contrabando? La sombra oculta.",
-    "bajada": "Un estudio regional destapa la alarmante cifra del comercio ilegal en Argentina y sus costos para la economía formal.",
-    "cuerpo": "El contrabando no es un delito menor; es un cáncer que corroe la economía argentina, alcanzando ya el 5% del Producto Bruto Interno, según un reciente estudio regional. Esta cifra escandalosa significa que millones de dólares evaden controles, impuestos y regulaciones, alimentando circuitos informales y precarizando el mercado laboral. ¿Qué sectores son los más afectados? Desde la indumentaria hasta la electrónica, pasando por alimentos, las industrias nacionales luchan contra una competencia desleal que mina su capacidad de producción y empleo. Los datos son claros: mientras algunos denuncian la carga impositiva, la sombra del contrabando demuestra la ineficacia de los controles y la complicidad de ciertos actores. Esto no solo afecta la recaudación fiscal, sino que también distorsiona precios y ahuyenta inversiones.\n\n¿Estamos dispuestos a seguir mirando para otro lado mientras una parte sustancial de nuestra riqueza se fuga por la puerta trasera? La pregunta es: ¿quién se beneficia realmente de este esquema y qué medidas concretas se están tomando para desmantelarlo, más allá de la retórica?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "quien-paga-el-5-del-pbi-en-contrabando-la-sombra-oculta",
-    "fecha": "2026-07-10",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Acuerdos arancelarios: ¿victoria de Milei o trampa para la industria?",
-    "bajada": "Se destraban negociaciones clave que redefinirán el futuro comercial del país, con la mirada puesta en la agenda de Milei.",
-    "cuerpo": "La agenda económica de Javier Milei sigue avanzando, y un nuevo acuerdo arancelario parece estar en el horizonte, con fecha para sellar compromisos. Mientras el gobierno celebra un aparente destrabe que promete \"modernizar\" la economía, surgen interrogantes sobre el impacto real que tendrá en la ya vapuleada industria nacional. ¿Qué aranceles quedan y a quién benefician? Los sectores exportadores podrían ver una ventaja, pero la industria local, que compite con productos importados, podría enfrentar un escenario aún más complejo. Reducir barreras sin un plan de competitividad robusto, ¿es un salto al vacío o una oportunidad real de crecimiento?\n\nVoceros del gobierno hablan de apertura y eficiencia, pero las cámaras industriales temen una avalancha de bienes extranjeros que sofocará la producción y el empleo argentino. La historia nos ha mostrado que los \"ajustes\" arancelarios rara vez son neutrales y siempre dejan ganadores y perdedores. En este contexto, la \"fecha\" que mira Milei para sellar estos compromisos no es solo un calendario, es un punto de inflexión. ¿Se priorizará la integración global a cualquier costo interno, o existe un verdadero balance entre apertura y protección estratégica?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "acuerdos-arancelarios-victoria-de-milei-o-trampa-para-la-industria",
-    "fecha": "2026-07-10",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina: ¿fútbol es política o política es fútbol?",
-    "bajada": "La obsesión nacional por la pelota vuelve a cruzarse con las divisiones políticas, más allá de cualquier figura externa.",
-    "cuerpo": "Una vez más, Argentina se encuentra inmersa en una batidora donde fútbol y política se mezclan hasta volverse indistinguibles. Lo curioso, como bien señala un análisis, es que \"esta vez no es culpa de Trump\". La pasión por el Mundial expone las grietas sociales y las tensiones políticas internas. ¿Es el fútbol un escape de la realidad o un espejo amplificado de nuestras contradicciones? Desde los discursos de los líderes hasta las reacciones en redes, cada jugada, cada victoria o derrota, se convierte en un símbolo, una bandera para posicionamientos ideológicos.\n\nEsta simbiosis es tan vieja como el país, pero se intensifica en tiempos de polarización. Mientras algunos llaman a la unión nacional, otros utilizan la euforia o la frustración deportiva para capitalizar políticamente. La pregunta es si, en esta vorágine, perdemos de vista los problemas estructurales que persisten más allá de la cancha. ¿Podrá Argentina algún día separar el análisis de la gestión pública del fervor que despierta un gol, o estamos condenados a vivir en esta constante mezcla donde un penal fallido puede tener más peso que un debate legislativo crucial?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-futbol-es-politica-o-politica-es-futbol",
-    "fecha": "2026-07-10",
-    "imagen": "img/politica_6.png",
     "destacada": false
   }
 ]
