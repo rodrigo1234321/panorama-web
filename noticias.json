@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Argentina vs. Suiza: ¿Éxito deportivo o distracción efímera?",
+    "bajada": "La victoria Albiceleste nos llena de euforia, pero ¿qué hay detrás del resultado más allá de la cancha?",
+    "cuerpo": "La selección argentina goleó 3-1 a Suiza, un resultado que desató la alegría popular y reafirmó el buen momento del equipo bajo la dirección de Scaloni. Sin embargo, en un país con urgencias económicas y sociales, cabe preguntarse hasta qué punto el fervor futbolístico opera como una válvula de escape o incluso una distracción masiva de problemas estructurales que persisten.\n\nMientras los festejos inundan las calles, la realidad socioeconómica sigue su curso. ¿Es esta victoria un catalizador para un optimismo más amplio o simplemente un oasis de alegría en un desierto de desafíos? El debate es complejo: ¿puede el éxito deportivo genuinamente elevar el espíritu nacional y la productividad, o su impacto es meramente catártico y temporal, impidiendo una mirada crítica a lo que realmente importa?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-vs-suiza-exito-deportivo-o-distraccion-efimera",
+    "fecha": "2026-07-13",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Superávit energético: ¿logro real o espejismo a costa del pueblo?",
+    "bajada": "El Gobierno celebra cifras récord, pero ¿quién paga el costo de este ajuste macroeconómico?",
+    "cuerpo": "El Gobierno ha anunciado un superávit energético histórico en los primeros seis meses del año, equiparando casi el récord proyectado para todo 2025. Según voceros oficiales, este hito refleja una \"gestión eficiente\" y un camino hacia la \"estabilidad\". Sin embargo, la celebración no es unánime y es crucial analizar el contexto detrás de estas cifras. ¿Cómo se alcanzó este superávit y cuáles son sus verdaderas implicancias para la población?\n\nCríticos señalan que parte de este superávit podría deberse a una fuerte contracción del consumo interno, producto de tarifas elevadas y una economía que frena. La pregunta central es si este \"logro\" beneficia a la ciudadanía en su conjunto o si es el resultado de políticas que profundizan la recesión y el ajuste en los bolsillos de los argentinos. ¿Estamos ante una recuperación sostenible o frente a un equilibrio fiscal que castiga a los sectores productivos y a los consumidores? #ElGobierno #Argentina",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "superavit-energetico-logro-real-o-espejismo-a-costa-del-pueblo",
+    "fecha": "2026-07-13",
+    "imagen": "img/economia_2.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Suiza vs. Argentina: ¿Por qué la brecha económica persiste?",
+    "bajada": "El contraste entre dos naciones nos obliga a reflexionar sobre sus modelos y las decisiones políticas que definen el presente.",
+    "cuerpo": "Mientras Argentina celebraba su victoria futbolística ante Suiza, el análisis económico revela una realidad mucho más compleja y desigual. Suiza, un país 67 veces más pequeño, es una potencia económica con problemas menores, mientras Argentina lucha con desafíos estructurales que parecen inabordables. Esta disparidad no es casualidad; responde a modelos económicos, decisiones políticas y una institucionalidad radicalmente diferente.\n\n¿Qué lecciones no aprendemos de naciones con estabilidad y prosperidad, como Suiza? ¿Por qué Argentina, con vastos recursos naturales y humanos, no logra consolidar un camino de desarrollo sostenido? Es imperativo mirar más allá del resultado deportivo y confrontar las verdaderas razones de nuestras limitaciones, evaluando las responsabilidades de \"El Gobierno\" y de toda la dirigencia en la construcción de un futuro más equitativo. ¿Qué estamos haciendo mal, o qué dejamos de hacer, para que la brecha se siga ampliando?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "5 min",
+    "slug": "suiza-vs-argentina-por-que-la-brecha-economica-persiste",
+    "fecha": "2026-07-13",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Camiseta azul: ¿gesto patriótico o marketing de la nostalgia?",
+    "bajada": "La Selección argentina reedita el color de 1986 contra Inglaterra, ¿es solo una cábala o un mensaje político?",
+    "cuerpo": "La decisión de la Selección argentina de vestir la camiseta azul ante Inglaterra, emulando los recordados partidos de 1986 y 1998, ha encendido la ilusión y la nostalgia de los hinchas. La referencia a la \"Mano de Dios\" y el gol maradoniano de Malvinas en el Mundial de México resuena fuertemente en el imaginario colectivo. Pero, ¿hasta qué punto esta elección es una simple cábala deportiva o un calculado movimiento que busca capitalizar sentimientos patrióticos y un doloroso pasado en el enfrentamiento contra Inglaterra?\n\nMientras algunos ven un homenaje necesario y un recordatorio de nuestra historia, otros se preguntan si no es una forma de instrumentalizar símbolos nacionales para un evento deportivo. ¿Es prudente revivir fantasmas de confrontación, como el recuerdo de Thatcher y Galtieri, en el contexto de un partido de fútbol? O, por el contrario, ¿es una reafirmación identitaria fundamental en un choque de alto voltaje? El debate sobre la simbología y sus límites está abierto.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "camiseta-azul-gesto-patriotico-o-marketing-de-la-nostalgia",
+    "fecha": "2026-07-13",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Grietas en Inglaterra: ¿rival débil o distracción calculada?",
+    "bajada": "Antes del crucial choque con Argentina, el equipo inglés se consume en conflictos internos que podrían favorecer a la Albiceleste.",
+    "cuerpo": "La previa del enfrentamiento entre Argentina e Inglaterra se calienta no solo por el morbo deportivo, sino por la profunda interna que vive el equipo británico. El cruce público entre el entrenador Tuchel y la figura Bellingham ha dividido a la opinión pública inglesa y generado incertidumbre sobre el rendimiento del equipo. ¿Es esta una señal de debilidad que Argentina puede explotar, o un distractor mediático para desviar la atención de la presión del Mundial?\n\nEste tipo de crisis internas, con filtraciones a la prensa y declaraciones cruzadas, son un clásico en los grandes torneos. Sin embargo, en un partido de la magnitud de una semifinal mundialista contra un rival histórico como Argentina, cualquier fisura puede ser determinante. ¿Podrá Inglaterra unirse a pesar de las diferencias o estas tensiones internas les costarán caro?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "grietas-en-inglaterra-rival-debil-o-distraccion-calculada",
+    "fecha": "2026-07-13",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Prensa inglesa: ¿juego sucio o victimismo premeditado?",
+    "bajada": "Acusan a Argentina de jugar \"con doce\", elevando la tensión antes del partido clave. ¿Es una estrategia para presionar?",
+    "cuerpo": "La prensa inglesa ha encendido la previa del partido contra Argentina con una provocadora acusación: la Albiceleste jugaría \"con doce\" en referencia a la supuesta influencia arbitral. Esta declaración, cargada de suspicacia y viejos resquemores, busca sembrar dudas y presionar al cuerpo arbitral antes de una semifinal de altísima tensión. Pero, ¿es esta una crítica genuina o un intento de victimización y manipulación mediática para desestabilizar al rival?\n\nHistóricamente, los enfrentamientos entre Argentina e Inglaterra trascienden lo deportivo, cargados de simbolismos y rivalidades. Esta táctica de la prensa británica, ¿busca deslegitimar una posible victoria argentina o simplemente es parte del \"folklore\" que rodea estos duelos? Es crucial analizar el trasfondo de estas afirmaciones y no caer en la trampa de un debate estéril que desvíe la atención de lo que sucederá en la cancha. ¿Se trata de un juego psicológico o de una estrategia para influir en el resultado?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "prensa-inglesa-juego-sucio-o-victimismo-premeditado",
+    "fecha": "2026-07-13",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Banco de horas: ¿flexibilidad laboral o precarización encubierta?",
+    "bajada": "La nueva normativa laboral del Gobierno genera polémica: ¿beneficia a empresas o recorta derechos a trabajadores?",
+    "cuerpo": "La implementación del \"banco de horas\" en Argentina, impulsada por \"El Gobierno\", ha generado un intenso debate entre diversos sectores. Si bien se presenta como una medida para modernizar la legislación laboral y ofrecer flexibilidad a las empresas y empleados, sus detractores advierten sobre un posible avance hacia la precarización encubierta, especialmente en lo que respecta a las \"horas extras\" que antes significaban un ingreso adicional crucial para muchos.\n\nEmpresarios argumentan que la medida les permitirá gestionar mejor los picos de demanda sin incurrir en costos laborales excesivos, promoviendo la competitividad. Sin embargo, sindicatos y trabajadores expresan preocupación por la pérdida de la compensación por horas extraordinarias y la dilución de derechos adquiridos, lo que podría reducir el poder adquisitivo de los salarios. ¿Es este un paso necesario hacia la modernización o un retroceso en la protección laboral que afectará directamente el bolsillo de millones de argentinos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "banco-de-horas-flexibilidad-laboral-o-precarizacion-encubierta",
+    "fecha": "2026-07-13",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Alerta máxima o histeria mediática? El clásico con Inglaterra y la verdadera tensión",
     "bajada": "Mientras la semifinal de Atlanta acapara titulares, surge la pregunta sobre la manipulación de la expectativa.",
     "cuerpo": "El próximo enfrentamiento entre Argentina e Inglaterra en la semifinal del Mundial ha sido catalogado como de \"alerta máxima\". Esta retórica, que evoca rivalidades históricas y pasiones desmedidas, pone el foco en una tensión que excede lo deportivo. ¿Es este nivel de dramatismo un reflejo genuino de la coyuntura o una estrategia para maximizar audiencias y clicks? La historia entre ambos países, marcada por el conflicto de #Malvinas, sin duda agrega un condimento extra, pero la verdadera \"alerta\" podría estar en cómo ciertos discursos inflan las emociones.\n\nMientras los analistas deportivos debaten formaciones y tácticas, la sociedad argentina se divide entre quienes viven cada partido como una extensión de la identidad nacional y aquellos que cuestionan la politización excesiva del deporte. ¿Qué parte de esta \"alerta máxima\" es un genuino interés por el resultado y cuánto responde a la necesidad de crear un espectáculo de alta intensidad, eclipsando quizás otras realidades nacionales urgentes?",
@@ -9,7 +93,7 @@
     "slug": "alerta-maxima-o-histeria-mediatica-clasico-inglaterra",
     "fecha": "2026-07-13",
     "imagen": "img/politica_7.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Inglaterra, ¿dividida antes de la batalla? Tuchel vs. Bellingham: ¿Un regalo para Argentina?",
@@ -201,90 +285,6 @@
     "slug": "infantino-suiza-y-la-fifa-un-arbitro-imparcial",
     "fecha": "2026-07-12",
     "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Brazalete negro: ¿Duelo nacional o gesto olvidado?",
-    "bajada": "El significado detrás del símbolo que llevó Argentina, ¿es comprendido por todos los hinchas?",
-    "cuerpo": "La Selección Argentina lució un brazalete negro contra Suiza, un gesto de duelo que rara vez es explicado en el fragor de la competencia. ¿Cuántos hinchas realmente conocen el motivo detrás de este símbolo y su implicancia? Este detalle, en un evento de magnitud mundialista, expone la tensión entre el espectáculo deportivo y la memoria colectiva de la nación.\n\nEl fútbol, capaz de unir un país, también puede, paradójicamente, despolitizar o relegar a un segundo plano temas de profunda relevancia social. Mientras celebramos cada gol, ¿estamos prestando la debida atención a los homenajes y a las historias que representan? ¿O la euforia colectiva diluye el mensaje original, convirtiéndolo en un mero adorno sin contenido?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "brazalete-negro-duelo-nacional-o-gesto-olvidado",
-    "fecha": "2026-07-12",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Gol de Mac Allister: ¿Héroes efímeros o legado duradero?",
-    "bajada": "Un gol que desató la alegría nacional, pero ¿cuánto perdura esa euforia en la memoria colectiva?",
-    "cuerpo": "El golazo de Mac Allister contra Suiza desató una oleada de euforia, consolidando la victoria argentina en los cuartos de final. En esos momentos, el país entero vibra al unísono, pero es crucial preguntarse: ¿cuánto tiempo dura este espíritu de unidad y heroísmo más allá del pitido final? ¿Son los futbolistas héroes efímeros cuyo impacto se limita a los 90 minutos, o sus hazañas pueden inspirar un cambio más profundo?\n\nLa sociedad argentina tiene una particularidad en elevar a sus ídolos deportivos a un pedestal casi inalcanzable. Este fenómeno, si bien genera pasión, también puede desviar la atención de problemas urgentes que requieren la misma cohesión y determinación. ¿Qué lecciones de perseverancia y trabajo en equipo podemos extraer de la cancha para aplicarlas en la vida diaria de la nación?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "gol-de-mac-allister-heroes-efimeros-o-legado-duradero",
-    "fecha": "2026-07-12",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Speed en Argentina: ¿Fenómeno viral o superficialidad mediática?",
-    "bajada": "La presencia de influencers globales en la cancha, ¿refleja un genuino interés o una estrategia de marketing?",
-    "cuerpo": "La aparición de la celebridad de internet \"Speed\" con la camiseta argentina en el partido contra Suiza, y su interacción con los hinchas, pone en relieve el impacto de las redes sociales en eventos masivos. ¿Es su presencia una muestra de la globalización del fervor futbolístico o una estrategia calculada para capitalizar la atención en momentos de alta visibilidad? El fenómeno de los influencers cada vez más permea el ámbito deportivo.\n\nEste cruce entre el show deportivo y el espectáculo digital genera preguntas sobre la autenticidad de la pasión de los hinchas y el rol de estas figuras en el fomento del patriotismo. ¿Estamos frente a una nueva forma de vivir el fútbol o a una superficialidad que busca clicks antes que emociones genuinas? La línea entre el fanatismo real y el contenido viral se vuelve cada vez más difusa.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "speed-en-argentina-fenomeno-viral-o-superficialidad-mediatica",
-    "fecha": "2026-07-12",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Milei contra Argentina? El juego político en plena fiebre mundialista.",
-    "bajada": "Mientras el país se une por el fútbol, las tensiones políticas no dan tregua, ¿o sí?",
-    "cuerpo": "En plena efervescencia mundialista, con la nación vibrando al unísono por la Selección, la política sigue su curso con fuertes declaraciones como \"Milei apuesta contra la Argentina\". Este contraste entre la unidad deportiva y la polarización política invita a la reflexión. ¿Es posible dejar de lado las diferencias en pos de un objetivo común, o la grieta es tan profunda que ni el fútbol puede cerrarla?\n\nMientras millones se unen detrás de una misma camiseta, los debates sobre el futuro del país, las medidas económicas y las confrontaciones ideológicas continúan. ¿Es esta una oportunidad perdida para que la dirigencia política capitalice el espíritu de unidad, o es una muestra de que las prioridades son distintas? La pregunta es si la pasión futbolera puede traducirse en compromiso cívico duradero.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-contra-argentina-el-juego-politico-en-plena-fiebre-mundialista",
-    "fecha": "2026-07-12",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿El regreso de Villa: ¿perdón o pragmatismo en Boca Juniors?",
-    "bajada": "La ausencia del colombiano en Salta reaviva el debate sobre su futuro y la moral deportiva en el club.",
-    "cuerpo": "La noticia de que Sebastián Villa no se suma al plantel de Boca para la Copa Argentina, sumada a los rumores de su regreso, desata una ola de preguntas sobre los valores que priman en el fútbol argentino. ¿Es la necesidad deportiva una carta blanca para obviar condenas y controversias, o estamos ante una señal de que el pragmatismo supera cualquier ética en las instituciones más grandes del país? Los hinchas se dividen entre quienes priorizan el rendimiento en cancha y quienes exigen una postura firme ante situaciones extradeportivas.\n\nEste tira y afloja entre la sanción y la posible reinserción de un jugador condenado por violencia de género plantea un precedente delicado. ¿Hasta dónde puede un club, emblema de la sociedad argentina, relativizar ciertas faltas en pos de resultados? La dirigencia, con el ojo puesto en la Copa, deberá justificar una decisión que trascenderá lo meramente futbolístico.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "el-regreso-de-villa-perdon-o-pragmatismo-en-boca-juniors",
-    "fecha": "2026-07-11",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Rattín: ¿Solo una leyenda, o un espejo de un fútbol que ya no existe?",
-    "bajada": "La partida de Antonio Ubaldo Rattín reabre la discusión sobre la identidad perdida del fútbol argentino.",
-    "cuerpo": "El fallecimiento de Antonio Ubaldo Rattín, ícono de Boca Juniors y la Selección Argentina, golpea no solo por la pérdida de un grande, sino por la nostalgia de un fútbol diferente. Rattín representaba la garra, la identificación con la camiseta y una época donde los valores deportivos parecían menos mercantilizados. Su figura, sinónimo de carácter y liderazgo, ¿es un recordatorio incómodo para las generaciones actuales de jugadores y dirigentes?\n\nEste \"Colorado\" no solo lideró en la cancha, sino que se convirtió en un símbolo de resistencia y pasión popular. Su muerte invita a reflexionar: ¿Hemos desvirtuado la esencia del juego en pos de la inmediatez y el negocio? ¿Hay espacio hoy para figuras de su talante, que prioricen el honor deportivo por encima de contratos multimillonarios?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "rattin-solo-una-leyenda-o-un-espejo-de-un-futbol-que-ya-no-existe",
-    "fecha": "2026-07-11",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Milei vs. Messi? La \"campaña anti argentina\" y sus verdaderos enemigos.",
-    "bajada": "Una extraña frase presidencial desata el debate: ¿Quién es el verdadero \"enemigo\" de la Argentina?",
-    "cuerpo": "La polémica frase atribuida a la cúpula del gobierno, que tilda de \"terroristas enemigos de Messi\" a ciertos opositores, desnuda una peligrosa estrategia de polarización. ¿Es necesario recurrir a la figura más querida por los argentinos para deslegitimar a quienes disienten, o es un intento desesperado por desviar la atención de problemas más urgentes? El uso de la imagen de Messi para fines políticos roza lo absurdo y trivializa un debate que debería ser profundo.\n\nEste tipo de retórica, que busca encuadrar a la disidencia como \"anti-argentina\" y \"enemiga\" de sus máximos exponentes culturales, distorsiona la realidad. ¿Quiénes son realmente los que atentan contra el bienestar del país: los que critican una política económica, o quienes construyen enemigos imaginarios para justificar sus propias acciones? Urge un análisis crítico sobre la verdadera agenda detrás de estas declaraciones.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-vs-messi-la-campana-anti-argentina-y-sus-verdaderos-enemigos",
-    "fecha": "2026-07-11",
-    "imagen": "img/politica_2.png",
     "destacada": false
   }
 ]
