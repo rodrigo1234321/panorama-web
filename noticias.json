@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Malvinas: ¿El fútbol borra la historia o es un campo de batalla simbólico?",
+    "bajada": "Veteranos advierten contra la retórica bélica, mientras la pasión popular confunde rivalidad con conflicto.",
+    "cuerpo": "El comunicado de los veteranos de Malvinas resuena con fuerza, pidiendo separar la pasión deportiva de la memoria histórica. En un contexto donde el fervor por el partido Argentina-Inglaterra alcanza niveles de \"revancha\", surge la pregunta sobre cuánto la sociedad argentina ha procesado el trauma de la guerra. ¿Es el deporte un escape o una peligrosa válvula de escape para viejas heridas?\n\nLa dicotomía es clara: mientras algunos claman por la deportividad, otros avivan el fuego de la confrontación histórica. Las redes sociales, espejos amplificados del sentir popular, muestran un mar de comentarios que mezclan el orgullo nacional con un rencor latente. El desafío está en cómo construir una identidad colectiva que honre el pasado sin caer en revanchismos estériles, incluso en la cancha.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "malvinas-el-futbol-borra-la-historia-o-es-un-campo-de-batalla-simbolico",
+    "fecha": "2026-07-14",
+    "imagen": "img/politica_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Levinton vs. Gallagher: ¿Un duelo cultural o pura distracción?",
+    "bajada": "La respuesta argentina a Liam Gallagher en redes ¿es un chiste o un acto de soberanía cultural?",
+    "cuerpo": "Joaquín Levinton se sumó al picante cruce tuitero con Liam Gallagher, replicando su provocación con una versión \"argentinizada\" de Wonderwall. Este intercambio, viralizado en X, nos obliga a preguntarnos si la batalla cultural se gana con memes y canciones adaptadas o si es una cortina de humo ante debates más profundos. ¿Es el ingenio popular un bálsamo o una forma de evitar la crítica seria?\n\nMientras la Selección se prepara para la semifinal, figuras de la cultura pop argentina y británica se tiran \"palitos\" virtuales. La reacción masiva demuestra la importancia que la gente le da a estos gestos. Pero, ¿realmente contribuyen a algo más allá de la risa momentánea? ¿O es otra forma de desviar la atención de problemas urgentes que merecen una respuesta más contundente que una canción reversionada?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "levinton-vs-gallagher-un-duelo-cultural-o-pura-distraccion",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Gallagher agita la grieta tuitera: ¿simple fan o provocador serial?",
+    "bajada": "Liam Gallagher puso picante la previa del partido, ¿pero es legítimo su \"odio\" futbolístico?",
+    "cuerpo": "El músico británico Liam Gallagher encendió las redes sociales con su mensaje provocador antes de la semifinal. Su aparente desprecio por la selección argentina generó una ola de reacciones en X, desde insultos hasta respuestas creativas. La pregunta es: ¿se trata de un simple fanático expresando su pasión o un personaje público buscando polémica para seguir en el centro de la escena, aprovechándose de una rivalidad histórica?\n\nLa delgada línea entre el humor y la agresión se difumina cuando figuras internacionales se suman al \"folklore\" del fútbol. ¿Hasta qué punto la personalidad de Gallagher justifica sus dichos, y qué tan rápido la sociedad argentina replica el odio en lugar de tomarlo con un grano de sal? Este tipo de intercambios revelan más sobre nuestra propia susceptibilidad que sobre las verdaderas intenciones del artista.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "gallagher-agita-la-grieta-tuitera-simple-fan-o-provocador-serial",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Maradona, Boca y Argentina: un amor-odio inglés eterno?",
+    "bajada": "Un inglés que ama Argentina revela el rencor persistente en su país por Diego y el pasado.",
+    "cuerpo": "La historia del futbolista inglés que jugó en El Porvenir y se enamoró de Argentina y de Boca Juniors es un contrapunto fascinante a la belicosidad que rodea la previa del partido con Inglaterra. Su testimonio, al afirmar que \"en Inglaterra tienen rencor por Maradona\", expone una verdad incómoda: la rivalidad futbolística trasciende lo deportivo y se arraiga en heridas históricas y culturales. ¿Es solo Maradona el eje del conflicto o un símbolo de algo más profundo?\n\nEste relato nos obliga a mirar más allá del presente y entender cómo el pasado, tanto la Guerra de Malvinas como la \"Mano de Dios\", sigue configurando la percepción mutua entre ambas naciones. Mientras algunos buscan lazos, la narrativa predominante, especialmente en fechas clave como esta semifinal, insiste en la confrontación. ¿Podremos alguna vez, como sociedades, trascender los íconos del rencor para construir un puente de entendimiento?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "maradona-boca-y-argentina-un-amor-odio-ingles-eterno",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Saint Etienne 98: ¿Revancha o eco de viejas heridas?",
+    "bajada": "La memoria del Mundial 98 revive tensiones, ¿pero realmente ayuda a comprender la rivalidad actual?",
+    "cuerpo": "El recuerdo del dramático partido entre Argentina e Inglaterra en el Mundial 1998 resurge en la víspera de la nueva semifinal. Se lo presenta como un hito de la \"rivalidad histórica\", pero ¿hasta qué punto revivir estos momentos contribuye a la emoción del presente o simplemente refuerza narrativas anacrónicas de confrontación? ¿Estamos condenados a repetir los dramas del pasado en cada encuentro futbolístico, en lugar de construir nuevas historias?\n\nLa prensa y la memoria colectiva se regodean en el pasado, desde Malvinas hasta los encuentros más icónicos en la cancha. Sin embargo, este constante retorno al pasado impide analizar el presente del fútbol y las sociedades con una mirada más crítica y constructiva. ¿Es la nostalgia de la \"épica\" de 1998 una forma de evitar la reflexión sobre el estado actual de las relaciones y el deporte? ¿Qué aprendimos realmente de aquel Saint Etienne?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "saint-etienne-98-revancha-o-eco-de-viejas-heridas",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿La prensa inglesa busca desestabilizar o revela verdades?",
+    "bajada": "Un diario británico apunta al \"punto débil\" argentino. ¿Es análisis táctico o guerra psicológica previa al match?",
+    "cuerpo": "Un informe de un reconocido diario inglés, señalando un supuesto \"punto débil\" en la Selección Argentina, abre un debate sobre el rol de la prensa en las grandes citas deportivas. ¿Se trata de un análisis puramente táctico, un intento genuino de informar, o es una estrategia de guerra psicológica para desestabilizar al rival antes de una semifinal de alto voltaje? La línea entre el periodismo deportivo y la operación mediática es cada vez más difusa.\n\nEstas publicaciones, que rápidamente se replican en medios argentinos, generan ansiedad y discusiones interminables en redes sociales. El objetivo no solo es informar a sus lectores, sino también influir en la percepción pública y la confianza del equipo contrario. ¿Somos los argentinos lo suficientemente críticos para discernir estas intenciones, o nos dejamos llevar por la narrativa que viene del \"enemigo\"? El partido se juega también en los titulares y las pantallas.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "la-prensa-inglesa-busca-desestabilizar-o-revela-verdades",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina 3-1 Suiza: ¿Victoria sin debate profundo?",
+    "bajada": "El triunfo ante Suiza fue celebrado, pero ¿oculta la euforia los desafíos pendientes de la Selección?",
+    "cuerpo": "La victoria de Argentina 3-1 sobre Suiza generó el entusiasmo esperado, especialmente con la mirada puesta en la próxima semifinal contra Inglaterra. Sin embargo, ¿esta alegría efímera nos permite un análisis crítico sobre el rendimiento real del equipo, o simplemente refuerza la complacencia ante el éxito? Panorama.ar invita a ir más allá del resultado y cuestionar las verdaderas fortalezas y debilidades que persisten.\n\nAunque el resultado es inobjetable, la forma en que se consiguió y las falencias que aún se observan merecen un escrutinio. Los festejos masivos en redes sociales y la prensa, ¿sirven para generar un debate constructivo o solo refuerzan el pensamiento único de la victoria a toda costa? Es crucial preguntarse si estamos priorizando la euforia sobre la autocrítica necesaria para un equipo que aspira a grandes cosas.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "argentina-3-1-suiza-victoria-sin-debate-profundo",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
     "titulo": "Malvinas y el fútbol: ¿Sentimiento o estrategia en la rivalidad con Inglaterra?",
     "bajada": "La conexión entre la causa Malvinas y el fervor futbolístico resurge, generando un debate sobre su verdadera naturaleza.",
     "cuerpo": "Año tras año, cada enfrentamiento deportivo entre Argentina e Inglaterra reaviva la herida abierta de Malvinas. Este vínculo inquebrantable, que para muchos es una muestra genuina de patriotismo y memoria, para otros se ha convertido en una estrategia discursiva que difumina la complejidad política de la soberanía. ¿Es el campo de juego el lugar adecuado para saldar deudas históricas o simplemente se instrumentaliza un dolor nacional?\n\nLa pasión futbolística, canalizadora de emociones colectivas, se entrelaza con la memoria de la guerra, transformando cada partido en un símbolo de revancha. Analistas señalan que esta fusión puede ser tanto una herramienta para mantener viva la demanda por las islas, como un arma de doble filo que simplifica y reduce un conflicto geopolítico a un mero evento deportivo. ¿Hasta dónde esta simbiosis ayuda a la causa o la trivializa en la arena mediática?",
@@ -9,7 +93,7 @@
     "slug": "malvinas-futbol-sentimiento-o-estrategia",
     "fecha": "2026-07-14",
     "imagen": "img/politica_3.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "'86: Argentina-Inglaterra. ¿Solo un partido, o una guerra sin armas en las tribunas?",
@@ -201,90 +285,6 @@
     "slug": "afa-pide-ventaja-fifa-inglaterra-pedido-especial",
     "fecha": "2026-07-13",
     "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina vs. Inglaterra: Más que fútbol, una historia de rivalidad ¿Quién domina realmente?",
-    "bajada": "Un repaso por los números de un clásico que trasciende la cancha y reaviva viejas heridas.",
-    "cuerpo": "El historial de enfrentamientos entre Argentina e Inglaterra es más que una simple estadística deportiva; es el reflejo de una rivalidad profunda, marcada por eventos históricos y culturales que han trascendido las canchas. Desde los polémicos partidos de mundiales hasta los cruces más recientes, cada encuentro reaviva la memoria colectiva, especialmente el recuerdo de la Guerra de #Malvinas. Mientras los puristas del fútbol se concentran en las cifras de victorias y derrotas, para muchos #Argentinas, cada partido contra Inglaterra es una oportunidad para reafirmar la identidad nacional.\n\nLos datos revelan una paridad sorprendente, con momentos icónicos que definieron eras y generaron héroes y villanos en ambos lados. ¿Es justo reducir esta compleja relación a un mero balance de triunfos? ¿O deberíamos analizar cómo el fútbol se convierte en un campo simbólico donde se disputan narrativas históricas y orgullos nacionales? Este choque, más allá del resultado, sigue siendo un termómetro de una tensión que se niega a desaparecer, manteniendo vivo el debate sobre el verdadero significado de la victoria.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-inglaterra-mas-que-futbol-historia-rivalidad",
-    "fecha": "2026-07-13",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Copa Argentina: ¿River y Boca, el plato fuerte o una decepción anunciada para los \"grandes\"?",
-    "bajada": "Con la vuelta del certamen, la expectativa por los clásicos contrasta con la fragilidad de los equipos grandes.",
-    "cuerpo": "La Copa Argentina ha regresado, y con ella, la ilusión de ver a los \"grandes\" definir el torneo. Con 12 equipos ya en octavos, la atención se centra en cómo River y Boca, siempre protagonistas, completarán los 16avos. Sin embargo, la historia reciente del torneo muestra que no siempre los favoritos prevalecen. Equipos de menor categoría han dado sorpresas, eliminando a gigantes con presupuestos millonarios. ¿Es la Copa Argentina un verdadero termómetro del fútbol federal o un escenario donde los grandes, a veces con formaciones alternativas, corren riesgos innecesarios?\n\nLa presencia de figuras como \"Román\" Riquelme en la gestión de Boca o la injerencia de exjugadores en River, a menudo genera debates sobre la gestión deportiva. ¿Hasta qué punto la estructura de un club o la presencia de sus ídolos garantiza un rendimiento? La Copa Argentina, con su formato de eliminación directa, es un recordatorio agudo de que la lógica no siempre se impone, y que incluso los equipos más grandes pueden \"BOQUEAR\" y caer en cualquier momento, generando frustración entre los hinchas.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "copa-argentina-river-boca-plato-fuerte-decepcion",
-    "fecha": "2026-07-13",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El Mundial mata: ¿La pasión futbolera es un riesgo para el corazón argentino?",
-    "bajada": "La muerte de un hincha durante un partido de la Selección enciende una alarma preocupante para la salud pública.",
-    "cuerpo": "La reciente noticia de la muerte de un hincha por un infarto durante el partido entre Argentina y Suiza ha conmocionado a la opinión pública y encendido las alarmas entre los profesionales de la salud. Cardiologos advierten sobre un patrón preocupante: el estrés y la emoción extrema asociados a los partidos de alta tensión de la Selección Argentina pueden ser desencadenantes de eventos cardíacos. Este fenómeno, lejos de ser aislado, se repite en cada gran certamen futbolístico, llevando a cuestionar hasta qué punto la pasión desmedida se convierte en un riesgo vital para la población.\n\nLos datos sugieren que el aumento de emergencias cardíacas durante eventos deportivos masivos es una realidad. ¿Estamos, como sociedad, subestimando los efectos fisiológicos de la euforia y la frustración? ¿Deberían las campañas de concientización ir más allá de los riesgos tradicionales y abordar también el impacto de las emociones intensas en la salud cardiovascular? Es un debate necesario que trasciende el ámbito deportivo y nos interpela sobre cómo vivimos nuestras pasiones y cuidamos la salud de los #Argentinas.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mundial-mata-pasion-futbolera-riesgo-corazon-argentino",
-    "fecha": "2026-07-13",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿FIFA \"ayuda\" a Argentina o siembra dudas? El rol del organismo bajo escrutinio",
-    "bajada": "Una lista de supuestas \"ayudas\" de la FIFA a la Selección Argentina genera polémica y reabre el debate sobre la transparencia.",
-    "cuerpo": "Un informe detalla una serie de presuntas \"ayudas\" que la FIFA habría otorgado a la Selección Argentina a lo largo de su historia. Desde decisiones arbitrales controvertidas hasta ventajas logísticas en torneos importantes, la compilación de estos datos reaviva viejas teorías conspirativas y pone bajo el microscopio la relación entre la entidad madre del fútbol mundial y una de las selecciones más poderosas. ¿Son estas \"ayudas\" meros beneficios protocolarios o un indicio de un trato preferencial que afecta la integridad del deporte? La credibilidad de la FIFA, ya golpeada por escándalos de corrupción, vuelve a estar en el centro de la escena.\n\nPara los detractores, esta lista es una prueba más de que el fútbol no siempre es limpio. Para los defensores, se trata de una lectura sesgada o de una campaña para deslegitimar los triunfos argentinos. En un contexto donde la influencia política y económica en el deporte es cada vez más visible, la pregunta sobre la equidad y la meritocracia se vuelve crucial. ¿Hasta qué punto podemos confiar en que los resultados en el campo son producto únicamente del talento y el esfuerzo, o hay fuerzas externas que, sutilmente, inclinan la balanza?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "fifa-ayuda-argentina-siembra-dudas-organismo-escrutinio",
-    "fecha": "2026-07-13",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Victoria sufrida o falta de contundencia? El calvario Albiceleste",
-    "bajada": "La Selección venció a Suiza, pero la agonía ante diez hombres desata preguntas sobre su verdadero nivel y gestión del partido.",
-    "cuerpo": "Argentina avanzó a semifinales tras un partido que dejó más dudas que certezas. Ante una Suiza que jugó gran parte del encuentro con un hombre menos, la \"Scaloneta\" no logró imponer su jerarquía, estirando la definición a la prórroga y generando una angustia innecesaria en la hinchada. ¿Es este un síntoma de cansancio o una preocupante falta de ideas para cerrar encuentros clave?\n\nLa épica del sufrimiento, tan arraigada en el fútbol argentino, ¿es realmente un mérito o encubre falencias tácticas que rivales como Inglaterra podrían explotar sin piedad? Los datos revelan que la posesión no se tradujo en ocasiones claras y que la defensa mostró fisuras evitables. ¿Hasta cuándo dependeremos de destellos individuales y la fortuna para sortear obstáculos que deberían ser menores?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "victoria-sufrida-o-falta-de-contundencia-el-calvario-albiceleste",
-    "fecha": "2026-07-12",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Julián Alvarez brilló, ¿el resto se arrastró? El cansancio Albiceleste",
-    "bajada": "Mientras la \"Araña\" salvó el partido, el resto del equipo mostró signos evidentes de fatiga, ¿alcanzará contra Inglaterra?",
-    "cuerpo": "La actuación de Julián Álvarez fue, sin dudas, el punto más alto del encuentro contra Suiza, con un golazo que desequilibró la balanza. Sin embargo, el análisis crudo revela un equipo con las piernas pesadas, donde la mayoría de los jugadores no logró mantener la intensidad durante los 90 minutos reglamentarios, forzando un alargue agotador.\n\nEsta situación genera una preocupación real de cara al decisivo choque contra Inglaterra. ¿Es sostenible el nivel de exigencia física de la \"Scaloneta\" o estamos forzando una maquinaria que ya muestra sus límites? Los preparadores físicos y el cuerpo técnico deben dar respuestas urgentes. ¿Será la frescura el factor clave que defina el pase a la final o se impondrá la \"garra\" argentina a pesar del desgaste?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "julian-alvarez-brillo-el-resto-se-arrastro-el-cansancio-albiceleste",
-    "fecha": "2026-07-12",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Con \"doce\" o con garra? La provocación inglesa en la antesala del clásico",
-    "bajada": "La prensa británica acusa a Argentina de ayuda arbitral, encendiendo la polémica antes del choque crucial en semifinales.",
-    "cuerpo": "La prensa inglesa no perdió el tiempo y ya lanzó su primera gran provocación de cara a la semifinal, acusando a Argentina de jugar \"con doce\" en referencia a supuestas ayudas arbitrales. Esta narrativa, que busca deslegitimar el triunfo albiceleste y presionar al arbitraje, ignora deliberadamente el contexto del partido contra Suiza y la inferioridad numérica del rival por expulsión.\n\nEs un clásico movimiento de \"fair play\" británico que, curiosamente, siempre se activa cuando enfrentan a la Selección Argentina. La historia está plagada de estos juegos mediáticos que buscan desestabilizar. ¿Es ingenuidad creer que estas declaraciones no buscan sembrar dudas y presionar a los jueces, o estamos ante una nueva versión del \"vale todo\" para conseguir una ventaja psicológica? La batalla ya empezó fuera de la cancha.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "con-doce-o-con-garra-la-provocacion-inglesa-en-la-antesala-del-clasico",
-    "fecha": "2026-07-12",
-    "imagen": "img/politica_5.png",
     "destacada": false
   }
 ]
