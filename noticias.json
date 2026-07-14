@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "España humilla a Francia: ¿fin del reinado galo o solo un traspié en el Mundial?",
+    "bajada": "La Roja dio un golpe de autoridad ante una selección francesa desdibujada, pero ¿refleja este resultado la verdadera jerarquía europea?",
+    "cuerpo": "La victoria de España 2-0 sobre Francia en el Mundial 2026 sacudió el panorama futbolístico. Con figuras como Rodri y Lamine Yamal brillando, el equipo español mostró una contundencia alarmante para sus rivales. Deschamps y sus dirigidos, que contaban con Dembelé y Olise, se vieron superados, evidenciando una falta de cohesión y sorpresa en su juego.\n\nEste resultado plantea serias dudas sobre el verdadero potencial de Francia en el torneo, un equipo que venía con altas expectativas. Mientras España celebra su solidez, la derrota gala genera un debate sobre la resiliencia de las grandes potencias futbolísticas y si este tropiezo es una señal de alarma temprana o una simple jornada desafortunada.\n\n¿Estamos presenciando un cambio de guardia en la élite del fútbol europeo o es prematuro sacar conclusiones definitivas? El Mundial es largo, pero esta derrota resonará.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "espana-humilla-a-francia-fin-del-reinado-galo",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Censura en el Mundial: ¿Malvinas son una provocación o un símbolo irrenunciable?",
+    "bajada": "La FIFA prohibió símbolos de Malvinas en el partido Argentina-Inglaterra, reavivando un debate que trasciende lo deportivo.",
+    "cuerpo": "La advertencia de la FIFA sobre la prohibición de banderas y camisetas con simbología de Malvinas en el partido entre Argentina e Inglaterra desató una ola de indignación y debate. Para muchos argentinos, las Islas son un símbolo innegociable de soberanía nacional y memoria histórica, y su visibilización en un evento de tanta magnitud como el Mundial es considerada un acto de reafirmación.\n\nDesde la óptica de la FIFA, cualquier manifestación política o histórica que pueda \"provocar\" o generar conflictos está vedada. Sin embargo, para gran parte de la opinión pública argentina, despojar a los hinchas de estos símbolos es una forma de censura que ignora una herida abierta y una causa nacional. El fútbol, ¿es una plataforma para recordar nuestras luchas o debe ser un espacio sanitizado de toda controversia?\n\n¿Quién define lo que es una provocación y dónde queda la libertad de expresión frente a un conflicto histórico aún no resuelto? La polémica va más allá del juego.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "censura-en-el-mundial-malvinas-provocacion-o-simbolo",
+    "fecha": "2026-07-14",
+    "imagen": "img/politica_7.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Humor diplomático: ¿desdramatizar o subestimar la rivalidad Argentina-Inglaterra?",
+    "bajada": "La Embajada británica apeló al ingenio en redes sociales antes del clásico, pero ¿cuánto es humor y cuánto es un mensaje político?",
+    "cuerpo": "La Embajada británica sorprendió con un posteo irónico en X: \"El horno no está para bollos\", antes de la semifinal entre Argentina e Inglaterra. La iniciativa, interpretada como un intento de desdramatizar la histórica rivalidad, generó reacciones encontradas en las redes. Mientras algunos elogiaron la \"viveza\" diplomática, otros cuestionaron la ligereza con la que se aborda un partido cargado de simbolismo y memorias, especialmente las de Malvinas.\n\nEste tipo de comunicaciones, ¿contribuyen a bajar la tensión o, por el contrario, pueden ser leídas como una subestimación de los sentimientos nacionales? En un país donde el fútbol y la política están tan entrelazados, cada palabra, incluso las humorísticas, son analizadas bajo una lupa.\n\n¿Puede el humor sanar heridas históricas o, en contextos sensibles, solo las roza y las reaviva? La diplomacia en redes, ¿es un arte o un campo minado?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "humor-diplomatico-rivalidad-argentina-inglaterra",
+    "fecha": "2026-07-14",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Agresión en Qatar: ¿es el Mundial una burbuja de impunidad para los violentos?",
+    "bajada": "Una periodista argentina denunció un intento de abuso en plena cobertura, evidenciando los peligros que enfrentan las mujeres en grandes eventos.",
+    "cuerpo": "En medio de la euforia mundialista, la cruda denuncia de una periodista argentina que sufrió un intento de abuso en Qatar encendió las alarmas y puso de manifiesto una vez más la vulnerabilidad de las mujeres, incluso en contextos de alta visibilidad. El video del agresor, difundido por la víctima, es un recordatorio de que la violencia de género no conoce fronteras ni se detiene ante la magnitud de un evento deportivo.\n\nEste lamentable episodio abre el interrogante sobre la seguridad real para las mujeres que viajan a cubrir o asistir a estos megaeventos. ¿Son las autoridades locales y organizadores lo suficientemente estrictos y eficientes en la prevención y sanción de estos crímenes? La sombra de la impunidad sigue siendo una preocupación global.\n\n¿Hasta cuándo tendremos que lamentar que la pasión deportiva sea utilizada como coartada para la agresión y el acoso? ¿Estamos realmente protegiendo a quienes forman parte del espectáculo, o los dejamos a su suerte?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "agresion-en-qatar-mundial-impunidad-violentos",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Asueto por fútbol? El dilema entre la pasión nacional y la productividad estatal.",
+    "bajada": "ATE solicitó al Gobierno un asueto administrativo para ver el partido Argentina-Inglaterra, reavivando una vieja polémica.",
+    "cuerpo": "La Central de Trabajadores Argentinos (ATE) solicitó al Gobierno un asueto administrativo para que los empleados públicos puedan ver la semifinal entre Argentina e Inglaterra. La medida, que ha sido recurrente en otros mundiales, reabre el debate sobre el equilibrio entre la pasión nacional por el fútbol y la eficiencia en la administración pública. Mientras algunos argumentan que es una forma de fomentar la unidad y el \"aguante\" a la Selección, otros critican el costo económico y la paralización de servicios que implica para el Estado.\n\n¿Es prioritario el espectáculo deportivo sobre la continuidad de las tareas administrativas? En un contexto de ajuste y reclamo por la productividad, la discusión se vuelve más aguda. Los defensores del asueto señalan que es un \"derecho\" adquirido y un momento de descarga colectiva. Los críticos, en cambio, ven un privilegio que profundiza la grieta entre el sector público y el privado, donde no existen tales licencias.\n\n¿El fútbol justifica la interrupción de la jornada laboral en el sector público? ¿O es hora de repensar estas costumbres para una Argentina más productiva?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "asueto-por-futbol-pasion-nacional-vs-productividad",
+    "fecha": "2026-07-14",
+    "imagen": "img/politica_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Guerra mediática: ¿los tabloides ingleses ya arman la polémica arbitral contra Argentina?",
+    "bajada": "Antes del pitazo inicial, la prensa británica apunta al árbitro de la semifinal, buscando sembrar dudas y presionar.",
+    "cuerpo": "Los titulares provocadores de los diarios ingleses sobre el árbitro de la semifinal entre Argentina e Inglaterra no sorprenden, pero sí encienden las alarmas. Con la memoria del \"robo\" del 86 o la \"mano de Dios\" aún fresca, la prensa británica parece iniciar una campaña de presión y deslegitimación previa al encuentro. Acusaciones veladas y referencias históricas se mezclan para crear un clima de suspicacia en torno a la imparcialidad del juez.\n\nEsta estrategia mediática, ¿busca influir en la decisión arbitral o simplemente es una forma de calentar el partido y alimentar el morbo? Mientras el equipo argentino se enfoca en lo deportivo, la cancha mediática ya está en juego. La presión es una táctica antigua en el fútbol, y los tabloides británicos son expertos en ella.\n\n¿Es justo que el árbitro sea blanco de un ataque preventivo? ¿O es la \"guerra mediática\" una parte inseparable de los clásicos que exigen una mirada crítica?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "guerra-mediatica-tabloides-ingleses-polemica-arbitral",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Anya Taylor-Joy y el dilema nacional: ¿de qué lado está la famosa 'argenti-inglesa'?",
+    "bajada": "La actriz con doble nacionalidad confesó por quién hinchará en la semifinal, reavivando el debate sobre identidad y pertenencia.",
+    "cuerpo": "La expectativa por la semifinal entre Argentina e Inglaterra llegó incluso a Hollywood, con Anya Taylor-Joy, la actriz de orígenes \"argenti-ingleses\", revelando su preferencia. Su declaración, aunque personal, reavivó un debate más profundo: ¿cómo gestionan su identidad aquellos que comparten raíces en naciones con historias tan complejas y rivalidades latentes? Para muchos, tomar partido es ineludible, mientras que otros buscan un punto de encuentro en la diversidad.\n\nEste tipo de manifestaciones públicas, ¿ayudan a humanizar los conflictos o, por el contrario, refuerzan la necesidad de elegir un bando? La figura de Anya Taylor-Joy, una celebridad global, pone de manifiesto cómo las fronteras culturales se diluyen, pero las pasiones nacionales persisten con fuerza.\n\n¿Es posible ser \"de los dos lados\" cuando la historia y la pasión nos empujan a una elección? El dilema de la identidad, ¿es un juego o una responsabilidad?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "anya-taylor-joy-dilema-nacional-argenti-inglesa",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Derrota francesa: fin de una era o alarma temprana para las potencias?",
     "bajada": "La sorpresiva caída de Francia ante España en el Mundial 2026 genera interrogantes sobre el futuro del gigante europeo y el impacto de sus estrellas.",
     "cuerpo": "La derrota 2-0 de Francia a manos de España en el Mundial 2026 no es un resultado menor. Más allá del marcador, el desempeño del conjunto galo, con figuras como Dembele y Rabiot en la cancha, dejó entrever falencias que preocupan a su afición y al análisis futbolístico global. ¿Están sus figuras rindiendo al nivel esperado, o es el sistema táctico de Deschamps el que empieza a mostrar grietas ante rivales de peso?\n\nEste revés reabre el debate sobre la renovación de planteles en las selecciones top. Mientras España mostró solidez y una nueva generación de talentos, el esquema francés pareció estancado. La ausencia de un impacto decisivo de jugadores clave plantea la pregunta de si la \"generación dorada\" está perdiendo su brillo o si se necesita una reingeniería profunda.\n\n¿Qué tan lejos está Francia de sus aspiraciones mundialistas después de esta contundente actuación?",
@@ -33,7 +117,7 @@
     "slug": "malvinas-en-qatar-censura-o-regla-deportiva",
     "fecha": "2026-07-14",
     "imagen": "img/politica_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "¿Asueto por fútbol? El dilema entre la pasión y la productividad nacional",
@@ -201,90 +285,6 @@
     "slug": "diplomacia-deportiva-o-provocacion-sutil-britanica-en-la-previa",
     "fecha": "2026-07-14",
     "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Prensa inglesa: ¿Campaña de presión o simple estrategia de cancha?",
-    "bajada": "Los diarios británicos atacan al árbitro de Argentina-Inglaterra con titulares provocadores. ¿Buscan influir o es parte del show mediático?",
-    "cuerpo": "La semifinal entre Argentina e Inglaterra ya se juega fuera de la cancha, con los diarios ingleses lanzando una ofensiva mediática centrada en el árbitro del encuentro. Titulares provocadores y análisis sesgados sobre su historial buscan sembrar dudas y presionar a la terna arbitral, reviviendo el clásico juego psicológico que precede a cada gran choque. ¿Es esta una estrategia legítima para influir en la dinámica del partido o una peligrosa campaña de desprestigio que socava la imparcialidad?\n\nDesde la prensa argentina, estas movidas son interpretadas como un intento de desestabilizar al equipo y al entorno arbitral, recordando episodios pasados donde las decisiones en el campo fueron decisivas y generaron controversia. La historia entre ambas selecciones está plagada de encuentros donde la figura del árbitro ha sido central, y los medios, tanto de un lado como del otro, han sabido capitalizar esa tensión.\n\nLa cuestión es si este periodismo combativo realmente afecta el desempeño en el campo. ¿Los árbitros son inmunes a la presión mediática o estas campañas previas pueden tener un impacto sutil, pero significativo? ¿Hasta qué punto la narrativa pre-partido se convierte en parte del \"juego\"?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "prensa-inglesa-campana-de-presion-o-simple-estrategia-de-cancha",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Leyendas inglesas: ¿Miedo real o estrategia para desviar la atención?",
-    "bajada": "Exjugadores británicos expresan su preocupación por enfrentar a Argentina. ¿Será un reconocimiento sincero o un intento de subestimar al rival?",
-    "cuerpo": "A medida que se acerca el enfrentamiento con Argentina, leyendas del fútbol inglés han manifestado una inusual preocupación por el rendimiento de su selección. Declaraciones como \"es algo preocupante\" o \"Argentina es un rival temible\" han resonado en los medios británicos, generando un debate: ¿es este un temor genuino por la potencia de la Scaloneta, o una estrategia calculada para bajar la presión sobre sus propios jugadores y, a su vez, aumentar la confianza de los argentinos, buscando una potencial relajación?\n\nEl historial de rivalidad entre ambas naciones está lleno de momentos de tensión y declaraciones que buscan incidir en la moral del adversario. No es casual que figuras con experiencia en estos choques elijan un momento tan crucial para hacer públicas sus inquietudes. Esta táctica, vieja como el fútbol mismo, intenta jugar con la psicología antes que con la pelota.\n\nPero, ¿realmente influyen estas palabras en el ánimo de los equipos profesionales? ¿O son solo ruido mediático para los aficionados? La balanza entre el respeto sincero y el juego psicológico es muy fina. ¿Cuál es el verdadero mensaje detrás de esta \"guardia alta\"?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "leyendas-inglesas-miedo-real-o-estrategia-para-desviar-la-atencion",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Anya Taylor-Joy: ¿Identidad dividida o mero reflejo de la tensión binacional?",
-    "bajada": "La actriz anglo-argentina enfrenta un dilema antes del partido: su elección expone la complejidad de la identidad en tiempos de rivalidad.",
-    "cuerpo": "La actriz Anya Taylor-Joy, con raíces anglo-argentinas, se ha convertido en el centro de atención al revelar su \"estrés\" por tener que elegir entre Argentina e Inglaterra en la inminente semifinal. Su dilema personal, publicitado por varios medios, pone de manifiesto una faceta poco explorada de esta histórica rivalidad: la de aquellos individuos cuya identidad se nutre de ambas culturas. ¿Es su exposición un reflejo superficial del fanatismo o una oportunidad para reflexionar sobre la complejidad de las identidades binacionales en contextos de conflicto?\n\nPara muchos, la fidelidad a una bandera es innegociable, pero la realidad es que el mundo está cada vez más interconectado, y hay quienes, como Taylor-Joy, encarnan la \"doble nacionalidad\" no solo en un papel, sino en su propia esencia. Su situación resalta que más allá de la pasión futbolística, existen lazos familiares, afectivos y culturales que trascienden las fronteras y las disputas.\n\n¿Su \"conflicto interno\" es un simple anécdota o una metáfora de una sociedad globalizada que aún no sabe cómo gestionar las lealtades divididas? ¿Debería el deporte unir o estas rivalidades históricas siempre terminarán por polarizar?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "anya-taylor-joy-identidad-dividida-o-mero-reflejo-de-la-tension-binacional",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Reino Unido dividido? Escocés elige a Argentina sobre Inglaterra.",
-    "bajada": "Un escocés residente en Argentina apoya a la Selección, un guiño a la histórica rivalidad británica que resuena en el Mundial.",
-    "cuerpo": "Mientras la tensión entre Argentina e Inglaterra crece, un giro inesperado añade otra capa a la compleja dinámica del #ElPartido: un ciudadano escocés, residente en Argentina, ha declarado su apoyo incondicional a la Albiceleste. Este gesto, más allá de la anécdota, resalta las propias divisiones internas del Reino Unido, donde la histórica aversión de Escocia hacia Inglaterra se manifiesta incluso en el ámbito deportivo internacional. ¿Es una simple preferencia personal o un síntoma de una identidad nacional escocesa que busca diferenciarse de la inglesa, incluso en el fútbol?\n\nLa noticia no solo aprovecha la tendencia de \"Escocia\" sino que también invita a reflexionar sobre la complejidad de las relaciones dentro de las islas británicas, donde las pasiones deportivas a menudo se entrelazan con sentimientos nacionalistas y rivalidades históricas. El \"enemigo de mi enemigo es mi amigo\" parece jugar un rol aquí, con el escocés encontrando un punto de unión con Argentina a través de la oposición a un rival común.\n\n¿Hasta qué punto la política y la historia interna de un país pueden influir en la forma en que sus ciudadanos se posicionan frente a eventos deportivos globales? ¿Es el fútbol un mero entretenimiento o un espejo de tensiones y alianzas geopolíticas más profundas?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "reino-unido-dividido-escoces-elige-a-argentina-sobre-inglaterra",
-    "fecha": "2026-07-14",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Malvinas: ¿El fútbol borra la historia o es un campo de batalla simbólico?",
-    "bajada": "Veteranos advierten contra la retórica bélica, mientras la pasión popular confunde rivalidad con conflicto.",
-    "cuerpo": "El comunicado de los veteranos de Malvinas resuena con fuerza, pidiendo separar la pasión deportiva de la memoria histórica. En un contexto donde el fervor por el partido Argentina-Inglaterra alcanza niveles de \"revancha\", surge la pregunta sobre cuánto la sociedad argentina ha procesado el trauma de la guerra. ¿Es el deporte un escape o una peligrosa válvula de escape para viejas heridas?\n\nLa dicotomía es clara: mientras algunos claman por la deportividad, otros avivan el fuego de la confrontación histórica. Las redes sociales, espejos amplificados del sentir popular, muestran un mar de comentarios que mezclan el orgullo nacional con un rencor latente. El desafío está en cómo construir una identidad colectiva que honre el pasado sin caer en revanchismos estériles, incluso en la cancha.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "malvinas-el-futbol-borra-la-historia-o-es-un-campo-de-batalla-simbolico",
-    "fecha": "2026-07-14",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Levinton vs. Gallagher: ¿Un duelo cultural o pura distracción?",
-    "bajada": "La respuesta argentina a Liam Gallagher en redes ¿es un chiste o un acto de soberanía cultural?",
-    "cuerpo": "Joaquín Levinton se sumó al picante cruce tuitero con Liam Gallagher, replicando su provocación con una versión \"argentinizada\" de Wonderwall. Este intercambio, viralizado en X, nos obliga a preguntarnos si la batalla cultural se gana con memes y canciones adaptadas o si es una cortina de humo ante debates más profundos. ¿Es el ingenio popular un bálsamo o una forma de evitar la crítica seria?\n\nMientras la Selección se prepara para la semifinal, figuras de la cultura pop argentina y británica se tiran \"palitos\" virtuales. La reacción masiva demuestra la importancia que la gente le da a estos gestos. Pero, ¿realmente contribuyen a algo más allá de la risa momentánea? ¿O es otra forma de desviar la atención de problemas urgentes que merecen una respuesta más contundente que una canción reversionada?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "levinton-vs-gallagher-un-duelo-cultural-o-pura-distraccion",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Gallagher agita la grieta tuitera: ¿simple fan o provocador serial?",
-    "bajada": "Liam Gallagher puso picante la previa del partido, ¿pero es legítimo su \"odio\" futbolístico?",
-    "cuerpo": "El músico británico Liam Gallagher encendió las redes sociales con su mensaje provocador antes de la semifinal. Su aparente desprecio por la selección argentina generó una ola de reacciones en X, desde insultos hasta respuestas creativas. La pregunta es: ¿se trata de un simple fanático expresando su pasión o un personaje público buscando polémica para seguir en el centro de la escena, aprovechándose de una rivalidad histórica?\n\nLa delgada línea entre el humor y la agresión se difumina cuando figuras internacionales se suman al \"folklore\" del fútbol. ¿Hasta qué punto la personalidad de Gallagher justifica sus dichos, y qué tan rápido la sociedad argentina replica el odio en lugar de tomarlo con un grano de sal? Este tipo de intercambios revelan más sobre nuestra propia susceptibilidad que sobre las verdaderas intenciones del artista.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "2 min",
-    "slug": "gallagher-agita-la-grieta-tuitera-simple-fan-o-provocador-serial",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_7.png",
     "destacada": false
   }
 ]
