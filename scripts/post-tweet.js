@@ -90,13 +90,11 @@ async function run() {
 
       // Espera input del usuario en consola
       await new Promise(resolve => process.stdin.once('data', resolve));
-      console.log('👍 Continuando proceso de envio de tweet...');
+      // Si el usuario inicia sesión manualmente, aseguramos cargar el home
+      await page.goto('https://x.com/home', { waitUntil: 'domcontentloaded' });
     } else {
       console.log('✅ ¡Sesion persistente detectada correctamente!');
     }
-
-    // Aseguramos estar en la url de inicio
-    await page.goto('https://x.com/home', { waitUntil: 'networkidle' });
 
     console.log('✍️  Localizando area de redaccion del tweet...');
     const tweetBoxSelector = 'div[data-testid="tweetTextarea_0"]';
