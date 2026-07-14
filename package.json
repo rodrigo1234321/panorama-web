@@ -1,0 +1,13 @@
+{
+  "name": "panorama-web",
+  "version": "1.0.0",
+  "description": "Panorama.ar portal editorial",
+  "main": "scripts/update-news.js",
+  "scripts": {
+    "update-news": "node scripts/update-news.js",
+    "post-tweet": "node scripts/post-tweet.js"
+  },
+  "dependencies": {
+    "twitter-api-v2": "^1.18.2"
+  }
+}
