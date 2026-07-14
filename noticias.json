@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Malvinas y el fútbol: ¿Sentimiento o estrategia en la rivalidad con Inglaterra?",
+    "bajada": "La conexión entre la causa Malvinas y el fervor futbolístico resurge, generando un debate sobre su verdadera naturaleza.",
+    "cuerpo": "Año tras año, cada enfrentamiento deportivo entre Argentina e Inglaterra reaviva la herida abierta de Malvinas. Este vínculo inquebrantable, que para muchos es una muestra genuina de patriotismo y memoria, para otros se ha convertido en una estrategia discursiva que difumina la complejidad política de la soberanía. ¿Es el campo de juego el lugar adecuado para saldar deudas históricas o simplemente se instrumentaliza un dolor nacional?\n\nLa pasión futbolística, canalizadora de emociones colectivas, se entrelaza con la memoria de la guerra, transformando cada partido en un símbolo de revancha. Analistas señalan que esta fusión puede ser tanto una herramienta para mantener viva la demanda por las islas, como un arma de doble filo que simplifica y reduce un conflicto geopolítico a un mero evento deportivo. ¿Hasta dónde esta simbiosis ayuda a la causa o la trivializa en la arena mediática?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "malvinas-futbol-sentimiento-o-estrategia",
+    "fecha": "2026-07-14",
+    "imagen": "img/politica_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "'86: Argentina-Inglaterra. ¿Solo un partido, o una guerra sin armas en las tribunas?",
+    "bajada": "Más allá del \"Gol del Siglo\", el Mundial '86 fue escenario de tensiones y enfrentamientos que aún resuenan.",
+    "cuerpo": "El Mundial de México '86 es un hito para Argentina, no solo por el título y los goles de Maradona, sino por el simbolismo del cruce con Inglaterra. Sin embargo, la narrativa oficial a menudo omite la oscuridad detrás de las tribunas, donde las barras argentinas y los hooligans ingleses protagonizaron verdaderas batallas campales, reflejo de una animosidad que trascendía lo deportivo. ¿Es posible celebrar la gloria sin confrontar la violencia que la rodeó?\n\nLos relatos de aquellos enfrentamientos callejeros y en los estadios revelan una faceta cruda de la rivalidad, alimentada por el reciente conflicto de Malvinas y exacerbada por el alcohol y la xenofobia. Lejos de la imagen romántica del fútbol, estos episodios exponen cómo la tensión geopolítica se trasladó brutalmente al ámbito popular. ¿Cuánto hemos aprendido de esa historia de violencia o seguimos replicando patrones en la actualidad?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "86-argentina-inglaterra-guerra-sin-armas",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Calentando la previa? Voces inglesas que irritan antes del clásico.",
+    "bajada": "Exfiguras de Inglaterra lanzan declaraciones picantes, ¿estrategia mediática o reflejo de una rivalidad histórica?",
+    "cuerpo": "La previa de un Argentina-Inglaterra no sería la misma sin las declaraciones que encienden la mecha. Esta vez, exfiguras inglesas han salido con frases que, para muchos, buscan desestabilizar o simplemente revivir viejas heridas. ¿Es parte del folclore futbolístico o una provocación calculada que ignora el contexto sensible de la relación bilateral, especialmente con el trasfondo de Malvinas?\n\nEste tipo de retórica, que a menudo roza el límite de lo deportivo para adentrarse en lo político y cultural, suele generar una reacción en cadena en las redes sociales y los medios argentinos. Mientras algunos lo ven como un condimento más del espectáculo, otros lo denuncian como una falta de respeto que solo profundiza la animosidad. ¿Sirve esta escalada verbal a alguien más que a los medios que buscan clics fáciles?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "calentando-previa-voces-inglesas-irritan",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Haaland y Malvinas: La peligrosa fabricación de bulos en la era digital.",
+    "bajada": "Una fake news viral sobre Haaland y Malvinas expone la facilidad con la que la desinformación manipula el debate.",
+    "cuerpo": "En la era de la desinformación, un falso testimonio atribuido a Erling Haaland sobre las Islas Malvinas y su apoyo a Argentina circuló rápidamente, demostrando la fragilidad del ecosistema digital ante noticias sin verificar. Chequeado desmintió categóricamente estas declaraciones, pero el daño ya estaba hecho: la mentira había generado debate y división, alimentando pasiones sin fundamento. ¿Qué tan responsables somos como consumidores al compartir sin cuestionar?\n\nEste episodio no es un hecho aislado; es un síntoma de cómo temas sensibles como la soberanía de Malvinas son instrumentalizados para generar clics o polarizar opiniones. La velocidad con la que se propaga una falsedad, incluso cuando es obvia, desafía la capacidad de los verificadores. ¿Estamos preparados para discernir la verdad en medio de la avalancha de contenido, o preferimos la narrativa que confirma nuestros prejuicios?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "haaland-malvinas-peligrosa-fabricacion-bulos",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Ismail Elfath: ¿El árbitro, un foco de polémica antes de Argentina-Inglaterra?",
+    "bajada": "El juez estadounidense designado para la semifinal ya genera suspicacias, ¿presión mediática o justas dudas?",
+    "cuerpo": "La designación de Ismail Elfath como árbitro para la semifinal entre Argentina e Inglaterra ya levanta polvo en redes y medios. Conocido por su estilo particular y algunas decisiones controvertidas en el pasado, su nombre se convierte en un nuevo componente de tensión en un partido que de por sí está cargado de historia y rivalidad. ¿Es justo poner el foco en el árbitro antes del pitazo inicial o es una estrategia para condicionar su desempeño?\n\nLa presión sobre el juez será inmensa, y cada error, real o percibido, será magnificado por el escrutinio público y la polarización de las hinchadas. Esta atención desmedida hacia el arbitraje, si bien es parte del juego moderno, a menudo desvía el debate de lo deportivo para centrarse en conspiraciones y parcialidades. ¿Puede un árbitro desempeñarse de forma imparcial cuando ya está bajo semejante escrutinio público y mediático?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "ismail-elfath-arbitro-polemica-argentina-inglaterra",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿La formación de Scaloni, un acierto o una jugada arriesgada ante Inglaterra?",
+    "bajada": "La elección de Scaloni para la semifinal genera debate: ¿conservadurismo o audacia para vencer a Inglaterra?",
+    "cuerpo": "La estrategia de Lionel Scaloni para enfrentar a Inglaterra siempre es tema de análisis y especulación. Con la formación confirmada, surgen voces que la defienden como un plan sólido y otras que la cuestionan como excesivamente cauta o, por el contrario, imprudente para un rival de la envergadura de los ingleses. ¿Existe realmente una fórmula perfecta para estos partidos o el factor sorpresa es lo que definirá el resultado?\n\nLos detalles tácticos y los nombres propios de la formación son diseccionados por expertos y aficionados, cada uno con su propia visión sobre el mejor camino hacia la victoria. Desde la contención en el mediocampo hasta la potencia ofensiva, cada elección de Scaloni es una declaración de intenciones que carga con la presión de todo un país. ¿Esta formación refleja la confianza del técnico o es un intento de minimizar riesgos en un duelo tan trascendental?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "formacion-scaloni-acierto-jugada-arriesgada",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Camiseta alternativa: ¿Un símbolo de identidad o marketing para el clásico?",
+    "bajada": "Argentina usará la casaca alternativa ante Inglaterra, ¿una decisión con peso histórico o puramente comercial?",
+    "cuerpo": "La decisión de la Selección Argentina de utilizar la camiseta alternativa en el crucial partido contra Inglaterra reaviva el debate sobre el simbolismo y la comercialización en el fútbol moderno. Mientras para algunos representa un gesto de identidad y una cábala histórica, otros lo ven como una estrategia de marketing que busca explotar el fervor de la hinchada. ¿La elección de una indumentaria tiene un impacto real en el desempeño o es solo una distracción mediática?\n\nEsta \"histórica\" casaca, que ha generado pasiones encontradas, se convierte en un punto más de análisis y discusión en la antesala del encuentro. La tensión entre la tradición deportiva y las exigencias comerciales de las grandes marcas está siempre presente, haciendo que cada decisión, por mínima que parezca, sea objeto de escrutinio público. ¿Podemos separar el valor emocional de la camiseta de su valor de mercado en un evento de esta magnitud?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "camiseta-alternativa-simbolo-identidad-marketing",
+    "fecha": "2026-07-14",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
     "titulo": "Argentina vs. Suiza: ¿Éxito deportivo o distracción efímera?",
     "bajada": "La victoria Albiceleste nos llena de euforia, pero ¿qué hay detrás del resultado más allá de la cancha?",
     "cuerpo": "La selección argentina goleó 3-1 a Suiza, un resultado que desató la alegría popular y reafirmó el buen momento del equipo bajo la dirección de Scaloni. Sin embargo, en un país con urgencias económicas y sociales, cabe preguntarse hasta qué punto el fervor futbolístico opera como una válvula de escape o incluso una distracción masiva de problemas estructurales que persisten.\n\nMientras los festejos inundan las calles, la realidad socioeconómica sigue su curso. ¿Es esta victoria un catalizador para un optimismo más amplio o simplemente un oasis de alegría en un desierto de desafíos? El debate es complejo: ¿puede el éxito deportivo genuinamente elevar el espíritu nacional y la productividad, o su impacto es meramente catártico y temporal, impidiendo una mirada crítica a lo que realmente importa?",
@@ -21,7 +105,7 @@
     "slug": "superavit-energetico-logro-real-o-espejismo-a-costa-del-pueblo",
     "fecha": "2026-07-13",
     "imagen": "img/economia_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Suiza vs. Argentina: ¿Por qué la brecha económica persiste?",
@@ -201,90 +285,6 @@
     "slug": "con-doce-o-con-garra-la-provocacion-inglesa-en-la-antesala-del-clasico",
     "fecha": "2026-07-12",
     "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Scaloneta busca la hazaña: ¿segunda final o techo de cristal?",
-    "bajada": "Con la semifinal ante Inglaterra a la vuelta de la esquina, Argentina se juega su ambición de repetir la final mundialista.",
-    "cuerpo": "La \"Scaloneta\" se enfrenta a una prueba de fuego contra Inglaterra, buscando alcanzar su segunda final consecutiva en un Mundial. Este hito, que pocos creían posible tras Qatar, pone al equipo de Lionel Scaloni ante una presión inmensa: ¿consolidar una era dorada o chocar con un techo de cristal que revele limitaciones? El pragmatismo del DT se mide ahora con la exigencia de la historia.\n\nMás allá de la mística y el fervor popular, la realidad futbolística marca un rival con un poderío físico y táctico formidable, que no se intimidará con el grito de \"El que no salta es un inglés\". ¿Está la Selección preparada para reinventarse y no depender solo del talento individual, o la repetición de esquemas previsibles podría condenarnos ante un rival que no perdona errores?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "scaloneta-busca-la-hazana-segunda-final-o-techo-de-cristal",
-    "fecha": "2026-07-12",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Invencibles por VAR? Medios del mundo y la sombra de la tecnología",
-    "bajada": "La euforia por el pase a semis se mezcla con las críticas internacionales que señalan la intervención del VAR como factor clave.",
-    "cuerpo": "Si bien la figura de Julián \"Araña\" Álvarez es celebrada por la prensa mundial, las crónicas internacionales no tardaron en señalar la recurrente intervención del VAR en los partidos de Argentina, especialmente en fases decisivas. Esta observación, que algunos tildan de \"ayuda\" y otros de \"justicia\", genera un debate persistente: ¿cuánto de la \"invencibilidad\" albiceleste se debe al talento en cancha y cuánto a decisiones tecnológicas?\n\nLa crítica velada sobre el VAR, aunque no siempre explícita, siembra una semilla de duda sobre la pureza del triunfo y añade presión sobre los árbitros en los próximos encuentros. ¿Es la tecnología una herramienta objetiva o su aplicación termina inclinando la balanza, consciente o inconscientemente, a favor de los equipos más \"populares\" o de las ligas con mayor influencia? La polémica está servida.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "invencibles-por-var-medios-del-mundo-y-la-sombra-de-la-tecnologia",
-    "fecha": "2026-07-12",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Ventaja inglesa? La frialdad de los números vs. la pasión Albiceleste",
-    "bajada": "Inglaterra llega con un historial reciente y una preparación física que, según analistas, le otorga una ventaja sobre Argentina.",
-    "cuerpo": "Los números no mienten: Inglaterra ha demostrado una solidez y una eficiencia que, en la previa, la colocan como un rival formidable para Argentina. Analistas internacionales destacan su disciplina táctica, su envidiable fondo físico y un historial reciente que le da una cuota de favoritismo. Mientras la \"Scaloneta\" sufrió hasta el último minuto contra Suiza, los ingleses cerraron sus partidos con mayor tranquilidad.\n\nEsta disparidad de performance y de frescura física, ¿es un factor determinante o la \"garra\" argentina puede compensar cualquier déficit? El periodismo deportivo suele subestimar el impacto del desgaste y la recuperación. ¿Estamos listos para enfrentar a una Inglaterra que, más allá de la prensa, llega con argumentos futbolísticos concretos, o la mística nos hará ignorar las señales de alarma?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "ventaja-inglesa-la-frialdad-de-los-numeros-vs-la-pasion-albiceleste",
-    "fecha": "2026-07-12",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Identidad o provocación? El cántico anti-Inglaterra y la final que se juega afuera",
-    "bajada": "El eufórico cántico de la Selección tras vencer a Suiza reaviva la histórica rivalidad y plantea la pregunta: ¿fútbol o política?",
-    "cuerpo": "La Selección Argentina no tardó en dejar en claro la trascendencia emocional de la próxima semifinal: el cántico \"El que no salta es un inglés\" resonó fuerte tras la victoria contra Suiza. Más allá del folclore futbolero, este grito de guerra, cargado de historia y connotaciones geopolíticas, revela que el partido contra Inglaterra es mucho más que un encuentro deportivo para el sentir popular y los propios jugadores.\n\nEsta expresión, que para algunos es parte de la identidad y la pasión, para otros es una provocación innecesaria que desvía el foco de lo futbolístico. ¿Es sano que la política, la historia y las tensiones se filtren de esta manera en un evento deportivo, o es inevitable cuando se trata de Argentina e Inglaterra? La final no solo se jugará en la cancha, sino también en el terreno de las emociones y los recuerdos, reavivando heridas que no terminan de cerrar.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "identidad-o-provocacion-el-cantico-anti-inglaterra-y-la-final-que-se-juega-afuera",
-    "fecha": "2026-07-12",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina vs. Suiza: ¿Qué partido ganamos de verdad?",
-    "bajada": "Mientras la euforia mundialista nos abraza, la realidad económica nos golpea con datos preocupantes.",
-    "cuerpo": "La gesta de la Selección Argentina en el Mundial nos une y distrae, pero es innegable el fuerte contraste con la situación económica real del país frente a Suiza. En el \"partido de la inflación\", Argentina lamentablemente \"gana por goleada\", aunque no sea la victoria que necesitamos. Esta disparidad invita a reflexionar sobre qué batallas priorizamos y dónde realmente se juegan los destinos de la nación.\n\nLos datos económicos de Suiza, sin ahondar en comparaciones odiosas, revelan una estabilidad envidiable frente a la volatilidad argentina. ¿Es esta fiebre futbolística una vía de escape necesaria o una peligrosa cortina de humo que impide abordar los problemas estructurales con la seriedad que merecen? El desafío es trasladar esa misma pasión y unidad nacional a la construcción de un futuro económico sostenible.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-suiza-que-partido-ganamos-de-verdad",
-    "fecha": "2026-07-12",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Suiza: ¿modelo de nación o espejo incómodo para Argentina?",
-    "bajada": "Más allá del fútbol, la comparación de dos realidades económicas que no pueden ser más opuestas.",
-    "cuerpo": "La victoria de Argentina sobre Suiza en el campo de juego opaca una verdad ineludible: la abismal diferencia económica y social entre ambos países. Suiza, 67 veces más pequeña, se erige como una potencia económica con problemas resueltos, mientras Argentina, con su vasta geografía y recursos, lidia con crisis recurrentes. Esta confrontación invita a un análisis profundo más allá del resultado deportivo.\n\n¿Por qué un país con menos recursos naturales y territorio ha logrado una estabilidad que el nuestro parece esquiva? Mientras la pasión por el fútbol nos une, las cifras económicas y la calidad de vida nos separan. ¿Es la gestión, la cultura cívica o la visión a largo plazo lo que define esta brecha? Es hora de mirar más allá del gol.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "suiza-modelo-de-nacion-o-espejo-incomodo-para-argentina",
-    "fecha": "2026-07-12",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Infantino, Suiza y la FIFA: ¿Un árbitro imparcial?",
-    "bajada": "El presidente suizo de la FIFA bajo la lupa mientras Argentina juega un partido crucial.",
-    "cuerpo": "Con Argentina enfrentando a Suiza en un partido de alto voltaje, las miradas se vuelven hacia Gianni Infantino, presidente suizo de la FIFA. Su nacionalidad genera inevitablemente preguntas sobre la imparcialidad en un deporte que mueve pasiones y miles de millones. ¿Hasta qué punto la institucionalidad de la FIFA puede garantizar la transparencia cuando sus líderes están tan conectados a uno de los contendientes?\n\nLa figura de Infantino, a menudo envuelta en controversias y decisiones que impactan globalmente, reaviva el debate sobre la gobernanza del fútbol mundial. Más allá del resultado en la cancha, este contexto nos obliga a preguntarnos: ¿son las reglas del juego realmente parejas para todos? La transparencia y la ética en los organismos reguladores son tan importantes como el talento de los jugadores.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "infantino-suiza-y-la-fifa-un-arbitro-imparcial",
-    "fecha": "2026-07-12",
-    "imagen": "img/politica_8.png",
     "destacada": false
   }
 ]
