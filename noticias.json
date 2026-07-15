@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Argentina vs. Inglaterra: ¿Una final anticipada o el peso de la historia?",
+    "bajada": "La semifinal del Mundial 2026 enciende pasiones y debates, ¿es solo un partido o hay más en juego?",
+    "cuerpo": "El país vibra con la expectativa del cruce entre Argentina e Inglaterra por la semifinal del Mundial 2026. Más allá de lo futbolístico, este encuentro carga con un profundo simbolismo histórico que trasciende las canchas. Mientras la Selección ultima detalles en Atlanta, bajo la dirección de Scaloni, la sociedad se divide entre la euforia deportiva y la inevitable mirada hacia el pasado, ¿es posible separar el deporte de la memoria colectiva?\n\nLa prensa deportiva se concentra en las formaciones y estrategias, especulando con posibles sorpresas en el once inicial. Sin embargo, en las calles y redes, la discusión va más allá del campo de juego. ¿Qué implicaciones tiene este partido para la identidad nacional y cómo se gestionan las emociones en un evento de tal magnitud? La tensión pre-partido no es solo futbolística, sino también cultural.\n\n¿Hasta dónde debemos llevar el fervor deportivo sin caer en confrontaciones innecesarias, o es inherente a nuestra cultura la mezcla de pasión e historia en cada jugada?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-vs-inglaterra-final-anticipada-o-historia",
+    "fecha": "2026-07-15",
+    "imagen": "img/sociedad_2.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Anya Taylor-Joy: ¿Dilema de identidad o estrategia de prensa en el Mundial?",
+    "bajada": "La actriz anglo-argentina divide opiniones sobre su postura en el crucial partido, ¿es sincera su indecisión?",
+    "cuerpo": "Anya Taylor-Joy, la reconocida actriz de raíces argentinas y británicas, generó un fuerte revuelo en redes al expresar su \"dilema\" sobre a quién apoyar en la semifinal del Mundial entre Argentina e Inglaterra. Mientras algunos celebran su honestidad ante la complejidad de sus orígenes, otros critican su supuesta ambigüedad en un momento de alta sensibilidad nacional. ¿Es su indecisión un reflejo genuino de una identidad dual o una movida calculada para mantener relevancia mediática?\n\nLa polémica pone de manifiesto cómo las figuras públicas son escrutadas en tiempos de gran fervor nacional. En un contexto donde la pasión futbolística se mezcla con la historia y el patriotismo, la expectativa sobre \"tomar partido\" se vuelve casi una obligación social. Los medios, en tanto, amplifican el debate, convirtiendo un comentario personal en un tema de agenda pública.\n\n¿Qué esperamos de nuestras celebridades en momentos de confrontación deportiva, y es justo exigirles una lealtad incondicional a una de sus identidades?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "anya-taylor-joy-dilema-identidad-prensa",
+    "fecha": "2026-07-15",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Embajada Británica y Malvinas: ¿Humor diplomático o provocación innecesaria?",
+    "bajada": "El instructivo \"irónico\" por el partido de Argentina e Inglaterra reabre heridas y genera controversia.",
+    "cuerpo": "La Embajada Británica en Buenos Aires optó por el humor con un \"instructivo irónico\" de cara a la semifinal entre Inglaterra y Argentina. La iniciativa, que buscaba \"desdramatizar\" el encuentro, lejos de lograr un consenso, encendió la polémica y reavivó sensibilidades históricas, especialmente en torno a la cuestión Malvinas. ¿Es este tipo de humor apropiado en un contexto tan delicado o demuestra una falta de tacto diplomático?\n\nMientras algunos lo interpretan como un intento genuino de relajar tensiones, otros lo ven como una provocación velada, que minimiza la importancia de los reclamos argentinos sobre las islas. La delgada línea entre el humor y la ofensa se hizo evidente, y la reacción en redes sociales no se hizo esperar, con una polarización de opiniones que refleja la complejidad de la relación bilateral.\n\n¿Puede el humor ser una herramienta efectiva para la diplomacia cuando hay conflictos históricos sin resolver, o solo sirve para exacerbar las diferencias?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "embajada-britanica-malvinas-humor-diplomatico",
+    "fecha": "2026-07-15",
+    "imagen": "img/politica_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Asueto para ver el Mundial: derecho o privilegio en un país en crisis?",
+    "bajada": "El pedido de ATE para frenar la administración pública por el partido genera un acalorado debate sobre prioridades.",
+    "cuerpo": "La solicitud de ATE para decretar un asueto administrativo desde el mediodía del miércoles, permitiendo a los estatales ver el partido Argentina-Inglaterra, desató una fuerte controversia en el ámbito político y social. Mientras el sindicato argumenta un \"derecho\" al esparcimiento y la importancia del evento para el ánimo nacional, el Gobierno de Javier Milei ya se pronunció tajantemente en contra, priorizando la productividad y el funcionamiento del Estado. ¿Es el fervor mundialista una razón válida para paralizar parcialmente la administración pública en un país con urgencias económicas?\n\nLa discusión pone en evidencia la tensión entre el entusiasmo popular y la necesidad de mantener el ritmo de trabajo en el sector público. Voceros de la administración señalan que un asueto implicaría costos y demoras en servicios esenciales, mientras que otros defienden la cohesión social que genera el fútbol. La polarización de opiniones refleja la complejidad de equilibrar las demandas laborales con los eventos de interés masivo.\n\n¿Hasta qué punto el \"derecho a celebrar\" puede justificar una interrupción en el funcionamiento del Estado, y quién debería absorber los costos de esa decisión?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "asueto-mundial-derecho-privilegio-crisis",
+    "fecha": "2026-07-15",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Scaloni y Malvinas: ¿Despolitizar el fútbol o ignorar la memoria?",
+    "bajada": "El DT de la Selección llamó a no \"mezclar las cosas\" con Inglaterra, ¿es posible separar el deporte de la soberanía?",
+    "cuerpo": "Lionel Scaloni, director técnico de la Selección Argentina, intentó bajar la tensión previa al partido con Inglaterra al afirmar que \"esto es un partido de fútbol y no podemos mezclar las cosas\" en referencia a la cuestión Malvinas. Su declaración generó un intenso debate: mientras algunos aplauden su pragmatismo y el intento de enfocar en lo deportivo, otros la critican por considerar que ignora la profunda herida y el reclamo de soberanía que las islas representan para Argentina. ¿Es ingenuo pensar que un partido con Inglaterra puede ser \"solo\" un partido en este contexto?\n\nLa postura de Scaloni choca con una parte de la opinión pública que ve en cada enfrentamiento con el Reino Unido una oportunidad para reafirmar la soberanía argentina sobre Malvinas. La historia y el sentir popular a menudo desbordan los límites de la cancha, transformando el deporte en un campo de batalla simbólico. Este dilema subraya la dificultad de unificar la visión deportiva con la política nacional.\n\n¿Deberían las figuras deportivas ser portavoces de reclamos históricos, o su rol es únicamente mantener el foco en el juego, dejando los temas políticos a otros actores?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "scaloni-malvinas-despolitizar-futbol-o-ignorar-memoria",
+    "fecha": "2026-07-15",
+    "imagen": "img/politica_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Abuso en el Mundial: ¿La burbuja del fútbol ignora la inseguridad global?",
+    "bajada": "Una periodista argentina denuncia intento de abuso en Atlanta, revelando la vulnerabilidad de las mujeres en grandes eventos.",
+    "cuerpo": "En medio de la euforia mundialista, una periodista argentina que cubre el evento en Atlanta denunció públicamente un intento de abuso que sufrió en la ciudad. El dramático relato, acompañado de un video del agresor, sacudió las redes sociales y puso en evidencia la cruda realidad de la inseguridad que enfrentan las mujeres, incluso en contextos de gran visibilidad y supuesta seguridad como un Mundial. ¿Está la \"burbuja\" del fútbol haciendo la vista gorda a los riesgos latentes para los enviados especiales, especialmente las mujeres?\n\nLa denuncia, que rápidamente se viralizó, reabre el debate sobre la protección de los trabajadores de prensa en el extranjero y la prevalencia de la violencia de género en cualquier rincón del mundo. Mientras los ojos del planeta se posan en el espectáculo deportivo, la experiencia de esta periodista recuerda que las problemáticas sociales más urgentes no se detienen, ni siquiera en el pico de un evento global.\n\n¿Qué medidas concretas se están tomando para garantizar la seguridad de las mujeres que cubren eventos masivos, y hasta cuándo la denuncia será la única herramienta efectiva?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "abuso-mundial-burbuja-futbol-ignora-inseguridad",
+    "fecha": "2026-07-15",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Inflación a la baja: ¿Alivio real o calma engañosa para la economía argentina?",
+    "bajada": "Argentina registra la menor inflación en 10 meses, pero la discusión sobre el poder adquisitivo persiste.",
+    "cuerpo": "Argentina celebra una aparente buena noticia económica: la inflación mensual rompió el piso del 2% y marcó su nivel más bajo en diez meses. Este dato, difundido por EL PAÍS, podría interpretarse como un respiro en la asfixiante situación económica del país. Sin embargo, surge la pregunta crucial: ¿esta desaceleración se traduce en un alivio real para el bolsillo de los ciudadanos o es una \"calma\" engañosa que no compensa meses de pérdidas salariales y tarifazos?\n\nMientras el Gobierno destaca el éxito de sus políticas de ajuste, diversos economistas y sectores sociales advierten que los salarios y jubilaciones aún no logran recuperar el poder adquisitivo perdido. La inflación, aunque con menor ritmo, sigue erosionando la capacidad de compra, y la base de los precios ya se encuentra en niveles altísimos. La discusión no es solo sobre el número, sino sobre el impacto tangible en la calidad de vida.\n\n¿Realmente podemos hablar de recuperación cuando el costo de vida sigue siendo elevado, y qué medidas concretas se necesitan para que esta \"baja\" se sienta en cada hogar?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "inflacion-baja-alivio-real-calma-enganosa",
+    "fecha": "2026-07-15",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
     "titulo": "España humilla a Francia: ¿fin del reinado galo o solo un traspié en el Mundial?",
     "bajada": "La Roja dio un golpe de autoridad ante una selección francesa desdibujada, pero ¿refleja este resultado la verdadera jerarquía europea?",
     "cuerpo": "La victoria de España 2-0 sobre Francia en el Mundial 2026 sacudió el panorama futbolístico. Con figuras como Rodri y Lamine Yamal brillando, el equipo español mostró una contundencia alarmante para sus rivales. Deschamps y sus dirigidos, que contaban con Dembelé y Olise, se vieron superados, evidenciando una falta de cohesión y sorpresa en su juego.\n\nEste resultado plantea serias dudas sobre el verdadero potencial de Francia en el torneo, un equipo que venía con altas expectativas. Mientras España celebra su solidez, la derrota gala genera un debate sobre la resiliencia de las grandes potencias futbolísticas y si este tropiezo es una señal de alarma temprana o una simple jornada desafortunada.\n\n¿Estamos presenciando un cambio de guardia en la élite del fútbol europeo o es prematuro sacar conclusiones definitivas? El Mundial es largo, pero esta derrota resonará.",
@@ -21,7 +105,7 @@
     "slug": "censura-en-el-mundial-malvinas-provocacion-o-simbolo",
     "fecha": "2026-07-14",
     "imagen": "img/politica_7.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Humor diplomático: ¿desdramatizar o subestimar la rivalidad Argentina-Inglaterra?",
@@ -201,90 +285,6 @@
     "slug": "asueto-futbol-prioridad-nacional-privilegio",
     "fecha": "2026-07-14",
     "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Embajada británica: ¿Humor diplomático o provocación calculada antes del partido?",
-    "bajada": "El \"ingenioso\" posteo de la embajada del Reino Unido antes de la semifinal Argentina-Inglaterra genera risas y sospechas.",
-    "cuerpo": "\"El horno no está para bollos\", tituló la embajada británica en un posteo que buscaba, con humor, distender la previa del partido entre Argentina e Inglaterra. El mensaje, que ofrecía \"instrucciones\" para seguir el encuentro, fue interpretado por algunos como una muestra de buena voluntad y por otros como una provocación solapada, especialmente en el contexto de la reciente polémica por las Malvinas. ¿Fue un intento genuino de bajar tensiones o una astuta jugada de comunicación que subraya la superioridad diplomática?\n\nLa delgada línea entre el humor y la ironía se vuelve imperceptible cuando la historia y los reclamos de soberanía están de por medio. Mientras una parte de la sociedad argentina sonríe, otra observa con recelo la facilidad con la que ciertos temas son banalizados. ¿Realmente contribuye este tipo de \"humor\" a la sana competencia o solo reaviva viejos fantasmas bajo una pátina de cordialidad?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "embajada-britanica-humor-provocacion-calculada",
-    "fecha": "2026-07-14",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Anya Taylor-Joy: ¿Una grieta más en la identidad argentina antes del Mundial?",
-    "bajada": "La actriz anglo-argentina confesó a quién alentará en la semifinal y reavivó la discusión sobre la pertenencia nacional.",
-    "cuerpo": "Anya Taylor-Joy, la estrella de Hollywood con raíces argentinas y británicas, se convirtió en tendencia al revelar su preferencia para el partido entre Argentina e Inglaterra. Su \"dilema\" generó un revuelo en redes sociales, con opiniones divididas entre quienes la comprenden y quienes exigen una \"lealtad\" inquebrantable a la Albiceleste. ¿Es posible exigir una única identidad nacional en un mundo globalizado, o es un reflejo de nuestras propias inseguridades colectivas?\n\nLa \"confesión\" de la actriz expone una faceta poco explorada de la pasión futbolera argentina: la intolerancia a la neutralidad o a las identidades híbridas. En un país donde el fútbol es casi una religión, la posición de Taylor-Joy se vuelve un espejo de cuánto nos cuesta aceptar la diversidad de sentires. ¿Realmente es relevante a quién alienta una celebridad, o la polémica solo sirve para alimentar una grieta más en nuestro tejido social?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "anya-taylor-joy-grieta-identidad-argentina",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Medios ingleses: ¿Periodismo o campaña contra la Albiceleste?",
-    "bajada": "Los titulares británicos sobre el árbitro de Argentina-Inglaterra disparan sospechas de una estrategia para desestabilizar.",
-    "cuerpo": "La prensa inglesa no perdió tiempo en señalar al árbitro del decisivo encuentro entre Argentina e Inglaterra, con titulares \"provocadores\" que sugieren una campaña para presionar al colegiado. Históricamente, este tipo de maniobras ha sido un clásico en las previas de partidos cruciales, especialmente cuando hay una rivalidad tan marcada. ¿Es esta una estrategia legítima del \"juego psicológico\" o una manipulación descarada de la opinión pública, buscando influir en el resultado antes de que la pelota ruede?\n\nEl foco puesto en el árbitro, antes incluso de que se juegue el partido, desvía la atención del mérito deportivo y contamina la atmósfera de la competencia. Mientras los aficionados argentinos se indignan, la pregunta persiste: ¿hasta dónde llega la libertad de prensa y dónde empieza la intromisión en el desarrollo de un evento deportivo? La polémica arbitral ya está servida, sin siquiera haber sonado el pitazo inicial.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "medios-ingleses-periodismo-campana-albiceleste",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Periodista abusada en Mundial: ¿Hasta cuándo la impunidad?",
-    "bajada": "En medio de la euforia mundialista, la denuncia de una periodista argentina por intento de abuso pone en evidencia una cruda realidad.",
-    "cuerpo": "Mientras la atención global se centra en el espectáculo del Mundial, una denuncia de intento de abuso por parte de una periodista argentina sacude los cimientos de la festividad. La profesional valientemente expuso su caso, mostrando el video del agresor, y reavivó el debate sobre la seguridad de las mujeres en eventos masivos y la impunidad de los violentos. ¿Es posible celebrar sin enfrentar las sombras que la euforia intenta ocultar?\n\nEste lamentable episodio subraya que la violencia de género no distingue fronteras ni contextos festivos. La visibilidad que le otorga el marco mundialista es una oportunidad para recordar que estas situaciones ocurren a diario y que la lucha por espacios seguros y el fin de la impunidad debe ser una prioridad constante, más allá de cualquier resultado deportivo. ¿Hasta cuándo tendremos que seguir lamentando y denunciando estas agresiones, incluso en los escenarios de mayor alegría colectiva?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "periodista-abusada-mundial-impunidad",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Malvinas: ¿Memoria incensurable o excusa para la censura en el fútbol?",
-    "bajada": "La polémica decisión de prohibir banderas alusivas a Malvinas en el partido Argentina-Inglaterra desata un debate sobre soberanía y libertad de expresión.",
-    "cuerpo": "La previa del choque entre Argentina e Inglaterra se ve empañada por una controversial directiva: la prohibición de ingresar al estadio con banderas que hagan referencia a las Islas Malvinas. Esta medida, impulsada bajo el argumento de \"mantener el orden y evitar provocaciones\", ha encendido la mecha de una discusión que trasciende lo deportivo y toca fibras sensibles de la identidad nacional argentina. ¿Es una medida preventiva legítima o una censura inaceptable a la memoria colectiva?\n\nMientras algunos sectores argumentan que el fútbol no debe ser escenario de reivindicaciones políticas y que la seguridad es prioritaria, otros denuncian un intento de invisibilizar una herida abierta en la historia argentina. La dicotomía entre la diplomacia deportiva y el derecho a expresar un sentimiento nacionalista choca de frente. ¿Quién decide cuándo una bandera es un símbolo de orgullo y cuándo una provocación?\n\nLa prohibición no solo silencia una demanda histórica, sino que también reaviva la discusión sobre el verdadero significado de la soberanía. ¿Hasta qué punto se puede \"negociar\" la memoria por un evento deportivo? ¿Esta medida fomenta el diálogo o profundiza la herida?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "malvinas-memoria-incensurable-o-excusa-para-la-censura-en-el-futbol",
-    "fecha": "2026-07-14",
-    "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina vs. Inglaterra: ¿Sólo fútbol o un eco de viejas batallas?",
-    "bajada": "Más allá de la cancha, la semifinal reaviva teorías sobre un clásico marcado por la historia, la política y la conspiración.",
-    "cuerpo": "El enfrentamiento entre Argentina e Inglaterra por la semifinal del Mundial 2026 trasciende el mero espectáculo deportivo para muchos. En el imaginario colectivo, este \"clásico\" se carga de resonancias históricas, políticas y, para algunos, hasta de teorías conspirativas. La rivalidad, forjada en gran parte por el conflicto de #Malvinas y encuentros futbolísticos icónicos, convierte cada partido en una disputa simbólica mucho mayor.\n\nAnalistas y aficionados desempolvan anécdotas, decisiones arbitrales polémicas y declaraciones pasadas que, según ellos, evidencian un trasfondo que va más allá del juego limpio. La narrativa de la \"mano de Dios\" de Maradona, por ejemplo, sigue siendo un punto de inflexión que alimenta la idea de que estos partidos se juegan en múltiples niveles. ¿Son estas teorías meras exageraciones emocionales o hay realmente hilos invisibles que conectan el pasado con el presente de esta rivalidad?\n\nLa pregunta que queda flotando es si esta carga histórica beneficia o perjudica a los jugadores y al espectáculo. ¿Podemos separar el deporte de la geopolítica, o es esa separación una ilusión conveniente? ¿Es este partido una revancha deportiva o un capítulo más en una historia sin cerrar?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-vs-inglaterra-solo-futbol-o-un-eco-de-viejas-batallas",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Diplomacia deportiva o provocación sutil británica en la previa?",
-    "bajada": "Un memo interno de la Embajada de Reino Unido genera controversia, ¿intenta influir o solo aconseja cautela?",
-    "cuerpo": "La Embajada de Reino Unido emitió un particular memo interno antes de la semifinal entre Argentina e Inglaterra, un documento que, lejos de ser una simple formalidad, ha despertado suspicacias y un intenso debate sobre sus verdaderas intenciones. Mientras algunos lo interpretan como una medida lógica de precaución en un evento de alta tensión, otros lo ven como una provocación sutil, un recordatorio de la posición británica o un intento velado de influir en el clima pre-partido.\n\nEl contenido exacto del memo, aunque no público en su totalidad, ha sido suficiente para generar especulaciones. ¿Busca la diplomacia británica proyectar una imagen de calma y profesionalismo, o acaso hay un subtexto que juega con la histórica rivalidad entre ambas naciones? La línea entre el consejo prudente y la intromisión es delgada, especialmente cuando se trata de un contexto tan sensible como un partido con tantos significados.\n\nEste episodio nos obliga a preguntarnos: ¿hasta dónde llega la influencia de la política en el deporte, incluso en los pasillos diplomáticos? ¿Es ingenuo pensar que un evento de esta magnitud puede ser puramente deportivo, o las instituciones también juegan su propio partido?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "diplomacia-deportiva-o-provocacion-sutil-britanica-en-la-previa",
-    "fecha": "2026-07-14",
-    "imagen": "img/politica_7.png",
     "destacada": false
   }
 ]
