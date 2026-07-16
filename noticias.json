@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Patriotismo o provocación? El dilema de la bandera Malvinas en la FIFA",
+    "bajada": "Tras la victoria contra Inglaterra, la exhibición de la bandera de Malvinas por la Selección Argentina desata una polémica internacional y pone a prueba el reglamento de la FIFA.",
+    "cuerpo": "La euforia por el triunfo argentino sobre Inglaterra quedó eclipsada por la controversia: los jugadores exhibieron una bandera con la leyenda \"Las Malvinas son argentinas\", provocando un inmediato pedido de investigación por parte del gobierno británico ante la FIFA. Este acto, profundamente arraigado en el sentimiento nacional, choca con las estrictas normativas del ente rector del fútbol que prohíben manifestaciones políticas o religiosas en el campo de juego.\n\nLa FIFA ya cuenta con antecedentes de sanciones por este tipo de gestos, lo que abre el interrogante sobre las posibles consecuencias para la AFA y la Selección. Mientras en Argentina el gesto es celebrado como una reafirmación soberana, desde el Reino Unido se lo interpreta como una transgresión a las reglas del deporte. ¿Hasta dónde debe llegar la libertad de expresión de los deportistas frente a regulaciones que buscan \"despolitizar\" el fútbol?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "patriotismo-o-provocacion-dilema-bandera-malvinas-fifa",
+    "fecha": "2026-07-16",
+    "imagen": "img/politica_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿Victimismo británico o viveza criolla? La polémica por los \"31 trucos sucios\"",
+    "bajada": "Un medio inglés denuncia una lista de \"31 trucos sucios\" de la Selección Argentina. ¿Son excusas de perdedores o reflejan una picardía que roza lo antideportivo?",
+    "cuerpo": "La derrota escuece, y en Inglaterra, parece que mucho. Tras la eliminación, un diario británico publicó un insólito artículo detallando \"31 trucos sucios\" que la Selección Argentina habría utilizado para ganar, desde supuestas simulaciones hasta \"excesos verbales\". La lista, que va de lo discutible a lo ridículo, reaviva el eterno debate sobre el estilo de juego argentino, a menudo tildado de \"canchero\" o \"tramposo\" por sus adversarios.\n\nMientras en Argentina muchos lo ven como un intento patético de justificar la derrota, la publicación subraya la profunda brecha cultural en la interpretación de las reglas del juego. ¿Es la \"viveza criolla\" un valor o un defecto? ¿O es simplemente el lamento de quienes no supieron imponer su juego y ahora buscan fantasmas en el vestuario ajeno?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "victimismo-britanico-o-viveza-criolla-31-trucos-sucios",
+    "fecha": "2026-07-16",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Milei capitaliza el triunfo, pero ¿a qué costo político interno?",
+    "bajada": "El Presidente Javier Milei celebró efusivamente la victoria de Argentina, pero sus declaraciones también revelaron una inesperada crítica a Victoria Villarruel, evidenciando tensiones internas.",
+    "cuerpo": "La euforia por el pase a la final de la Selección Argentina fue el escenario perfecto para que el Presidente Javier Milei expresara su \"emoción infinita\" y capitalizara el sentimiento nacional. Sin embargo, en medio de las celebraciones, el mandatario aprovechó para lanzar un mensaje que resonó fuerte en los pasillos de la Casa Rosada: una crítica velada a su vicepresidenta, Victoria Villarruel, afirmando que \"Argentina no se rinde\".\n\nEste gesto, interpretado como un intento de diferenciarse o consolidar su propio liderazgo en un momento de fervor popular, expone las fisuras dentro del oficialismo. ¿Es el fútbol un mero telón de fondo para las disputas de poder o Milei busca sendos réditos políticos de la mano de un éxito deportivo que poco tiene que ver con su gestión? La pregunta es si estas contradicciones fortalecen o desgastan la imagen del gobierno.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-capitaliza-triunfo-costo-politico-interno",
+    "fecha": "2026-07-16",
+    "imagen": "img/politica_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La “estupidez” de Gary Neville y la respuesta que enciende la rivalidad",
+    "bajada": "Cuti Romero no se calló: la fuerte réplica del defensor argentino a Gary Neville por sus críticas genera chispas y profundiza la tensión post-partido con Inglaterra.",
+    "cuerpo": "El cruce entre Cuti Romero y Gary Neville tras la victoria argentina no fue un simple intercambio de opiniones, sino una declaración de guerra dialéctica. El defensor argentino, visiblemente molesto por las críticas del exjugador inglés, le respondió con un contundente \"espero no ser tan estúpido\", encendiendo aún más la ya caldeada rivalidad futbolística entre ambos países. Este episodio, más allá de lo anecdótico, pone de manifiesto cómo las tensiones se trasladan fuera del campo de juego.\n\nLas declaraciones de Neville, a menudo provocativas, suelen ser un reflejo del sentimiento de la prensa inglesa tras las derrotas. La respuesta de Romero, por su parte, es un claro ejemplo de la pasión y el orgullo argentino, que no acepta reproches de quienes considera adversarios históricos. ¿Es esta escalada verbal parte del folclore del fútbol o una muestra de la toxicidad que puede generar la polarización en el deporte?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "estupidez-gary-neville-respuesta-rivalidad",
+    "fecha": "2026-07-16",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Pantallas pegadas al triunfo: radiografía de la pasión nacional o distracción masiva?",
+    "bajada": "El histórico rating del partido Argentina-Inglaterra no solo demuestra la pasión por el fútbol, sino también la capacidad del evento para paralizar un país y polarizar la atención.",
+    "cuerpo": "Cifras que asustan y confirman una tendencia: el partido entre Argentina e Inglaterra batió récords de audiencia, con picos de rating que paralizaron al país. Calles vacías, televisores encendidos en cada hogar, y millones de argentinos con la vista fija en la pantalla, evidenciando el poder inigualable del fútbol como fenómeno social. Este hito televisivo plantea una pregunta incómoda: ¿es esta devoción masiva una manifestación de orgullo nacional o una válvula de escape que permite desviar la atención de problemas más urgentes?\n\nMientras el rating se mide en puntos, el costo social y económico de un país en pausa es más difícil de cuantificar. Las empresas resienten la baja productividad, las agendas se postergan, y el debate público queda en suspenso. ¿Es saludable esta hibernación colectiva por un evento deportivo, o revela una preocupante capacidad de la sociedad para el autoengaño y la distracción frente a la realidad cotidiana?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "pantallas-pegadas-triunfo-pasion-nacional-distraccion-masiva",
+    "fecha": "2026-07-16",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La \"gesta\" de Atlanta: ¿Un cuento de hadas o una victoria planificada?",
+    "bajada": "La remontada histórica de Argentina sobre Inglaterra, impulsada por un \"imán de Messi\", es celebrada como una gesta. Pero, ¿hay algo más allá de la mística?",
+    "cuerpo": "La narrativa post-partido está saturada de palabras como \"gesta\", \"mística\" y el \"imán\" de Messi, que según los medios, impulsaron a la Selección Argentina a una remontada épica contra Inglaterra. Sin duda, el talento individual de #Messi es innegable, y la capacidad del equipo para sobreponerse a la adversidad merece reconocimiento. Sin embargo, ¿cuánto de esta \"magia\" es un relato edulcorado para vender una épica, y cuánto se debe a una estrategia técnica y una frialdad planificada para los momentos clave?\n\nPanorama.ar invita a ir más allá de los clichés. Si bien el fervor popular es una fuerza palpable, es crucial analizar la victoria con una mirada crítica. ¿Es justo reducir el esfuerzo de un equipo a la providencia divina o la genialidad de un solo jugador? ¿O es hora de reconocer que el deporte de élite es, antes que nada, resultado de una inversión, un trabajo en equipo riguroso y una estrategia que muchas veces se esconde detrás de la épica?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "gesta-atlanta-cuento-hadas-victoria-planificada",
+    "fecha": "2026-07-16",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Final del Mundial: La pasión tiene precio, ¿quién se beneficia del delirio?",
+    "bajada": "Con la Selección en la final, los precios de las entradas se disparan, revelando la voracidad del mercado y el costo de la pasión nacional.",
+    "cuerpo": "La euforia por la clasificación de Argentina a la final del Mundial desató una fiebre por las entradas, llevando los precios a cifras astronómicas. Revendedores y plataformas de reventa especulan con la ilusión de millones, mientras que los tickets oficiales se agotan en minutos, dejando a gran parte de los hinchas con las manos vacías o frente a dilemas económicos. Este fenómeno expone una cruda realidad: la pasión tiene un precio, y en el fútbol moderno, ese precio es cada vez más elitista.\n\nMientras el país celebra, una minoría hace un negocio multimillonario a expensas del deseo popular. ¿Es justo que un evento de magnitud nacional se convierta en un coto privado para unos pocos? ¿O es el mercado el que dicta las reglas y la oferta y la demanda, incluso en el deporte, determinan quién puede o no ser parte de la fiesta? La \"economía de la pasión\" plantea interrogantes sobre la equidad y el acceso a la cultura deportiva.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "final-mundial-pasion-tiene-precio-quien-se-beneficia",
+    "fecha": "2026-07-16",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
     "titulo": "Villarruel y la \"Guerra\" Cultural: ¿Quiénes son los \"Piratas Usurpadores\"?",
     "bajada": "La vicepresidenta aviva el fuego de la rivalidad histórica entre Argentina e Inglaterra, pero ¿qué mensaje se busca enviar realmente?",
     "cuerpo": "En la antesala del crucial encuentro futbolístico entre Argentina e Inglaterra, la vicepresidenta Victoria Villarruel no dudó en encender la mecha de la polémica al referirse a los ingleses como \"piratas usurpadores\". Este comentario, cargado de simbolismo histórico y político, trasciende la mera chicana deportiva y retoma el debate sobre la soberanía de las Malvinas, un tema sensible y constante en la agenda nacional.\n\nLa frase, lanzada en un momento de alta visibilidad, busca capitalizar el fervor patriótico que acompaña al fútbol, ligándolo directamente a una causa nacional. Sin embargo, la efectividad de estas declaraciones en el ámbito diplomático o en la resolución del conflicto de las islas genera interrogantes. ¿Es una estrategia para reafirmar la postura argentina en un foro global, o simplemente un gesto para el consumo interno, polarizando aún más la opinión pública en un contexto ya caldeado?\n\nMientras el balón rodará en la cancha, la política despliega su propio juego, utilizando el deporte como un campo de batalla simbólico. ¿Hasta qué punto este tipo de retórica contribuye a una diplomacia efectiva o solo profundiza divisiones que, en última instancia, no benefician a nadie?",
@@ -9,7 +93,7 @@
     "slug": "villarruel-guerra-cultural-piratas-usurpadores",
     "fecha": "2026-07-15",
     "imagen": "img/politica_4.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Malvinas y Fútbol: ¿Un Canto a la Patria o Distracción Sensiblera?",
@@ -201,90 +285,6 @@
     "slug": "humor-diplomatico-rivalidad-argentina-inglaterra",
     "fecha": "2026-07-14",
     "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Agresión en Qatar: ¿es el Mundial una burbuja de impunidad para los violentos?",
-    "bajada": "Una periodista argentina denunció un intento de abuso en plena cobertura, evidenciando los peligros que enfrentan las mujeres en grandes eventos.",
-    "cuerpo": "En medio de la euforia mundialista, la cruda denuncia de una periodista argentina que sufrió un intento de abuso en Qatar encendió las alarmas y puso de manifiesto una vez más la vulnerabilidad de las mujeres, incluso en contextos de alta visibilidad. El video del agresor, difundido por la víctima, es un recordatorio de que la violencia de género no conoce fronteras ni se detiene ante la magnitud de un evento deportivo.\n\nEste lamentable episodio abre el interrogante sobre la seguridad real para las mujeres que viajan a cubrir o asistir a estos megaeventos. ¿Son las autoridades locales y organizadores lo suficientemente estrictos y eficientes en la prevención y sanción de estos crímenes? La sombra de la impunidad sigue siendo una preocupación global.\n\n¿Hasta cuándo tendremos que lamentar que la pasión deportiva sea utilizada como coartada para la agresión y el acoso? ¿Estamos realmente protegiendo a quienes forman parte del espectáculo, o los dejamos a su suerte?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "agresion-en-qatar-mundial-impunidad-violentos",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Asueto por fútbol? El dilema entre la pasión nacional y la productividad estatal.",
-    "bajada": "ATE solicitó al Gobierno un asueto administrativo para ver el partido Argentina-Inglaterra, reavivando una vieja polémica.",
-    "cuerpo": "La Central de Trabajadores Argentinos (ATE) solicitó al Gobierno un asueto administrativo para que los empleados públicos puedan ver la semifinal entre Argentina e Inglaterra. La medida, que ha sido recurrente en otros mundiales, reabre el debate sobre el equilibrio entre la pasión nacional por el fútbol y la eficiencia en la administración pública. Mientras algunos argumentan que es una forma de fomentar la unidad y el \"aguante\" a la Selección, otros critican el costo económico y la paralización de servicios que implica para el Estado.\n\n¿Es prioritario el espectáculo deportivo sobre la continuidad de las tareas administrativas? En un contexto de ajuste y reclamo por la productividad, la discusión se vuelve más aguda. Los defensores del asueto señalan que es un \"derecho\" adquirido y un momento de descarga colectiva. Los críticos, en cambio, ven un privilegio que profundiza la grieta entre el sector público y el privado, donde no existen tales licencias.\n\n¿El fútbol justifica la interrupción de la jornada laboral en el sector público? ¿O es hora de repensar estas costumbres para una Argentina más productiva?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "asueto-por-futbol-pasion-nacional-vs-productividad",
-    "fecha": "2026-07-14",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Guerra mediática: ¿los tabloides ingleses ya arman la polémica arbitral contra Argentina?",
-    "bajada": "Antes del pitazo inicial, la prensa británica apunta al árbitro de la semifinal, buscando sembrar dudas y presionar.",
-    "cuerpo": "Los titulares provocadores de los diarios ingleses sobre el árbitro de la semifinal entre Argentina e Inglaterra no sorprenden, pero sí encienden las alarmas. Con la memoria del \"robo\" del 86 o la \"mano de Dios\" aún fresca, la prensa británica parece iniciar una campaña de presión y deslegitimación previa al encuentro. Acusaciones veladas y referencias históricas se mezclan para crear un clima de suspicacia en torno a la imparcialidad del juez.\n\nEsta estrategia mediática, ¿busca influir en la decisión arbitral o simplemente es una forma de calentar el partido y alimentar el morbo? Mientras el equipo argentino se enfoca en lo deportivo, la cancha mediática ya está en juego. La presión es una táctica antigua en el fútbol, y los tabloides británicos son expertos en ella.\n\n¿Es justo que el árbitro sea blanco de un ataque preventivo? ¿O es la \"guerra mediática\" una parte inseparable de los clásicos que exigen una mirada crítica?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "guerra-mediatica-tabloides-ingleses-polemica-arbitral",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Anya Taylor-Joy y el dilema nacional: ¿de qué lado está la famosa 'argenti-inglesa'?",
-    "bajada": "La actriz con doble nacionalidad confesó por quién hinchará en la semifinal, reavivando el debate sobre identidad y pertenencia.",
-    "cuerpo": "La expectativa por la semifinal entre Argentina e Inglaterra llegó incluso a Hollywood, con Anya Taylor-Joy, la actriz de orígenes \"argenti-ingleses\", revelando su preferencia. Su declaración, aunque personal, reavivó un debate más profundo: ¿cómo gestionan su identidad aquellos que comparten raíces en naciones con historias tan complejas y rivalidades latentes? Para muchos, tomar partido es ineludible, mientras que otros buscan un punto de encuentro en la diversidad.\n\nEste tipo de manifestaciones públicas, ¿ayudan a humanizar los conflictos o, por el contrario, refuerzan la necesidad de elegir un bando? La figura de Anya Taylor-Joy, una celebridad global, pone de manifiesto cómo las fronteras culturales se diluyen, pero las pasiones nacionales persisten con fuerza.\n\n¿Es posible ser \"de los dos lados\" cuando la historia y la pasión nos empujan a una elección? El dilema de la identidad, ¿es un juego o una responsabilidad?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "anya-taylor-joy-dilema-nacional-argenti-inglesa",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Derrota francesa: fin de una era o alarma temprana para las potencias?",
-    "bajada": "La sorpresiva caída de Francia ante España en el Mundial 2026 genera interrogantes sobre el futuro del gigante europeo y el impacto de sus estrellas.",
-    "cuerpo": "La derrota 2-0 de Francia a manos de España en el Mundial 2026 no es un resultado menor. Más allá del marcador, el desempeño del conjunto galo, con figuras como Dembele y Rabiot en la cancha, dejó entrever falencias que preocupan a su afición y al análisis futbolístico global. ¿Están sus figuras rindiendo al nivel esperado, o es el sistema táctico de Deschamps el que empieza a mostrar grietas ante rivales de peso?\n\nEste revés reabre el debate sobre la renovación de planteles en las selecciones top. Mientras España mostró solidez y una nueva generación de talentos, el esquema francés pareció estancado. La ausencia de un impacto decisivo de jugadores clave plantea la pregunta de si la \"generación dorada\" está perdiendo su brillo o si se necesita una reingeniería profunda.\n\n¿Qué tan lejos está Francia de sus aspiraciones mundialistas después de esta contundente actuación?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "derrota-francesa-fin-de-una-era-o-alarma-temprana",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina-Inglaterra: ¿Más que fútbol, un duelo de simbolismos y presiones?",
-    "bajada": "La semifinal del Mundial 2026 trasciende lo deportivo. La historia, la política y la expectativa social chocan en un partido de alto voltaje.",
-    "cuerpo": "El choque entre Argentina e Inglaterra en las semifinales del Mundial 2026 se perfila como el epicentro de la atención nacional. Más allá de la táctica y las formaciones, este encuentro carga con un peso histórico y emocional innegable para ambos países. La narrativa alrededor de este partido siempre se tiñe de un simbolismo que excede los 90 minutos de juego, colocando a los jugadores bajo una presión extraordinaria.\n\nLa sociedad argentina, fervorosa y pasional, vivirá cada jugada con una intensidad particular. Sin embargo, ¿es justo para los deportistas que se espere de ellos no solo una victoria deportiva, sino también la \"redención\" de heridas históricas? La cancha se convierte en un escenario donde se proyectan viejos rencores y esperanzas, a menudo, desproporcionados con la realidad de un evento deportivo.\n\n¿Podrán los equipos abstraerse del contexto extradeportivo o este \"duelo de simbolismos\" será un factor determinante?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-inglaterra-mas-que-futbol-un-duelo-de-simbolismos",
-    "fecha": "2026-07-14",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Malvinas en Qatar: ¿Censura o regla deportiva, un debate postergado?",
-    "bajada": "La prohibición de símbolos de Malvinas en el partido Argentina-Inglaterra reaviva la llama de una controversia que mezcla soberanía, fútbol y libertad de expresión.",
-    "cuerpo": "La advertencia de no permitir el ingreso de banderas o camisetas con alusiones a las Malvinas al partido entre Argentina e Inglaterra por el Mundial 2026 encendió una vez más el debate sobre los límites de la expresión política en eventos deportivos. Mientras algunos argumentan que se trata de una \"neutralidad\" necesaria para evitar conflictos, para muchos argentinos es una afrenta directa a la memoria y un intento de silenciar un reclamo histórico. ¿Es realmente la FIFA o el país anfitrión quien decide qué símbolos son \"políticos\" y cuáles no?\n\nEsta medida genera una fricción inevitable, especialmente en un contexto donde el fútbol es una extensión de la identidad nacional. El intento de \"despolitizar\" un evento con tal carga emocional resulta, para la opinión pública argentina, en una politización inversa: la de prohibir. ¿Estamos ante una limitación a la libertad de expresión bajo el pretexto de la seguridad, o es una regla consensuada para evitar provocaciones que buscan alterar la armonía del torneo?\n\n¿Qué prevalece en este Mundial: el espíritu deportivo o la imposición de narrativas externas sobre nuestra soberanía?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "5 min",
-    "slug": "malvinas-en-qatar-censura-o-regla-deportiva",
-    "fecha": "2026-07-14",
-    "imagen": "img/politica_5.png",
     "destacada": false
   }
 ]
