@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Feriado por el subcampeonato: ¿Celebración o distorsión de la realidad nacional?",
+    "bajada": "El presidente Milei decreta un feriado nacional tras la derrota de la Selección. ¿Es una medida populista o un gesto genuino a la pasión futbolera?",
+    "cuerpo": "Javier Milei anunció un feriado nacional para el lunes, un día después de que Argentina perdiera la final del Mundial 2026 contra España. La decisión, que se presenta como un reconocimiento al esfuerzo del equipo, genera un intenso debate sobre las prioridades de un país que enfrenta serios desafíos económicos y sociales. ¿Es este un momento para detener la actividad productiva o una oportunidad para la reflexión colectiva?\n\nLa medida, sin embargo, conecta con una larga tradición política de utilizar el fútbol como un bálsamo social. Mientras los partidarios defienden el gesto como un reconocimiento necesario a la pasión popular y el consuelo colectivo, los críticos señalan el costo económico de un día no laborable y la posible instrumentalización de un sentimiento nacional legítimo para desviar la atención de problemas más urgentes. ¿Es el Estado quien debe validar y \"premiar\" las emociones de la ciudadanía de esta forma, o esto expone una fragilidad institucional?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "feriado-subcampeonato-celebracion-distorsion",
+    "fecha": "2026-07-20",
+    "imagen": "img/politica_4.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿Silencio incómodo? La Selección se fue sin hablar tras la final del Mundial",
+    "bajada": "Los jugadores, incluido Messi, evitaron a la prensa tras la derrota ante España. ¿Es una señal de frustración o una desconexión con la expectativa pública?",
+    "cuerpo": "Tras la derrota en la final del Mundial 2026 frente a España, los jugadores de la Selección Argentina, con Messi a la cabeza, abandonaron el estadio sin hacer declaraciones a la prensa. Este silencio generó diversas interpretaciones: desde una profunda tristeza y respeto por el momento hasta una crítica por la falta de comunicación con la afición que los acompañó incondicionalmente. ¿Deben los atletas de élite rendir cuentas más allá de la cancha?\n\nLa imagen contrasta con la euforia habitual y deja un sabor agridulce. Si bien el dolor de la derrota es comprensible, la ausencia de un mensaje, por breve que sea, al público que los idolatra y a los medios que cubren cada paso, abre un interrogante sobre el manejo de las frustraciones en el deporte de alto rendimiento y la relación entre ídolos y sociedad. ¿Es esta actitud parte de la profesionalización o una brecha creciente con las bases populares del fútbol?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "silencio-incomodo-seleccion-sin-hablar",
+    "fecha": "2026-07-20",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La burla española: ¿Humor deportivo o ataque a la pasión argentina?",
+    "bajada": "El programa 'El Chiringuito' de España se mofó de la Selección Argentina tras la final. ¿Dónde está el límite entre la rivalidad y la falta de respeto?",
+    "cuerpo": "La emisión del popular programa deportivo español 'El Chiringuito' tras la victoria de España en el Mundial 2026 encendió la polémica en Argentina. Sus comentarios y burlas sobre la Selección y sus hinchas fueron rápidamente tildados de excesivos y provocadores, trascendiendo la sana rivalidad futbolística. Este incidente no solo irrita, sino que reabre el debate sobre la responsabilidad de los medios en la construcción de narratives, ¿Es la provocación la nueva regla?\n\nEn un contexto donde las redes sociales amplifican cada gesto, la reacción de 'El Chiringuito' se viralizó en Argentina, generando un aluvión de críticas y respuestas indignadas. ¿Es este tipo de periodismo un reflejo de la libertad de expresión o una muestra de cómo el sensacionalismo puede dañar relaciones entre naciones a través del deporte? ¿Realmente contribuye a la emoción del fútbol o solo enciende llamas de resentimiento innecesario?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "burla-espanola-humor-o-ataque",
+    "fecha": "2026-07-20",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Dibu y Tagliafico: ¿Héroes de un sueño imposible o síntomas de un problema mayor?",
+    "bajada": "El 1x1 del equipo mostró la solidez de Dibu Martínez y Tagliafico, ¿fue suficiente para ocultar las falencias de un equipo superado por España?",
+    "cuerpo": "El análisis del rendimiento individual de la Selección Argentina en la final contra España destacó, una vez más, la actuación estelar de Dibu Martínez y la consistencia de Nicolás Tagliafico. Ambos fueron pilares defensivos en un partido donde el equipo se vio superado tácticamente y físicamente por el campeón. Sin embargo, ¿depender de individualidades excepcionales es la fórmula para la gloria mundial o la evidencia de una estructura que necesita redefinirse?\n\nMientras la mística de Dibu y la entrega de Tagliafico mantuvieron el arco con vida más de lo esperado, la pregunta surge sobre la capacidad colectiva del equipo para generar juego y romper el cerrojo español. Este \"uno por uno\" revela que, si bien hay talentos incuestionables, el fútbol es un deporte de conjunto. ¿Es hora de un análisis más profundo sobre la estrategia y los roles, más allá de la brillantez aislada que solo prolonga lo inevitable?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "dibu-tagliafico-heroes-o-sintomas",
+    "fecha": "2026-07-20",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La otra tragedia del Mundial: Dos vidas perdidas por la pasión, ¿hasta dónde llega?",
+    "bajada": "Mientras el país vivía la final, dos hombres fallecieron por paros cardíacos. ¿Es el fútbol un evento de alto riesgo para la salud pública?",
+    "cuerpo": "En medio de la fiebre mundialista y la tensión de la final entre Argentina y España, dos hombres perdieron la vida por paros cardíacos relacionados con la emoción del partido. Este trágico hecho pone en perspectiva el impacto de la pasión futbolera en la salud de los aficionados y abre un debate crucial sobre la responsabilidad colectiva e individual. ¿Estamos preparados para gestionar las consecuencias de un evento deportivo de tal magnitud, que puede ser literalmente fatal?\n\nEstos lamentables sucesos subrayan la necesidad de campañas de concientización sobre los riesgos cardíacos asociados al estrés emocional extremo, especialmente en personas con patologías preexistentes. Más allá de la celebración o la tristeza por el resultado, la muerte de estos dos hinchas es un recordatorio sombrío de que el deporte, aunque sea una fiesta, también puede tener un costo humano devastador. ¿Es momento de reflexionar sobre los límites de la pasión y la cultura del \"todo o nada\" en el fútbol?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "tragedia-mundial-vidas-perdidas-pasion",
+    "fecha": "2026-07-20",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Gracias Selección: ¿Consuelo necesario o romantización de la derrota?",
+    "bajada": "La AFA y gran parte de la sociedad agradecen a la Selección. ¿Es una forma de sanar o de evitar el análisis crítico sobre el subcampeonato?",
+    "cuerpo": "El mensaje de la AFA, \"Gracias Selección Argentina por hacernos creer otra vez\", resuena en un país que, a pesar de la derrota en la final del Mundial 2026, busca aferrarse al sentimiento de gratitud y orgullo. Esta narrativa post-derrota, que se viraliza con el hashtag #GraciasSelección, ¿es un consuelo genuino y necesario para una sociedad golpeada o una forma de romantizar un resultado que, en el ámbito deportivo, es una pérdida?\n\nSi bien el agradecimiento a los jugadores es un sentimiento noble, surge la pregunta sobre la capacidad de la sociedad argentina para procesar la derrota sin caer en la dicotomía de \"héroes\" o \"villanos\", o en el extremo opuesto de una complacencia excesiva. ¿Es este enfoque un obstáculo para la autocrítica y el aprendizaje, o simplemente una forma saludable de honrar el esfuerzo? ¿Qué significa realmente \"creer otra vez\" si el resultado no es el esperado?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "gracias-seleccion-consuelo-o-romantizacion",
+    "fecha": "2026-07-20",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina cayó de pie: ¿Orgullo nacional o resignación ante la superioridad española?",
+    "bajada": "Los medios afirman que Argentina \"cayó de pie\" ante España, el merecido campeón. ¿Es un intento de mitigar la derrota o una evaluación honesta del rival?",
+    "cuerpo": "La narrativa post-final del Mundial 2026, ampliamente difundida, sostiene que Argentina \"cayó de pie\" ante una España que fue \"merecido campeón\". Esta visión busca consolar y enaltecer el esfuerzo del equipo argentino a pesar de la derrota. Sin embargo, ¿hasta qué punto esta frase es un reflejo de la realidad futbolística y hasta dónde es un mecanismo de defensa ante la frustración de no alcanzar el máximo objetivo?\n\nEs innegable que España mostró una superioridad táctica y técnica, consolidándose como un rival formidable. Reconocer esto es parte del análisis deportivo. Pero el discurso del \"caer de pie\" puede, en ocasiones, diluir la necesidad de una crítica constructiva sobre los aspectos a mejorar. ¿Es este enfoque un balance adecuado entre el orgullo nacional y la objetividad, o corremos el riesgo de conformarnos con el \"casi\" en lugar de aspirar a la excelencia sin excusas? El debate sobre la derrota siempre es complejo.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-cayo-de-pie-orgullo-o-resignacion",
+    "fecha": "2026-07-20",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Malvinas en el fútbol: ¿patriotismo o provocación internacional?",
     "bajada": "La FIFA investiga a Argentina por una bandera, ¿hasta dónde llega la soberanía en la cancha?",
     "cuerpo": "Reino Unido exige a la FIFA una investigación contra la Selección Argentina por exhibir una pancarta de las Malvinas. Esta acción, tras una victoria importante, reaviva un debate histórico: ¿es el campo de juego un espacio para reafirmar derechos soberanos o debería limitarse al espíritu deportivo? La tensión diplomática y futbolística se cruzan en un mensaje que, para algunos, es innegociable.\n\nLa controversia expone la delgada línea entre el sentimiento nacional y las reglas internacionales. Mientras desde Argentina se defiende la legitimidad de recordar la cuestión Malvinas en cualquier contexto, los reclamos británicos apuntan a una supuesta \"politización\" del deporte. ¿Qué precedente sienta una posible sanción? ¿O la inacción? Este incidente invita a reflexionar sobre cómo se gestionan los símbolos patrios en escenarios globales y qué implicancias tiene para la política exterior deportiva.\n\n¿Es la FIFA el organismo adecuado para dirimir disputas históricas entre naciones? ¿O su intervención solo exacerba una herida que sigue abierta para millones de argentinos?",
@@ -9,7 +93,7 @@
     "slug": "malvinas-futbol-patriotismo-provocacion",
     "fecha": "2026-07-19",
     "imagen": "img/politica_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Vocero elogia Malvinas pero denosta al país: ¿doble discurso oficial?",
@@ -201,90 +285,6 @@
     "slug": "casa-blanca-malvinas-diplomacia-futbol",
     "fecha": "2026-07-18",
     "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "The Guardian y Malvinas: ¿Diálogo real o ingenuidad argentina?",
-    "bajada": "El influyente diario británico The Guardian insta a su gobierno a negociar por Malvinas, reavivando esperanzas y suspicacias.",
-    "cuerpo": "La propuesta de The Guardian, uno de los medios más influyentes del Reino Unido, instando a reabrir las negociaciones con Argentina por la soberanía de las Islas #Malvinas, generó un revuelo significativo. ¿Es este un verdadero punto de inflexión, una señal de apertura desde un sector progresista británico, o una estrategia para sondear la reacción argentina y calmar las aguas tras recientes tensiones? La historia de las negociaciones por las islas está plagada de idas y vueltas, donde la intransigencia británica ha sido una constante.\n\nLa postura del gobierno del Reino Unido ha sido siempre clara: no hay nada que negociar si los isleños no lo desean. Sin embargo, la presión internacional y, quizás, el resurgimiento de la causa en Argentina -potenciado por el contexto deportivo- podría estar generando un cambio. ¿Debería Argentina tomar este llamado como una oportunidad genuina para el diálogo o mantener una postura cautelosa, evitando caer en un juego que históricamente no ha favorecido sus intereses? La soberanía de las Malvinas es una herida abierta, y cualquier acercamiento debe ser analizado con máxima cautela y pragmatismo, más allá de los deseos o titulares.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "guardian-malvinas-negociaciones-dialogo",
-    "fecha": "2026-07-18",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Malvinas: ¿El Mundial reavivó la soberanía o fue solo curiosidad global y efímera?",
-    "bajada": "El triunfo de Argentina en el Mundial disparó las búsquedas globales sobre las Malvinas, evidenciando un interés renovado por la causa.",
-    "cuerpo": "La victoria de la Selección Argentina en el Mundial de fútbol desató una ola de orgullo nacional que trascendió las fronteras, llevando a un aumento \"histórico\" en las búsquedas de Google sobre las Islas #Malvinas a nivel global. Este fenómeno, ¿es un indicio de una conciencia global emergente sobre la disputa de soberanía, o simplemente un efímero pico de curiosidad impulsado por la asociación emocional entre Argentina y el éxito deportivo? La conexión entre el fútbol y la identidad nacional, especialmente en temas tan sensibles como Malvinas, es innegable en nuestro país.\n\nEl dato de Infobae revela cómo un evento de magnitud planetaria puede reubicar una cuestión geopolítica en la agenda mediática mundial, aunque sea por un breve lapso. La pregunta es qué capital político y diplomático puede extraer Argentina de este súbito interés. ¿Estamos frente a una oportunidad para reforzar la narrativa y la demanda por la soberanía en foros internacionales, o este aumento de búsquedas es solo un eco de la euforia futbolística que se disipará rápidamente? La memoria colectiva y el rol de los motores de búsqueda como termómetro social ofrecen una lectura, pero la acción real exige una estrategia sostenida.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "malvinas-mundial-busquedas-globales",
-    "fecha": "2026-07-18",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Shutdown a la argentina? Milei propone un sismo fiscal con consecuencias inciertas.",
-    "bajada": "La propuesta de Javier Milei de un \"shutdown a la argentina\" genera incertidumbre y un intenso debate sobre su viabilidad y riesgos.",
-    "cuerpo": "El presidente Javier Milei ha vuelto a sacudir el tablero político con su propuesta de un \"shutdown a la argentina\", un concepto importado de la política estadounidense que, en nuestro contexto, plantea interrogantes aún más profundos. ¿Es esta una medida drástica pero necesaria para forzar la reducción del gasto público, o un salto al vacío que paralizaría el Estado y agravaría la crisis social y económica? La idea de detener funciones estatales no esenciales en caso de no aprobarse el presupuesto es un mecanismo de presión, pero el impacto en la vida cotidiana de millones de argentinos podría ser devastador, desde la interrupción de servicios básicos hasta la demora de trámites fundamentales.\n\nLos defensores de la medida argumentan que es la única forma de disciplinar al Congreso y a las provincias, obligándolos a aceptar un ajuste fiscal severo. Sin embargo, los críticos advierten sobre la inconstitucionalidad de tal acción y el peligro de desestabilización institucional, señalando que la falta de un sistema federal robusto y la fragilidad social de Argentina no son comparables con la realidad de Estados Unidos. ¿Estamos ante una jugada maestra para acelerar reformas, o una amenaza velada que busca imponer una visión a costa de la gobernabilidad? El debate no es menor y sus implicancias podrían marcar un antes y un después. ¿Quién pagará el costo real de un \"shutdown a la argentina\"?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "5 min",
-    "slug": "shutdown-argentina-milei-debate",
-    "fecha": "2026-07-18",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Recetas fiscales fallidas? Ghosh advierte: bajar impuestos no atrae inversiones.",
-    "bajada": "La economista Jayati Ghosh cuestiona la estrategia de reducción impositiva del gobierno argentino, advirtiendo sobre su ineficacia para atraer inversiones y la creciente vulnerabilidad.",
-    "cuerpo": "La reconocida economista Jayati Ghosh, en una entrevista para Letra P, lanzó una advertencia clara: #Argentina será más vulnerable y la bajada de impuestos, contrariamente a lo que se pregona, no atraerá inversiones significativas. Esta visión confronta directamente uno de los pilares de la política económica actual del gobierno, que busca desregular y reducir la carga fiscal con la esperanza de estimular el mercado. ¿Es la visión de Ghosh una crítica fundamentada en la evidencia o un sesgo ideológico contra las políticas de libre mercado? Los datos macroeconómicos recientes invitan a una reflexión.\n\nGhosh argumenta que, en un contexto de alta volatilidad y falta de un marco de estabilidad macroeconómica, las exenciones impositivas no son el factor determinante para la llegada de capitales. Por el contrario, podrían debilitar aún más las arcas del Estado, comprometiendo la capacidad de inversión pública y la provisión de servicios esenciales. ¿Es sostenible un modelo que privilegia la supuesta atracción de capitales por sobre la solidez fiscal y la protección social? La discusión sobre cómo reactivar la economía y generar riqueza genuina es crucial. ¿Estamos apostando a una fórmula que ya ha demostrado sus limitaciones en otras latitudes?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "jayati-ghosh-impuestos-inversiones-vulnerabilidad",
-    "fecha": "2026-07-18",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿El \"Gigante\" se achicó? River y una derrota que duele en la Copa Argentina.",
-    "bajada": "La eliminación temprana ante Aldosivi expone fragilidades y dispara preguntas sobre el proyecto deportivo del Millonario.",
-    "cuerpo": "River Plate, el club que se enorgullece de su historia y presupuesto, sufrió un golpe impensado en la Copa Argentina. La derrota por 2-0 frente a Aldosivi, un equipo de menor categoría, no solo significa una eliminación prematura sino que expone una preocupante falta de respuesta en momentos clave. ¿Es una caída aislada o la señal de un ciclo que necesita una profunda revisión?\n\nEl partido dejó en evidencia que, incluso con un presupuesto millonario, el fútbol argentino puede dar sorpresas amargas. La afición, acostumbrada a la gloria, ahora se enfrenta a una realidad donde la efectividad del rival y la falta de reacción propia definen destinos. Más allá del resultado, el debate se centra en la estrategia, el rendimiento individual y la capacidad de resiliencia de un equipo que parecía invencible.\n\n¿Hasta qué punto el \"factor copa\" es una excusa válida para rendimientos tan irregulares en equipos con aspiraciones máximas? ¿O es hora de admitir que la sorpresa es la nueva constante en un torneo federal y que nadie está exento de un traspié doloroso?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "el-gigante-se-achico-river-derrota-copa-argentina",
-    "fecha": "2026-07-18",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Debacle o ajuste? San Lorenzo fuera de Copa Argentina en debut de Gorosito.",
-    "bajada": "La eliminación por penales ante Riestra pone en jaque el nuevo ciclo técnico y la paciencia de la hinchada.",
-    "cuerpo": "San Lorenzo vivió una jornada para el olvido en la Copa Argentina, despidiéndose del torneo a manos de Riestra, un rival en el papel accesible. Este \"golpazo\" se produce nada menos que en el debut de Néstor \"Pipo\" Gorosito como director técnico, encendiendo las alarmas y las críticas sobre la planificación y el rumbo del equipo. ¿Es una señal temprana de que el proyecto no arranca, o solo un tropiezo esperable en la búsqueda de una nueva identidad?\n\nLa caída, consumada en la tanda de penales, no solo representa una derrota deportiva sino también un duro golpe anímico y económico para un club que busca estabilidad. La afición de San Lorenzo, ya castigada por años de irregularidades, exige respuestas inmediatas. El \"efecto nuevo DT\" no se hizo sentir y la incertidumbre crece en Boedo.\n\n¿Qué tan rápido debe un equipo mostrar resultados cuando la urgencia apremia y los objetivos se esfuman con rapidez? ¿Pesa más la ilusión de un nuevo entrenador o la contundencia de una eliminación que hiere de muerte?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "debacle-o-ajuste-san-lorenzo-copa-argentina-gorosito",
-    "fecha": "2026-07-18",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Censura o protocolo? FIFA amenaza a Argentina por bandera de Malvinas.",
-    "bajada": "El gesto soberano en pleno Mundial desata la furia de la FIFA y reaviva el debate sobre la política en el deporte.",
-    "cuerpo": "La Selección Argentina, en un acto que generó tanto orgullo como polémica, mostró una pancarta con la leyenda \"Las Malvinas son argentinas\" tras su victoria sobre Inglaterra en el Mundial. Lejos de quedar en una anécdota, la FIFA confirmó que evalúa posibles sanciones, encendiendo las alarmas sobre la libertad de expresión de los deportistas y la supuesta \"neutralidad\" del fútbol. ¿Es la FIFA un organismo deportivo o un ente político con agenda propia?\n\nLa postura de Estados Unidos, respaldando el derecho de los jugadores a expresarse, contrasta con la rigidez de la FIFA, que siempre ha intentado despolitizar el deporte, especialmente cuando no le conviene. Esta dicotomía expone las tensiones entre la soberanía nacional, el sentir popular y las normativas internacionales que a menudo parecen ignorar contextos históricos y culturales. La pregunta es si la pasión de un pueblo puede ser regulada por reglamentos que priorizan la imagen por encima de las convicciones.\n\n¿Es posible mantener el deporte \"apolítico\" cuando los eventos internacionales son, por naturaleza, escenarios de encuentro y fricción entre naciones? ¿Hasta dónde debe llegar la \"neutralidad\" de un jugador cuando representa a su país y su historia?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "censura-o-protocolo-fifa-amenaza-argentina-malvinas",
-    "fecha": "2026-07-18",
-    "imagen": "img/politica_1.png",
     "destacada": false
   }
 ]
