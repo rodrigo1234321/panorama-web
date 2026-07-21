@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Orgullo nacional o excusa dulce? El mensaje de Cuti Romero tras la derrota",
+    "bajada": "El defensor de la Selección apeló al sentimiento patrio, pero la derrota en la final deja un sabor amargo y preguntas abiertas.",
+    "cuerpo": "El \"Cuti\" Romero intentó consolar a la afición argentina tras la dolorosa caída ante España en la final, proclamando que \"jamás dejamos de representar a la Argentina\". Un mensaje que busca elevar el espíritu, pero que no oculta la frustración de una oportunidad perdida. ¿Es suficiente el esfuerzo cuando el resultado no acompaña las expectativas de una nación obsesionada con el triunfo?\n\nMientras el jugador intenta cerrar el capítulo, la afición debate si la \"representación\" es sinónimo de entrega o si el foco debe estar en la victoria. El fútbol, más que un deporte, es un termómetro social. Y hoy, ese termómetro marca una temperatura de decepción, por más que la épica del segundo puesto intente suavizarla.\n\n¿Hasta qué punto el \"orgullo\" justifica el análisis crítico del rendimiento deportivo y las decisiones tácticas que llevaron a este desenlace?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "orgullo-nacional-o-excusa-dulce-cuti-romero",
+    "fecha": "2026-07-21",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Show presidencial y Selección: ¿Milei falló en el abrazo con el fútbol?",
+    "bajada": "Se revelan los pormenores del frustrado intento del gobierno de capitalizar políticamente la llegada de la Scaloneta.",
+    "cuerpo": "Tras la derrota, el regreso de la Selección Argentina se convirtió en un escenario de tensión política. La intención del gobierno de Javier Milei de orquestar un \"recibimiento de honor\" chocó con la decisión de los jugadores de mantener un perfil bajo. Este \"plan fallido\" no solo expuso la distancia entre la Casa Rosada y el plantel, sino que reavivó el debate sobre la instrumentalización política del deporte nacional.\n\nLos detalles filtrados muestran una desorganización que va más allá de un simple malentendido. Con la selección llegando a Ezeiza, se esperaba una foto que Milei no obtuvo, dejando en evidencia una falla de cálculo en un momento de alta sensibilidad. El \"recibimiento de honor\" terminó siendo un paso discreto por autopistas para evitar la confrontación con un estado de ánimo que no daba para festejos orquestados.\n\n¿Debería el gobierno intentar subirse al éxito (o en este caso, al subcampeonato) del fútbol, o es mejor que mantenga distancia institucional?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "show-presidencial-milei-futbol",
+    "fecha": "2026-07-21",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Argentina racista? El dardo de Samuel L. Jackson que sacudió al país",
+    "bajada": "El actor de Hollywood desató una polémica internacional al tildar a Argentina de \"el país más racista del mundo\", provocando un repudio masivo.",
+    "cuerpo": "El bombazo de Samuel L. Jackson acusando a Argentina de ser \"el país más racista del mundo\" reverberó en las redes y medios nacionales, destapando una olla de prejuicios y debates pendientes. La declaración, previa a la final del Mundial, generó indignación y un aluvión de respuestas, entre ellas la de Bárbara Lombardo, que exigió mayor rigurosidad en las acusaciones. ¿Una campaña de desprestigio o una verdad incómoda que se ignora?\n\nLa controversia evidenció la profunda grieta en la percepción de Argentina respecto a su propia diversidad cultural y racial. Mientras muchos defienden la idiosincrasia nacional, otros señalan la existencia de micro-racismos y actitudes discriminatorias arraigadas, muchas veces invisibilizadas. La discusión se polariza entre el orgullo nacional herido y la necesidad de una autocrítica.\n\n¿Es este un ataque infundado o una oportunidad para que Argentina reflexione honestamente sobre sus propias estructuras y discursos raciales?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-racista-dardo-samuel-l-jackson",
+    "fecha": "2026-07-21",
+    "imagen": "img/sociedad_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Ezeiza: el regreso amargo de la Selección y el fantasma de Messi ausente",
+    "bajada": "La llegada de la Scaloneta a Ezeiza estuvo marcada por la ausencia de Lionel Messi y la cancelación del feriado, un indicio de que no había nada que festejar.",
+    "cuerpo": "La Selección Argentina arribó a Ezeiza en un operativo que contrastó drásticamente con los recibimientos triunfales anteriores. Sin el esperado feriado nacional y con un perfil bajo, la llegada de los subcampeones del mundo estuvo teñida por el sabor amargo de la derrota. Pero la gran pregunta que sobrevoló el ambiente fue la ausencia de Lionel Messi, quien decidió no regresar con el resto del plantel.\n\nLa decisión de Messi, aunque justificada por algunos como una elección personal en un momento de frustración, generó un sinfín de especulaciones y críticas. ¿Fue una señal de descontento, de cansancio o simplemente una elección práctica que la coyuntura magnificó? Su figura, siempre el centro de atención, dejó un vacío simbólico que opacó aún más un regreso que ya era discreto.\n\n¿Refleja esta llegada sobria una madurez post-derrota o una profunda desconexión entre la dirigencia, los jugadores y las expectativas del público?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "ezeiza-regreso-amargo-seleccion-messi-ausente",
+    "fecha": "2026-07-21",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "De Paul contra la crítica: ¿\"Nuestras maneras les joden\" o soberbia post-derrota?",
+    "bajada": "El mediocampista Rodrigo De Paul reaccionó con un mensaje provocador que encendió el debate sobre la actitud del equipo y la crítica periodística.",
+    "cuerpo": "\"Nuestras maneras les joden\". Con esa frase, Rodrigo De Paul lanzó un dardo directo a los críticos tras la derrota en la final del Mundial. Un mensaje que, lejos de calmar las aguas, avivó la discusión sobre la relación entre los jugadores, la prensa y la afición. ¿Es un intento de defender el honor del equipo o una muestra de soberbia ante la imposibilidad de aceptar el análisis negativo?\n\nLa frase de De Paul, cargada de un tono desafiante, resalta la tensión que se vive en el ecosistema del fútbol argentino, donde la pasión roza con la exigencia desmedida. Mientras algunos interpretan el posteo como una declaración de principios y una defensa del grupo, otros lo ven como una falta de autocrítica en un momento donde el resultado no acompañó el \"sacrificio\" tantas veces esgrimido.\n\n¿Hasta dónde puede estirarse la cuerda entre la defensa del orgullo y la necesidad de una mirada objetiva sobre el rendimiento, sin caer en la victimización?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "de-paul-critica-soberbia-post-derrota",
+    "fecha": "2026-07-21",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Tristeza o presión? Milei opina sobre la no celebración de la Selección",
+    "bajada": "El presidente Javier Milei, en un gesto poco habitual, interpretó las razones detrás de la decisión de los jugadores de no realizar festejos.",
+    "cuerpo": "El presidente Javier Milei no se quedó al margen de la polémica post-derrota de la Selección, ofreciendo su propia lectura: \"Frente a la tristeza de no haber ganado, decidieron no hacer festejos\". Una declaración que, si bien puede parecer un intento de empatía, abre el interrogante sobre la pertinencia de que el primer mandatario interprete los estados de ánimo de los deportistas, o si es una maniobra para desvincular al gobierno de cualquier responsabilidad en el \"silencio\" del regreso.\n\nEsta intromisión presidencial en la esfera deportiva, más allá de la simpatía que pueda generar, refuerza la idea de una política que busca apropiarse de los éxitos y desmarcarse de los reveses, incluso en el ámbito futbolístico. ¿Es legítimo que el Ejecutivo emita juicios sobre las emociones de figuras públicas que no forman parte de su estructura de gobierno?\n\n¿Contribuyen estas declaraciones a la unidad nacional en un momento de frustración o, por el contrario, exponen aún más las tensiones entre el poder político y el mundo del deporte?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "tristeza-o-presion-milei-no-celebracion",
+    "fecha": "2026-07-21",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El enigma de Messi: ¿Por qué no volvió con la Selección a Argentina?",
+    "bajada": "La ausencia de Lionel Messi en el vuelo de regreso de la Selección Argentina con sus compañeros genera un profundo misterio y debate.",
+    "cuerpo": "Mientras el resto de la Selección Argentina aterrizaba en Ezeiza con la carga de la derrota y un recibimiento discreto, la ausencia de Lionel Messi se convirtió en el gran interrogante. ¿Por qué el capitán y figura no acompañó al plantel en el regreso a casa? Las explicaciones oficiales fueron escuetas, alimentando especulaciones y la frustración de muchos que esperaban, al menos, un último contacto con el ídolo.\n\nEsta decisión de Messi, aunque en un contexto de tristeza deportiva, no dejó de generar críticas. En un país donde el fútbol es religión y los gestos simbólicos pesan, la figura del capitán ausente en el momento de la \"vuelta\" tras una final perdida se percibe como un desaire o una profunda desilusión que el mismo jugador prefirió procesar en privado, lejos de la efervescencia argentina.\n\n¿Es la ausencia de Messi un signo de su propio agotamiento con la presión nacional, o simplemente una decisión personal que no debería ser sobredimensionada en un país donde cada paso del 10 es un acontecimiento?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "enigma-messi-por-que-no-volvio-seleccion",
+    "fecha": "2026-07-21",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Scaloni al límite? La trama detrás de su posible adiós a la Selección.",
     "bajada": "Rumores de renuncia sacuden a la Scaloneta: ¿cansancio, internas o estrategia a futuro?",
     "cuerpo": "Lionel Scaloni sorprendió al mundo del fútbol con declaraciones que abren la puerta a su salida de la Selección Argentina. La noticia, que sacudió los cimientos del post-subcampeonato mundial, deja entrever un trasfondo de desgaste que va más allá del resultado deportivo. ¿Qué hay detrás de este enigmático anuncio que pone en vilo el futuro del proyecto albiceleste?\n\nFuentes cercanas al cuerpo técnico hablan de un profundo agotamiento, presiones constantes y la necesidad de una reevaluación personal. Sin embargo, en el intrincado universo del fútbol argentino, no faltan quienes especulan con movimientos estratégicos o internas que podrían haber precipitado estas declaraciones. ¿Es una táctica para renegociar condiciones o una genuina señal de que el ciclo está llegando a su fin? La incertidumbre abre un debate crucial sobre la gestión de nuestros héroes deportivos.\n\n¿Hasta dónde el éxito justifica el nivel de presión insostenible que recae sobre los DTs de la Selección? ¿Y qué rol juega la dirigencia en este aparente desgaste?",
@@ -9,7 +93,7 @@
     "slug": "scaloni-al-limite-la-trama-detras-de-su-posible-adios-a-la-seleccion",
     "fecha": "2026-07-20",
     "imagen": "img/politica_8.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Argentina 0 - 1 España: ¿Subcampeones dignos o derrota evitable?",
@@ -201,90 +285,6 @@
     "slug": "maria-becerra-himno-talento-marketing",
     "fecha": "2026-07-19",
     "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Colapinto: ¿prioridad la F1 o la Selección? Un debate nacional",
-    "bajada": "Franco Colapinto, entre la pista belga y la pasión albiceleste: ¿dónde está el verdadero corazón?",
-    "cuerpo": "Franco Colapinto, la promesa argentina de la Fórmula 1, confesó que si su carrera en Bélgica coincidía con la final del Mundial, habría preferido ver a la Selección. Esta declaración, que resuena con la pasión nacional, abre el debate sobre la jerarquía de las prioridades individuales frente al sentimiento colectivo. ¿Es comprensible su elección o un guiño a la tribuna?\n\nEl joven piloto, que lleva el \"Vamos Argentina\" como bandera, encarna una dualidad que muchos ciudadanos viven: el compromiso profesional y la inquebrantable devoción por los colores patrios. ¿Refleja esto una particularidad de la identidad argentina donde el fútbol trasciende cualquier otro evento? El hecho de que un deportista de élite priorice un evento ajeno a su disciplina, ¿envía un mensaje positivo o distorsiona el valor del esfuerzo individual?\n\n¿Hasta qué punto el fervor por la Selección puede opacar otras gestas deportivas de los argentinos en el mundo? ¿O es, por el contrario, una manifestación genuina de una cultura que pone lo colectivo por encima de todo lo demás?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "colapinto-f1-seleccion-debate-nacional",
-    "fecha": "2026-07-19",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Final del Mundial: ¿euforia necesaria o distracción masiva?",
-    "bajada": "Argentina vs. España: la previa del partido, ¿un bálsamo social o una cortina de humo?",
-    "cuerpo": "La inminente final del Mundial entre Argentina y España ha desatado una ola de euforia que domina la agenda nacional. Medios, redes y la conversación cotidiana giran en torno al partido. ¿Es esta celebración colectiva un necesario desahogo social frente a las urgencias del país, o se ha convertido en una distracción masiva que desvía la atención de problemas más apremiantes?\n\nEl fenómeno de la Selección trasciende lo deportivo, generando una unión efímera que muchos ven como valiosa. Sin embargo, el nivel de expectación y la paralización de otras actividades plantean si no se está invirtiendo una energía desmedida en un evento que, más allá de lo emocional, no resuelve las profundas crisis estructurales. ¿Es la \"fiesta del fútbol\" un analgésico temporal para una sociedad con profundas heridas?\n\n¿Estamos como sociedad confundiendo el entusiasmo pasajero con soluciones reales? ¿O es la capacidad de unirnos en la alegría un valor en sí mismo, independientemente del contexto?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "final-mundial-euforia-distraccion",
-    "fecha": "2026-07-19",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Times Square: ¿nacionalismo genuino o marca país en venta?",
-    "bajada": "Miles de argentinos en Nueva York, ¿la bandera como símbolo de unidad o producto turístico?",
-    "cuerpo": "El \"banderazo\" de 10.000 hinchas argentinos en Times Square, Nueva York, antes de la final del Mundial, es una postal impactante de la pasión albiceleste que trasciende fronteras. Pero, ¿es esta manifestación un puro y espontáneo acto de nacionalismo o hay una intrínseca estrategia de \"marca país\" que, consciente o inconscientemente, se pone en juego en uno de los centros de consumo global?\n\nLa imagen de una diáspora unida es poderosa y genera identificación, reforzando el sentimiento de pertenencia más allá de la distancia. Sin embargo, la exposición en un lugar tan icónico como Times Square también puede ser leída como parte de una narrativa que mercantiliza la identidad cultural y deportiva. ¿Estamos presenciando una evolución de las expresiones patrióticas o su integración definitiva en la lógica del espectáculo global?\n\n¿Es la manifestación en Times Square una genuina expresión de amor por la camiseta o una puesta en escena que, además, beneficia la imagen de Argentina en el mundo? ¿Cuál es el verdadero costo de capitalizar estos momentos de fervor popular?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "times-square-nacionalismo-marca-pais",
-    "fecha": "2026-07-19",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Messi o la nueva era: ¿la final es el fin de un ciclo o un nuevo comienzo?",
-    "bajada": "La final contra España: ¿el último baile del '10' o el nacimiento de una generación?",
-    "cuerpo": "La final del Mundial 2026 contra España se presenta como un punto de inflexión generacional. ¿Será el broche de oro para la carrera de Lionel Messi, el cierre soñado para el astro que lo ganó todo, o el escenario para el nacimiento y consolidación de una nueva era con figuras como Lamine Yamal? La narrativa dominante se polariza entre la despedida legendaria y la promesa del futuro.\n\nDesde una perspectiva crítica, el foco excesivo en la figura de Messi, aunque justificado por su impacto, a veces opaca el trabajo colectivo y la emergencia de nuevos talentos que ya están redefiniendo el fútbol. ¿Estamos preparados para una transición de ídolos, o la dependencia de una figura rutilante es una constante cultural en el deporte argentino? La construcción de héroes y su \"último gran partido\" alimenta un relato que, aunque épico, puede postergar el reconocimiento de lo que viene.\n\n¿Qué tipo de legado se construye cuando la atención se divide entre la veneración de un ídolo y la necesidad de abrir camino a lo nuevo? ¿Es esta final una oportunidad para mirar hacia adelante o para aferrarnos al pasado glorioso?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "messi-nueva-era-final-ciclo",
-    "fecha": "2026-07-19",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Patriotismo o show? El himno de Becerra en la final",
-    "bajada": "La \"Nena de Argentina\" al micrófono en la Copa del Mundo: ¿éxito asegurado o distracción innecesaria?",
-    "cuerpo": "La designación de María Becerra para entonar el Himno Nacional Argentino en la final del Mundial ha encendido el debate en redes sociales, con opiniones divididas sobre la idoneidad y el impacto de esta elección. Mientras sus fans celebran la visibilidad de una figura popular, críticos se preguntan si el escenario deportivo más importante es el lugar para un show mediático o si se prioriza el valor simbólico del himno sin adornos. ¿Es una estrategia para sumar audiencia o un auténtico reconocimiento cultural?\n\nEl fútbol y la música pop se encuentran en una intersección que despierta pasiones y sospechas. Con millones de ojos puestos en el partido contra España, la voz de \"La Nena de Argentina\" será el foco de atención, eclipsando quizás, para algunos, el significado tradicional de la ceremonia. ¿Realmente esto suma al espíritu patrio o desvía la atención del evento central? ¿Qué busca la AFA al alinear su imagen con figuras del espectáculo en momentos tan cruciales? El debate sobre la comercialización del deporte y la cultura está más vivo que nunca.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "patriotismo-o-show-el-himno-de-becerra-en-la-final",
-    "fecha": "2026-07-19",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Épica espontánea o marketing? La invasión argentina en Times Square",
-    "bajada": "Miles de argentinos tiñeron Nueva York de celeste y blanco, pero ¿qué hay detrás del banderazo en Times Square?",
-    "cuerpo": "La imagen de 10.000 hinchas argentinos congregados en Times Square, a miles de kilómetros de casa, genera asombro y admiración. Este \"banderazo\" masivo es presentado como una muestra de pasión inquebrantable, una tradición que se repite en cada gran evento futbolístico. Sin embargo, surge la pregunta: ¿es realmente un fenómeno puramente espontáneo o existe una logística y promoción detrás que lo convierte en un evento planificado, con tintes de marketing turístico y deportivo?\n\nSi bien la pasión argentina es innegable, la magnitud y organización de estos encuentros en lugares tan icónicos como Nueva York sugieren una coordinación que va más allá de la mera coincidencia. ¿Quién financia o facilita estos encuentros? ¿Es una forma genuina de apoyo o una exhibición de marca país en un escenario global? La línea entre el fervor popular y la estrategia comunicacional es cada vez más difusa, invitando a reflexionar sobre la autenticidad de estas manifestaciones.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "epica-espontanea-o-marketing-la-invasion-argentina-en-times-square",
-    "fecha": "2026-07-19",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Mbappé y Messi: ¿respeto o estrategia en la antesala de la final?",
-    "bajada": "La predicción de Mbappé sobre Messi en la final: ¿un gesto de admiración o una movida psicológica?",
-    "cuerpo": "Kylian Mbappé, figura de Francia, se pronunció sobre Lionel Messi antes de la final entre Argentina y España, generando un revuelo en el mundo del fútbol. Sus palabras, que algunos interpretan como un elogio genuino al astro argentino, otros las ven como una estrategia sutil para añadir presión o desviar la atención. ¿Es Mbappé un simple observador o sus declaraciones tienen un peso específico en la guerra psicológica previa a un evento de esta magnitud?\n\nEl fútbol de élite no solo se juega en la cancha, sino también en las declaraciones públicas. Con la historia reciente entre ambos jugadores, y la rivalidad latente, cada palabra es analizada al detalle. ¿Intenta Mbappé jugar un papel en la mente de Messi o simplemente expresa su opinión honesta? La tensión crece, y las voces externas, por más respetuosas que parezcan, siempre añaden una capa más de complejidad a la narrativa de la final. ¿Hasta dónde llega el respeto entre gigantes y dónde empieza el juego de la mente?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mbappe-y-messi-respeto-o-estrategia-en-la-antesala-de-la-final",
-    "fecha": "2026-07-19",
-    "imagen": "img/sociedad_8.png",
     "destacada": false
   }
 ]
