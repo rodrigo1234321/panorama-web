@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Rosalía y Argentina: ¿disculpas sinceras o control de daños?",
+    "bajada": "La cantante borró su polémico posteo, pero la reacción del público y su club de fans divide aguas.",
+    "cuerpo": "La reciente controversia que involucra a la estrella global Rosalía y su aparente desliz en redes sociales contra Argentina ha encendido las alarmas sobre la sensibilidad cultural y el impacto de las figuras públicas. Tras borrar el posteo que generó una ola de indignación, las explicaciones de la artista se perciben entre la genuina disculpa y una estrategia de relaciones públicas forzada.\\n\\nEl debate en X es efervescente: mientras algunos defienden la inocencia de un \"error\", el club de fans argentino emite un comunicado ambiguo que busca apaciguar sin tomar una postura clara. ¿Es este el precio de la fama global, donde cualquier paso en falso cultural puede generar una crisis, o hay una doble vara al medir la empatía de los artistas con sus audiencias latinoamericanas?\\n\\n¿Realmente entienden las celebridades el peso de sus palabras y gestos en culturas ajenas, o es la indignación argentina una reacción exagerada ante un simple \"descuido\"?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "rosalia-argentina-disculpas-sinceras-o-control-de-danos",
+    "fecha": "2026-07-22",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Racismo en Argentina? La explosiva acusación de Samuel L. Jackson.",
+    "bajada": "Una estrella de Hollywood desata la polémica: ¿es Argentina el país más racista del mundo?",
+    "cuerpo": "La declaración de Samuel L. Jackson, calificando a Argentina como \"el país más racista del mundo\", ha provocado un terremoto en la opinión pública y un encendido debate sobre la autopercepción nacional. ¿Es una verdad incómoda dicha por un tercero, o una simplificación ignorante de una realidad compleja? La actriz Bárbara Lombardo respondió contundentemente, defendiendo el crisol de razas argentino, pero la discusión va más allá de un cruce de celebridades.\\n\\nAnalistas sociales señalan que, si bien Argentina se construyó bajo el mito de la \"blanquitud europea\", la realidad de la discriminación hacia pueblos originarios, inmigrantes y afrodescendientes es un problema persistente y documentado. Datos del INADI muestran un aumento en las denuncias por discriminación racial. ¿Ignoramos convenientemente nuestras propias sombras bajo el manto de la \"mezcla cultural\"?\\n\\n¿Estamos listos como sociedad para confrontar nuestras propias contradicciones y abordar de forma genuina el racismo estructural, o preferimos culpar a un actor extranjero por \"ofender\" nuestra identidad?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "racismo-en-argentina-la-explosiva-acusacion-de-samuel-l-jackson",
+    "fecha": "2026-07-22",
+    "imagen": "img/sociedad_1.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Malvinas: Niall Horan y las \"disculpas\" que no convencen.",
+    "bajada": "El ex One Direction generó indignación al burlarse de la soberanía argentina sobre las Malvinas.",
+    "cuerpo": "Otro tropiezo internacional con la cuestión Malvinas. Niall Horan, conocido por su paso por One Direction, se ha sumado a la lista de figuras públicas que subestiman la sensibilidad argentina respecto a su soberanía sobre las Islas. Su burla inicial provocó una reacción contundente en redes sociales, forzándolo a emitir una disculpa que, para muchos, llega tarde y resulta poco convincente.\\n\\nEste incidente reaviva el debate sobre la falta de conocimiento y, quizás, la indiferencia de parte del establishment cultural global hacia temas geopolíticos de alta carga emocional para países como Argentina. ¿Es un simple error o una manifestación de una visión eurocéntrica que minimiza la historia y el dolor de otras naciones?\\n\\n¿Hasta cuándo los argentinos debemos tolerar estas provocaciones, o la diplomacia digital es una nueva arena para defender nuestra soberanía?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "malvinas-niall-horan-y-las-disculpas-que-no-convencen",
+    "fecha": "2026-07-22",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Burla o reflejo? La provocación de Nacional y la derrota argentina.",
+    "bajada": "Nacional de Uruguay se mofó de Tigre por la final perdida ante España: ¿un golpe bajo o un mensaje a la AFA?",
+    "cuerpo": "La polémica generada por la burla de Nacional de Uruguay a Tigre, en referencia a la derrota argentina frente a España en la final de un Mundial (asumiendo un contexto hipotético o femenino), destapa viejas rivalidades y la eterna susceptibilidad del fútbol argentino. Más allá del chascarrillo, ¿es esta provocación un simple acto de folclore futbolístico o esconde una crítica subyacente a la gestión deportiva en Argentina?\\n\\nEl comentario irónico de \"Superestrella\" apunta a una narrativa de éxito inflado o expectativas desmedidas, algo que no es ajeno al debate sobre el estado actual del fútbol nacional. Mientras en Uruguay se permite la chicana, en Argentina la herida por la derrota resuena con fuerza.\\n\\n¿Hasta qué punto estas burlas externas reflejan falencias internas que evitamos reconocer, o es simplemente una manifestación de la rivalidad regional y la envidia al éxito?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "burla-o-reflejo-la-provocacion-de-nacional-y-la-derrota-argentina",
+    "fecha": "2026-07-22",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Messi en casa: ¿ídolo intocable o símbolo de una Argentina que no cambia?",
+    "bajada": "El regreso del campeón a Rosario reaviva la pasión, pero ¿qué hay detrás del fervor popular por Messi?",
+    "cuerpo": "Lionel Messi, el capitán de la selección, aterrizó en Rosario para disfrutar de un merecido descanso post-Mundial. Su llegada desata, una vez más, la euforia popular y consolida su figura como ícono nacional. Sin embargo, detrás del fervor, surge una pregunta incómoda: ¿es la idolatría a Messi un bálsamo que distrae de problemas estructurales o es un reflejo genuino de un pueblo que se aferra a sus héroes?\\n\\nMientras los \"Argentinos\" celebran su regreso, el país sigue inmerso en debates complejos sobre economía y política. ¿Hasta qué punto la figura de Messi y el éxito deportivo funcionan como un analgésico social, capaz de unir a una nación polarizada en torno a una bandera y un balón, o es el amor por el fútbol una manifestación auténtica de identidad nacional?\\n\\n¿Es esta pasión por el fútbol una fuga de la realidad, o un motor que, al menos por un tiempo, nos recuerda lo que significa la unidad nacional?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "messi-en-casa-idolo-intocable-o-simbolo-de-una-argentina-que-no-cambia",
+    "fecha": "2026-07-22",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿España nos abrumó o Argentina subestimó la final?",
+    "bajada": "El análisis de la final revela un Messi solitario ante una España dominante: ¿falla táctica o exceso de confianza?",
+    "cuerpo": "El reciente análisis sobre la final del Mundial, donde España \"abrumó a la Argentina\", según el artículo, expone una cruda verdad sobre la performance del equipo y la dependencia de Lionel Messi. La narrativa de un \"héroe solitario\" frente a un esquema táctico superior orquestado por Rodri, interpela a la dirección técnica y la preparación general del equipo. ¿Es la crítica una subestimación del rival o una visión realista de la estrategia fallida?\\n\\nEste tipo de derrotas, especialmente ante un rival como España, abren el debate sobre la verdadera capacidad competitiva de la selección más allá de la genialidad individual. ¿Hay una autocrítica profunda en el cuerpo técnico y la AFA, o se tiende a romantizar la \"garra\" por encima de la planificación y la ejecución táctica?\\n\\n¿Realmente aprendemos de estas derrotas, o preferimos culpar a factores externos en lugar de revisar nuestras propias deficiencias futbolísticas?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "espana-nos-abrumo-o-argentina-subestimo-la-final",
+    "fecha": "2026-07-22",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Deuda argentina: ¿mejoría real o espejismo financiero?",
+    "bajada": "Moody's elevó la calificación de la deuda, pero el impacto en el bolsillo de los \"Argentinos\" genera escepticismo.",
+    "cuerpo": "La reciente mejora en la calificación de la deuda argentina por parte de Moody's es un titular que busca infundir optimismo en los mercados. Sin embargo, la reacción de la ciudadanía dista de ser unánime. ¿Es este un indicador real de un sendero de recuperación económica sostenida, o un \"espejismo financiero\" que no se traduce en mejoras concretas para el día a día de los \"Argentinos\"?\\n\\nMientras los economistas debaten sobre el significado de esta decisión, la inflación sigue siendo un flagelo y el poder adquisitivo se erosiona. El gobierno celebra el espaldarazo internacional, pero la calle demanda resultados tangibles. ¿Quién se beneficia realmente de estas \"mejoras\" crediticias cuando la mayoría de la población aún lucha por llegar a fin de mes?\\n\\n¿Es la confianza de los inversores sinónimo de bienestar para todos, o hay una desconexión preocupante entre los indicadores macroeconómicos y la cruda realidad social?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "deuda-argentina-mejoria-real-o-espejismo-financiero",
+    "fecha": "2026-07-22",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "Rosalía: ¿Error cultural o desprecio calculado a los \"perlas\" argentinos?",
     "bajada": "La polémica de la Motomami y los jugadores de la Selección reabre viejas heridas.",
     "cuerpo": "La reciente visita de Rosalía a Argentina, esperada con fervor, se vio empañada por un desafortunado comentario donde, según reportes, se refirió a los jugadores de la selección nacional como \"perlas\". Este calificativo, lejos de ser un halago en el contexto local, generó un inmediato repudio en redes sociales y entre sus propios fans. La indignación escaló rápidamente, con llamados a la \"cancelación\" y pedidos de devolución de entradas, dejando en claro la sensibilidad del público argentino ante cualquier percepción de menosprecio a sus símbolos nacionales.\n\nEl incidente no solo expone la brecha cultural en la comunicación de figuras públicas, sino que también resalta la hipersensibilidad argentina respecto a su fútbol y sus ídolos. Mientras algunos defienden a la artista argumentando un posible malentendido o falta de conocimiento del lunfardo local, otros lo ven como una muestra de arrogancia o desinterés cultural, especialmente después de que el posteo original fuera borrado.\n\n¿Hasta dónde llega la responsabilidad de un artista internacional en adaptar su discurso al contexto local? ¿O es el público argentino demasiado susceptible ante comentarios que rozan lo \"nacional y popular\"? La discusión sobre la \"cancelación\" y la cultura del escrache digital continúa, dejando en el aire la pregunta de si Rosalía logró comprender la magnitud de su error o si simplemente intentó apaciguar las aguas sin una verdadera autocrítica.",
@@ -45,7 +129,7 @@
     "slug": "argentina-un-pais-racista-el-debate-que-incomoda-y-urge",
     "fecha": "2026-07-22",
     "imagen": "img/sociedad_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Aerolíneas Argentinas: ¿Victoria judicial o derrota nacional de 390 millones?",
@@ -201,90 +285,6 @@
     "slug": "argentina-racista-dardo-samuel-l-jackson",
     "fecha": "2026-07-21",
     "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Ezeiza: el regreso amargo de la Selección y el fantasma de Messi ausente",
-    "bajada": "La llegada de la Scaloneta a Ezeiza estuvo marcada por la ausencia de Lionel Messi y la cancelación del feriado, un indicio de que no había nada que festejar.",
-    "cuerpo": "La Selección Argentina arribó a Ezeiza en un operativo que contrastó drásticamente con los recibimientos triunfales anteriores. Sin el esperado feriado nacional y con un perfil bajo, la llegada de los subcampeones del mundo estuvo teñida por el sabor amargo de la derrota. Pero la gran pregunta que sobrevoló el ambiente fue la ausencia de Lionel Messi, quien decidió no regresar con el resto del plantel.\n\nLa decisión de Messi, aunque justificada por algunos como una elección personal en un momento de frustración, generó un sinfín de especulaciones y críticas. ¿Fue una señal de descontento, de cansancio o simplemente una elección práctica que la coyuntura magnificó? Su figura, siempre el centro de atención, dejó un vacío simbólico que opacó aún más un regreso que ya era discreto.\n\n¿Refleja esta llegada sobria una madurez post-derrota o una profunda desconexión entre la dirigencia, los jugadores y las expectativas del público?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "ezeiza-regreso-amargo-seleccion-messi-ausente",
-    "fecha": "2026-07-21",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "De Paul contra la crítica: ¿\"Nuestras maneras les joden\" o soberbia post-derrota?",
-    "bajada": "El mediocampista Rodrigo De Paul reaccionó con un mensaje provocador que encendió el debate sobre la actitud del equipo y la crítica periodística.",
-    "cuerpo": "\"Nuestras maneras les joden\". Con esa frase, Rodrigo De Paul lanzó un dardo directo a los críticos tras la derrota en la final del Mundial. Un mensaje que, lejos de calmar las aguas, avivó la discusión sobre la relación entre los jugadores, la prensa y la afición. ¿Es un intento de defender el honor del equipo o una muestra de soberbia ante la imposibilidad de aceptar el análisis negativo?\n\nLa frase de De Paul, cargada de un tono desafiante, resalta la tensión que se vive en el ecosistema del fútbol argentino, donde la pasión roza con la exigencia desmedida. Mientras algunos interpretan el posteo como una declaración de principios y una defensa del grupo, otros lo ven como una falta de autocrítica en un momento donde el resultado no acompañó el \"sacrificio\" tantas veces esgrimido.\n\n¿Hasta dónde puede estirarse la cuerda entre la defensa del orgullo y la necesidad de una mirada objetiva sobre el rendimiento, sin caer en la victimización?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "de-paul-critica-soberbia-post-derrota",
-    "fecha": "2026-07-21",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Tristeza o presión? Milei opina sobre la no celebración de la Selección",
-    "bajada": "El presidente Javier Milei, en un gesto poco habitual, interpretó las razones detrás de la decisión de los jugadores de no realizar festejos.",
-    "cuerpo": "El presidente Javier Milei no se quedó al margen de la polémica post-derrota de la Selección, ofreciendo su propia lectura: \"Frente a la tristeza de no haber ganado, decidieron no hacer festejos\". Una declaración que, si bien puede parecer un intento de empatía, abre el interrogante sobre la pertinencia de que el primer mandatario interprete los estados de ánimo de los deportistas, o si es una maniobra para desvincular al gobierno de cualquier responsabilidad en el \"silencio\" del regreso.\n\nEsta intromisión presidencial en la esfera deportiva, más allá de la simpatía que pueda generar, refuerza la idea de una política que busca apropiarse de los éxitos y desmarcarse de los reveses, incluso en el ámbito futbolístico. ¿Es legítimo que el Ejecutivo emita juicios sobre las emociones de figuras públicas que no forman parte de su estructura de gobierno?\n\n¿Contribuyen estas declaraciones a la unidad nacional en un momento de frustración o, por el contrario, exponen aún más las tensiones entre el poder político y el mundo del deporte?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "tristeza-o-presion-milei-no-celebracion",
-    "fecha": "2026-07-21",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El enigma de Messi: ¿Por qué no volvió con la Selección a Argentina?",
-    "bajada": "La ausencia de Lionel Messi en el vuelo de regreso de la Selección Argentina con sus compañeros genera un profundo misterio y debate.",
-    "cuerpo": "Mientras el resto de la Selección Argentina aterrizaba en Ezeiza con la carga de la derrota y un recibimiento discreto, la ausencia de Lionel Messi se convirtió en el gran interrogante. ¿Por qué el capitán y figura no acompañó al plantel en el regreso a casa? Las explicaciones oficiales fueron escuetas, alimentando especulaciones y la frustración de muchos que esperaban, al menos, un último contacto con el ídolo.\n\nEsta decisión de Messi, aunque en un contexto de tristeza deportiva, no dejó de generar críticas. En un país donde el fútbol es religión y los gestos simbólicos pesan, la figura del capitán ausente en el momento de la \"vuelta\" tras una final perdida se percibe como un desaire o una profunda desilusión que el mismo jugador prefirió procesar en privado, lejos de la efervescencia argentina.\n\n¿Es la ausencia de Messi un signo de su propio agotamiento con la presión nacional, o simplemente una decisión personal que no debería ser sobredimensionada en un país donde cada paso del 10 es un acontecimiento?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "enigma-messi-por-que-no-volvio-seleccion",
-    "fecha": "2026-07-21",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Scaloni al límite? La trama detrás de su posible adiós a la Selección.",
-    "bajada": "Rumores de renuncia sacuden a la Scaloneta: ¿cansancio, internas o estrategia a futuro?",
-    "cuerpo": "Lionel Scaloni sorprendió al mundo del fútbol con declaraciones que abren la puerta a su salida de la Selección Argentina. La noticia, que sacudió los cimientos del post-subcampeonato mundial, deja entrever un trasfondo de desgaste que va más allá del resultado deportivo. ¿Qué hay detrás de este enigmático anuncio que pone en vilo el futuro del proyecto albiceleste?\n\nFuentes cercanas al cuerpo técnico hablan de un profundo agotamiento, presiones constantes y la necesidad de una reevaluación personal. Sin embargo, en el intrincado universo del fútbol argentino, no faltan quienes especulan con movimientos estratégicos o internas que podrían haber precipitado estas declaraciones. ¿Es una táctica para renegociar condiciones o una genuina señal de que el ciclo está llegando a su fin? La incertidumbre abre un debate crucial sobre la gestión de nuestros héroes deportivos.\n\n¿Hasta dónde el éxito justifica el nivel de presión insostenible que recae sobre los DTs de la Selección? ¿Y qué rol juega la dirigencia en este aparente desgaste?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "scaloni-al-limite-la-trama-detras-de-su-posible-adios-a-la-seleccion",
-    "fecha": "2026-07-20",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina 0 - 1 España: ¿Subcampeones dignos o derrota evitable?",
-    "bajada": "La final del Mundial 2026 contra España dejó un sabor amargo. ¿Qué le faltó a la Scaloneta para la gloria?",
-    "cuerpo": "La Selección Argentina cayó por la mínima ante España en la final del Mundial 2026, dejando al país en un agridulce subcampeonato. Si bien el esfuerzo fue innegable, la crónica de Olé fue implacable con el 'uno por uno' de los jugadores, señalando falencias que, para muchos, fueron determinantes. ¿Fue una derrota sin excusas o el resultado de un planteo táctico que no logró descifrar al rival?\n\nEl análisis post-partido revela una España sólida, que supo capitalizar su oportunidad mientras Argentina luchaba por encontrar la profundidad y eficacia necesarias. Jugadores clave que fueron pilares durante el torneo no lograron replicar su mejor versión. Esto plantea interrogantes sobre la preparación final y la capacidad de reacción ante un adversario de élite. La euforia inicial del Mundial se topó con la dura realidad de una final esquiva.\n\n¿Es hora de una autocrítica profunda o el subcampeonato ya es un triunfo suficiente para la Argentina? ¿Qué lecciones debería aprender el cuerpo técnico de esta experiencia?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-vs-espana-subcampeones-dignos-o-derrota-evitable",
-    "fecha": "2026-07-20",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Post-Scaloni: un salto al vacío o una oportunidad de renovación?",
-    "bajada": "Ante la posible salida de Scaloni, la danza de nombres para su sucesión ya genera incertidumbre y debate.",
-    "cuerpo": "La potencial salida de Lionel Scaloni de la dirección técnica de la Selección Argentina no solo genera lamento, sino que inmediatamente dispara la especulación sobre quién podría ser su sucesor. La lista de candidatos que se baraja, desde nombres históricos hasta emergentes, plantea un dilema: ¿se buscará un perfil continuista o uno que marque un quiebre para una profunda renovación?\n\nEste escenario abre un debate clave sobre el proyecto deportivo de la AFA. ¿Se priorizará la experiencia internacional o se apostará por un perfil que conozca a fondo el fútbol local? Cada nombre propuesto trae consigo una filosofía distinta, y la elección del próximo DT no solo definirá un estilo de juego, sino también el rumbo de una generación de futbolistas que, para el Mundial 2030, habrán evolucionado considerablemente. La decisión será crucial y las presiones, enormes.\n\n¿Es la continuidad la única vía para sostener un proceso exitoso, o un cambio de aire podría revitalizar a la Selección de cara a los desafíos futuros? ¿Qué perfil de DT necesita realmente Argentina hoy?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "post-scaloni-un-salto-al-vacio-o-una-oportunidad-de-renovacion",
-    "fecha": "2026-07-20",
-    "imagen": "img/politica_4.png",
     "destacada": false
   }
 ]
