@@ -2,8 +2,8 @@ name: Auto Actualizar Noticias
 
 on:
   schedule:
-    # Se ejecuta cada 12 horas: a las 09:00 y a las 21:00 (Hora de Argentina)
-    - cron: '0 0,12 * * *'
+    # Se ejecuta cada 6 horas (00:00, 06:00, 12:00 y 18:00 UTC)
+    - cron: '0 */6 * * *'
   workflow_dispatch: # Permite disparar la automatización manualmente desde la pestaña Actions en GitHub
 
 # Otorgar permisos de escritura al token de GitHub Actions para permitir el git push

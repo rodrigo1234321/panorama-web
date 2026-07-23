@@ -529,10 +529,10 @@
       const resto = ordenadas.filter(n => n !== destacada);
 
       document.getElementById('hero-main').innerHTML = heroHTML(destacada);
-      document.getElementById('hero-side').innerHTML = resto.slice(0, 2).map(sideHTML).join('');
+      document.getElementById('hero-side').innerHTML = resto.slice(0, 4).map(sideHTML).join('');
       
       // El resto va al feed de abajo
-      TODAS_NOTAS = resto.slice(2);
+      TODAS_NOTAS = resto.slice(4);
       
       renderFeed();
       renderTicker(ordenadas);

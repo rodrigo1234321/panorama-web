@@ -490,14 +490,15 @@ header {
 .hero-side-list {
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
-  gap: 32px;
+  justify-content: space-between;
+  height: 540px;
+  gap: 16px;
 }
 
 .side-hero-item {
   display: grid;
-  grid-template-columns: 140px 1fr;
-  gap: 20px;
+  grid-template-columns: 130px 1fr;
+  gap: 16px;
   align-items: start;
 }
 
