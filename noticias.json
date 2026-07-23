@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Rosalía: ¿Error inocente o reflejo de una visión anti-Argentinos?",
+    "bajada": "La disculpa de la cantante española desata un debate sobre el sentimiento nacional y las críticas externas.",
+    "cuerpo": "La reconocida artista Rosalía ha emitido disculpas públicas tras compartir un video interpretado como una burla a la Selección Argentina, generando una ola de indignación en las redes. Aunque ella aduce un \"error\" y \"mala mía\" al republicar contenido sin una revisión profunda, el incidente reaviva la discusión sobre cómo figuras internacionales perciben y, a veces, minimizan la pasión de los #Argentinos por su fútbol y su identidad nacional.\n\nEste episodio, que involucra a una estrella de la talla de Rosalía, pone de manifiesto la sensibilidad en torno a la imagen de Argentina en el exterior. Más allá de la intención, el hecho de que un video ofensivo ganara tracción subraya la necesidad de ser críticos con los mensajes que circulan y cómo impactan en el orgullo colectivo. ¿Debemos aceptar la disculpa y mirar hacia adelante, o este tipo de incidentes revelan una corriente de fondo más profunda de desprecio hacia lo argentino?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "rosalia-error-inocente-o-vision-anti-argentinos",
+    "fecha": "2026-07-23",
+    "imagen": "img/sociedad_6.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Mia Khalifa contra los Argentinos: ¿Burla inocente o provocación calculada?",
+    "bajada": "La ex estrella de cine para adultos redobló sus críticas a la Selección Argentina, apuntando ahora a Enzo Fernández.",
+    "cuerpo": "#MiaKhalifa ha vuelto a generar controversia en redes sociales al burlarse de la Selección Argentina y, específicamente, de Enzo Fernández tras el Mundial. Sus comentarios, que ella misma califica de \"chistes\", son recibidos por muchos #Argentinos como una provocación constante y una falta de respeto hacia el equipo y los fanáticos.\n\nEste tipo de interacciones de celebridades extranjeras, sean intencionales o no, alimentan la percepción de una \"campaña anti-argentina\" en ciertos círculos mediáticos. Aunque algunos lo desestiman como ruido irrelevante, ¿es prudente ignorar cómo estas figuras amplifican narrativas y opiniones que pueden afectar el sentimiento nacional y la percepción global de nuestro país? ¿O es hora de que, como sociedad, aprendamos a desentendernos de estas provocaciones digitales?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mia-khalifa-contra-los-argentinos-burla-o-provocacion",
+    "fecha": "2026-07-23",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Messi despedida de oro? La propuesta de España que divide a los Argentinos.",
+    "bajada": "El embajador de España sugiere una Finalíssima para agasajar a Lionel Messi, abriendo interrogantes sobre el futuro de la Selección.",
+    "cuerpo": "El embajador de #España en Argentina, Javier Hernández Peña, ha propuesto una Finalíssima como \"gran despedida\" para Lionel Messi, un gesto que busca realzar la figura del astro #Argentino en un partido histórico. La iniciativa, aunque bien intencionada, plantea una pregunta fundamental: ¿Está la AFA preparada para planificar una transición o solo reacciona a los eventos?\n\nDesde una perspectiva crítica, mientras se valora el reconocimiento a Messi, es crucial que la dirigencia deportiva argentina no se duerma en los laureles del pasado. La dependencia excesiva de una figura, por más gloriosa que sea, puede estancar el desarrollo de nuevos talentos y estrategias a largo plazo. ¿Debería la AFA tomar la iniciativa para el futuro de la Selección Argentina, o esperar propuestas foráneas para definir los hitos de nuestros ídolos?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "messi-despedida-de-oro-la-propuesta-de-espana-que-divide-a-los-argentinos",
+    "fecha": "2026-07-23",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Campaña anti-Argentinos: ¿Conspiración global o reflejo de nuestros problemas?",
+    "bajada": "La visión de Milei sobre los ataques a la Selección Argentina reabre el debate sobre la percepción del país en el mundo.",
+    "cuerpo": "La interpretación del presidente Javier Milei sobre una supuesta \"campaña anti-Argentinos\" durante el Mundial, que resonó entre los libertarios, plantea un dilema fundamental. ¿Son los ataques externos una conspiración orquestada o una reacción exacerbada a los problemas internos y la polarización que proyecta la Argentina? La casta política tradicional, a menudo, tiende a victimizarse ante la crítica, desviando la atención de las responsabilidades propias.\n\nEs cierto que la pasión argentina puede generar admiración y envidia, pero también es innegable que ciertas actitudes y decisiones políticas recientes han provocado reacciones adversas en el ámbito internacional. Panorama.ar sostiene que la autocrítica es vital: culpar a \"otros\" sin revisar nuestras propias fallas es un camino estéril. ¿Es esta \"campaña\" una excusa para no abordar las reformas estructurales necesarias, o realmente existe una animosidad injustificada contra la identidad de los #Argentinos?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "campaña-anti-argentinos-conspiracion-o-problemas",
+    "fecha": "2026-07-23",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "BRICS para Argentina: ¿Atadura ideológica o pragmatismo económico?",
+    "bajada": "Dilma Rousseff insta a los Argentinos a \"volver\" a los BRICS, mientras la mirada liberal se distancia de bloques ideológicos.",
+    "cuerpo": "La ex presidenta brasileña Dilma Rousseff ha enviado un mensaje al presidente Milei, expresando su deseo de que #Argentina \"intente volver\" a los BRICS. Esta presión, proveniente de una figura asociada al socialismo regional, contrasta fuertemente con la política exterior del actual gobierno argentino, que busca alinear al país con las democracias occidentales y el libre mercado.\n\nDesde la óptica de Panorama.ar, la adhesión a bloques como BRICS, si bien puede ofrecer ciertas ventajas comerciales, a menudo viene acompañada de compromisos ideológicos que limitan la autonomía y la capacidad de Argentina para integrarse globalmente sin prebendas. La verdadera oportunidad para los #Argentinos radica en un comercio libre y acuerdos bilaterales transparentes, no en la subordinación a agendas geopolíticas ajenas a nuestros intereses fundamentales. ¿Debe Argentina priorizar la \"solidaridad\" regional sobre la soberanía económica y política que promueve el liberalismo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "brics-para-argentina-atadura-ideologica-o-pragmatismo",
+    "fecha": "2026-07-23",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Racismo en Argentina? La respuesta de Pagano frena la injerencia externa.",
+    "bajada": "Marcela Pagano confronta a una congresista demócrata por sus acusaciones de racismo, defendiendo la identidad de los Argentinos.",
+    "cuerpo": "La diputada Marcela Pagano ha respondido enérgicamente a una congresista demócrata que afirmó que #Argentina tiene una \"historia de racismo\". Este cruce pone en evidencia una tendencia preocupante: la facilidad con que ciertos sectores extranjeros emiten juicios morales sobre naciones soberanas, muchas veces con información limitada o con una agenda ideológica subyacente que ignora la complejidad histórica y social.\n\nEs fundamental que Argentina defienda su identidad y rechace narrativas simplistas que buscan encasillarla en categorías ajenas a su realidad. Si bien toda sociedad tiene desafíos, la historia de los #Argentinos, marcada por la inmigración y el mestizaje, difiere drásticamente de modelos como el de Estados Unidos, donde la segregación racial fue institucionalizada. Ignorar estas diferencias para aplicar un \"estándar woke\" global es una afrenta. ¿Hasta dónde debemos permitir que agendas políticas foráneas definan o distorsionen nuestra propia percepción como nación?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "5 min",
+    "slug": "racismo-en-argentina-la-respuesta-de-pagano-frena-injerencia-externa",
+    "fecha": "2026-07-23",
+    "imagen": "img/politica_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Inversiones para Argentina: ¿La oportunidad que los Argentinos esperan?",
+    "bajada": "Oracle vislumbra una oportunidad histórica para la inversión en Argentina, pero señala los obstáculos persistentes para los Argentinos.",
+    "cuerpo": "Gigantes tecnológicos como Oracle reconocen una \"oportunidad histórica\" en #Argentina para la llegada de inversiones, especialmente en el sector de la economía del conocimiento. Este optimismo contrasta con las realidades burocráticas y fiscales que históricamente han frenado el desarrollo. Para que esta visión se materialice, es imperativo desmantelar las barreras estatales que impiden el crecimiento y la llegada de capitales.\n\nPanorama.ar insiste en que el camino para los #Argentinos es claro: estabilidad macroeconómica, reducción del gasto público improductivo y una reforma fiscal que alivie la presión sobre las empresas. La casta política debe entender que la inversión no es una concesión, sino el resultado de reglas claras y un entorno favorable. ¿Será esta la vez que Argentina capitalice su potencial o las viejas prácticas burocráticas y el peso del Estado seguirán ahuyentando las oportunidades que nos pueden sacar del estancamiento?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "5 min",
+    "slug": "inversiones-para-argentina-la-oportunidad-que-los-argentinos-esperan",
+    "fecha": "2026-07-23",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
     "titulo": "Riquelme: ¿diagnóstico futbolístico o excusa de ocasión?",
     "bajada": "El ídolo de Boca analizó la derrota de la Selección, pero su visión generó más preguntas que respuestas. ¿Hay una lectura política detrás?",
     "cuerpo": "Juan Román Riquelme, siempre polémico, ofreció su particular explicación sobre la reciente derrota de la Selección Argentina ante España. Mientras muchos esperaban un análisis puramente futbolístico, el ex-10 pareció deslizar interpretaciones que rozan lo institucional o incluso lo político. \"No es lo mismo jugar en un lado que en otro\", afirmó, dejando un manto de sospecha sobre el contexto del equipo.\n\nEstas declaraciones resuenan fuertemente en un panorama donde las figuras del fútbol a menudo se ven envueltas en disputas de poder y narrativas mediáticas. La pregunta que surge es si las palabras de Riquelme son una observación genuina sobre el rendimiento deportivo o si, por el contrario, buscan sentar posición en alguna interna o debate más profundo sobre el manejo de la AFA. ¿Hasta qué punto el pasado como jugador y su figura como ídolo condicionan su mirada actual sobre la Albiceleste?",
@@ -21,7 +105,7 @@
     "slug": "anti-argentina-o-critica-necesaria-prensa-global",
     "fecha": "2026-07-23",
     "imagen": "img/sociedad_3.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Mia Khalifa: ¿Burla mediática o reflejo de una cultura tóxica?",
@@ -201,90 +285,6 @@
     "slug": "congreso-eeuu-argentina-historia-racista-o-agenda-politica",
     "fecha": "2026-07-22",
     "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Argentina, un país racista? El debate que incomoda y urge.",
-    "bajada": "Acusaciones internas y externas sacuden la autopercepción nacional. ¿Estamos listos para mirarnos al espejo?",
-    "cuerpo": "La pregunta \"¿Es Argentina un país racista?\" dejó de ser un susurro para convertirse en un clamor que resuena con fuerza en los medios y las redes. Tras declaraciones de figuras internacionales como Samuel L. Jackson y congresistas de EE.UU., sumado a polémicas en torno a la final del Mundial, la sociedad argentina se ve confrontada con una autocrítica incómoda pero necesaria. Históricamente, el país se ha considerado un crisol de razas y culturas, una nación de puertas abiertas, pero la realidad de los hechos y los testimonios de discriminación contradicen a menudo esta narrativa.\n\nLas discusiones se polarizan entre quienes defienden la identidad nacional a ultranza, negando cualquier indicio de racismo, y quienes exponen una realidad de invisibilización y maltrato hacia comunidades originarias, migrantes y afrodescendientes. La \"demonización\" de Argentina, como algunos la llaman, puede ser una exageración, pero el negacionismo de un problema existente resulta aún más pernicioso. Es fundamental reconocer que el racismo no siempre se manifiesta de forma explícita, sino que a menudo se camufla en micromachismos, prejuicios y estructuras que perpetúan desigualdades.\n\n¿Puede una nación construida sobre mitos migratorios reconocer sus propias sombras y avanzar hacia una sociedad más justa e inclusiva? El debate está abierto y es crucial para el futuro del país.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "5 min",
-    "slug": "argentina-un-pais-racista-el-debate-que-incomoda-y-urge",
-    "fecha": "2026-07-22",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Aerolíneas Argentinas: ¿Victoria judicial o derrota nacional de 390 millones?",
-    "bajada": "EE.UU. obliga a Argentina a pagar una cifra millonaria por la nacionalización de Aerolíneas. ¿Quién asume la factura?",
-    "cuerpo": "La Justicia de Estados Unidos rechazó un recurso de Argentina y ordenó el pago de 390 millones de dólares por la expropiación de Aerolíneas Argentinas. Esta sentencia no solo representa un golpe económico significativo para las arcas del Estado, sino que reabre el debate sobre las consecuencias de las decisiones políticas de nacionalización y su impacto a largo plazo. La medida, que en su momento fue celebrada por gran parte del arco peronista y sus aliados, hoy se traduce en una cuantiosa deuda que el país debe afrontar.\n\nLa pregunta inevitable es quién será el responsable político y económico de esta erogación. El contexto actual de restricciones presupuestarias y alta inflación hace que cada dólar cuente, y una deuda de esta magnitud genera una presión adicional sobre la ya frágil economía nacional. La discusión sobre la soberanía económica y las intervenciones estatales en empresas privadas vuelve a tomar relevancia, mostrando los riesgos y costos que pueden derivar de ciertas políticas.\n\n¿Fue la nacionalización de Aerolíneas una decisión estratégica o un capricho ideológico con un costo desmesurado? ¿Cómo impactará este fallo en las futuras decisiones de intervención estatal y en la confianza de los inversores? Los 390 millones de dólares son un recordatorio tangible de que las decisiones políticas tienen consecuencias económicas muy reales.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "aerolineas-argentinas-victoria-judicial-o-derrota-nacional",
-    "fecha": "2026-07-22",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Tigre, Malvinas y la Selección: ¿Patriotismo auténtico o aprovechamiento oportuno?",
-    "bajada": "El gesto de Tigre con una bandera por Malvinas sigue la línea de la Selección. ¿Unión nacional o marketing?",
-    "cuerpo": "El Club Atlético Tigre se sumó a la iniciativa de la Selección Argentina y mostró una bandera con la leyenda \"Las Malvinas son Argentinas\", un gesto que busca fortalecer el sentimiento nacionalista y la reivindicación de la soberanía sobre las islas. En un contexto donde el fútbol y la política suelen cruzarse, esta acción se enmarca en una tendencia creciente de usar el deporte como plataforma para mensajes patrióticos. La imagen, replicada en redes sociales y medios, generó apoyo y, como era de esperarse, también interrogantes.\n\nMientras muchos aplauden la coherencia y el compromiso con la causa Malvinas, otros cuestionan la autenticidad de estos gestos, sugiriendo que pueden ser aprovechados como una estrategia de marketing o para capitalizar el sentimiento popular. ¿Hasta dónde llega el genuino amor por la patria y cuándo empieza el uso instrumental de un tema tan sensible para generar adhesión? La delgada línea entre la convicción y la conveniencia política o comercial es siempre difusa en este tipo de manifestaciones.\n\n¿Contribuyen estos actos a mantener viva la memoria y el reclamo de soberanía, o se diluyen en un mar de gestos que pierden su peso original por la repetición y la instrumentalización? El debate sobre el verdadero valor de estos actos en la esfera pública sigue vigente.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "tigre-malvinas-seleccion-patriotismo-o-aprovechamiento",
-    "fecha": "2026-07-22",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Pérez-Reverte y la \"sociedad detestable\": ¿Qué ve Europa de Argentina?",
-    "bajada": "Un escritor español se suma a las críticas, calificando a la sociedad argentina de \"detestable\". ¿Una voz aislada o un síntoma?",
-    "cuerpo": "La polémica en torno a la final del Mundial y el presunto racismo en Argentina sumó una nueva voz crítica desde España. El reconocido escritor Arturo Pérez-Reverte se unió al coro de cuestionamientos, refiriéndose a la sociedad argentina como \"cierta detestable sociedad\". Esta declaración, proveniente de una figura intelectual de peso, profundiza la brecha entre la autopercepción argentina y la mirada externa, especialmente la europea. Ya no es solo un jugador de fútbol o un actor de Hollywood, sino un pensador quien lanza una acusación de fuerte calibre.\n\nLa crudeza de sus palabras obliga a la reflexión: ¿Qué aspectos de la sociedad argentina son percibidos como \"detestables\" desde afuera? ¿Hay un sesgo o una generalización injusta, o esta visión es un reflejo de problemáticas internas que el país prefiere ignorar? La crítica europea, en ocasiones, tiende a ser más incisiva y culturalmente cargada, señalando actitudes que van más allá del simple comportamiento en un evento deportivo.\n\n¿Cómo debe reaccionar Argentina ante estas voces que la tildan de \"detestable\"? ¿Ignorarlas, rechazarlas con indignación o tomarlas como una oportunidad para una introspección profunda y honesta? El diálogo sobre la identidad y la imagen internacional del país está más vivo y complejo que nunca.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "perez-reverte-sociedad-detestable-que-ve-europa-de-argentina",
-    "fecha": "2026-07-22",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Dibu Martínez, un adiós a la Scaloneta tras la derrota?",
-    "bajada": "La declaración del arquero genera un sismo en el fútbol argentino y expone la presión post-Mundial.",
-    "cuerpo": "La confesión de Emiliano \"Dibu\" Martínez, poniendo en duda su continuidad en la Selección Argentina tras la reciente derrota con España, ha desatado un vendaval de especulaciones y angustia entre los hinchas. ¿Es realmente un mensaje genuino sobre su futuro o un grito de auxilio ante el agotamiento y la intensa presión mediática y emocional que conlleva ser una figura central de la Scaloneta? Su desgarrador posteo en redes y las declaraciones a Infobae revelan el lado oscuro de la fama post-Mundial.\n\nLa incertidumbre sobre el futuro de ídolos como Dibu, sumada al fin de un ciclo dorado, fuerza a preguntarse sobre la sostenibilidad emocional y profesional de los deportistas en la élite. Más allá del talento, ¿estamos preparados como sociedad para acompañar a nuestros héroes cuando la euforia se disipa y aparece la cruda realidad de la alta competencia? ¿Qué papel juegan la AFA y el cuerpo técnico en la contención de sus jugadores en estos momentos críticos?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "dibu-martinez-adios-scaloneta-derrota",
-    "fecha": "2026-07-21",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Samuel L. Jackson acusa: ¿Es Argentina realmente el país más racista?",
-    "bajada": "La contundente afirmación del actor reabre un debate incómodo y largamente postergado sobre la identidad nacional.",
-    "cuerpo": "La declaración explosiva del icónico actor Samuel L. Jackson, calificando a Argentina como \"el país más racista del mundo\", ha encendido la mecha de una polémica que se propaga por redes y medios. Más allá de la sorpresa inicial, su acusación directa obliga a una introspección colectiva: ¿Es esta una verdad dolorosa que la sociedad argentina prefiere ignorar, o una simplificación extrema de una realidad más compleja y matizada? La respuesta de figuras como Bárbara Lombardo, quien replicó con argumentos que buscan contextualizar y refutar, demuestra la polarización del debate.\n\nEsta controversia no es nueva; periódicamente resurgen discusiones sobre la composición étnica, la negación de raíces indígenas y afrodescendientes, y la persistencia de prejuicios en distintos estratos sociales. Las redes sociales, como X, se han inundado de voces a favor y en contra, evidenciando la fractura en la percepción interna sobre este tema. ¿Hasta qué punto la imagen que proyectamos al mundo coincide con la realidad que viven muchos de sus habitantes? ¿Estamos dispuestos a confrontar nuestra propia historia y revisar discursos arraigados?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "samuel-l-jackson-acusa-argentina-racista",
-    "fecha": "2026-07-21",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei vs. La Scaloneta: ¿Por qué no hubo festejo oficial de la Selección?",
-    "bajada": "El Presidente reveló su versión sobre la ausencia de una celebración masiva y reavivó la polémica con el fútbol.",
-    "cuerpo": "El Presidente Javier Milei volvió a meterse en el ojo de la tormenta al explicar los motivos detrás de la ausencia de un festejo oficial para la Selección Argentina tras su regreso del Mundial. Sus declaraciones a TyC Sports y Diario Río Negro, donde habló del \"festejo suspendido\" y el \"feriado fallido\", reabren la herida de una relación tensa entre el gobierno y el equipo nacional. ¿Fue una decisión política o una imposibilidad logística, como se argumentó en su momento? La falta de un reconocimiento institucional contrastó fuertemente con la pasión popular que, de todas formas, se desbordó en las calles.\n\nMientras algunos sectores critican la \"politización\" del fútbol, otros denuncian la frialdad gubernamental ante un evento que unifica a la nación. La controversia también tocó el reclamo por Malvinas, mezclando temas sensibles y profundizando la brecha de interpretación entre el ejecutivo y la base de hinchas. ¿Se subestima el poder unificador del fútbol o se busca desvincular al Estado de cualquier evento que no se alinee con su agenda? La pregunta persiste en un país donde la pelota es más que un juego.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-vs-scaloneta-festejo-oficial",
-    "fecha": "2026-07-21",
-    "imagen": "img/politica_5.png",
     "destacada": false
   }
 ]
