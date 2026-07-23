@@ -1997,12 +1997,13 @@ footer {
 
 /* ---------- Ad Containers (Monetización) ---------- */
 .ad-slot-wrapper {
-  margin: 28px 0;
+  margin: 24px 0;
   width: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
+  overflow: hidden;
 }
 
 .ad-label {
@@ -2015,7 +2016,6 @@ footer {
 
 .ad-slot-card {
   width: 728px;
-  max-width: 100%;
   height: 90px;
   margin: 0 auto;
   display: flex;
@@ -2024,4 +2024,52 @@ footer {
   overflow: hidden;
   border: none;
   background: transparent;
+}
+
+/* Adaptabilidad Móvil para Anuncios de 728px y Layout Hero */
+@media (max-width: 768px) {
+  .hero-layout {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+  .hero-main-card {
+    height: 380px;
+  }
+  .hero-side-list {
+    height: auto;
+    gap: 16px;
+  }
+  .side-hero-item {
+    grid-template-columns: 110px 1fr;
+    gap: 12px;
+  }
+  .side-hero-item h3 {
+    font-size: 15px;
+    line-height: 1.35;
+  }
+  .ad-slot-wrapper {
+    margin: 14px 0;
+  }
+  .ad-slot-card {
+    transform: scale(calc((100vw - 32px) / 728));
+    transform-origin: center center;
+    max-width: none;
+    margin: -18px 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .hero-main-card {
+    height: 320px;
+  }
+  .hero-main-content {
+    padding: 20px;
+  }
+  .hero-main-content h2 {
+    font-size: 22px;
+  }
+  .ad-slot-card {
+    transform: scale(calc((100vw - 24px) / 728));
+    margin: -22px 0;
+  }
 }
