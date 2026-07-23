@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Riquelme: ¿diagnóstico futbolístico o excusa de ocasión?",
+    "bajada": "El ídolo de Boca analizó la derrota de la Selección, pero su visión generó más preguntas que respuestas. ¿Hay una lectura política detrás?",
+    "cuerpo": "Juan Román Riquelme, siempre polémico, ofreció su particular explicación sobre la reciente derrota de la Selección Argentina ante España. Mientras muchos esperaban un análisis puramente futbolístico, el ex-10 pareció deslizar interpretaciones que rozan lo institucional o incluso lo político. \"No es lo mismo jugar en un lado que en otro\", afirmó, dejando un manto de sospecha sobre el contexto del equipo.\n\nEstas declaraciones resuenan fuertemente en un panorama donde las figuras del fútbol a menudo se ven envueltas en disputas de poder y narrativas mediáticas. La pregunta que surge es si las palabras de Riquelme son una observación genuina sobre el rendimiento deportivo o si, por el contrario, buscan sentar posición en alguna interna o debate más profundo sobre el manejo de la AFA. ¿Hasta qué punto el pasado como jugador y su figura como ídolo condicionan su mirada actual sobre la Albiceleste?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "riquelme-diagnostico-futbolistico-o-excusa",
+    "fecha": "2026-07-23",
+    "imagen": "img/politica_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Anti-argentina o crítica necesaria? La prensa global apunta a la Selección.",
+    "bajada": "Un editorial de Los Angeles Times disparó contra la Albiceleste, generando un debate sobre la imagen del fútbol argentino. ¿Es una campaña o una señal de alerta?",
+    "cuerpo": "La Selección Argentina vuelve a estar en el ojo de la tormenta, esta vez por un contundente editorial de Los Angeles Times que acusa al equipo de \"manchar para siempre su imagen\". Este tipo de críticas desde medios internacionales no son nuevas, pero reavivan la eterna discusión sobre cómo se percibe a nuestro fútbol en el exterior y si estamos dispuestos a una autocrítica.\n\nMientras parte del público defiende la pasión y el estilo, otros se preguntan si ciertas actitudes dentro y fuera de la cancha contribuyen a esta percepción negativa. ¿Es justo el juicio de la prensa extranjera o estamos ante una nueva embestida de la \"campaña anti-argentina\" que tanto se denuncia? La verdad es que el debate trasciende la cancha y toca fibras sensibles de nuestra identidad. ¿Qué tan dispuestos estamos a revisar nuestras propias formas?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "anti-argentina-o-critica-necesaria-prensa-global",
+    "fecha": "2026-07-23",
+    "imagen": "img/sociedad_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Mia Khalifa: ¿Burla mediática o reflejo de una cultura tóxica?",
+    "bajada": "La influencer volvió a cargar contra la Selección y se ensañó con Enzo Fernández. ¿Es humor o un nuevo capítulo de la \"campaña anti-Argentina\"?",
+    "cuerpo": "Mia Khalifa, conocida por sus provocaciones en redes, escaló sus críticas contra la Selección Argentina y esta vez apuntó directamente a Enzo Fernández. Este tipo de ataques, aunque provengan de una figura mediática controversial, encienden el debate sobre los límites del humor y la constante tensión entre la identidad nacional y las opiniones externas.\n\nPara muchos, las declaraciones de Khalifa son simplemente parte de una \"campaña anti-Argentina\" que busca deslegitimar nuestros logros deportivos y culturales. Sin embargo, otros se preguntan si estas burlas, más allá de su origen, no tocan alguna fibra sensible sobre la imagen que proyectamos. ¿Es posible que la indignación desmedida ante estas provocaciones nos impida una reflexión más profunda sobre cómo reaccionamos como sociedad ante la crítica, venga de donde venga?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mia-khalifa-burla-mediatica-o-reflejo",
+    "fecha": "2026-07-23",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La economía se contrae: ¿Fin del ajuste o profundización de la crisis?",
+    "bajada": "La Argentina registra su segunda caída consecutiva, con mayo marcando una fuerte retracción. ¿El plan económico del gobierno muestra sus límites o es el precio del \"orden\"?",
+    "cuerpo": "La economía argentina reportó su segunda contracción consecutiva en mayo, consolidando un panorama de recesión que genera preocupación en diversos sectores. Los datos de Bloomberg Línea confirman una retracción significativa, lo que pone en el centro del debate la efectividad y el costo social del actual programa económico. El gobierno insiste en que estas cifras son el resultado necesario del \"sinceramiento\" y la \"batalla contra la inflación\".\n\nSin embargo, la pregunta es si la sociedad está dispuesta a pagar el precio de un ajuste tan profundo, con indicadores de actividad en caída libre y un consumo estancado. Las promesas de un rebote rápido chocan con la realidad de los números. ¿Hasta cuándo se puede sostener un modelo que prioriza la estabilidad fiscal a costa de la producción y el empleo? La discusión sobre el equilibrio entre el ajuste y el crecimiento económico se vuelve cada vez más urgente.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "economia-se-contrae-fin-ajuste-crisis",
+    "fecha": "2026-07-23",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Apertura sin industria? Autos importados y el desafío a la producción nacional.",
+    "bajada": "El mercado automotriz muestra un récord de importaciones y una caída de la participación nacional. ¿Es el costo de la libertad de mercado o un error estratégico?",
+    "cuerpo": "El mercado automotriz argentino ha sido testigo de un fenómeno preocupante: el arrasamiento de autos importados, que desplazan de forma contundente a la producción nacional. Mientras las cifras de iProfesional muestran un incremento notable en la entrada de vehículos extranjeros, la industria local lucha por mantener su participación y capacidad de empleo. Esto plantea un dilema fundamental sobre la política económica actual.\n\nPor un lado, los defensores de la apertura argumentan que es una consecuencia natural de la competencia y la libertad de mercado, beneficiando al consumidor con más opciones. Por otro, los críticos señalan que esta tendencia amenaza la soberanía industrial, el empleo y la balanza comercial. ¿Es sostenible un modelo que privilegia la importación sin proteger y fomentar la producción local, o estamos sentenciando el futuro de un sector clave? El debate es urgente.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "apertura-sin-industria-autos-importados",
+    "fecha": "2026-07-23",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La \"cultura de la cancelación\" ¿llegó a la música? El caso Rosalía.",
+    "bajada": "Tras la polémica por sus dichos sobre Argentina, un evento de Rosalía fue suspendido en Córdoba. ¿Un escarmiento popular o un límite a la libertad de expresión?",
+    "cuerpo": "La controversia generada por los dichos de la cantante Rosalía sobre Argentina tuvo una consecuencia tangible: la cancelación de un evento en Córdoba, por \"temor a incidentes\" según informó TN. Este episodio reaviva el debate sobre la \"cultura de la cancelación\" y el poder de la indignación popular en la era digital. La pregunta es si la reacción social, por más justificada que parezca, debe llegar al punto de impedir la realización de eventos culturales.\n\nMientras algunos defienden la medida como una forma legítima de rechazo a expresiones ofensivas contra la identidad nacional, otros alertan sobre los peligros de establecer precedentes que limiten la libertad artística y de expresión. ¿Es la cancelación una herramienta de justicia social o un síntoma de una sociedad que no tolera la disidencia, incluso cuando viene de un ámbito ajeno al conflicto? Es crucial analizar las implicaciones de estas decisiones.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "cultura-cancelacion-musica-rosalia",
+    "fecha": "2026-07-23",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Racismo en Argentina: ¿piel o bolsillo? Caparrós agita el debate.",
+    "bajada": "Martín Caparrós desafía la narrativa común sobre el racismo, sugiriendo que la verdadera segregación es económica. ¿Estamos negando una realidad incómoda?",
+    "cuerpo": "El escritor Martín Caparrós volvió a encender la polémica con sus declaraciones sobre el racismo en Argentina, afirmando que \"la diferencia no está en la piel sino en la caja fuerte\". Esta aguda observación, publicada en Infobae, interpela directamente la forma en que el país aborda o evade el tema de la discriminación, sugiriendo que las divisiones sociales están más ligadas a la desigualdad económica que a cuestiones raciales explícitas al estilo de otros países.\n\nSu postura contrasta con quienes señalan la existencia de un racismo estructural y negado en la sociedad argentina, que se manifiesta en microagresiones y oportunidades desiguales. ¿Es la visión de Caparrós una forma de minimizar el racismo al redefinirlo, o nos invita a una reflexión más profunda sobre las interconexiones entre clase y discriminación? El debate es complejo y esencial para entender nuestras propias contradicciones como sociedad.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "5 min",
+    "slug": "racismo-argentina-piel-o-bolsillo-caparros",
+    "fecha": "2026-07-23",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
     "titulo": "Rosalía y Argentina: ¿disculpas sinceras o control de daños?",
     "bajada": "La cantante borró su polémico posteo, pero la reacción del público y su club de fans divide aguas.",
     "cuerpo": "La reciente controversia que involucra a la estrella global Rosalía y su aparente desliz en redes sociales contra Argentina ha encendido las alarmas sobre la sensibilidad cultural y el impacto de las figuras públicas. Tras borrar el posteo que generó una ola de indignación, las explicaciones de la artista se perciben entre la genuina disculpa y una estrategia de relaciones públicas forzada.\\n\\nEl debate en X es efervescente: mientras algunos defienden la inocencia de un \"error\", el club de fans argentino emite un comunicado ambiguo que busca apaciguar sin tomar una postura clara. ¿Es este el precio de la fama global, donde cualquier paso en falso cultural puede generar una crisis, o hay una doble vara al medir la empatía de los artistas con sus audiencias latinoamericanas?\\n\\n¿Realmente entienden las celebridades el peso de sus palabras y gestos en culturas ajenas, o es la indignación argentina una reacción exagerada ante un simple \"descuido\"?",
@@ -21,7 +105,7 @@
     "slug": "racismo-en-argentina-la-explosiva-acusacion-de-samuel-l-jackson",
     "fecha": "2026-07-22",
     "imagen": "img/sociedad_1.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Malvinas: Niall Horan y las \"disculpas\" que no convencen.",
@@ -201,90 +285,6 @@
     "slug": "milei-vs-scaloneta-festejo-oficial",
     "fecha": "2026-07-21",
     "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Scaloneta sin Messi: El recibimiento agridulce que divide las emociones.",
-    "bajada": "A pesar de la ausencia de la figura principal, la caravana con Scaloni y los hinchas demostró la eterna pasión argentina.",
-    "cuerpo": "La Selección Argentina, con Lionel Scaloni al frente y un puñado de jugadores, fue recibida por una multitud entusiasta que no dudó en desplegar alfombras rojas y cánticos pese a la derrota en la final del Mundial. Sin embargo, la notable ausencia de Lionel Messi dejó una sensación de agridulce, un vacío en medio de la euforia contenida. ¿Es posible celebrar la entrega y el esfuerzo sin la presencia de la máxima estrella, o la devoción del hincha trasciende cualquier resultado o figura individual? La imagen de Scaloni cantando con la gente es un símbolo de esta conexión inquebrantable.\n\nEste recibimiento puso de manifiesto una vez más la dicotomía del fútbol argentino: la pasión incondicional de los hinchas frente a la desilusión por el resultado. Las caravanas espontáneas y el aliento inquebrantable demuestran que, más allá de los títulos, el vínculo con la celeste y blanca es profundo. ¿Qué nos enseña esta muestra de afecto masivo sobre la relación entre el pueblo y sus ídolos, incluso en la derrota? ¿Es el proceso tan valioso como el objetivo final?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "scaloneta-sin-messi-recibimiento-agridulce",
-    "fecha": "2026-07-21",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La derrota del Mundial: ¿Conspiración o catarsis colectiva argentina?",
-    "bajada": "Las teorías conspirativas sobre la final del Mundial revelan más sobre la psique social que sobre el propio partido.",
-    "cuerpo": "Tras la dolorosa derrota de Argentina en la final del Mundial, las redes sociales se inundaron de teorías conspirativas, algunas tan descabelladas como virales. Desde arbitrajes comprados hasta fuerzas oscuras actuando detrás de escena, la necesidad de encontrar una explicación \"alternativa\" a la simple superioridad del rival o a errores propios se hizo evidente. ¿Qué dice esta proliferación de narrativas ocultas sobre la forma en que la sociedad argentina procesa la frustración y la desilusión colectiva? El artículo de Infobae detalla algunas de las más difundidas.\n\nEste fenómeno no es exclusivo de Argentina, pero se magnifica en un contexto de alta emocionalidad como un Mundial de fútbol. La búsqueda de un culpable externo, un villano invisible, sirve a menudo como mecanismo de defensa ante una realidad inaceptable. ¿Es una forma de mantener viva la esperanza, incluso si es a través de la negación, o un síntoma de una desconfianza generalizada hacia las instituciones y los resultados \"oficiales\"? El debate sobre estas teorías nos obliga a mirar más allá del fútbol y adentrarnos en las contradicciones de nuestra sociedad.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "derrota-mundial-conspiracion-catarsis-argentina",
-    "fecha": "2026-07-21",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Messi en Argentina: ¿Descanso merecido o escape de la presión post-Mundial?",
-    "bajada": "El capitán de la Selección aterrizó en el país, buscando refugio familiar tras la dolorosa derrota en la final del Mundial.",
-    "cuerpo": "Lionel Messi, el capitán y máxima figura de la Selección Argentina, arribó al país tras la frustrante derrota en la final del Mundial. Su llegada, lejos de los reflectores y con el claro objetivo de pasar las vacaciones con su familia, plantea una vez más la paradoja de ser un ícono nacional: ¿Es posible desconectarse de la presión y el escrutinio público cuando se lleva el peso de una nación? La nota de TN detalla su destino y la búsqueda de privacidad.\n\nLa imagen de Messi buscando un respiro subraya la brutal exigencia que recae sobre los deportistas de élite. Aunque la derrota dejó un sabor amargo, su presencia en el país, incluso en la intimidad, sigue siendo un símbolo. ¿Cómo equilibra un jugador de su talla la necesidad de su espacio personal con las expectativas de millones de compatriotas? ¿Y cómo deberíamos, como sociedad, manejar la presión que ejercemos sobre nuestros héroes?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "2 min",
-    "slug": "messi-argentina-descanso-presion-mundial",
-    "fecha": "2026-07-21",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Superávit energético récord: ¿Motor de desarrollo o espejismo pasajero?",
-    "bajada": "Argentina duplica su saldo en el primer semestre de 2026, pero la pregunta es sobre la sostenibilidad y el impacto real.",
-    "cuerpo": "El anuncio de un superávit energético récord en el primer semestre de 2026, que casi duplica el saldo del año anterior, representa una noticia de gran impacto para la economía argentina. Según Infobae, este hito promete un alivio significativo en las cuentas externas y podría impulsar el desarrollo productivo. Sin embargo, la historia económica del país está plagada de \"brotes verdes\" que no lograron consolidarse. ¿Es este superávit el inicio de una recuperación estructural o una coyuntura favorable que, sin políticas adecuadas, podría diluirse?\n\nExpertos debaten sobre la sostenibilidad de esta tendencia y la necesidad de inversiones a largo plazo en infraestructura y diversificación de la matriz energética. Mientras el gobierno celebra estas cifras, persisten las dudas sobre cómo se traducirá este excedente en mejoras concretas para la vida de los ciudadanos y el tejido productivo más allá del sector energético. ¿Qué medidas son cruciales para transformar este récord en un crecimiento sostenido y equitativo para toda la #Argentina? ¿O es una buena noticia que esconde otros desafíos económicos urgentes?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "superavit-energetico-record-desarrollo-espejismo",
-    "fecha": "2026-07-21",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Orgullo nacional o excusa dulce? El mensaje de Cuti Romero tras la derrota",
-    "bajada": "El defensor de la Selección apeló al sentimiento patrio, pero la derrota en la final deja un sabor amargo y preguntas abiertas.",
-    "cuerpo": "El \"Cuti\" Romero intentó consolar a la afición argentina tras la dolorosa caída ante España en la final, proclamando que \"jamás dejamos de representar a la Argentina\". Un mensaje que busca elevar el espíritu, pero que no oculta la frustración de una oportunidad perdida. ¿Es suficiente el esfuerzo cuando el resultado no acompaña las expectativas de una nación obsesionada con el triunfo?\n\nMientras el jugador intenta cerrar el capítulo, la afición debate si la \"representación\" es sinónimo de entrega o si el foco debe estar en la victoria. El fútbol, más que un deporte, es un termómetro social. Y hoy, ese termómetro marca una temperatura de decepción, por más que la épica del segundo puesto intente suavizarla.\n\n¿Hasta qué punto el \"orgullo\" justifica el análisis crítico del rendimiento deportivo y las decisiones tácticas que llevaron a este desenlace?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "orgullo-nacional-o-excusa-dulce-cuti-romero",
-    "fecha": "2026-07-21",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Show presidencial y Selección: ¿Milei falló en el abrazo con el fútbol?",
-    "bajada": "Se revelan los pormenores del frustrado intento del gobierno de capitalizar políticamente la llegada de la Scaloneta.",
-    "cuerpo": "Tras la derrota, el regreso de la Selección Argentina se convirtió en un escenario de tensión política. La intención del gobierno de Javier Milei de orquestar un \"recibimiento de honor\" chocó con la decisión de los jugadores de mantener un perfil bajo. Este \"plan fallido\" no solo expuso la distancia entre la Casa Rosada y el plantel, sino que reavivó el debate sobre la instrumentalización política del deporte nacional.\n\nLos detalles filtrados muestran una desorganización que va más allá de un simple malentendido. Con la selección llegando a Ezeiza, se esperaba una foto que Milei no obtuvo, dejando en evidencia una falla de cálculo en un momento de alta sensibilidad. El \"recibimiento de honor\" terminó siendo un paso discreto por autopistas para evitar la confrontación con un estado de ánimo que no daba para festejos orquestados.\n\n¿Debería el gobierno intentar subirse al éxito (o en este caso, al subcampeonato) del fútbol, o es mejor que mantenga distancia institucional?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "show-presidencial-milei-futbol",
-    "fecha": "2026-07-21",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Argentina racista? El dardo de Samuel L. Jackson que sacudió al país",
-    "bajada": "El actor de Hollywood desató una polémica internacional al tildar a Argentina de \"el país más racista del mundo\", provocando un repudio masivo.",
-    "cuerpo": "El bombazo de Samuel L. Jackson acusando a Argentina de ser \"el país más racista del mundo\" reverberó en las redes y medios nacionales, destapando una olla de prejuicios y debates pendientes. La declaración, previa a la final del Mundial, generó indignación y un aluvión de respuestas, entre ellas la de Bárbara Lombardo, que exigió mayor rigurosidad en las acusaciones. ¿Una campaña de desprestigio o una verdad incómoda que se ignora?\n\nLa controversia evidenció la profunda grieta en la percepción de Argentina respecto a su propia diversidad cultural y racial. Mientras muchos defienden la idiosincrasia nacional, otros señalan la existencia de micro-racismos y actitudes discriminatorias arraigadas, muchas veces invisibilizadas. La discusión se polariza entre el orgullo nacional herido y la necesidad de una autocrítica.\n\n¿Es este un ataque infundado o una oportunidad para que Argentina reflexione honestamente sobre sus propias estructuras y discursos raciales?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-racista-dardo-samuel-l-jackson",
-    "fecha": "2026-07-21",
-    "imagen": "img/sociedad_8.png",
     "destacada": false
   }
 ]
