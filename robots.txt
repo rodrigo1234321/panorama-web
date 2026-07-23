@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://panorama-web-one.vercel.app/sitemap.xml

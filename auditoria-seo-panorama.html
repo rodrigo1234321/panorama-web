@@ -1,0 +1,264 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Auditoría SEO — Panorama.ar (panorama-web-one.vercel.app)</title>
+  <style>
+    :root {
+      --bg: #0f172a;
+      --card-bg: #1e293b;
+      --border: #334155;
+      --text: #f8fafc;
+      --text-muted: #94a3b8;
+      --danger: #ef4444;
+      --warning: #f59e0b;
+      --success: #10b981;
+      --primary: #3b82f6;
+      --primary-glow: rgba(59, 130, 246, 0.15);
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; font-family: system-ui, -apple-system, sans-serif; }
+    body { background-color: var(--bg); color: var(--text); padding: 2rem; line-height: 1.5; }
+    .container { max-width: 1200px; margin: 0 auto; }
+    
+    header { display: flex; justify-content: space-between; align-items: center; background: var(--card-bg); padding: 1.5rem 2rem; border-radius: 1rem; border: 1px solid var(--border); margin-bottom: 2rem; }
+    .header-title h1 { font-size: 1.5rem; color: var(--text); }
+    .header-title p { color: var(--text-muted); font-size: 0.9rem; }
+    .badge-url { background: #0f172a; color: var(--primary); padding: 0.25rem 0.75rem; border-radius: 0.5rem; border: 1px solid var(--border); font-family: monospace; }
+    
+    .score-badge { width: 90px; height: 90px; border-radius: 50%; display: flex; flex-direction: column; align-items: center; justify-content: center; font-weight: bold; border: 4px solid var(--danger); background: rgba(239, 68, 68, 0.1); color: var(--danger); }
+    .score-badge .score-val { font-size: 1.8rem; line-height: 1; }
+    .score-badge .score-max { font-size: 0.75rem; opacity: 0.8; }
+
+    .grid-summary { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+    .card { background: var(--card-bg); border: 1px solid var(--border); padding: 1.25rem; border-radius: 0.75rem; }
+    .card-title { color: var(--text-muted); font-size: 0.85rem; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.5rem; }
+    .card-value { font-size: 1.75rem; font-weight: bold; }
+
+    section { background: var(--card-bg); border: 1px solid var(--border); padding: 1.5rem; border-radius: 1rem; margin-bottom: 2rem; }
+    h2 { font-size: 1.25rem; margin-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem; }
+
+    .top-fix { background: #0f172a; border-left: 4px solid var(--danger); padding: 1rem; border-radius: 0.5rem; margin-bottom: 1rem; }
+    .top-fix.warning { border-left-color: var(--warning); }
+    .top-fix h3 { font-size: 1rem; margin-bottom: 0.25rem; color: #f8fafc; }
+    .top-fix p { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 0.5rem; }
+    pre { background: #1e293b; padding: 0.75rem; border-radius: 0.375rem; overflow-x: auto; font-family: monospace; font-size: 0.85rem; color: #a5f3fc; border: 1px solid var(--border); }
+
+    .cat-bar { margin-bottom: 1.25rem; }
+    .cat-header { display: flex; justify-content: space-between; font-size: 0.95rem; margin-bottom: 0.35rem; }
+    .progress-bg { height: 10px; background: #0f172a; border-radius: 5px; overflow: hidden; border: 1px solid var(--border); }
+    .progress-fill { height: 100%; border-radius: 5px; }
+
+    .status-pill { display: inline-block; padding: 0.2rem 0.5rem; border-radius: 0.25rem; font-size: 0.75rem; font-weight: bold; }
+    .status-err { background: rgba(239, 68, 68, 0.2); color: var(--danger); }
+    .status-warn { background: rgba(245, 158, 11, 0.2); color: var(--warning); }
+    .status-ok { background: rgba(16, 185, 129, 0.2); color: var(--success); }
+
+    table { width: 100%; border-collapse: collapse; margin-top: 1rem; font-size: 0.9rem; }
+    th, td { text-align: left; padding: 0.75rem; border-bottom: 1px solid var(--border); }
+    th { color: var(--text-muted); font-weight: 600; background: #0f172a; }
+
+    @media print {
+      body { background: #fff; color: #000; padding: 0; }
+      header, section, .card { background: #fff; border-color: #ccc; color: #000; }
+      pre { background: #f1f5f9; color: #0f172a; border-color: #cbd5e1; }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="header-title">
+        <h1>Auditoría SEO Completa</h1>
+        <p>Sitio: <span class="badge-url">https://panorama-web-one.vercel.app/</span> | Fecha: 23 de Julio, 2026</p>
+      </div>
+      <div class="score-badge">
+        <span class="score-val">39</span>
+        <span class="score-max">/ 100</span>
+      </div>
+    </header>
+
+    <div class="grid-summary">
+      <div class="card">
+        <div class="card-title">Puntuación Global</div>
+        <div class="card-value" style="color: var(--danger);">39 / 100 (Crítico)</div>
+      </div>
+      <div class="card">
+        <div class="card-title">Problemas Críticos</div>
+        <div class="card-value" style="color: var(--danger);">5</div>
+      </div>
+      <div class="card">
+        <div class="card-title">Advertencias</div>
+        <div class="card-value" style="color: var(--warning);">4</div>
+      </div>
+      <div class="card">
+        <div class="card-title">Pruebas Aprobadas</div>
+        <div class="card-value" style="color: var(--success);">4</div>
+      </div>
+    </div>
+
+    <!-- Top 5 Correcciones Prioritarias -->
+    <section>
+      <h2>🚨 Top 5 Correcciones Prioritarias de Alto Impacto</h2>
+
+      <div class="top-fix">
+        <h3>1. Faltan Archivos Técnicos Fundamentales (robots.txt y sitemap.xml)</h3>
+        <p><strong>Impacto:</strong> Alto. Los buscadores como Google no pueden rastrear ni indexar el sitio correctamente sin un mapa del sitio y directivas de rastreo.</p>
+        <p><strong>Solución:</strong> Crear <code>robots.txt</code> y <code>sitemap.xml</code> en la raíz del sitio:</p>
+<pre>&lt;!-- robots.txt --&gt;
+User-agent: *
+Allow: /
+Sitemap: https://panorama-web-one.vercel.app/sitemap.xml</pre>
+      </div>
+
+      <div class="top-fix">
+        <h3>2. Ausencia de Etiqueta H1 Principal en la Página de Inicio</h3>
+        <p><strong>Impacto:</strong> Alto. Google no identifica la jerarquía ni la temática principal del sitio. Falta posicionar las keywords requeridas (<em>política, economía, milei, derecha, izquierda</em>).</p>
+        <p><strong>Solución:</strong> Agregar una etiqueta <code>&lt;h1&gt;</code> oculta o visible en el encabezado principal de <code>index.html</code>:</p>
+<pre>&lt;h1 class="sr-only"&gt;Panorama.ar — Noticias de Política, Economía y Debate entre Milei, Derecha e Izquierda en Argentina&lt;/h1&gt;</pre>
+      </div>
+
+      <div class="top-fix">
+        <h3>3. Falta de Meta Tags de Open Graph y Twitter Cards en index.html</h3>
+        <p><strong>Impacto:</strong> Medio-Alto. Al compartir la portada en X (Twitter), WhatsApp o LinkedIn, no se genera vista previa con imagen ni título optimizado.</p>
+        <p><strong>Solución:</strong> Inyectar etiquetas Open Graph en el <code>&lt;head&gt;</code> de <code>index.html</code>:</p>
+<pre>&lt;meta property="og:type" content="website"&gt;
+&lt;meta property="og:title" content="Panorama.ar — Noticias de Política, Economía y Debate en Argentina"&gt;
+&lt;meta property="og:description" content="Análisis agudo y debate en tiempo real sobre la política argentina, economía, Milei, derecha e izquierda."&gt;
+&lt;meta property="og:image" content="https://panorama-web-one.vercel.app/img/fallback_general.png"&gt;
+&lt;meta property="og:url" content="https://panorama-web-one.vercel.app/"&gt;</pre>
+      </div>
+
+      <div class="top-fix">
+        <h3>4. Meta Title y Description Incompletos y Cortos</h3>
+        <p><strong>Impacto:</strong> Medio. El título actual (31 chars) y la descripción (68 chars) son muy breves y desaprovechan espacio para incluir las palabras clave solicitadas (<em>milei, derecha, izquierda</em>).</p>
+        <p><strong>Solución:</strong> Actualizar los meta tags en <code>index.html</code>:</p>
+<pre>&lt;title&gt;Panorama.ar — Noticias de Política, Economía y Milei en Argentina&lt;/title&gt;
+&lt;meta name="description" content="Análisis periodístico sobre política, economía, el gobierno de Milei y los debates entre la derecha y la izquierda en Argentina sin vueltas."&gt;</pre>
+      </div>
+
+      <div class="top-fix warning">
+        <h3>5. Ausencia de Datos Estructurados (Schema JSON-LD)</h3>
+        <p><strong>Impacto:</strong> Medio. Sin marcado Schema, Google no reconoce a Panorama.ar como un medio de noticias digital (NewsMediaOrganization).</p>
+        <p><strong>Solución:</strong> Agregar este script en el <code>&lt;head&gt;</code> de <code>index.html</code>:</p>
+<pre>&lt;script type="application/ld+json"&gt;
+{
+  "@context": "https://schema.org",
+  "@type": "NewsMediaOrganization",
+  "name": "Panorama.ar",
+  "url": "https://panorama-web-one.vercel.app/",
+  "logo": "https://panorama-web-one.vercel.app/img/fallback_general.png"
+}
+&lt;/script&gt;</pre>
+      </div>
+    </section>
+
+    <!-- Desglose por Categoría -->
+    <section>
+      <h2>📊 Desglose de Puntuación por Categoría</h2>
+
+      <div class="cat-bar">
+        <div class="cat-header"><span>Meta Tags (20%)</span><span style="color:var(--warning)">45 / 100</span></div>
+        <div class="progress-bg"><div class="progress-fill" style="width:45%; background:var(--warning)"></div></div>
+      </div>
+
+      <div class="cat-bar">
+        <div class="cat-header"><span>Encabezados / Headings (15%)</span><span style="color:var(--danger)">20 / 100</span></div>
+        <div class="progress-bg"><div class="progress-fill" style="width:20%; background:var(--danger)"></div></div>
+      </div>
+
+      <div class="cat-bar">
+        <div class="cat-header"><span>Imágenes y Recursos (10%)</span><span style="color:var(--warning)">65 / 100</span></div>
+        <div class="progress-bg"><div class="progress-fill" style="width:65%; background:var(--warning)"></div></div>
+      </div>
+
+      <div class="cat-bar">
+        <div class="cat-header"><span>Enlaces e Navegación (10%)</span><span style="color:var(--success)">85 / 100</span></div>
+        <div class="progress-bg"><div class="progress-fill" style="width:85%; background:var(--success)"></div></div>
+      </div>
+
+      <div class="cat-bar">
+        <div class="cat-header"><span>Open Graph y Social (10%)</span><span style="color:var(--danger)">15 / 100</span></div>
+        <div class="progress-bg"><div class="progress-fill" style="width:15%; background:var(--danger)"></div></div>
+      </div>
+
+      <div class="cat-bar">
+        <div class="cat-header"><span>Schema / Datos Estructurados (10%)</span><span style="color:var(--danger)">0 / 100</span></div>
+        <div class="progress-bg"><div class="progress-fill" style="width:0%; background:var(--danger)"></div></div>
+      </div>
+
+      <div class="cat-bar">
+        <div class="cat-header"><span>Técnico y Performance (15%)</span><span style="color:var(--warning)">40 / 100</span></div>
+        <div class="progress-bg"><div class="progress-fill" style="width:40%; background:var(--warning)"></div></div>
+      </div>
+
+      <div class="cat-bar">
+        <div class="cat-header"><span>Contenido y Keywords (10%)</span><span style="color:var(--warning)">50 / 100</span></div>
+        <div class="progress-bg"><div class="progress-fill" style="width:50%; background:var(--warning)"></div></div>
+      </div>
+    </section>
+
+    <!-- Detalle Técnico Completo -->
+    <section>
+      <h2>📋 Detalle de Verificaciones Técnicas</h2>
+      <table>
+        <thead>
+          <tr>
+            <th>Prueba</th>
+            <th>Estado</th>
+            <th>Resultado / Detalle</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Tiempo de Respuesta Servidor (Vercel)</td>
+            <td><span class="status-pill status-ok">APROBADO</span></td>
+            <td>0.49 segundos (Excelente rendimiento)</td>
+          </tr>
+          <tr>
+            <td>Certificado HTTPS / SSL</td>
+            <td><span class="status-pill status-ok">APROBADO</span></td>
+            <td>Conexión segura activa vía Vercel</td>
+          </tr>
+          <tr>
+            <td>Archivo robots.txt</td>
+            <td><span class="status-pill status-err">ERROR (404)</span></td>
+            <td>No existe el archivo en la raíz del servidor</td>
+          </tr>
+          <tr>
+            <td>Mapa del sitio sitemap.xml</td>
+            <td><span class="status-pill status-err">ERROR (404)</span></td>
+            <td>No existe el sitemap XML para los buscadores</td>
+          </tr>
+          <tr>
+            <td>Favicon.ico</td>
+            <td><span class="status-pill status-err">ERROR (404)</span></td>
+            <td>No hay favicon.ico en la raíz del proyecto</td>
+          </tr>
+          <tr>
+            <td>Etiqueta H1 en portada</td>
+            <td><span class="status-pill status-err">ERROR</span></td>
+            <td>Falta etiqueta &lt;h1&gt; en la página principal</td>
+          </tr>
+          <tr>
+            <td>Etiqueta Canonical (&lt;link rel="canonical"&gt;)</td>
+            <td><span class="status-pill status-err">ERROR</span></td>
+            <td>Ausente en index.html</td>
+          </tr>
+          <tr>
+            <td>Meta Robots (&lt;meta name="robots"&gt;)</td>
+            <td><span class="status-pill status-warn">ADVERTENCIA</span></td>
+            <td>No definido explícitamente (se asume index, follow)</td>
+          </tr>
+          <tr>
+            <td>Open Graph / Twitter Cards</td>
+            <td><span class="status-pill status-err">ERROR</span></td>
+            <td>Ausentes en index.html (solo presentes en notas)</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+  </div>
+</body>
+</html>

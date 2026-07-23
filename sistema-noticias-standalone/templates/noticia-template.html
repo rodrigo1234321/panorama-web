@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{TITLE}} — Panorama.ar</title>
+  <meta name="description" content="{{DEK}}">
+  <link rel="stylesheet" href="../style.css">
+  
+  <!-- Open Graph / Meta para compartir en X (Twitter) y WhatsApp -->
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="{{TITLE_ESCAPED}}">
+  <meta property="og:description" content="{{DEK}}">
+  <meta property="og:image" content="https://panorama-web-one.vercel.app/{{IMAGE}}">
+  <meta property="og:url" content="https://panorama-web-one.vercel.app/notas/{{SLUG}}.html">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="{{TITLE_ESCAPED}}">
+  <meta name="twitter:description" content="{{DEK}}">
+  <meta name="twitter:image" content="https://panorama-web-one.vercel.app/{{IMAGE}}">
+</head>
+<body>
+
+  <!-- Header con barra de navegación -->
+  <header class="header-article">
+    <div class="max-w-7xl header-inner">
+      <a href="../index.html" class="logo">Panorama<span>.ar</span></a>
+      <a href="../index.html" class="btn-back">← Volver al inicio</a>
+    </div>
+  </header>
+
+  <!-- Contenido principal de la noticia -->
+  <main class="article-layout">
+    <article class="article-main cat-{{CATEGORY}}">
+      <header class="article-header">
+        <span class="tag-badge {{CATEGORY}}">{{CATEGORY_LABEL}}</span>
+        <h1>{{TITLE}}</h1>
+        <p class="dek">{{DEK}}</p>
+        <div class="article-byline">
+          <span>Por <strong>{{AUTHOR}}</strong></span>
+          <span>·</span>
+          <span>{{DATE}}</span>
+          <span>·</span>
+          <span>{{READTIME}} de lectura</span>
+        </div>
+      </header>
+
+      <div class="article-img-wrap">
+        <img src="../{{IMAGE}}" alt="{{TITLE}}" fetchpriority="high">
+      </div>
+
+      <div class="article-body">
+        {{BODY_HTML}}
+      </div>
+    </article>
+  </main>
+
+</body>
+</html>

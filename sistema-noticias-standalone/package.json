@@ -1,0 +1,16 @@
+{
+  "name": "sistema-noticias-standalone",
+  "version": "1.0.0",
+  "description": "Módulo autónomo de generación automática de noticias e integración con X (Twitter)",
+  "main": "scripts/update-news.js",
+  "scripts": {
+    "update-news": "node scripts/update-news.js",
+    "post-tweet": "node scripts/post-tweet.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "playwright": "^1.49.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  }
+}

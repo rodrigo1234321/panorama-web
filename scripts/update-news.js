@@ -31,7 +31,7 @@ async function fetchTrends() {
     const res = await fetch('https://getdaytrends.com/argentina/');
     if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
     const html = await res.text();
-    
+
     const trendRegex = /<a class="string" href="\/argentina\/trend\/[^"]+?">([^<]+?)<\/a>/g;
     const trends = [];
     let match;
@@ -41,14 +41,14 @@ async function fetchTrends() {
         trends.push(trendText);
       }
     }
-    
+
     console.log(`Se encontraron ${trends.length} tendencias en X.`);
     const topTrends = trends.slice(0, 15);
-    
+
     // Save trends to trends.json
     fs.writeFileSync(TRENDS_FILE, JSON.stringify(topTrends, null, 2), 'utf8');
     console.log('trends.json actualizado.');
-    
+
     return topTrends;
   } catch (err) {
     console.warn('Advertencia: No se pudieron obtener las tendencias de X:', err.message);
@@ -63,16 +63,16 @@ async function fetchNews() {
     const res = await fetch(RSS_URL);
     if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
     const xml = await res.text();
-    
+
     const items = [];
     const itemRegex = /<item>([\s\S]*?)<\/item>/g;
     let match;
-    
+
     while ((match = itemRegex.exec(xml)) !== null) {
       const itemContent = match[1];
       const titleMatch = /<title>([\s\S]*?)<\/title>/.exec(itemContent);
       const linkMatch = /<link>([\s\S]*?)<\/link>/.exec(itemContent);
-      
+
       if (titleMatch && linkMatch) {
         items.push({
           title: decodeHtml(titleMatch[1].replace(/<!\[CDATA\[(.*?)\]\]>/g, '$1').trim()),
@@ -80,7 +80,7 @@ async function fetchNews() {
         });
       }
     }
-    
+
     console.log(`Se encontraron ${items.length} noticias en el RSS.`);
     return items.slice(0, 20); // Process the top 20 news items
   } catch (err) {
@@ -88,34 +88,47 @@ async function fetchNews() {
     process.exit(1);
   }
 }
+
 // Call Gemini API to process and format news aligning with X trends
 async function generateArticles(newsItems, trends = []) {
   console.log('Llamando a la API de Gemini para procesar y redactar las noticias...');
   const today = new Date().toISOString().split('T')[0];
-  
+
   const prompt = `
-    Sos el editor jefe de "Panorama.ar", un medio digital argentino de opinión y análisis crítico, agudo y directo.
+    Sos el editor jefe de "Panorama.ar", un medio digital argentino de opinión y análisis crítico con una línea editorial liberal / de centro-derecha, agudo y directo.
     Tu misión: elegir las 7 noticias de la lista de entrada que mejor se conecten con las tendencias actuales en redes sociales (X/Twitter) en Argentina.
-    
+
     TENDENCIAS ACTUALES DE X EN ARGENTINA:
     ${JSON.stringify(trends, null, 2)}
-    
+
     NOTICIAS DE ENTRADA (Google News):
     ${JSON.stringify(newsItems, null, 2)}
-    
+
     Reglas de selección y redacción:
+
     1. Vinculación con tendencias: Seleccioná las 7 noticias que estén más alineadas, directa o indirectamente, con los temas que están en tendencia en X en Argentina. Por ejemplo, si una tendencia es "Boca" o "Tapia", dale prioridad a noticias sobre fútbol, la AFA o controversias institucionales. Si una tendencia es "Dólar" o "Impuestos", priorizá temas de economía. Si no hay tendencias claras de política/economía, vinculá y adaptá temas de interés social que generen debate nacional.
-    2. Tono editorial:
+
+    2. Palabras clave de tendencia EN EL TÍTULO (prioridad alta para visibilidad/búsqueda en X): Cuando una noticia tenga una tendencia relacionada de forma natural, el título DEBE incluir textualmente 1 a 3 palabras clave EXACTAS de la lista de tendencias (no alcanza con el tema general).
+       - Ejemplo fútbol: si las tendencias incluyen "Selección Argentina" y/o "Messi", el título debe contener esos términos literales.
+       - Ejemplo política/economía: si las tendencias incluyen "Milei", "Inflación" o "Elecciones", esos términos deben aparecer tal cual en el título.
+       - Si ninguna tendencia calza de forma natural con la noticia, no fuerces el término: priorizá la claridad y la precisión del título por sobre meter una palabra clave artificialmente.
+
+    3. Enfoque editorial: aplicá la línea editorial de Panorama.ar de forma consistente en el "cuerpo" (el título puede ser más neutro/directo si así funciona mejor para el punto 2):
+       - Economía: mirada crítica del gasto público, la presión impositiva y la intervención estatal; valorá en términos positivos la disciplina fiscal y las reformas de mercado.
+       - Seguridad: enfoque de mano dura, crítico del garantismo.
+       - Política: mirada crítica de "la casta" y el kirchnerismo; podés ser favorable a las reformas del gobierno de turno cuando la noticia lo amerite.
+       - Rigor no negociable: esto NO habilita inventar datos, cifras ni citas. Todo hecho debe salir de la noticia de entrada. Incluí siempre, aunque sea en una frase, el argumento o los datos del sector criticado — una nota que ningunea directamente a la otra parte pierde rigor periodístico y credibilidad (y con eso, alcance real en X).
+
+    4. Tono general:
        - Crítico, agudo y directo. Hacé preguntas reflexivas en los títulos cuando sea efectivo (ej: "¿Quién se beneficia realmente?").
-       - Analizá las contradicciones de los distintos sectores, datos de la realidad y opiniones encontradas.
        - Buscá que el lector reflexione y quiera debatir sobre el tema tras leer la nota.
        - Incluí datos concretos (cifras, porcentajes, nombres de voceros/sectores) para dar peso a la nota.
        - NO inventes datos. Basate en los hechos reales de la entrada.
-    
+
     Campos para cada noticia en el JSON de salida:
-    - titulo: Título AGUDO que llame a la reflexión y al debate. Puede usar preguntas retóricas o señalar contrastes. Máximo 15 palabras.
+    - titulo: Título AGUDO que llame a la reflexión y al debate, incorporando palabras clave de tendencias según la regla 2 cuando corresponda. Puede usar preguntas retóricas o señalar contrastes. Máximo 15 palabras.
     - bajada: Un gancho corto que introduzca el dilema o punto central de la discusión.
-    - cuerpo: Redacta 2-3 párrafos con tono de análisis crítico y periodismo de opinión, separados por saltos de línea dobles (\\n\\n). Exponé los diferentes argumentos, cifras y datos. Cerrá con una pregunta reflexiva que invite al debate.
+    - cuerpo: Redacta 2-3 párrafos con tono de análisis crítico y periodismo de opinión (aplicando el enfoque editorial de la regla 3), separados por saltos de línea dobles (\\n\\n). Exponé los diferentes argumentos, cifras y datos. Cerrá con una pregunta reflexiva que invite al debate.
     - categoria: Clasifica en "economia", "sociedad" o "politica".
     - autor: "Redacción Panorama".
     - lectura: Tiempo estimado (ej: "3 min").
@@ -194,17 +207,17 @@ async function generateArticles(newsItems, trends = []) {
     }
 
     const data = await res.json();
-    
+
     if (!data.candidates || data.candidates.length === 0) {
       console.error("La respuesta de la API no contiene candidatos. Respuesta completa:", JSON.stringify(data, null, 2));
       throw new Error("La API de Gemini no devolvió candidatos de respuesta. Posiblemente bloqueado por filtros de seguridad.");
     }
-    
+
     const candidate = data.candidates[0];
     if (candidate.finishReason && candidate.finishReason !== "STOP") {
       console.warn(`Advertencia: La generación finalizó con motivo: ${candidate.finishReason}`);
     }
-    
+
     if (!candidate.content || !candidate.content.parts || candidate.content.parts.length === 0) {
       console.error("El candidato de respuesta no contiene partes de contenido. Candidato completo:", JSON.stringify(candidate, null, 2));
       throw new Error("El candidato de la API de Gemini no contiene partes de texto.");
@@ -212,7 +225,7 @@ async function generateArticles(newsItems, trends = []) {
 
     const textResponse = candidate.content.parts[0].text;
     const articles = JSON.parse(textResponse);
-    
+
     console.log(`Gemini generó ${articles.length} artículos exitosamente.`);
     return articles;
   } catch (err) {
@@ -230,7 +243,7 @@ function updateDatabase(newArticles) {
       const fileData = fs.readFileSync(NOTICIAS_FILE, 'utf8');
       existingNews = JSON.parse(fileData);
     }
-    
+
     // Extract the tweet of the featured story and append the direct link to the article
     const featuredStory = newArticles.find(n => n.destacada) || newArticles[0];
     if (featuredStory && featuredStory.tweet) {
@@ -249,7 +262,7 @@ function updateDatabase(newArticles) {
         hash |= 0;
       }
       const index = (Math.abs(hash) % 8) + 1; // 1 a 8
-      
+
       const cleanCat = category.trim().toLowerCase();
       if (['economia', 'sociedad', 'politica'].includes(cleanCat)) {
         return `img/${cleanCat}_${index}.png`;
@@ -269,12 +282,12 @@ function updateDatabase(newArticles) {
       rest.imagen = getSlugHashImage(rest.slug, rest.categoria);
       return rest;
     });
-    
+
     // Combine and remove duplicates based on the slug
     const allNews = [...cleanNewArticles, ...cleanExistingNews];
     const uniqueSlugs = new Set();
     const mergedNews = [];
-    
+
     for (const item of allNews) {
       const cleanSlug = item.slug.trim();
       if (!uniqueSlugs.has(cleanSlug)) {
@@ -282,7 +295,7 @@ function updateDatabase(newArticles) {
         mergedNews.push(item);
       }
     }
-    
+
     // Sort news so the latest dates are first
     mergedNews.sort((a, b) => new Date(b.fecha) - new Date(a.fecha));
 
@@ -297,7 +310,7 @@ function updateDatabase(newArticles) {
         }
       }
     }
-    
+
     // Fallback if none is featured
     if (!foundDestacada && mergedNews.length > 0) {
       mergedNews[0].destacada = true;
@@ -315,7 +328,7 @@ function updateDatabase(newArticles) {
 
     if (fs.existsSync(TEMPLATE_FILE)) {
       console.log('Generando páginas HTML estáticas para cada noticia en /notas...');
-      
+
       // Crear directorio /notas si no existe
       if (!fs.existsSync(NOTAS_DIR)) {
         fs.mkdirSync(NOTAS_DIR, { recursive: true });
@@ -374,6 +387,12 @@ async function main() {
   }
   const newArticles = await generateArticles(newsItems, trends);
   updateDatabase(newArticles);
+  try {
+    const { execSync } = require('child_process');
+    execSync('node scripts/generate-sitemap.js', { stdio: 'inherit' });
+  } catch (e) {
+    console.warn('Advertencia al generar sitemap:', e.message);
+  }
   console.log('Pipeline de noticias finalizado con éxito.');
 }
 

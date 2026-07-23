@@ -1,0 +1,51 @@
+name: Auto Actualizar Noticias y Postear en X
+
+on:
+  schedule:
+    # Se ejecuta cada 12 horas (09:00 y 21:00 Hora Argentina / 12:00 y 00:00 UTC)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # Permite disparar la automatización manualmente desde la pestaña Actions en GitHub
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Instalar dependencias
+        run: npm install
+
+      - name: Ejecutar script de reposición de noticias
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          SITE_URL: ${{ vars.SITE_URL }}
+          SITE_NAME: ${{ vars.SITE_NAME }}
+          SEARCH_QUERY: ${{ vars.SEARCH_QUERY }}
+        run: node scripts/update-news.js
+
+      - name: Commitear y Subir cambios
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add package.json package-lock.json noticias.json notas/ trends.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: actualización de noticias y páginas estáticas" && git push)
+
+      - name: Instalar navegador Chromium para Playwright
+        run: npx playwright install chromium
+
+      - name: Publicar Tweet en X (Twitter)
+        env:
+          TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
+          HEADLESS: 'true'
+        run: node scripts/post-tweet.js
