@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Escándalo diplomático: Los insultos de Milei a Lula y la crisis bilateral",
+    "bajada": "El cruce de palabras entre ambos mandatarios escala a nivel de Estado, poniendo en jaque las relaciones con nuestro principal socio del Mercosur.",
+    "cuerpo": "La reciente declaración del presidente Milei, tildando al mandatario brasileño Lula da Silva de \"corrupto\", ha provocado una respuesta diplomática sin precedentes: Brasil llamó a consultas a su embajador en Argentina. Este gesto, considerado una \"afrenta\" por Itamaraty, es una clara señal de deterioro en la relación bilateral, un vínculo estratégico tanto en lo comercial como en lo geopolítico. La postura directa y sin filtros del gobierno argentino, si bien es celebrada por una parte del electorado, genera interrogantes sobre los costos diplomáticos y comerciales a largo plazo.\n\nMientras el oficialismo defiende la libertad de expresión presidencial y la denuncia de presuntos actos de corrupción en la región, sectores críticos señalan la imprudencia de estas declaraciones. El Ministerio de Relaciones Exteriores de Brasil argumenta que los dichos exceden el ámbito de la política interna y afectan la soberanía, una visión que choca con la concepción de Milei de que \"la ideología no se negocia\". ¿Es la confrontación abierta una estrategia sostenible para Argentina en el tablero internacional?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "escandalo-diplomatico-insultos-milei-lula-crisis-bilateral",
+    "fecha": "2026-07-26",
+    "imagen": "img/politica_2.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿Campaña sucia?: Milei acusa a Brasil de financiar ataques contra Argentina",
+    "bajada": "El presidente redobla la apuesta en la tensión bilateral, señalando al gobierno de Lula por supuesta injerencia en asuntos internos argentinos.",
+    "cuerpo": "Javier Milei ha escalado la retórica contra Brasil, acusando directamente al gobierno de Lula de \"poner plata en la campaña anti-argentina\", sugiriendo una injerencia indebida en la política local. Esta afirmación, de enorme gravedad, se enmarca en la creciente tensión diplomática entre ambos países, provocada por los insultos previos del mandatario argentino. La Casa Rosada interpreta las reacciones brasileñas no como una defensa de la figura de su presidente, sino como una orquestación para desestabilizar la gestión libertaria.\n\nDesde Brasilia, no se han emitido respuestas oficiales directas a esta última acusación, lo que alimenta la especulación sobre la profundización del conflicto. La Cancillería argentina, sin embargo, sostiene la postura de que ciertas campañas mediáticas y políticas contra el país tienen financiamiento externo, sin ofrecer pruebas concretas que sustenten tales afirmaciones. ¿Estamos frente a una escalada necesaria para defender los intereses nacionales o una peligrosa aventura diplomática que aísla a Argentina?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "campana-sucia-milei-acusa-brasil-financiar-ataques-contra-argentina",
+    "fecha": "2026-07-26",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La Rural: Jorge Macri y la clave del campo para el futuro argentino",
+    "bajada": "El jefe de Gobierno porteño destacó la importancia estratégica del sector agropecuario, un motor económico a menudo relegado por la política.",
+    "cuerpo": "Durante su visita a La Rural, Jorge Macri, jefe de Gobierno de la Ciudad de Buenos Aires, enfatizó una verdad innegable: \"Si al campo le va bien, Argentina tiene más oportunidades\". Esta declaración resalta el rol fundamental del sector agropecuario como principal generador de divisas y motor productivo. La mirada liberal/de centro-derecha de Panorama.ar siempre ha sostenido que la prosperidad del campo es directamente proporcional a la prosperidad nacional, lamentando la constante presión impositiva y regulatoria que históricamente ha sufrido.\n\nEl sector, que representa una parte vital de la economía argentina, sigue clamando por condiciones que favorezcan la inversión y la exportación, libre de las distorsiones que genera la intervención estatal. Las retenciones a las exportaciones y la burocracia excesiva son ejemplos claros de cómo el Estado puede ahogar el potencial productivo. ¿Cuándo comprenderá la dirigencia política que liberar el campo es liberar a toda la Argentina?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "la-rural-jorge-macri-clave-campo-futuro-argentino",
+    "fecha": "2026-07-26",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Retenciones: El reclamo del campo en La Rural y el lastre impositivo",
+    "bajada": "El titular de la Sociedad Rural Argentina fue categórico: el impuesto a las exportaciones es un ancla que frena el desarrollo nacional.",
+    "cuerpo": "Nicolas Pino, presidente de la Sociedad Rural Argentina (SRA), ha vuelto a poner sobre la mesa un reclamo histórico y fundamental: \"Las retenciones deben dejar de existir, por ley y para siempre\". Esta declaración, que resuena fuerte en el ámbito de La Rural, subraya la perspectiva de que estos impuestos a las exportaciones actúan como un castigo a la producción, desalentando la inversión y reduciendo la competitividad del país en los mercados internacionales. La posición de la SRA se alinea con la visión liberal de eliminar las trabas que impiden el crecimiento.\n\nHistóricamente, las retenciones han sido una herramienta de recaudación para el Estado, pero su costo para la economía real y la confianza de los productores es inmenso. Mientras el gobierno busca equilibrio fiscal, el campo propone un camino diferente: una menor presión impositiva que incentive la producción y, por ende, aumente la base imponible y la recaudación a largo plazo, a través de una economía más dinámica. ¿Hasta cuándo el Estado priorizará la caja sobre el potencial ilimitado de la producción argentina?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "retenciones-reclamo-campo-la-rural-lastre-impositivo",
+    "fecha": "2026-07-26",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Marruecos: Drama de una argentina, víctima de violencia y abandono",
+    "bajada": "El desgarrador pedido de ayuda de una compatriota en el extranjero expone la cruda realidad de la violencia de género y la fragilidad del respaldo estatal.",
+    "cuerpo": "El clamor de una argentina varada en Marruecos, víctima de violencia de género y un accidente, ha conmovido a la opinión pública. Su frase \"No quiero ser una menos\" resuena como un grito desesperado en un contexto donde la protección de los ciudadanos en el extranjero, especialmente en situaciones de vulnerabilidad, es crucial. Este caso no solo pone de manifiesto la urgencia de políticas efectivas contra la violencia machista, sino también la necesidad de un Estado presente y ágil para asistir a sus connacionales más allá de las fronteras.\n\nMientras se activan redes de ayuda solidaria, la pregunta sobre la eficacia de los mecanismos consulares y diplomáticos para responder a estas emergencias es inevitable. Es imperativo que el Estado garantice no solo la prevención de la violencia, sino también la protección y el retorno seguro de sus ciudadanos, sin caer en dilaciones burocráticas que profundicen el desamparo. ¿Está Argentina a la altura de las circunstancias para proteger a sus ciudadanos en el mundo y combatir la violencia sin demagogia?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "marruecos-drama-argentina-victima-violencia-abandono",
+    "fecha": "2026-07-26",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Campaña anti-Argentina?: El deporte y los \"ciclos terminados\"",
+    "bajada": "Una presunta campaña y el agotamiento de ciertas figuras deportivas abren el debate sobre la imagen del país y el futuro de sus ídolos.",
+    "cuerpo": "La noción de una \"campaña anti-Argentina\" en el ámbito deportivo, sumada a la percepción de \"ciclos terminados\" para figuras clave de cara al Mundial 2026, genera un intenso debate sobre la imagen nacional y la presión sobre nuestros deportistas. Si bien el fútbol es una pasión, las especulaciones sobre un boicot externo o interno revelan una profunda inquietud sobre cómo se percibe a Argentina en el escenario global y cómo se gestiona el talento local. Desde una perspectiva liberal, el foco debería estar en generar entornos de estabilidad y previsibilidad, que permitan a los talentos desarrollarse y no sentirse expulsados.\n\nEsta narrativa de \"campaña\" o \"exilio\" de figuras evoca la constante lucha contra una cultura que a menudo es hostil al mérito y la excelencia, o que agota a sus mejores exponentes. Más allá de los resultados deportivos, la reflexión debe ir hacia cómo el país valora y retiene a sus activos más valiosos en todos los ámbitos. ¿Estamos creando un ambiente que celebra el éxito o uno que lo desgasta hasta el punto de la partida?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "campana-anti-argentina-deporte-ciclos-terminados",
+    "fecha": "2026-07-26",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina en el ojo ajeno: ¿Qué dice el mundo de nosotros?",
+    "bajada": "La percepción internacional de nuestro país, marcada por la inestabilidad política y económica, invita a una urgente autocrítica.",
+    "cuerpo": "El artículo \"Argentina en el ojo ajeno\" abre una ventana a la compleja percepción que el mundo tiene de nuestro país, una imagen a menudo teñida por la inestabilidad económica, la polarización política y las idas y venidas en las políticas de Estado. Para \"Panorama.ar\", esta mirada externa es un espejo que nos obliga a una autocrítica profunda sobre las narrativas que proyectamos y las consecuencias de nuestras decisiones internas en la reputación global. La constante aparición de Argentina en titulares negativos, ya sea por disputas diplomáticas o crisis internas, impacta directamente en la inversión, el turismo y la confianza internacional.\n\nLa construcción de una imagen de seriedad y previsibilidad, tan anhelada por el sector productivo y los inversores, choca con la realidad de un país que a menudo parece priorizar la confrontación y la ideología por encima del pragmatismo y el desarrollo a largo plazo. No se trata de complacer a ojos foráneos, sino de construir una Argentina fuerte y estable desde adentro, cuyos méritos sean innegables. ¿Estamos dispuestos a asumir la responsabilidad de nuestra imagen en el mundo y cambiar el rumbo de una vez por todas?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-en-el-ojo-ajeno-que-dice-el-mundo-de-nosotros",
+    "fecha": "2026-07-26",
+    "imagen": "img/politica_3.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Batalla Real? Gaston Edul vs Edu Aguirre y la Dignidad Argentina",
     "bajada": "La Velada del Año VI se transformó en un ring de orgullo nacional, con el periodista argentino enfrentando a un crítico del Mundial.",
     "cuerpo": "La reciente \"Velada del Año VI\" puso en el cuadrilátero no solo a dos periodistas, sino a dos narrativas: la argentina, encarnada en Gastón Edul, y la española, representada por Edu Aguirre. Más allá del espectáculo, el evento se cargó de simbolismo post-Mundial, con chicanas y referencias que encendieron la polémica y el fervor patriótico. Este tipo de confrontaciones, aunque mediáticas, reflejan la sensibilidad de la opinión pública frente a las críticas externas.\n\nEl trasfondo de esta pelea excede lo deportivo, tocando fibras sensibles de la identidad nacional, el fútbol y hasta Malvinas. Mientras el público celebra la valentía de Edul al defender la bandera, la pregunta es si estos eventos mediáticos, orquestados por figuras como Ibai, realmente contribuyen a un debate constructivo o solo exacerban divisiones y estereotipos, desviando la atención de problemas más urgentes.\n\n¿Es la \"Velada\" una plataforma para el orgullo nacional o un circo que banaliza temas complejos para el entretenimiento masivo?",
@@ -9,7 +93,7 @@
     "slug": "batalla-real-gaston-edul-vs-edu-aguirre-dignidad-argentina",
     "fecha": "2026-07-26",
     "imagen": "img/sociedad_7.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Anti-Argentina: Otro \"Amigo de CR7\" Quiere Destruir a Gaston",
@@ -201,90 +285,6 @@
     "slug": "samuel-l-jackson-y-la-argentina-ignorancia-supina-o-verdad-incomoda",
     "fecha": "2026-07-26",
     "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Adiós a un gigante: Horacio Muratore, el legado del básquet argentino.",
-    "bajada": "El deporte argentino despide a una figura clave: Horacio Muratore, expresidente de CABB y FIBA, dejó una huella imborrable.",
-    "cuerpo": "El mundo del básquet argentino y global lamenta la partida de Horacio Muratore, una figura de inmenso peso que falleció recientemente. Muratore no solo presidió la Confederación Argentina de Básquet (CABB), sino que también alcanzó la máxima distinción como presidente de la Federación Internacional de Baloncesto (FIBA), un logro sin precedentes para un dirigente sudamericano. Su trayectoria fue sinónimo de expansión y desarrollo para el deporte.\n\nDurante su gestión en CABB y FIBA, Muratore fue un impulsor incansable de la internacionalización y profesionalización del básquet. Su visión contribuyó a que Argentina consolidara su posición en el escenario global, participando activamente en la toma de decisiones y defendiendo los intereses de las federaciones de menor desarrollo. Su liderazgo, si bien reconocido, también enfrentó los desafíos y las internas inherentes a cualquier estructura deportiva de gran magnitud.\n\nLa muerte de Muratore cierra un capítulo importante. ¿Qué desafíos quedan pendientes para la dirigencia deportiva argentina, y cómo se mantendrá vivo el espíritu de aquellos que, como él, dedicaron su vida a elevar el perfil de nuestras disciplinas a nivel mundial?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "adios-a-un-gigante-horacio-muratore-el-legado-del-basquet-argentino",
-    "fecha": "2026-07-26",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina, entre la autocrítica y el optimismo: ¿dónde estamos parados?",
-    "bajada": "Un análisis sobre la imagen del país, las críticas internas y externas, y la búsqueda de un camino propio.",
-    "cuerpo": "La narrativa sobre Argentina a menudo oscila entre el fatalismo y un optimismo desmedido. El reciente artículo de La Nación que plantea que \"Argentina es más que lo peor que se ha dicho de ella\" invita a una reflexión profunda sobre nuestra identidad y el rumbo. Es innegable que el país ha enfrentado y enfrenta desafíos estructurales, desde la inflación crónica hasta la inestabilidad política y la inseguridad. Sin embargo, también posee recursos humanos y naturales extraordinarios, con una resiliencia social que sorprende.\n\nDesde una perspectiva liberal, es crucial despojarse de victimismos y asumir las responsabilidades por las decisiones políticas y económicas que nos han llevado a ciclos recurrentes de crisis. Criticar \"lo peor que se ha dicho\" no debe implicar negar las falencias, sino identificar las causas reales y proponer soluciones de fondo, lejos de las recetas populistas que históricamente han prometido el paraíso sin resultados. El camino del progreso requiere disciplina fiscal, respeto por la propiedad y apertura al mundo, pilares a menudo sacrificados en el altar de la demagogia.\n\n¿Es esta una oportunidad para que la Argentina, lejos de justificaciones estériles, abrace la autocrítica constructiva y trace un sendero de crecimiento sostenible basado en la libertad y la responsabilidad individual?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-entre-la-autocritica-y-el-optimismo-donde-estamos-parados",
-    "fecha": "2026-07-26",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Fantasía oficialista? La economía \"en alza\" según el Viceministro.",
-    "bajada": "Mientras el gobierno celebra, la realidad del bolsillo se debate. ¿Hay brotes verdes o solo relato?",
-    "cuerpo": "El viceministro de Economía ha declarado que la actividad \"está en alza en Argentina\", intentando consolidar un mensaje de optimismo sobre el rumbo económico del país. Desde el oficialismo, se esgrimen ciertos indicadores sectoriales para sostener esta afirmación. Sin embargo, para una mirada crítica como la de Panorama.ar, estas aseveraciones deben ser contrastadas con la realidad que experimentan los ciudadanos y la persistencia de desafíos estructurales.\n\nLa retórica del \"rebote\" o \"recuperación\" a menudo oculta la magnitud de la caída previa y la fragilidad de las bases sobre las que se asienta cualquier supuesto crecimiento. Un análisis riguroso demandaría evaluar si este \"alza\" se traduce en mejoras concretas en el poder adquisitivo, la creación de empleo genuino y la reducción de la presión impositiva. La expansión del gasto público o el aumento de la emisión monetaria, prácticas recurrentes, no son sinónimo de prosperidad sostenible, sino de un parche que posterga la verdadera estabilización.\n\n¿Puede el gobierno convencer con un relato de crecimiento mientras millones de argentinos luchan contra la inflación y la incertidumbre fiscal? El \"alza\" que mencionan, ¿beneficia realmente a la mayoría o solo a sectores específicos vinculados al poder?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fantasia-oficialista-la-economia-en-alza-segun-el-viceministro",
-    "fecha": "2026-07-26",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Leche, una oportunidad perdida: ¿por qué Argentina no exporta más?",
-    "bajada": "La demanda global de lácteos crece, pero el sector local lucha contra impuestos y regulaciones que frenan su potencial.",
-    "cuerpo": "El mercado global de lácteos presenta una oportunidad de oro para Argentina, con una demanda en constante crecimiento. Sin embargo, a pesar de tener condiciones naturales y capacidades productivas, el país no logra explotar plenamente este potencial exportador. La explicación, desde nuestra perspectiva liberal, radica en la pesada carga impositiva y las intervenciones estatales que asfixian al sector productivo.\n\nProductores y cámaras del sector señalan que las retenciones a las exportaciones, la alta presión fiscal en toda la cadena y la imprevisibilidad regulatoria desincentivan la inversión y la expansión. Mientras el mundo clama por más leche y derivados, la burocracia y la sed recaudatoria del Estado impiden que los productores argentinos sean competitivos a nivel internacional, condenando a un sector clave a operar por debajo de sus posibilidades. La intervención en los mercados internos y los controles de precios distorsionan aún más las señales para la inversión.\n\n¿Hasta cuándo los productores argentinos seguirán siendo rehenes de políticas que priorizan la intervención estatal sobre la libertad de mercado y el desarrollo exportador? La oportunidad está, pero la decisión de liberarla ¿depende de un cambio de paradigma económico?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "leche-una-oportunidad-perdida-por-que-argentina-no-exporta-mas",
-    "fecha": "2026-07-26",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina: ¿Realmente un país racista? El debate que enciende las redes",
-    "bajada": "Las acusaciones de Samuel L. Jackson y la respuesta social abren un dilema sobre la identidad nacional.",
-    "cuerpo": "Las redes sociales se han encendido tras las declaraciones de Samuel L. Jackson tildando a Argentina de racista, un tema que Chequeado.com aborda analizando la conversación online y la visión de especialistas. Históricamente, Argentina se autopercibió como un crisol de razas europeas, lo que en algunos sectores derivó en la negación del componente indígena y afrodescendiente de su población, un sesgo que persiste en discursos y prácticas cotidianas.\n\nExpertos señalan que, si bien el racismo estructural es un problema global, en Argentina se manifiesta a menudo a través de micro-racismos y discriminación por apariencia, origen o clase social, muchas veces invisibilizada bajo la bandera de una supuesta \"homogeneidad\" cultural. Este debate obliga a una introspección incómoda, pero necesaria.\n\n¿Es hora de confrontar de frente los prejuicios que aún subsisten en nuestra sociedad, o se trata de una generalización injusta impulsada por voces externas?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-realmente-un-pais-racista-debate-redes",
-    "fecha": "2026-07-25",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Peretti a Samuel L. Jackson: 'Ignorancia supina' en el debate de Argentina",
-    "bajada": "El actor argentino respondió con dureza a las acusaciones de racismo, defendiendo la complejidad de la identidad nacional.",
-    "cuerpo": "Diego Peretti no dudó en calificar de \"ignorancia supina\" las afirmaciones de Samuel L. Jackson sobre el presunto racismo en Argentina. En un fuerte cruce, el actor argentino argumentó que tales comentarios provienen de una visión superficial que ignora la rica diversidad cultural y los matices históricos del país. Esta reacción refleja el sentimiento de muchos argentinos que se sienten atacados por juicios simplistas.\n\nLa controversia pone de manifiesto la sensibilidad en torno a la percepción internacional de Argentina. Mientras algunos sectores reconocen la necesidad de abordar los problemas de discriminación interna, otros critican la facilidad con la que figuras externas, sin un conocimiento profundo, emiten sentencias categóricas que solo avivan la polarización. La cuestión es si estos \"cruces\" contribuyen a un diálogo constructivo o solo refuerzan posturas defensivas.\n\n¿Es la reacción de Peretti una defensa necesaria de la identidad argentina o una negación del problema subyacente que requiere autocrítica?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "peretti-samuel-jackson-ignorancia-supina-argentina",
-    "fecha": "2026-07-25",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Messi y la Selección Argentina: ¿el fin de una era?",
-    "bajada": "Las declaraciones de Paredes reavivan la incertidumbre sobre la continuidad de Lionel Messi tras el Mundial.",
-    "cuerpo": "Leandro Paredes, pieza clave de la Scaloneta, dejó entrever una confesión privada de Lionel Messi que sacude al mundo del fútbol argentino: \"Él había tomado una decisión, que contra España era su último partido\". Esta frase, recogida por Infobae, genera una ola de preocupación y especulaciones sobre el futuro del capitán en la Selección Argentina. La idea de un adiós post-Mundial, aunque no confirmada oficialmente, resuena con fuerza.\n\nPara muchos, la salida de Messi representaría un golpe duro, no solo por su incomparable talento, sino por el liderazgo y la mística que aportó al equipo campeón. La AFA y el cuerpo técnico, con Scaloni a la cabeza, enfrentarán el desafío de gestionar esta transición, buscando mantener la competitividad sin su máxima figura. El debate sobre el recambio generacional y la dependencia de un solo jugador vuelve a escena.\n\n¿Es el momento de que la Selección Argentina empiece a pensar en un futuro sin Messi, o aún hay chances de convencerlo para extender su legado?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "messi-seleccion-argentina-fin-era",
-    "fecha": "2026-07-25",
-    "imagen": "img/sociedad_1.png",
     "destacada": false
   }
 ]
