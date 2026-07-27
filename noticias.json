@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Guerra diplomática? Presidente Milei y Lula: ¿hasta dónde la retórica?",
+    "bajada": "La confrontación verbal entre mandatarios desata una crisis con Brasil y pone en jaque la diplomacia regional.",
+    "cuerpo": "La reciente escalada en las declaraciones del presidente Milei, calificando a Lula de \"convicto\" y \"ladrón\", ha provocado una respuesta contundente de Brasil: el llamado a consultas de su embajador en Argentina. Este episodio marca un punto de inflexión en las relaciones bilaterales, tradicionalmente estratégicas para ambos países. La audacia en el discurso presidencial, aunque celebrada por algunos de sus partidarios como un rasgo distintivo y \"políticamente incorrecto\", genera serias preocupaciones en el ámbito diplomático y económico.\n\nDesde el Gobierno nacional, se argumenta que la postura de Milei responde a una coherencia ideológica y a la necesidad de no ceder ante \"la casta política\" internacional. Sin embargo, sectores de la diplomacia y la economía argentina advierten sobre las posibles consecuencias de una fricción prolongada con el principal socio comercial del país, que podría afectar desde exportaciones hasta inversiones conjuntas. ¿Es la confrontación directa el camino más efectivo para los intereses nacionales o estamos sacrificando pragmatismo por una retórica punzante?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "guerra-diplomatica-presidente-milei-y-lula-hasta-donde-la-retorica",
+    "fecha": "2026-07-27",
+    "imagen": "img/politica_2.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿\"Riesgo Lula\"? La sombra económica de Brasil sobre Argentina",
+    "bajada": "Economistas analizan las divergencias estructurales y el impacto de la relación con Brasil en nuestra frágil economía.",
+    "cuerpo": "Mientras la tensión diplomática con Brasil se intensifica por las declaraciones sobre Lula, el sector económico argentino se pregunta por las implicaciones de esta fricción. Distintos economistas señalan que, más allá de la coyuntura política, existen profundas diferencias estructurales entre ambas economías que podrían agravarse con un conflicto bilateral. Brasil, con un Estado más presente en la economía y políticas de desarrollo industrial, contrasta con el actual enfoque argentino de desregulación y búsqueda de equilibrio fiscal.\n\nAnalistas sostienen que, aunque la relación comercial es vital, Argentina debe consolidar sus propias reformas estructurales para reducir su vulnerabilidad ante shocks externos y conflictos diplomáticos. La dependencia de mercados específicos, sin una base productiva diversificada y competitiva, expone al país a un \"riesgo Lula\" en un sentido más amplio: la inestabilidad derivada de decisiones políticas ajenas. ¿Puede Argentina realmente desentenderse de la política exterior con su principal socio sin pagar un alto costo económico?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "riesgo-lula-la-sombra-economica-de-brasil-sobre-argentina",
+    "fecha": "2026-07-27",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Kristalina Georgieva en Economía: ¿Fin del ajuste o nueva etapa?",
+    "bajada": "La jefa del FMI se reúne con Caputo en un momento clave para el futuro económico del país.",
+    "cuerpo": "La visita de Kristalina Georgieva, directora gerente del Fondo Monetario Internacional, y su conferencia de prensa junto al ministro de Economía, Luis Caputo, marca un hito en la relación de Argentina con el organismo. Tras meses de arduo ajuste fiscal, la cúpula del FMI llega para evaluar el \"progreso\" del país, pero también para delinear los próximos pasos. La expectativa está puesta en si el FMI validará la continuidad del severo programa económico o si habrá alguna señal de flexibilización.\n\nDesde el Ministerio de Economía, se enfatiza el logro de superávit fiscal y la desaceleración de la inflación como pilares de la \"estabilización\". Sin embargo, críticos señalan el costo social del ajuste y la recesión económica como factores a considerar. La mirada de Kristalina Georgieva no solo se centra en los números macroeconómicos, sino también en la sostenibilidad del plan. ¿Está el Gobierno realmente cerca de liberar las restricciones del Fondo o la aprobación esconde nuevas condicionalidades para la ansiada recuperación?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "kristalina-georgieva-en-economia-fin-del-ajuste-o-nueva-etapa",
+    "fecha": "2026-07-27",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Kristalina Georgieva: ¿Argentina sin más deuda con el FMI?",
+    "bajada": "El FMI celebra el \"progreso\" pero advierte que falta un crecimiento \"equilibrado\" para la economía nacional.",
+    "cuerpo": "La directora gerente del FMI, Kristalina Georgieva, sorprendió al declarar que Argentina no necesitaría un nuevo programa de ayuda adicional del organismo, celebrando un \"progreso\" significativo. Esta afirmación, en sintonía con el relato oficial, busca consolidar la percepción de una recuperación económica y fiscal. Sin embargo, la misma Georgieva matizó el optimismo al señalar que aún se necesita un crecimiento \"equilibrado\" que llegue a todos los sectores.\n\nLa política de austeridad y el \"shock\" económico implementado por el actual gobierno han logrado estabilizar ciertas variables macro, pero el impacto en la actividad productiva y el empleo es innegable. La ausencia de un nuevo préstamo podría interpretarse como un alivio a la presión externa, pero ¿es realmente sostenible un crecimiento sin apoyo crediticio externo si la economía interna sigue estancada? ¿Qué tipo de \"equilibrio\" busca el FMI y qué costos sociales estamos dispuestos a pagar por él?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "kristalina-georgieva-argentina-sin-mas-deuda-con-el-fmi",
+    "fecha": "2026-07-27",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Kristalina Georgieva y Vaca Muerta: ¿El FMI pone sus ojos en nuestros recursos?",
+    "bajada": "La visita de la jefa del FMI se enfoca en el potencial energético argentino y su rol en la generación de divisas.",
+    "cuerpo": "La llegada de Kristalina Georgieva a Argentina, con una agenda que incluye un particular interés en Vaca Muerta, pone de manifiesto la relevancia estratégica de este yacimiento no convencional para las finanzas nacionales y, por ende, para la relación con el FMI. La expectativa de dólares que puede generar Vaca Muerta es vista por el organismo como un pilar fundamental para la sostenibilidad de la deuda y la futura recuperación económica.\n\nSi bien el potencial es inmenso, la explotación de Vaca Muerta ha estado históricamente marcada por la intervención estatal y la falta de un marco regulatorio estable que atraiga inversiones masivas sin riesgo. Desde Panorama.ar, sostenemos que el país debe asegurar condiciones de mercado claras y reducir la injerencia política para que el \"oro negro\" argentino se traduzca en desarrollo genuino y no solo en una fuente de divisas para pagar deudas. ¿Logrará el gobierno actual liberar el potencial de Vaca Muerta o seguirá siendo un activo condicionado por las demandas externas y la burocracia interna?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "kristalina-georgieva-y-vaca-muerta-el-fmi-pone-sus-ojos-en-nuestros-recursos",
+    "fecha": "2026-07-27",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Escala la tensión con Brasil: ¿qué pierde Argentina por el conflicto con Lula?",
+    "bajada": "La diplomacia en crisis con nuestro principal socio comercial amenaza con consecuencias económicas severas.",
+    "cuerpo": "La escalada de tensión con Brasil, exacerbada por las recientes declaraciones sobre Lula, trasciende lo meramente diplomático para impactar directamente en la economía argentina. Desde el sector exportador e importador, ya se perciben señales de preocupación ante la posibilidad de que el conflicto se traduzca en trabas comerciales o renegociaciones desfavorables para el país. Brasil es el principal destino de nuestras exportaciones industriales y un socio clave en el MERCOSUR, por lo que una relación deteriorada podría tener un costo significativo.\n\nMientras el gobierno sostiene que la \"libertad\" y la \"verdad\" en la política exterior no tienen precio, economistas advierten que la ruptura de puentes con un socio estratégico como Brasil puede ser perjudicial en un momento de fragilidad económica. La pérdida de mercados, la menor inversión regional y el debilitamiento de bloques comerciales son riesgos latentes. ¿Hasta qué punto puede la Argentina permitirse tensionar al máximo una relación vital para su economía, solo por una postura ideológica?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "escala-la-tension-con-brasil-que-pierde-argentina-por-el-conflicto-con-lula",
+    "fecha": "2026-07-27",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Juego limpio? El escándalo del árbitro del Mundial que afectó a Argentina",
+    "bajada": "Un ex-árbitro de la final mundialista entre Argentina y España se retira en medio de graves acusaciones.",
+    "cuerpo": "El retiro de Slavko Vinčić, el árbitro que dirigió la final del Mundial entre Argentina y España, ha reavivado un escándalo que sacudió al fútbol internacional: su implicación en una red de prostitución y drogas. Aunque los hechos ocurrieron tiempo atrás, la noticia de su alejamiento de las canchas pone en el centro del debate la integridad en el deporte de élite y la selectividad de la justicia. ¿Hasta qué punto estos episodios manchan la credibilidad de las competencias que todos celebramos?\n\nMientras la FIFA y las asociaciones nacionales se esfuerzan por proyectar una imagen de transparencia y juego limpio, casos como el de Vinčić exponen las profundas sombras que acechan al deporte. Desde Panorama.ar, consideramos que la exigencia de una conducta intachable debe ser la norma, especialmente para aquellos que tienen la responsabilidad de impartir justicia en eventos de magnitud global donde se decide el destino de una selección como Argentina. ¿Es suficiente con la \"jubilación\" de un árbitro, o se necesita una investigación más profunda para purgar los vicios que corrompen el deporte más popular?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "juego-limpio-el-escandalo-del-arbitro-del-mundial-que-afecto-a-argentina",
+    "fecha": "2026-07-27",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Provocación de Lula o ataque a la soberanía? Brasil cuestiona la economía argentina",
     "bajada": "La diplomacia se tensa con declaraciones que rozan el límite, ¿es un reflejo de la ideología o un cálculo político?",
     "cuerpo": "La reciente declaración de un ministro de Lula Da Silva, calificando al presidente argentino de \"payaso\" y criticando abiertamente la economía del país, eleva la temperatura en la relación bilateral. Este tipo de injerencias, lejos de promover el diálogo, buscan deslegitimar el rumbo económico elegido por los argentinos, apelando a viejas retóricas populistas.¿Es el ataque una señal de incomodidad ante la disciplina fiscal o una simple excusa para polarizar?\n\nLos defensores del gobierno argentino señalan que Brasil debería enfocarse en sus propios desafíos internos antes de emitir juicios sobre naciones soberanas que buscan liberarse de la carga del estatismo. La fricción, claramente ideológica, plantea un interrogante sobre el futuro de la integración regional y si la vieja guardia busca sabotear los vientos de cambio.¿Hasta dónde escalará esta retórica y quién se beneficia de la confrontación entre vecinos fundamentales para el Mercosur?",
@@ -45,7 +129,7 @@
     "slug": "kristalina-georgieva-en-argentina-presion-fiscal-o-respaldo-al-cambio",
     "fecha": "2026-07-27",
     "imagen": "img/economia_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Argentina en el podio de la Inflación regional: ¿Fin del desmanejo?",
@@ -201,90 +285,6 @@
     "slug": "la-rural-jorge-macri-clave-campo-futuro-argentino",
     "fecha": "2026-07-26",
     "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Retenciones: El reclamo del campo en La Rural y el lastre impositivo",
-    "bajada": "El titular de la Sociedad Rural Argentina fue categórico: el impuesto a las exportaciones es un ancla que frena el desarrollo nacional.",
-    "cuerpo": "Nicolas Pino, presidente de la Sociedad Rural Argentina (SRA), ha vuelto a poner sobre la mesa un reclamo histórico y fundamental: \"Las retenciones deben dejar de existir, por ley y para siempre\". Esta declaración, que resuena fuerte en el ámbito de La Rural, subraya la perspectiva de que estos impuestos a las exportaciones actúan como un castigo a la producción, desalentando la inversión y reduciendo la competitividad del país en los mercados internacionales. La posición de la SRA se alinea con la visión liberal de eliminar las trabas que impiden el crecimiento.\n\nHistóricamente, las retenciones han sido una herramienta de recaudación para el Estado, pero su costo para la economía real y la confianza de los productores es inmenso. Mientras el gobierno busca equilibrio fiscal, el campo propone un camino diferente: una menor presión impositiva que incentive la producción y, por ende, aumente la base imponible y la recaudación a largo plazo, a través de una economía más dinámica. ¿Hasta cuándo el Estado priorizará la caja sobre el potencial ilimitado de la producción argentina?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "retenciones-reclamo-campo-la-rural-lastre-impositivo",
-    "fecha": "2026-07-26",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Marruecos: Drama de una argentina, víctima de violencia y abandono",
-    "bajada": "El desgarrador pedido de ayuda de una compatriota en el extranjero expone la cruda realidad de la violencia de género y la fragilidad del respaldo estatal.",
-    "cuerpo": "El clamor de una argentina varada en Marruecos, víctima de violencia de género y un accidente, ha conmovido a la opinión pública. Su frase \"No quiero ser una menos\" resuena como un grito desesperado en un contexto donde la protección de los ciudadanos en el extranjero, especialmente en situaciones de vulnerabilidad, es crucial. Este caso no solo pone de manifiesto la urgencia de políticas efectivas contra la violencia machista, sino también la necesidad de un Estado presente y ágil para asistir a sus connacionales más allá de las fronteras.\n\nMientras se activan redes de ayuda solidaria, la pregunta sobre la eficacia de los mecanismos consulares y diplomáticos para responder a estas emergencias es inevitable. Es imperativo que el Estado garantice no solo la prevención de la violencia, sino también la protección y el retorno seguro de sus ciudadanos, sin caer en dilaciones burocráticas que profundicen el desamparo. ¿Está Argentina a la altura de las circunstancias para proteger a sus ciudadanos en el mundo y combatir la violencia sin demagogia?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "marruecos-drama-argentina-victima-violencia-abandono",
-    "fecha": "2026-07-26",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Campaña anti-Argentina?: El deporte y los \"ciclos terminados\"",
-    "bajada": "Una presunta campaña y el agotamiento de ciertas figuras deportivas abren el debate sobre la imagen del país y el futuro de sus ídolos.",
-    "cuerpo": "La noción de una \"campaña anti-Argentina\" en el ámbito deportivo, sumada a la percepción de \"ciclos terminados\" para figuras clave de cara al Mundial 2026, genera un intenso debate sobre la imagen nacional y la presión sobre nuestros deportistas. Si bien el fútbol es una pasión, las especulaciones sobre un boicot externo o interno revelan una profunda inquietud sobre cómo se percibe a Argentina en el escenario global y cómo se gestiona el talento local. Desde una perspectiva liberal, el foco debería estar en generar entornos de estabilidad y previsibilidad, que permitan a los talentos desarrollarse y no sentirse expulsados.\n\nEsta narrativa de \"campaña\" o \"exilio\" de figuras evoca la constante lucha contra una cultura que a menudo es hostil al mérito y la excelencia, o que agota a sus mejores exponentes. Más allá de los resultados deportivos, la reflexión debe ir hacia cómo el país valora y retiene a sus activos más valiosos en todos los ámbitos. ¿Estamos creando un ambiente que celebra el éxito o uno que lo desgasta hasta el punto de la partida?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "campana-anti-argentina-deporte-ciclos-terminados",
-    "fecha": "2026-07-26",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina en el ojo ajeno: ¿Qué dice el mundo de nosotros?",
-    "bajada": "La percepción internacional de nuestro país, marcada por la inestabilidad política y económica, invita a una urgente autocrítica.",
-    "cuerpo": "El artículo \"Argentina en el ojo ajeno\" abre una ventana a la compleja percepción que el mundo tiene de nuestro país, una imagen a menudo teñida por la inestabilidad económica, la polarización política y las idas y venidas en las políticas de Estado. Para \"Panorama.ar\", esta mirada externa es un espejo que nos obliga a una autocrítica profunda sobre las narrativas que proyectamos y las consecuencias de nuestras decisiones internas en la reputación global. La constante aparición de Argentina en titulares negativos, ya sea por disputas diplomáticas o crisis internas, impacta directamente en la inversión, el turismo y la confianza internacional.\n\nLa construcción de una imagen de seriedad y previsibilidad, tan anhelada por el sector productivo y los inversores, choca con la realidad de un país que a menudo parece priorizar la confrontación y la ideología por encima del pragmatismo y el desarrollo a largo plazo. No se trata de complacer a ojos foráneos, sino de construir una Argentina fuerte y estable desde adentro, cuyos méritos sean innegables. ¿Estamos dispuestos a asumir la responsabilidad de nuestra imagen en el mundo y cambiar el rumbo de una vez por todas?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-en-el-ojo-ajeno-que-dice-el-mundo-de-nosotros",
-    "fecha": "2026-07-26",
-    "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Batalla Real? Gaston Edul vs Edu Aguirre y la Dignidad Argentina",
-    "bajada": "La Velada del Año VI se transformó en un ring de orgullo nacional, con el periodista argentino enfrentando a un crítico del Mundial.",
-    "cuerpo": "La reciente \"Velada del Año VI\" puso en el cuadrilátero no solo a dos periodistas, sino a dos narrativas: la argentina, encarnada en Gastón Edul, y la española, representada por Edu Aguirre. Más allá del espectáculo, el evento se cargó de simbolismo post-Mundial, con chicanas y referencias que encendieron la polémica y el fervor patriótico. Este tipo de confrontaciones, aunque mediáticas, reflejan la sensibilidad de la opinión pública frente a las críticas externas.\n\nEl trasfondo de esta pelea excede lo deportivo, tocando fibras sensibles de la identidad nacional, el fútbol y hasta Malvinas. Mientras el público celebra la valentía de Edul al defender la bandera, la pregunta es si estos eventos mediáticos, orquestados por figuras como Ibai, realmente contribuyen a un debate constructivo o solo exacerban divisiones y estereotipos, desviando la atención de problemas más urgentes.\n\n¿Es la \"Velada\" una plataforma para el orgullo nacional o un circo que banaliza temas complejos para el entretenimiento masivo?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "batalla-real-gaston-edul-vs-edu-aguirre-dignidad-argentina",
-    "fecha": "2026-07-26",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Anti-Argentina: Otro \"Amigo de CR7\" Quiere Destruir a Gaston",
-    "bajada": "La polémica sobre el Mundial no cesa, y ahora un aliado de Cristiano Ronaldo se suma a los ataques, apuntando directamente a Edul.",
-    "cuerpo": "La victoria de Argentina en el Mundial sigue generando resquemores en ciertos círculos europeos, especialmente entre aquellos cercanos a la figura de Cristiano Ronaldo. Un nuevo episodio de esta saga mediática se presenta con la amenaza de un choque en el ring contra Gastón Edul, quien parece haberse convertido en el \"representante\" involuntario de la pasión argentina. Este constante ninguneo y ataque por parte de figuras internacionales, que aún no digieren el triunfo albiceleste, no hace más que inflamar el sentimiento nacionalista.\n\nEs preocupante observar cómo el resentimiento por un resultado deportivo se traduce en descalificaciones hacia todo un país. Estas \"cargadas\" van más allá de la chicana futbolística, revelando una subyacente campaña de desprestigio que busca minar el espíritu de un pueblo que celebra su mayor gesta deportiva. La cuestión es, ¿hasta cuándo permitiremos que la ignorancia y la envidia extranjera sigan operando como un factor de división, incluso en eventos de entretenimiento masivo?\n\n¿Estamos presenciando una nueva forma de colonialismo cultural donde el éxito argentino es inaceptable para algunos \"amigos de CR7\"?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "anti-argentina-otro-amigo-cr7-quiere-destruir-gaston",
-    "fecha": "2026-07-26",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Ibai y \"La Velada\": ¿Orgullo Nacional o Marketing de Confrontación?",
-    "bajada": "El evento de boxeo de Ibai Llanos, \"La Velada del Año\", prepara un choque entre Argentina y España, con el foco puesto en la rivalidad.",
-    "cuerpo": "La \"Velada del Año\", impulsada por el popular streamer Ibai Llanos, se consolida como un fenómeno global. La propuesta de enfrentar a Argentina contra España en el ring es un claro ejemplo de cómo el marketing digital explota las rivalidades nacionales para generar audiencia. Si bien estos eventos pueden ser una vitrina para talentos emergentes y ofrecen entretenimiento, es crucial analizar la superficialidad con la que se abordan temas de identidad y competencia entre naciones.\n\nEn un contexto donde la crispación social y política es moneda corriente, la utilización de estas dicotomías \"Argentina vs. España\" para el show de masas puede ser un arma de doble filo. Aunque se disfraza de competencia sana, a menudo resalta estereotipos y profundiza divisiones sin ofrecer un espacio para la reflexión. La pregunta fundamental es si los organizadores están conscientes del impacto cultural de estas \"batallas\" o si solo priorizan las métricas de audiencia por encima de la construcción de un diálogo intercultural genuino.\n\n¿Hasta qué punto el entretenimiento masivo de plataformas como Ibai debería tener una responsabilidad en la gestión de narrativas nacionales?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "ibai-velada-orgullo-nacional-marketing-confrontacion",
-    "fecha": "2026-07-26",
-    "imagen": "img/sociedad_6.png",
     "destacada": false
   }
 ]
