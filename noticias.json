@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Kristalina Georgieva en Argentina: ¿Fin de la asistencia o nuevo rumbo?",
+    "bajada": "La titular del FMI elogió el ajuste, pero advirtió sobre la falta de crecimiento equilibrado y descartó nuevos préstamos.",
+    "cuerpo": "La visita de Kristalina Georgieva a Argentina generó un sinfín de expectativas y no pocas polémicas. Mientras destacó los avances en la disciplina fiscal del gobierno actual, la jefa del FMI fue contundente: \"Argentina no necesita otro préstamo\" y puso el foco en la urgencia de un crecimiento más \"equilibrado\". Este mensaje, aunque alienta la austeridad, ¿esconde una advertencia sobre el costo social de un ajuste sin expansión económica real? La narrativa oficialista celebra el respaldo externo, pero la realidad de los indicadores macroeconómicos y sociales aún presenta desafíos considerables.\n\nLa postura del FMI subraya la necesidad de que el país genere sus propios recursos y no dependa de la asistencia externa, un principio que resuena con la visión liberal de sanear las cuentas públicas. Sin embargo, la exigencia de un crecimiento \"equilibrado\" interpela directamente las políticas actuales que, si bien reducen el déficit, aún no logran revertir la contracción del consumo y la inversión. ¿Se prioriza la estabilidad fiscal por encima de la reactivación productiva, o ambas son caras de la misma moneda que aún no se consolida?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "kristalina-georgieva-argentina-fin-asistencia-nuevo-rumbo",
+    "fecha": "2026-07-28",
+    "imagen": "img/economia_6.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Choque diplomático: Insultos de Milei a Lula encienden la región.",
+    "bajada": "La relación con Brasil se deteriora a niveles históricos tras los exabruptos presidenciales y la respuesta del ministro brasileño.",
+    "cuerpo": "La política exterior argentina vive uno de sus peores momentos con Brasil, su principal socio regional. Los reiterados insultos del presidente Milei hacia su homólogo, Lula da Silva, han escalado a una crisis diplomática sin precedentes, culminando con el ministro de Hacienda de Brasil calificando a Milei de \"payaso\". Esta escalada verbal no solo tensiona el vínculo entre ambos países, sino que genera interrogantes sobre la visión geopolítica del gobierno argentino. ¿Se prioriza la ideología por encima de los intereses comerciales y estratégicos con un socio clave como Brasil?\n\nLa retórica confrontativa, si bien puede resonar con sectores de la base electoral, tiene costos tangibles en las relaciones internacionales. Las consecuencias de este deterioro van más allá de los discursos, afectando el comercio bilateral y la cooperación en foros regionales e internacionales. La casta política, tan criticada, parece haber encontrado un nuevo terreno para la disputa en la diplomacia presidencial. ¿Es esta una estrategia calculada para redefinir el rol de Argentina en el mundo, o un capricho que aísla al país de sus vecinos fundamentales?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "choque-diplomatico-insultos-milei-lula-encienden-region",
+    "fecha": "2026-07-28",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Encuestas: ¿Está Milei en su peor momento político, o es un tropiezo?",
+    "bajada": "Un estudio de una universidad top de Argentina revela la caída en la aprobación del presidente.",
+    "cuerpo": "Las últimas mediciones de opinión pública, provenientes de una prestigiosa universidad argentina, encienden las alarmas: el presidente Milei atraviesa su \"peor momento\" en términos de imagen y aprobación. Esta caída, que se suma a la creciente inquietud por la situación económica y social, plantea serios desafíos para la gobernabilidad. Si bien el gobierno defiende su hoja de ruta con la promesa de resultados a largo plazo, la paciencia social parece tener límites. ¿Es esta una señal de agotamiento de la luna de miel con el electorado, o un ajuste esperado tras medidas impopulares?\n\nLa crítica a \"la casta\" y la defensa de la libertad económica fueron pilares de su ascenso, pero la gestión diaria implica equilibrar expectativas con realidades. Los resultados de estas encuestas, más allá de la polarización, reflejan una ciudadanía atenta a las soluciones concretas. ¿Se subestima la capacidad de la oposición, o la frustración económica es el verdadero motor de este declive? La clase política, incluido el peronismo que alguna vez lideró Sergio Massa, observa atentamente los movimientos del oficialismo. ¿Podrá el gobierno revertir esta tendencia y consolidar su apoyo, o la \"nueva política\" también tiene sus techos de cristal?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "encuestas-esta-milei-peor-momento-politico-tropiezo",
+    "fecha": "2026-07-28",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Washington Post elogia: ¿El \"renacimiento\" de la economía bajo Milei?",
+    "bajada": "El prestigioso diario estadounidense destaca los resultados económicos del gobierno argentino.",
+    "cuerpo": "En un contraste notable con las preocupaciones internas, The Washington Post volvió a publicar un artículo donde destaca el \"renacimiento de Argentina\" bajo la gestión de Milei. Esta visión optimista desde el exterior, que subraya los esfuerzos por la disciplina fiscal y la apertura de mercados, ¿coincide con la percepción de los ciudadanos? Mientras algunos celebran el reconocimiento internacional, otros se preguntan si los indicadores macroeconómicos de un \"renacimiento\" se traducen en una mejora concreta en el día a día.\n\nLa mirada liberal de \"Panorama.ar\" siempre valoró la estabilidad macroeconómica y la confianza de los mercados como pilares para el crecimiento. Sin embargo, la brecha entre el optimismo externo y la realidad local de consumo y empleo sigue siendo un punto de tensión. El desafío es transformar las buenas señales externas en un bienestar tangible para la población. ¿Es este elogio un aliciente para profundizar el modelo, o un llamado a equilibrar las reformas con políticas de impacto social más directo? Las expectativas de organismos como el FMI, liderado por Kristalina Georgieva, también apuntan a la necesidad de crecimiento equilibrado, un eco de esta misma tensión.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "washington-post-elogia-renacimiento-economia-milei",
+    "fecha": "2026-07-28",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Consumo per cápita en Argentina: ¿Recuperación lenta o estancamiento?",
+    "bajada": "Pese a seguir siendo alto en la región, las proyecciones indican un crecimiento contenido para el consumo argentino.",
+    "cuerpo": "Argentina mantiene uno de los consumos per cápita más altos de la región, un dato que a primera vista podría parecer alentador. Sin embargo, las proyecciones advierten sobre un crecimiento \"lento\" en el futuro cercano, lo que genera interrogantes sobre la capacidad real de reactivación económica. En un país donde el consumo interno es un motor clave, ¿es esta desaceleración una consecuencia inevitable del ajuste o un síntoma de una política económica que aún no encuentra el camino para estimular la demanda sin caer en desequilibrios fiscales?\n\nDesde una perspectiva liberal, el consumo sostenible se basa en la inversión productiva y salarios reales, no en el gasto público desenfrenado. No obstante, la caída del poder adquisitivo y el contexto inflacionario han golpeado duramente a los bolsillos. Las decisiones de gobierno, que buscan ordenar la macroeconomía, deben ahora demostrar cómo se traducirán en una mejora del consumo sin generar nuevas distorsiones. ¿Será la disciplina fiscal suficiente para impulsar la confianza y, con ella, un verdadero repunte del consumo, o se requieren medidas más activas para desatar el poder de compra de los ciudadanos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "consumo-per-capita-argentina-recuperacion-lenta-estancamiento",
+    "fecha": "2026-07-28",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Relaciones Argentina-Brasil: Más allá de los presidentes y sus roces.",
+    "bajada": "A pesar de la tensión diplomática, el vínculo bilateral trasciende las figuras presidenciales y se mantiene por otros carriles.",
+    "cuerpo": "Mientras los presidentes Milei y Lula protagonizan un ríspido cruce diplomático, las relaciones entre Argentina y Brasil demuestran ser mucho más profundas que los roces personales. El entramado comercial, cultural y social entre ambos países posee una inercia propia, mantenida por empresarios, artistas y ciudadanos comunes que continúan lazos vitales. Sin embargo, ¿puede la solidez de estos vínculos resistir indefinidamente una escalada verbal que deteriora la confianza en la cúpula política?\n\nLa línea editorial de \"Panorama.ar\" siempre enfatizó la importancia de la pragmática política exterior y la integración regional basada en intereses mutuos, no en afinidades ideológicas. Si bien la base social y económica entre ambos países es fuerte, el riesgo es que la inestabilidad política termine por erosionar oportunidades de inversión y cooperación estratégica. Es fundamental que la diplomacia institucional recupere un rol protagónico. ¿Serán los puentes construidos por décadas de interacción más fuertes que los muros levantados por la retórica presidencial, o la \"casta\" diplomática también está fallando en su deber de mediar?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "relaciones-argentina-brasil-mas-alla-presidentes-roces",
+    "fecha": "2026-07-28",
+    "imagen": "img/politica_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Euro en Argentina: ¿Estabilidad cambiaria o nueva incertidumbre?",
+    "bajada": "La cotización del euro, un termómetro de la economía local, refleja las tensiones del mercado y la percepción de riesgo.",
+    "cuerpo": "La cotización del euro en Argentina, más allá de su valor nominal, actúa como un termómetro sensible de las expectativas económicas y la confianza de los inversores. En un contexto de alta volatilidad y restricciones cambiarias, el comportamiento de divisas como el euro es clave para entender la percepción de riesgo país y la estabilidad macroeconómica. Si bien el gobierno actual ha implementado medidas para contener la inflación y ordenar las finanzas, la fluctuación del euro sigue siendo un indicador de que el mercado busca certezas. ¿Refleja su cotización un camino hacia la estabilización o la persistencia de la incertidumbre?\n\nDesde una perspectiva de libre mercado, la cotización de cualquier divisa debería ser el resultado de la oferta y la demanda, sin intervención distorsiva. Sin embargo, la Argentina arrastra un largo historial de regulaciones y desequilibrios que impactan directamente en el valor del euro y otras monedas extranjeras. La búsqueda de estabilidad es un objetivo compartido, pero la forma de alcanzarla genera debate. ¿Se logrará la calma cambiaria a través de la profundización de las reformas y la apertura económica, o la presión sobre las divisas es un síntoma de problemas estructurales más profundos que el gobierno no está abordando?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "euro-argentina-estabilidad-cambiaria-nueva-incertidumbre",
+    "fecha": "2026-07-28",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Consolidación o espejismo? Kristalina Georgieva respalda al presidente.",
     "bajada": "La jefa del FMI visitó el país y avaló el rumbo económico, pero ¿es suficiente para un crecimiento real y sostenible?",
     "cuerpo": "Kristalina Georgieva, directora del FMI, brindó un fuerte espaldarazo al gobierno de Argentina, declarando que no le preocupa la capacidad del país para honrar sus compromisos. Esta declaración, tras un período de estricto ajuste fiscal, busca transmitir confianza a los mercados y a los ciudadanos, quienes aún sienten el peso de las medidas implementadas. Sin embargo, la euforia por el aval externo debe ser cautelosa.\n\nEl FMI enfatiza la necesidad de mantener la disciplina fiscal, algo que el gobierno ha logrado con superávit. Pero el interrogante clave para la ciudadanía es si este programa de estabilización sienta las bases para un crecimiento económico genuino o si, por el contrario, la contracción de la demanda y el freno a la inversión pueden generar un estancamiento. La visión liberal de Panorama.ar siempre ha sostenido que la austeridad sin incentivos claros para el sector privado es una receta incompleta.\n\nEntonces, ¿el respaldo de Kristalina Georgieva al presidente Milei es un aval a la libertad económica o un cheque en blanco a un ajuste que aún no muestra sus frutos para la mayoría de los argentinos? ¿Estamos ante la antesala de la prosperidad o de un equilibrio frágil que demanda más reformas estructurales y menos intervención?",
@@ -9,7 +93,7 @@
     "slug": "consolidacion-o-espejismo-kristalina-georgieva-respalda-al-presidente",
     "fecha": "2026-07-28",
     "imagen": "img/economia_8.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "¿Desaire o estrategia? Lula ninguneó al presidente argentino.",
@@ -201,90 +285,6 @@
     "slug": "guerra-sucia-regional-milei-acusa-a-brasil-y-mexico-de-financiar-campana-hostil",
     "fecha": "2026-07-27",
     "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Kristalina Georgieva en Argentina: ¿presión fiscal o respaldo al cambio?",
-    "bajada": "La directora del FMI llega en un momento clave para las metas económicas de Milei. ¿Será un espaldarazo o un nuevo ajuste?",
-    "cuerpo": "La llegada de Kristalina Georgieva, directora gerente del Fondo Monetario Internacional, a Argentina marca un punto de inflexión en la relación con el organismo y las expectativas económicas del país. Su encuentro con el presidente Milei se da bajo una \"meta fiscal bajo presión\", un desafío que el gobierno busca sortear con reformas estructurales y un fuerte recorte del gasto público. Desde Panorama.ar, celebramos la búsqueda de disciplina fiscal, un camino indispensable para salir de décadas de desmanejo.\n\nLa visita a Vaca Muerta, por otro lado, subraya el potencial productivo del país si se eliminan las trabas estatales y se garantiza la seguridad jurídica a las inversiones. La presencia de Georgieva en este enclave estratégico podría interpretarse como un gesto de apoyo a la visión de crecimiento basada en el desarrollo de recursos naturales. Sin embargo, no hay que perder de vista la histórica presión del FMI por el cumplimiento de las metas, lo que a menudo ha significado recortes dolorosos para la población.¿Logrará el gobierno argentino convencer a Kristalina Georgieva de la viabilidad de su plan sin ceder a demandas que comprometan la recuperación real y la desregulación tan anhelada?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "kristalina-georgieva-en-argentina-presion-fiscal-o-respaldo-al-cambio",
-    "fecha": "2026-07-27",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina en el podio de la Inflación regional: ¿Fin del desmanejo?",
-    "bajada": "El país sigue liderando rankings negativos. ¿Es el inicio de la salida o el peso de la \"casta\" sigue asfixiando?",
-    "cuerpo": "El último ranking de inflación en América Latina vuelve a ubicar a Argentina en los primeros puestos, una triste constante que refleja décadas de políticas económicas erráticas y un gasto público descontrolado. Durante el primer semestre del año, el país mantuvo una de las tasas más altas de la región, una herencia directa de la emisión desmedida y la falta de disciplina fiscal que caracterizaron a administraciones previas.\n\nDesde Panorama.ar, sostenemos que este flagelo no es una fatalidad, sino la consecuencia de la intervención estatal excesiva y la politización de la moneda. La actual administración tiene el enorme desafío de revertir esta tendencia, enfrentándose a resistencias de sectores acostumbrados a vivir del Estado. Es imperativo que la sociedad exija un compromiso real con la austeridad y la libertad de mercado. Sin embargo, la batalla contra la inflación es larga y compleja. La persistencia de altas tasas, aunque con señales de desaceleración en los últimos meses, genera incertidumbre y erosiona el poder adquisitivo de los ciudadanos. ¿Será este el punto de inflexión donde Argentina finalmente abandone el ciclo vicioso de la inflación para abrazar la estabilidad económica?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-en-el-podio-de-la-inflacion-regional-fin-del-desmanejo",
-    "fecha": "2026-07-27",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Fin de una era? Se retiró Slavko Vincic, el polémico árbitro del Mundial",
-    "bajada": "El referí que impartió justicia en la final mundialista cuelga el silbato. ¿Dejará un vacío o una renovación necesaria?",
-    "cuerpo": "La noticia del retiro de Slavko Vincic, el árbitro que dirigió la final del Mundial entre la Selección Argentina y España, cierra un capítulo en el fútbol internacional. Conocido por su estilo riguroso y en ocasiones controvertido, Vincic fue una figura central en uno de los partidos más importantes del deporte. Su decisión genera debate sobre el recambio generacional y la calidad del arbitraje actual.\n\nPara muchos, la figura del árbitro es la de un juez imparcial, pero en un deporte tan pasional como el fútbol, cada decisión es analizada al microscopio. Su retiro invita a la reflexión sobre la presión que enfrentan estos profesionales y cómo las nuevas tecnologías, como el VAR, están redefiniendo su rol. A pesar de las críticas, Vincic deja un legado de participación en grandes torneos. Su salida, más allá de los juicios particulares, es parte del ciclo natural de cualquier profesión de alta exigencia.¿Podrá la nueva camada de árbitros mantener la vara alta y evitar la polarización que a menudo rodea a las figuras como la de Slavko Vincic?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fin-de-una-era-se-retiro-slavko-vincic-el-polemico-arbitro-del-mundial",
-    "fecha": "2026-07-27",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina: ¿más que la 'casta' y la autocrítica destructiva?",
-    "bajada": "Un llamado a revalorizar el potencial nacional frente a un pesimismo que parece crónico.",
-    "cuerpo": "La narrativa de que \"Argentina es más que lo peor que se ha dicho de ella\" resuena en un contexto donde el país a menudo se ve sumergido en un ciclo de autocrítica que, si bien necesaria, puede volverse destructiva. Esta perspectiva propone un corte con el pesimismo crónico, invitando a reflexionar sobre la resiliencia y el potencial innato de la nación, más allá de las crisis políticas y económicas recurrentes.\n\nDesde Panorama.ar, compartimos la visión de que Argentina posee recursos, talentos y una capacidad de recuperación que supera con creces la imagen distorsionada que se proyecta. Sin embargo, este potencial se ve constantemente frustrado por la ineficacia estatal, la corrupción y las políticas populistas que han erosionado el tejido productivo y social. Es tiempo de mirar hacia adelante con un espíritu de reforma y responsabilidad, exigiendo a la clase política —la \"casta\"— que esté a la altura de las circunstancias.¿Estamos listos para dejar de lado las lamentaciones y construir un futuro próspero, o seguiremos anclados en un pasado que nos condena al estancamiento?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-mas-que-la-casta-y-la-autocritica-destructiva",
-    "fecha": "2026-07-27",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Dinero de Brasil en campaña anti-Argentina? Milei apunta a Lula",
-    "bajada": "Javier Milei redobla la apuesta diplomática, acusando al gobierno de Lula de injerencia electoral. ¿Hasta dónde escalará la tensión?",
-    "cuerpo": "El presidente Javier Milei no se guarda nada y acusa directamente al gobierno de Brasil de financiar campañas desestabilizadoras en Argentina. \"Después vienen a hablar de interferencias\", disparó el mandatario, señalando una supuesta \"mano negra\" detrás de movimientos contrarios a su administración. Esta escalada verbal profundiza el quiebre diplomático con el principal socio comercial del Mercosur, Luiz Inácio Lula da Silva.\n\nLa embestida de Milei no solo genera ruido político, sino que también pone en vilo las relaciones bilaterales, ya tensas por diferencias ideológicas y la postura de Argentina en foros internacionales. La acusación, de ser cierta, representaría una grave violación a la soberanía, pero también abre el interrogante sobre la evidencia que respalda tales afirmaciones, en un contexto de constantes cruces entre ambos líderes.\n\nMientras tanto, la Cancillería brasileña no tardó en reaccionar, calificando los dichos como \"irresponsables\" y llamando a consultas a su embajador. ¿Es esta una estrategia de distracción del gobierno argentino, o estamos ante una injerencia real que el Palacio San Martín debería investigar a fondo para proteger los intereses nacionales?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "dinero-de-brasil-en-campana-anti-argentina-milei-apunta-a-lula",
-    "fecha": "2026-07-27",
-    "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Crisis diplomática: Brasil retira embajador tras dichos de Milei sobre Lula",
-    "bajada": "La respuesta de Brasil a los \"insultos\" de Milei no se hizo esperar, elevando la tensión bilateral a un punto crítico.",
-    "cuerpo": "El gobierno de Brasil decidió llamar a consultas a su embajador en Argentina, una medida diplomática de alto impacto que refleja el creciente malestar por las declaraciones del presidente Javier Milei sobre su par, Luiz Inácio Lula da Silva. Este gesto, usualmente reservado para situaciones de grave conflicto, subraya la profunda crisis que atraviesan las relaciones entre dos de los socios más importantes del Mercosur.\n\nFuentes del Palacio de Itamaraty expresaron su \"profunda preocupación\" por los dichos de Milei, que calificaron de \"inaceptables\" y \"ofensivos\", especialmente en el contexto de una relación histórica que siempre ha priorizado el diálogo y el respeto mutuo. La tensión se ha intensificado a raíz de las reiteradas críticas ideológicas del mandatario argentino hacia Lula, que ahora escalan a una confrontación directa con consecuencias impredecibles para la agenda bilateral.\n\nEste escenario no solo afecta la política exterior, sino que tiene derivaciones económicas significativas, dado el volumen de comercio entre ambos países. ¿Es sostenible para Argentina mantener una retórica tan confrontativa con sus principales socios regionales, o los costos de esta diplomacia ideológica terminarán siendo demasiado altos?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "crisis-diplomatica-brasil-retira-embajador-tras-dichos-de-milei-sobre-lula",
-    "fecha": "2026-07-27",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Escalada con Lula: ¿Qué riesgos económicos asume Argentina?",
-    "bajada": "La tensión diplomática con Brasil, impulsada por los cruces con el presidente Lula, amenaza la estabilidad económica argentina.",
-    "cuerpo": "La persistente confrontación verbal con el gobierno de Brasil, particularmente los ataques del presidente Milei a Lula da Silva, no es un mero asunto político; tiene profundas implicaciones económicas para Argentina. Brasil es el principal socio comercial del país, un mercado vital para exportaciones industriales y agropecuarias, y fuente clave de inversiones. Una escalada de esta tensión podría traducirse en barreras comerciales, ralentización de negociaciones y una menor confianza inversora.\n\nExpertos económicos advierten que el impacto podría ser significativo. Desde la afectación a cadenas de valor integradas, como la automotriz, hasta la pérdida de mercados para productos regionales, las consecuencias de un enfriamiento de la relación con Brasil serían palpables en el PBI y el empleo. Este escenario se suma a los desafíos internos de Argentina, que lucha por estabilizar su macroeconomía y atraer capitales.\n\nEl gobierno de Milei defiende una política exterior ideológica, priorizando afinidades por sobre la realpolitik. Sin embargo, ¿puede Argentina, con su frágil situación económica, permitirse el lujo de sacrificar beneficios comerciales y estratégicos en aras de una confrontación ideológica con su vecino más grande e importante?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "escalada-con-lula-que-riesgos-economicos-asume-argentina",
-    "fecha": "2026-07-27",
-    "imagen": "img/economia_8.png",
     "destacada": false
   }
 ]
