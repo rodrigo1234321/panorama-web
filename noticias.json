@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Guerra diplomática con Brasil? Los dichos de Milei y la escalada con Lula.",
+    "bajada": "La tensión bilateral crece tras los cruces presidenciales, ¿un costo innecesario para Argentina?",
+    "cuerpo": "La relación entre Argentina y Brasil atraviesa un momento delicado, marcado por fuertes declaraciones del presidente Milei hacia su par brasileño, Lula da Silva. El gobierno argentino, a través de sus voceros, ha justificado las críticas, señalando diferencias ideológicas y la necesidad de defender los intereses nacionales ante lo que consideran injerencias externas. Esta postura, sin embargo, genera un conflicto diplomático de alto calibre con nuestro principal socio del Mercosur.\n\nLa oposición no tardó en reaccionar, repudiando los \"agravios\" y calificándolos como hechos que \"nos avergüenzan como argentinos\". Argumentan que el estilo confrontativo del actual gobierno daña la imagen del país y perjudica lazos estratégicos fundamentales para la economía. La situación es compleja, y la Cancillería argentina busca, al mismo tiempo, defender la soberanía de la postura presidencial mientras intenta contener un posible aislamiento regional.\n\n¿Hasta qué punto es sostenible esta estrategia de choque en política exterior, o prevalecerán los pragmáticos intereses comerciales y regionales?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "guerra-diplomatica-con-brasil-milei-lula",
+    "fecha": "2026-07-29",
+    "imagen": "img/politica_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿Motor de la economía? El petróleo de Vaca Muerta lidera exportaciones.",
+    "bajada": "Un cambio estructural en la matriz exportadora argentina genera nuevas oportunidades y desafíos.",
+    "cuerpo": "Argentina ha alcanzado un hito significativo en su economía: el petróleo crudo se posicionó como el principal producto de exportación, superando a commodities agrícolas tradicionales como el maíz y la soja. Este avance subraya la creciente relevancia de sectores energéticos, impulsados principalmente por el desarrollo de Vaca Muerta, un yacimiento que promete transformar la matriz productiva del país. Los defensores de esta orientación señalan el potencial de generar divisas y atraer inversiones, diversificando la economía y reduciendo la dependencia de ciclos agrícolas.\n\nSin embargo, críticos advierten sobre la volatilidad de los precios internacionales del crudo y la necesidad de una planificación estratégica que garantice no solo la extracción sino también la industrialización y el valor agregado local. Además, plantean interrogantes sobre el impacto ambiental y la distribución de la renta generada. La oportunidad es clara: un recurso natural en auge.\n\n¿Logrará Argentina capitalizar este boom petrolero sin caer en errores pasados de dependencia exclusiva de un solo sector?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "petroleo-vaca-muerta-lidera-exportaciones",
+    "fecha": "2026-07-29",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Tesla, ¿un desafío para la \"casta\" en Argentina?",
+    "bajada": "La llegada de la firma de Elon Musk promete revolucionar el mercado automotriz y la discusión energética.",
+    "cuerpo": "La potencial llegada de Tesla a Argentina, la reconocida empresa de vehículos eléctricos de Elon Musk, representa un posible punto de inflexión para el mercado local y un test a la burocracia estatal. Este desembarco, esperado en etapas, podría no solo introducir tecnología de punta y fomentar la competencia, sino también impulsar el debate sobre la infraestructura de carga, los incentivos a la inversión privada y la eficiencia energética. Desde una perspectiva liberal, la apertura a gigantes tecnológicos como Tesla es una señal positiva de desregulación y confianza en el mercado.\n\nNo obstante, la implementación de un proyecto de esta magnitud siempre encuentra obstáculos en un país con una \"casta\" política acostumbrada a regulaciones excesivas y trabas burocráticas que encarecen la inversión. La pregunta clave es si el país está realmente preparado para facilitar la operación de una empresa de este calibre, o si las tradicionales barreras estatales terminarán por ahuyentar la innovación.\n\n¿Será Argentina un terreno fértil para la inversión de punta o las resistencias internas frenarán el avance de la economía de mercado?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "tesla-desafio-para-la-casta-argentina",
+    "fecha": "2026-07-29",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Libertad o control? Argentina ante el tribunal de la pornografía.",
+    "bajada": "Un nuevo debate sobre censura y regulación de contenidos en la era digital plantea interrogantes fundamentales.",
+    "cuerpo": "Argentina se enfrenta a un nuevo dilema que revive el debate sobre la libertad de expresión y los límites del control estatal: la discusión sobre la regulación de la pornografía. Mientras algunos sectores abogan por una mayor intervención estatal para proteger a menores y combatir la explotación, otros, alineados con la libertad individual, ven en estas iniciativas una amenaza a las libertades civiles y un intento de censurar contenidos, siguiendo la línea de la tendencia \"NO CENSUREN A CINZIA\".\n\nLos defensores de la regulación argumentan que el acceso sin restricciones a cierto material puede tener consecuencias negativas en la sociedad, especialmente entre los más jóvenes, y que el Estado tiene un rol protector. Sin embargo, desde una óptica liberal, la solución no reside en la prohibición o la censura, sino en la educación, la responsabilidad individual y el fomento de herramientas de control parental, sin coartar la libertad de los adultos.\n\n¿Es posible encontrar un equilibrio entre la protección y la libertad, o la intromisión estatal terminará por ahogar el debate y los derechos individuales?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "libertad-o-control-argentina-tribunal-pornografia",
+    "fecha": "2026-07-29",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Mal ejemplo? La Selección Argentina bajo la lupa de Europa.",
+    "bajada": "La crítica de Rudi Völler desde Alemania reabre el debate sobre la imagen y los valores del fútbol nacional.",
+    "cuerpo": "La Selección Argentina nuevamente se encuentra en el ojo de la tormenta internacional, esta vez por la \"feroz crítica\" de Rudi Völler desde Alemania. El ex campeón del mundo calificó el comportamiento del equipo como un \"mal ejemplo\", generando aplausos en un congreso y reavivando el debate sobre los valores que representa el fútbol argentino en el exterior. Desde \"Panorama.ar\", se impulsa una reflexión sobre la cultura del \"todo vale\" y la necesidad de autocrítica para mejorar la imagen del país.\n\nMientras algunos defienden la pasión y la \"picardía\" como parte de la identidad futbolística argentina, otros advierten que ciertos comportamientos, dentro y fuera de la cancha, erosionan el respeto y proyectan una imagen negativa que trasciende lo deportivo. La crítica, aunque dura, invita a pensar si la búsqueda del triunfo a cualquier costo no está dañando valores esenciales.\n\n¿Hasta cuándo ignoraremos las críticas externas sobre el comportamiento de la Selección Argentina o es momento de una profunda autoevaluación?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mal-ejemplo-seleccion-argentina-bajo-lupa-europa",
+    "fecha": "2026-07-29",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Arbitraje polémico? La IFAB y el cruce del juez con Messi.",
+    "bajada": "El relato del árbitro de un Mundial reaviva la discusión sobre la aplicación de las reglas y la influencia en el juego.",
+    "cuerpo": "Un árbitro mundialista reveló detalles íntimos del partido entre Argentina y Suiza, incluyendo su cruce con Messi y la polémica expulsión de Embolo. Este tipo de confesiones pone en relieve la presión a la que están sometidos los jueces y la subjetividad en la aplicación de las reglas establecidas por la IFAB. Para muchos, estas revelaciones demuestran que, a pesar de las normativas, la interpretación humana sigue siendo un factor determinante que puede inclinar la balanza de un partido crucial.\n\nLa discusión se centra en si las reglas de la IFAB son lo suficientemente claras o si la creciente injerencia de la tecnología (VAR) complejiza más que simplifica. Algunos argumentan que la transparencia del arbitraje es clave para la credibilidad del fútbol, mientras que otros temen que demasiada exposición mine la autoridad de los jueces y genere aún más controversia.\n\n¿Debería el arbitraje ser más transparente y los jueces exponer sus decisiones, o la revelación de estos detalles solo genera más polémicas estériles?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "arbitraje-polemico-ifab-cruce-juez-messi",
+    "fecha": "2026-07-29",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Paranoia o verdad? Las teorías conspirativas sobre Argentina.",
+    "bajada": "Beccacece agita el debate post-Mundial con sus revelaciones y planteos sobre la final ante España.",
+    "cuerpo": "El ex ayudante de campo, Sebastián Beccacece, sacudió el panorama futbolístico post-Mundial con una serie de declaraciones que van desde la sucesión de Scaloni hasta \"teorías conspirativas\" sobre la final de Argentina ante España. Estas afirmaciones reabren viejas heridas y, desde una perspectiva crítica, invitan a analizar la propensión de algunos sectores a buscar explicaciones ocultas detrás de cada resultado, desviando la atención de análisis más racionales y deportivos.\n\nMientras algunos ven en las palabras de Beccacece un intento de llamar la atención o justificar resultados, otros pueden encontrar un eco en sus sospechas, alimentando una cultura de desconfianza. Es crucial distinguir entre el análisis crítico y la especulación infundada, especialmente en un país donde las \"teorías conspirativas\" a menudo reemplazan la discusión objetiva.\n\n¿Hasta qué punto debemos dar crédito a estas \"teorías conspirativas\" en el fútbol argentino, o es hora de exigir un debate basado en hechos y no en suposiciones?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "paranoia-o-verdad-teorias-conspirativas-argentina",
+    "fecha": "2026-07-29",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "Fátima Flórez en Perú: ¿Diplomacia o Distracción Kitsch?",
     "bajada": "La presencia de la actriz en un acto político en Perú genera debate sobre el rol de las figuras públicas en eventos de Estado.",
     "cuerpo": "La reciente aparición de la conocida actriz argentina Fátima Flórez en un evento político en Perú, vinculado a la toma de mando de Keiko Fujimori, ha encendido las redes y generado un sinfín de comentarios. Más allá del color y la anécdota, el suceso obliga a reflexionar sobre la delgada línea entre la representación cultural y la incursión en la arena diplomática o política de figuras sin cargo oficial. ¿Se trata de una maniobra para capitalizar la popularidad o de una genuina intención de acercamiento bilateral, aunque informal?\n\nEn un contexto donde la imagen pública y la narrativa mediática son cruciales, la presencia de una figura como Flórez en un escenario de esta envergadura abre el interrogante sobre qué mensaje se busca transmitir y quién lo avala. Mientras algunos lo ven como una forma desenfadada de mostrar \"Marca Argentina\", otros critican la trivialización de actos que deberían mantener una seriedad institucional. La informalidad, ¿es una ventaja o un riesgo para la política exterior argentina?",
@@ -57,7 +141,7 @@
     "slug": "milei-vs-lula-quien-perjudica-la-relacion-con-brasil",
     "fecha": "2026-07-29",
     "imagen": "img/politica_8.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Jóvenes argentinos: ¿futuro comprometido por desempleo y adicciones?",
@@ -201,90 +285,6 @@
     "slug": "milei-lula-conflicto-diplomatico",
     "fecha": "2026-07-28",
     "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Mal ejemplo? La Scaloneta bajo el ojo crítico de Rudi Völler",
-    "bajada": "Una leyenda alemana cuestiona el estilo de juego de la Selección Argentina, generando polémica en el ámbito futbolístico.",
-    "cuerpo": "Rudi Völler, ícono del fútbol alemán, ha lanzado una dura crítica contra el estilo de juego de la \"Scaloneta\", afirmando que \"no le gustaría tener un equipo que juegue como Argentina, fue un mal ejemplo\". Esta declaración, lejos de ser un simple comentario deportivo, reaviva un debate clásico en el fútbol: la tensión entre la efectividad y el \"buen juego\". Para muchos, la Selección Argentina ha sabido combinar ambas cosas en momentos clave, logrando un éxito innegable. Sin embargo, para la mirada de Völler, el pragmatismo albiceleste carece de la propuesta que él esperaría de un equipo de élite.El cuestionamiento de Völler no solo apunta a la táctica, sino también a una cierta ética en el juego, que en ocasiones es interpretada como \"anti-fútbol\" o excesivamente resultadista. Mientras la prensa local defiende con pasión los logros y la identidad de la Selección, la perspectiva externa nos obliga a reflexionar sobre la imagen que proyectamos. En Panorama.ar, si bien valoramos la victoria, también creemos que la forma en que se logran los objetivos habla de la cultura y los valores de un país.¿Es esta crítica una simple envidia por el éxito argentino o una invitación a reflexionar sobre la evolución del juego? ¿Debe la Selección Argentina modificar su estilo para satisfacer a sus críticos externos, o debe seguir defendiendo su identidad? El debate futbolístico, reflejo de pasiones nacionales, vuelve a encenderse.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "voeller-critica-scaloneta-mal-ejemplo",
-    "fecha": "2026-07-28",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El mejor gol del Mundial 2026: ¿sufrimiento argentino premiado?",
-    "bajada": "La FIFA eligió una jugada contra la Selección Argentina como la más destacada del torneo. ¿Una ironía del destino?",
-    "cuerpo": "La FIFA ha anunciado el \"mejor gol del Mundial 2026\", y para sorpresa y quizás dolor de muchos argentinos, la distinción recayó en una anotación que sufrió la Selección Nacional. Este hecho, que podría parecer una anécdota, genera un peculiar debate en el ámbito deportivo y nacional. Por un lado, se reconoce la excelencia estética y técnica del gol, digna de un premio. Por el otro, surge la inevitable incomodidad de ver cómo un momento de \"sufrimiento\" deportivo para el país es elevado a tal categoría. En Panorama.ar siempre hemos sido críticos de la visión excesivamente triunfalista, pero también entendemos el orgullo nacional.Esta decisión de la FIFA invita a reflexionar sobre la objetividad en las premiaciones y la narrativa que se construye alrededor de los grandes eventos deportivos. ¿Se busca el impacto visual sin considerar el contexto emocional para una nación? Para un país apasionado por el fútbol como Argentina, cada gol en contra es una herida, y este \"premio\" puede sentirse como una sal en ella. Es una muestra de cómo el deporte, más allá de la competencia, se entreteje con la identidad y el sentimiento colectivo.¿Es justo que el \"mejor gol\" sea el que nos recuerda una derrota, o es una manera de apreciar la belleza del juego más allá de las camisetas? Este episodio abre la puerta a un análisis más profundo sobre lo que realmente valoramos en el fútbol: el espectáculo global o la gloria propia.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mejor-gol-mundial-sufrimiento-argentino",
-    "fecha": "2026-07-28",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Es el \"peor momento\" de Milei? El análisis de la élite académica",
-    "bajada": "Una universidad prestigiosa evalúa la gestión del presidente, señalando un punto de inflexión en su popularidad.",
-    "cuerpo": "El presidente Milei estaría atravesando su \"peor momento\", según el análisis de una universidad top en Argentina. Esta evaluación, que se suma a diversas mediciones de opinión pública, pone de manifiesto el desgaste de la gestión libertaria y la polarización que genera su figura. Si bien el gobierno defiende un rumbo firme hacia la estabilidad económica y el desmantelamiento de \"la casta\", la realidad social y las expectativas no siempre acompañan. Panorama.ar, desde una perspectiva de centro-derecha, siempre ha abogado por reformas estructurales, pero también por la legitimidad y el consenso necesario para que sean duraderas.La crítica principal de estos estudios académicos suele centrarse en el impacto social de las medidas de ajuste, la falta de resultados concretos en la economía real para gran parte de la población y el estilo confrontativo del liderazgo. Los datos de la universidad contrastan con el discurso oficial que busca mantener la épica de la batalla cultural. Es crucial, para cualquier gobierno, no solo implementar políticas, sino también construir gobernabilidad y explicar de manera efectiva el camino elegido, más allá de la consigna fácil.¿Refleja este \"peor momento\" una falla en la estrategia gubernamental, o es el costo inevitable de aplicar reformas profundas y necesarias? El debate sobre la sostenibilidad de la gestión de Milei y el apoyo popular es un termómetro clave para el futuro político y económico del país.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "milei-peor-momento-universidad-analisis",
-    "fecha": "2026-07-28",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina: el petróleo crudo destrona a la soja, ¿cambio de matriz productiva?",
-    "bajada": "Un giro histórico en las exportaciones argentinas, con implicaciones profundas para el futuro económico del país.",
-    "cuerpo": "Un dato que marca un quiebre histórico: el petróleo crudo se ha consolidado como el principal producto de exportación de Argentina, desplazando al maíz y la soja, pilares tradicionales de nuestra balanza comercial. Esta noticia, más allá de las cifras, plantea un debate urgente sobre la matriz productiva del país. Mientras el sector agropecuario, históricamente castigado por la presión impositiva y las regulaciones, ve cómo su primacía es erosionada, el sector energético, impulsado por Vaca Muerta, toma la delantera. Desde Panorama.ar, celebramos la diversificación productiva, pero exigimos un análisis sobre cómo se beneficia a todos los sectores.Este cambio no es menor. Durante décadas, la Argentina ha dependido en gran medida de sus \"commodities\" agrícolas. Ahora, la energía emerge como un nuevo motor, lo que podría generar divisas y aliviar la crónica restricción externa. Sin embargo, es vital cuestionar si esta \"petrolización\" de la economía se traducirá en un desarrollo sostenible, con valor agregado y empleos de calidad, o si replicaremos esquemas extractivistas que no distribuyen equitativamente la riqueza. El Estado debe garantizar un marco que fomente la inversión sin caer en la sobre-regulación ni en la tentación de la expoliación fiscal.¿Es el predominio del petróleo crudo una oportunidad real para el despegue de Argentina, o simplemente un reacomodo de nuestra dependencia de las materias primas? La discusión sobre cómo potenciar todos nuestros sectores productivos y asegurar un crecimiento sostenido y equitativo es más relevante que nunca.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-petroleo-destrona-soja-exportacion",
-    "fecha": "2026-07-28",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Kristalina Georgieva en Argentina: ¿Fin de la asistencia o nuevo rumbo?",
-    "bajada": "La titular del FMI elogió el ajuste, pero advirtió sobre la falta de crecimiento equilibrado y descartó nuevos préstamos.",
-    "cuerpo": "La visita de Kristalina Georgieva a Argentina generó un sinfín de expectativas y no pocas polémicas. Mientras destacó los avances en la disciplina fiscal del gobierno actual, la jefa del FMI fue contundente: \"Argentina no necesita otro préstamo\" y puso el foco en la urgencia de un crecimiento más \"equilibrado\". Este mensaje, aunque alienta la austeridad, ¿esconde una advertencia sobre el costo social de un ajuste sin expansión económica real? La narrativa oficialista celebra el respaldo externo, pero la realidad de los indicadores macroeconómicos y sociales aún presenta desafíos considerables.\n\nLa postura del FMI subraya la necesidad de que el país genere sus propios recursos y no dependa de la asistencia externa, un principio que resuena con la visión liberal de sanear las cuentas públicas. Sin embargo, la exigencia de un crecimiento \"equilibrado\" interpela directamente las políticas actuales que, si bien reducen el déficit, aún no logran revertir la contracción del consumo y la inversión. ¿Se prioriza la estabilidad fiscal por encima de la reactivación productiva, o ambas son caras de la misma moneda que aún no se consolida?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "kristalina-georgieva-argentina-fin-asistencia-nuevo-rumbo",
-    "fecha": "2026-07-28",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Choque diplomático: Insultos de Milei a Lula encienden la región.",
-    "bajada": "La relación con Brasil se deteriora a niveles históricos tras los exabruptos presidenciales y la respuesta del ministro brasileño.",
-    "cuerpo": "La política exterior argentina vive uno de sus peores momentos con Brasil, su principal socio regional. Los reiterados insultos del presidente Milei hacia su homólogo, Lula da Silva, han escalado a una crisis diplomática sin precedentes, culminando con el ministro de Hacienda de Brasil calificando a Milei de \"payaso\". Esta escalada verbal no solo tensiona el vínculo entre ambos países, sino que genera interrogantes sobre la visión geopolítica del gobierno argentino. ¿Se prioriza la ideología por encima de los intereses comerciales y estratégicos con un socio clave como Brasil?\n\nLa retórica confrontativa, si bien puede resonar con sectores de la base electoral, tiene costos tangibles en las relaciones internacionales. Las consecuencias de este deterioro van más allá de los discursos, afectando el comercio bilateral y la cooperación en foros regionales e internacionales. La casta política, tan criticada, parece haber encontrado un nuevo terreno para la disputa en la diplomacia presidencial. ¿Es esta una estrategia calculada para redefinir el rol de Argentina en el mundo, o un capricho que aísla al país de sus vecinos fundamentales?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "choque-diplomatico-insultos-milei-lula-encienden-region",
-    "fecha": "2026-07-28",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Encuestas: ¿Está Milei en su peor momento político, o es un tropiezo?",
-    "bajada": "Un estudio de una universidad top de Argentina revela la caída en la aprobación del presidente.",
-    "cuerpo": "Las últimas mediciones de opinión pública, provenientes de una prestigiosa universidad argentina, encienden las alarmas: el presidente Milei atraviesa su \"peor momento\" en términos de imagen y aprobación. Esta caída, que se suma a la creciente inquietud por la situación económica y social, plantea serios desafíos para la gobernabilidad. Si bien el gobierno defiende su hoja de ruta con la promesa de resultados a largo plazo, la paciencia social parece tener límites. ¿Es esta una señal de agotamiento de la luna de miel con el electorado, o un ajuste esperado tras medidas impopulares?\n\nLa crítica a \"la casta\" y la defensa de la libertad económica fueron pilares de su ascenso, pero la gestión diaria implica equilibrar expectativas con realidades. Los resultados de estas encuestas, más allá de la polarización, reflejan una ciudadanía atenta a las soluciones concretas. ¿Se subestima la capacidad de la oposición, o la frustración económica es el verdadero motor de este declive? La clase política, incluido el peronismo que alguna vez lideró Sergio Massa, observa atentamente los movimientos del oficialismo. ¿Podrá el gobierno revertir esta tendencia y consolidar su apoyo, o la \"nueva política\" también tiene sus techos de cristal?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "encuestas-esta-milei-peor-momento-politico-tropiezo",
-    "fecha": "2026-07-28",
-    "imagen": "img/politica_1.png",
     "destacada": false
   }
 ]
