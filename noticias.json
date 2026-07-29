@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Fátima Flórez en Perú: ¿Diplomacia o Distracción Kitsch?",
+    "bajada": "La presencia de la actriz en un acto político en Perú genera debate sobre el rol de las figuras públicas en eventos de Estado.",
+    "cuerpo": "La reciente aparición de la conocida actriz argentina Fátima Flórez en un evento político en Perú, vinculado a la toma de mando de Keiko Fujimori, ha encendido las redes y generado un sinfín de comentarios. Más allá del color y la anécdota, el suceso obliga a reflexionar sobre la delgada línea entre la representación cultural y la incursión en la arena diplomática o política de figuras sin cargo oficial. ¿Se trata de una maniobra para capitalizar la popularidad o de una genuina intención de acercamiento bilateral, aunque informal?\n\nEn un contexto donde la imagen pública y la narrativa mediática son cruciales, la presencia de una figura como Flórez en un escenario de esta envergadura abre el interrogante sobre qué mensaje se busca transmitir y quién lo avala. Mientras algunos lo ven como una forma desenfadada de mostrar \"Marca Argentina\", otros critican la trivialización de actos que deberían mantener una seriedad institucional. La informalidad, ¿es una ventaja o un riesgo para la política exterior argentina?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "fatima-florez-en-peru-diplomacia-o-distraccion-kitsch",
+    "fecha": "2026-07-29",
+    "imagen": "img/politica_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El árbitro del Mundial: ¿Errores que afectaron a Argentina?",
+    "bajada": "El exreferí del partido contra Suiza en el Mundial reveló detalles, reabriendo el debate sobre decisiones clave que afectaron a la Selección.",
+    "cuerpo": "Las confesiones del árbitro de aquel recordado partido de Argentina contra Suiza en el Mundial han vuelto a encender la polémica. Sus declaraciones, que incluyen un cruce con Messi y la confirmación implícita de una \"discordia reglamentaria\" por la expulsión de Embolo, ponen en tela de juicio la calidad del arbitraje en instancias cruciales. ¿Fueron errores puntuales o un patrón que, en otras circunstancias, podría haber alterado el destino de la Selección?\n\nEl rigor en el arbitraje es un pilar fundamental de la credibilidad deportiva. Si la propia IFAB admite errores en decisiones como la de Embolo, es imperativo exigir mayor transparencia y responsabilidad. La pasión futbolística argentina merece que las reglas del juego sean aplicadas con la máxima justicia, sin dejar lugar a interpretaciones ambiguas que opaquen el mérito deportivo. ¿Es tiempo de revisar los protocolos arbitrales para evitar futuras controversias?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "el-arbitro-del-mundial-errores-que-afectaron-a-argentina",
+    "fecha": "2026-07-29",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Völler critica a Argentina: ¿Qué imagen proyecta el fútbol?",
+    "bajada": "La \"feroz crítica\" de Rudi Völler a la Selección genera aplausos en Alemania, abriendo un debate sobre valores y conductas.",
+    "cuerpo": "Rudi Völler, histórico del fútbol alemán, no se anduvo con rodeos: su \"feroz crítica\" a la Selección Argentina resonó en un congreso en Alemania, generando un eco de aplausos. La esencia de su planteo, \"esto no tiene nada que ver con el fútbol\", sugiere que la controversia va más allá de un resultado deportivo, apuntando a aspectos conductuales o de imagen que el equipo nacional pudo haber proyectado. ¿Existe una campaña \"anti Argentina\" o es una autocrítica necesaria sobre ciertos comportamientos?\n\nDesde una perspectiva liberal y crítica, es fundamental analizar estos señalamientos con altura. Si bien la pasión argentina es innegable, la autocrítica es vital para cualquier institución o representación nacional. Ignorar estas críticas externas, especialmente de figuras respetadas en el ámbito global, sería un error. ¿Debemos reflexionar sobre la imagen que proyecta Argentina o simplemente descartar estos comentarios como envidia?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "voller-critica-a-argentina-que-imagen-proyecta-el-futbol",
+    "fecha": "2026-07-29",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Lisandro Martínez y la \"campaña anti Argentina\": ¿víctimas o realidad?",
+    "bajada": "Lisandro Martínez respondió a las acusaciones de una \"campaña anti Argentina\", poniendo en la mira el resentimiento internacional tras el Mundial.",
+    "cuerpo": "La percepción de una \"campaña anti Argentina\" post-Mundial, amplificada en redes, es un fenómeno que Lisandro Martínez no dudó en abordar. Su respuesta, si bien cautelosa, pone de manifiesto la sensación que existe en el seno de la Selección sobre un supuesto resentimiento internacional. ¿Es una realidad objetiva, fundamentada en hechos o en la envidia por el éxito deportivo, o se trata de una narrativa que busca justificar actitudes?\n\nDesde Panorama.ar, instamos a la reflexión crítica: la identificación de una \"campaña\" externa puede desviar la atención de posibles fallas internas o de la necesidad de una autocrítica constructiva. Si bien la envidia existe, es crucial analizar qué aspectos de nuestra representación nacional podrían generar fricción. ¿Cómo podemos mejorar la imagen de Argentina sin caer en la victimización?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "lisandro-martinez-y-la-campana-anti-argentina-victimas-o-realidad",
+    "fecha": "2026-07-29",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Milei vs. Lula: ¿Quién perjudica la relación con Brasil?",
+    "bajada": "El vicepresidente de Brasil acusó a Milei de \"perjudicar\" a Argentina, escalando la tensión diplomática. ¿Es un ataque ideológico o una advertencia válida?",
+    "cuerpo": "La tensión bilateral entre Argentina y Brasil alcanzó un nuevo pico con las declaraciones del vicepresidente brasileño, quien afirmó que el presidente Milei \"perjudica\" a nuestro país. Este choque diplomático, uno de los peores en años, expone la polarización ideológica en la región. Desde nuestra perspectiva, es crucial analizar si estas críticas provienen de una legítima preocupación por la política exterior argentina o si son meros embates de la \"casta\" política regional contra un modelo que desafía el statu quo.\n\nLa crítica del gobierno brasileño, aunque debe ser tomada en cuenta, parece enfocarse más en la retórica presidencial que en los resultados concretos de las reformas económicas impulsadas por el actual gobierno. En lugar de ceder a la presión, Argentina debe priorizar sus intereses nacionales y avanzar con la disciplina fiscal y las reformas de mercado, que son las verdaderas palancas para el progreso, más allá de las disputas ideológicas con vecinos. ¿Hasta qué punto los roces diplomáticos pueden afectar la reactivación económica y la integración regional?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "milei-vs-lula-quien-perjudica-la-relacion-con-brasil",
+    "fecha": "2026-07-29",
+    "imagen": "img/politica_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Jóvenes argentinos: ¿futuro comprometido por desempleo y adicciones?",
+    "bajada": "Casi el 50% de los jóvenes argentinos viven en vulnerabilidad: desempleo, depresión y adicciones. ¿Qué responsabilidad tiene el Estado?",
+    "cuerpo": "Un alarmante estudio revela que casi la mitad de los jóvenes en Argentina viven en estado de vulnerabilidad, enfrentando flagelos como el desempleo, la depresión, el consumo de drogas y alcohol. Esta cruda realidad exige una mirada crítica: ¿cómo llegamos a este punto y qué medidas efectivas se están tomando para revertir esta crisis generacional? Desde una visión liberal, la ineficiencia de las políticas sociales y la excesiva intervención estatal en la economía, que ahoga la creación de empleo, son factores clave.\n\nEs innegable la necesidad de un Estado que garantice oportunidades, pero sin caer en el asistencialismo que perpetúa la dependencia. La promoción de un mercado laboral más flexible, la reducción de la presión impositiva sobre las empresas y el fomento de la educación de calidad son pilares para que los jóvenes puedan desarrollar su potencial. ¿Podemos seguir permitiendo que esta generación quede atrapada en un ciclo de desesperanza y falta de oportunidades en Argentina?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "jovenes-argentinos-futuro-comprometido-por-desempleo-y-adicciones",
+    "fecha": "2026-07-29",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Petróleo desplaza al campo: ¿nueva economía o crisis agraria?",
+    "bajada": "El petróleo crudo se convierte en el principal producto de exportación de Argentina, superando a la soja y el maíz. ¿Es una señal de diversificación o de declive del campo?",
+    "cuerpo": "Una noticia de gran impacto para la economía argentina: el petróleo crudo ha desbancado al maíz y a la soja como principal producto de exportación. Este cambio estructural plantea interrogantes cruciales. Si bien la diversificación de la matriz exportadora es deseable, y el desarrollo de Vaca Muerta es un logro, ¿refleja este dato un crecimiento genuino de un nuevo sector o una alarmante debilidad de la antaño pujante agroindustria, castigada por la presión impositiva y regulaciones?\n\nDesde Panorama.ar, celebramos la emergencia de sectores competitivos como el energético, siempre y cuando no se impongan retenciones o controles que desalienten la inversión. Sin embargo, no podemos ignorar la situación del campo: si la producción de maíz y soja pierde terreno, es un claro indicador de que las políticas públicas, como los impuestos a las exportaciones, están sofocando un motor histórico de la economía. La pregunta es si esta nueva primacía del petróleo es fruto de una estrategia de desarrollo equilibrado o el resultado de años de desincentivo a otros sectores clave en Argentina.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "petroleo-desplaza-al-campo-nueva-economia-o-crisis-agraria",
+    "fecha": "2026-07-29",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿VAR: Burocracia o justicia? La IFAB reconoce error en expulsión de Embolo.",
     "bajada": "La inconsistencia del sistema de videoarbitraje vuelve a poner en jaque la credibilidad del fútbol mundial.",
     "cuerpo": "La International Football Association Board (IFAB) ha admitido formalmente que la expulsión de Breel Embolo durante el partido entre Argentina y Suiza fue un error del VAR. Esta declaración, emitida por el máximo organismo regulador de las reglas del fútbol, reaviva el debate sobre la eficacia y la fiabilidad de la tecnología en un deporte que clama por transparencia y equidad. ¿Hasta cuándo toleraremos decisiones arbitrales que definen partidos, cuando la propia IFAB luego las desmiente?El incidente de Embolo, que generó controversia en su momento, es solo un ejemplo más de cómo el VAR, lejos de eliminar la polémica, a menudo la complejiza. Los defensores del sistema argumentan que reduce los errores flagrantes, pero la sucesión de admisiones de fallos y las interpretaciones subjetivas de los árbitros de video, minan la confianza en el proceso. La pregunta es si la tecnología se utiliza para una verdadera mejora o para añadir una capa más de burocracia que ralentiza el juego y desvirtúa su esencia.Este tipo de rectificaciones post-partido, aunque necesarias, llegan tarde para los equipos afectados. ¿Es realmente la IFAB capaz de garantizar un arbitraje imparcial y consistente o el VAR, en su implementación actual, es un instrumento imperfecto que genera más dudas que certezas?",
@@ -45,7 +129,7 @@
     "slug": "fmi-respalda-milei-voto-confianza-o-cheque-en-blanco",
     "fecha": "2026-07-28",
     "imagen": "img/economia_4.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "El choque Milei-Lula: ¿Diplomacia disruptiva o auto-sabotaje regional?",
@@ -201,90 +285,6 @@
     "slug": "encuestas-esta-milei-peor-momento-politico-tropiezo",
     "fecha": "2026-07-28",
     "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Washington Post elogia: ¿El \"renacimiento\" de la economía bajo Milei?",
-    "bajada": "El prestigioso diario estadounidense destaca los resultados económicos del gobierno argentino.",
-    "cuerpo": "En un contraste notable con las preocupaciones internas, The Washington Post volvió a publicar un artículo donde destaca el \"renacimiento de Argentina\" bajo la gestión de Milei. Esta visión optimista desde el exterior, que subraya los esfuerzos por la disciplina fiscal y la apertura de mercados, ¿coincide con la percepción de los ciudadanos? Mientras algunos celebran el reconocimiento internacional, otros se preguntan si los indicadores macroeconómicos de un \"renacimiento\" se traducen en una mejora concreta en el día a día.\n\nLa mirada liberal de \"Panorama.ar\" siempre valoró la estabilidad macroeconómica y la confianza de los mercados como pilares para el crecimiento. Sin embargo, la brecha entre el optimismo externo y la realidad local de consumo y empleo sigue siendo un punto de tensión. El desafío es transformar las buenas señales externas en un bienestar tangible para la población. ¿Es este elogio un aliciente para profundizar el modelo, o un llamado a equilibrar las reformas con políticas de impacto social más directo? Las expectativas de organismos como el FMI, liderado por Kristalina Georgieva, también apuntan a la necesidad de crecimiento equilibrado, un eco de esta misma tensión.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "washington-post-elogia-renacimiento-economia-milei",
-    "fecha": "2026-07-28",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Consumo per cápita en Argentina: ¿Recuperación lenta o estancamiento?",
-    "bajada": "Pese a seguir siendo alto en la región, las proyecciones indican un crecimiento contenido para el consumo argentino.",
-    "cuerpo": "Argentina mantiene uno de los consumos per cápita más altos de la región, un dato que a primera vista podría parecer alentador. Sin embargo, las proyecciones advierten sobre un crecimiento \"lento\" en el futuro cercano, lo que genera interrogantes sobre la capacidad real de reactivación económica. En un país donde el consumo interno es un motor clave, ¿es esta desaceleración una consecuencia inevitable del ajuste o un síntoma de una política económica que aún no encuentra el camino para estimular la demanda sin caer en desequilibrios fiscales?\n\nDesde una perspectiva liberal, el consumo sostenible se basa en la inversión productiva y salarios reales, no en el gasto público desenfrenado. No obstante, la caída del poder adquisitivo y el contexto inflacionario han golpeado duramente a los bolsillos. Las decisiones de gobierno, que buscan ordenar la macroeconomía, deben ahora demostrar cómo se traducirán en una mejora del consumo sin generar nuevas distorsiones. ¿Será la disciplina fiscal suficiente para impulsar la confianza y, con ella, un verdadero repunte del consumo, o se requieren medidas más activas para desatar el poder de compra de los ciudadanos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "consumo-per-capita-argentina-recuperacion-lenta-estancamiento",
-    "fecha": "2026-07-28",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Relaciones Argentina-Brasil: Más allá de los presidentes y sus roces.",
-    "bajada": "A pesar de la tensión diplomática, el vínculo bilateral trasciende las figuras presidenciales y se mantiene por otros carriles.",
-    "cuerpo": "Mientras los presidentes Milei y Lula protagonizan un ríspido cruce diplomático, las relaciones entre Argentina y Brasil demuestran ser mucho más profundas que los roces personales. El entramado comercial, cultural y social entre ambos países posee una inercia propia, mantenida por empresarios, artistas y ciudadanos comunes que continúan lazos vitales. Sin embargo, ¿puede la solidez de estos vínculos resistir indefinidamente una escalada verbal que deteriora la confianza en la cúpula política?\n\nLa línea editorial de \"Panorama.ar\" siempre enfatizó la importancia de la pragmática política exterior y la integración regional basada en intereses mutuos, no en afinidades ideológicas. Si bien la base social y económica entre ambos países es fuerte, el riesgo es que la inestabilidad política termine por erosionar oportunidades de inversión y cooperación estratégica. Es fundamental que la diplomacia institucional recupere un rol protagónico. ¿Serán los puentes construidos por décadas de interacción más fuertes que los muros levantados por la retórica presidencial, o la \"casta\" diplomática también está fallando en su deber de mediar?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "relaciones-argentina-brasil-mas-alla-presidentes-roces",
-    "fecha": "2026-07-28",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Euro en Argentina: ¿Estabilidad cambiaria o nueva incertidumbre?",
-    "bajada": "La cotización del euro, un termómetro de la economía local, refleja las tensiones del mercado y la percepción de riesgo.",
-    "cuerpo": "La cotización del euro en Argentina, más allá de su valor nominal, actúa como un termómetro sensible de las expectativas económicas y la confianza de los inversores. En un contexto de alta volatilidad y restricciones cambiarias, el comportamiento de divisas como el euro es clave para entender la percepción de riesgo país y la estabilidad macroeconómica. Si bien el gobierno actual ha implementado medidas para contener la inflación y ordenar las finanzas, la fluctuación del euro sigue siendo un indicador de que el mercado busca certezas. ¿Refleja su cotización un camino hacia la estabilización o la persistencia de la incertidumbre?\n\nDesde una perspectiva de libre mercado, la cotización de cualquier divisa debería ser el resultado de la oferta y la demanda, sin intervención distorsiva. Sin embargo, la Argentina arrastra un largo historial de regulaciones y desequilibrios que impactan directamente en el valor del euro y otras monedas extranjeras. La búsqueda de estabilidad es un objetivo compartido, pero la forma de alcanzarla genera debate. ¿Se logrará la calma cambiaria a través de la profundización de las reformas y la apertura económica, o la presión sobre las divisas es un síntoma de problemas estructurales más profundos que el gobierno no está abordando?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "euro-argentina-estabilidad-cambiaria-nueva-incertidumbre",
-    "fecha": "2026-07-28",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Consolidación o espejismo? Kristalina Georgieva respalda al presidente.",
-    "bajada": "La jefa del FMI visitó el país y avaló el rumbo económico, pero ¿es suficiente para un crecimiento real y sostenible?",
-    "cuerpo": "Kristalina Georgieva, directora del FMI, brindó un fuerte espaldarazo al gobierno de Argentina, declarando que no le preocupa la capacidad del país para honrar sus compromisos. Esta declaración, tras un período de estricto ajuste fiscal, busca transmitir confianza a los mercados y a los ciudadanos, quienes aún sienten el peso de las medidas implementadas. Sin embargo, la euforia por el aval externo debe ser cautelosa.\n\nEl FMI enfatiza la necesidad de mantener la disciplina fiscal, algo que el gobierno ha logrado con superávit. Pero el interrogante clave para la ciudadanía es si este programa de estabilización sienta las bases para un crecimiento económico genuino o si, por el contrario, la contracción de la demanda y el freno a la inversión pueden generar un estancamiento. La visión liberal de Panorama.ar siempre ha sostenido que la austeridad sin incentivos claros para el sector privado es una receta incompleta.\n\nEntonces, ¿el respaldo de Kristalina Georgieva al presidente Milei es un aval a la libertad económica o un cheque en blanco a un ajuste que aún no muestra sus frutos para la mayoría de los argentinos? ¿Estamos ante la antesala de la prosperidad o de un equilibrio frágil que demanda más reformas estructurales y menos intervención?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "consolidacion-o-espejismo-kristalina-georgieva-respalda-al-presidente",
-    "fecha": "2026-07-28",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Desaire o estrategia? Lula ninguneó al presidente argentino.",
-    "bajada": "La tensión diplomática entre Argentina y Brasil escala tras los dichos de Lula da Silva, ¿es una provocación intencional o un síntoma de divisiones ideológicas?",
-    "cuerpo": "El conflicto diplomático entre Argentina y Brasil ha tomado un nuevo giro con las declaraciones de Lula da Silva, quien descalificó públicamente al presidente argentino. Este episodio se suma a una serie de fricciones ideológicas y personales que han marcado la relación bilateral desde el cambio de gobierno en Argentina. Desde Panorama.ar, observamos con preocupación cómo la polarización ideológica puede dañar lazos comerciales y estratégicos vitales para la región.\n\nMientras el presidente argentino ha sido un férreo crítico de las políticas de izquierda, los dichos de Lula revelan una falta de interés o un desprecio calculado hacia la figura de su par. Más allá de la retórica, lo cierto es que Brasil sigue siendo un socio comercial fundamental para Argentina. Sin embargo, la ideología de Lula y su rechazo a las reformas de mercado en Argentina ponen en riesgo una alianza que debería trascender las diferencias personales entre los presidentes.\n\n¿Hasta dónde puede llegar esta escalada de confrontaciones verbales entre dos líderes con visiones de Estado tan opuestas? ¿Está el destino de la relación bilateral secuestrado por las disputas entre sus presidentes, o la razón económica y geopolítica prevalecerá?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "desaire-o-estrategia-lula-ninguneo-al-presidente-argentino",
-    "fecha": "2026-07-28",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Tensión regional: Sheinbaum niega campaña del presidente.",
-    "bajada": "La presidenta de México rechazó las acusaciones de Javier Milei sobre una supuesta \"campaña\" internacional contra Argentina.",
-    "cuerpo": "La presidenta de México, Claudia Sheinbaum, ha salido a desmentir las acusaciones del presidente argentino, Javier Milei, sobre una presunta campaña internacional en contra de Argentina. Este nuevo frente diplomático se suma a las tensiones ya existentes con otros líderes de la región, evidenciando una estrategia del gobierno argentino que prioriza la confrontación ideológica por sobre la construcción de consensos regionales.\n\nDesde una perspectiva liberal, es crucial que las relaciones exteriores se basen en la pragmática defensa de los intereses nacionales, y no en la búsqueda de enemigos ideológicos. Si bien es legítimo denunciar campañas o injerencias si existen pruebas concretas, la constante escalada verbal con mandatarios de otros países genera inestabilidad y puede cerrar puertas a futuras alianzas comerciales o políticas de valor para Argentina.\n\n¿Esta serie de confrontaciones diplomáticas son un paso necesario para \"desideologizar\" las relaciones internacionales o una distracción de los problemas internos que enfrenta el presidente argentino? ¿A qué costo se construyen estos nuevos alineamientos geopolíticos?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "tension-regional-sheinbaum-niega-campana-del-presidente",
-    "fecha": "2026-07-28",
-    "imagen": "img/politica_3.png",
     "destacada": false
   }
 ]
