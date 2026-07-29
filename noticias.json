@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Choque ideológico o error diplomático: ¿Milei y Lula tensan la región?",
+    "bajada": "La tensión diplomática entre Argentina y Brasil escala a niveles históricos tras duras declaraciones del presidente argentino y la respuesta del vicepresidente brasileño.",
+    "cuerpo": "El presidente Javier Milei volvió a ser protagonista de un conflicto diplomático, esta vez con Brasil, al insultar directamente a su par, Lula da Silva. La reacción no se hizo esperar: Geraldo Alckmin, vicepresidente de Brasil, calificó los dichos como “lamentables” y “perjudiciales para la Argentina”, en un claro mensaje de desaprobación que agudiza la ya fría relación bilateral.\n\nEste incidente representa el peor choque diplomático entre ambos países en años, poniendo en jaque acuerdos estratégicos y la necesaria colaboración regional. Mientras algunos defienden la 'sinceridad' de Milei, otros cuestionan si la confrontación ideológica debe primar sobre los intereses pragmáticos de la Nación. ¿Es esta una estrategia calculada para reafirmar una posición en el escenario internacional, o un riesgo innecesario que aísla a Argentina de sus principales socios?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "choque-ideologico-o-error-diplomatico-milei-y-lula-tensan-la-region",
+    "fecha": "2026-07-29",
+    "imagen": "img/politica_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "El poder de Vaca Muerta: ¿La verdadera dolarización argentina?",
+    "bajada": "El yacimiento no convencional genera el doble de dólares que Argentina paga anualmente al FMI, un dato que redefine el potencial económico del país.",
+    "cuerpo": "Vaca Muerta se consolida como un motor económico sin precedentes, generando el doble de divisas de lo que Argentina destina al Fondo Monetario Internacional cada año. Esta cifra no solo subraya la relevancia del sector energético sino que también expone el impacto real de las inversiones y la producción en un contexto de escasez de dólares. Los defensores de la apertura de mercado y la seguridad jurídica ven en estos números la prueba de que el sector privado, con reglas claras, es la clave para la estabilidad y el crecimiento.\n\nSin embargo, el enorme potencial de Vaca Muerta contrasta con las décadas de intermitencia regulatoria y la constante presión impositiva que han frenado su desarrollo pleno. La dependencia de commodities siempre plantea interrogantes sobre la diversificación de la economía, pero la magnitud de Vaca Muerta invita a repensar el modelo productivo argentino. ¿Será este yacimiento la verdadera ancla para la estabilización económica y la generación de riqueza genuina, o la política seguirá poniendo palos en la rueda?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "el-poder-de-vaca-muerta-la-verdadera-dolarizacion-argentina",
+    "fecha": "2026-07-29",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Georgieva y Milei: ¿El FMI avala el ajuste sin miramientos en Argentina?",
+    "bajada": "Kristalina Georgieva, directora del FMI, respaldó sin fisuras el programa económico de Milei, despejando dudas sobre la capacidad de pago del país.",
+    "cuerpo": "Kristalina Georgieva, la figura al frente del Fondo Monetario Internacional, ha dado su explícito respaldo al programa económico del presidente Javier Milei, declarando que 'no me preocupa que tenga el dinero para pagar'. Esta afirmación, tan contundente como celebrada por el oficialismo, valida la estrategia de ajuste fiscal y reformas de mercado que impulsa el gobierno. Desde una perspectiva liberal, el apoyo del FMI no solo es un voto de confianza, sino una señal crucial para los mercados internacionales sobre la seriedad del camino elegido por Argentina.\n\nNo obstante, la aprobación de Georgieva también reabre el debate sobre el costo social de un ajuste de esta magnitud. Algunos críticos, como Víctor Hugo Morales, cuestionan la celeridad y las consecuencias de las políticas implementadas, aunque sus argumentos a menudo se basan en una visión estatista que Panorama.ar ha cuestionado históricamente. La pregunta es si este aval internacional es suficiente para garantizar la sostenibilidad del plan a largo plazo y si el rigor fiscal se traducirá en un crecimiento que beneficie a toda la sociedad, o si solo perpetuará un modelo de exclusión.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "georgieva-y-milei-el-fmi-avala-el-ajuste-sin-miramientos-en-argentina",
+    "fecha": "2026-07-29",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Adiós al campo: ¿El petróleo es el nuevo motor de Argentina?",
+    "bajada": "El petróleo crudo se posiciona como el principal producto de exportación de Argentina, desplazando por primera vez al maíz y la soja.",
+    "cuerpo": "Un hito significativo marca un cambio estructural en la economía argentina: el petróleo crudo ha superado a la soja y el maíz como el principal producto de exportación. Este fenómeno, impulsado en gran medida por la creciente producción de Vaca Muerta, resalta el potencial energético del país y su capacidad para generar divisas en un mercado global demandante. Para una economía con sed de dólares, este giro podría ser una bendición, diversificando la matriz exportadora más allá del tradicional 'granero del mundo'.\n\nSin embargo, esta nueva realidad también plantea interrogantes. ¿Es este un camino sostenible para la Argentina, o la sobreexplotación de recursos no renovables sin un plan de industrialización podría llevar a una nueva dependencia? La crítica al extractivismo no debe ignorar la oportunidad de generar riqueza y empleo, pero tampoco se puede soslayar la necesidad de agregar valor. ¿Estamos siendo testigos de una transformación productiva genuina o simplemente de un reacomodamiento de nuestra histórica estructura primarizada?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "adios-al-campo-el-petroleo-es-el-nuevo-motor-de-argentina",
+    "fecha": "2026-07-29",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "VAR y errores: ¿La Argentina beneficiada por la polémica arbitral?",
+    "bajada": "La polémica por la tarjeta roja a Embolo contra Argentina en el Mundial 2026 sigue generando discusión, con la FIFA respaldando la decisión y la IFAB admitiendo el error.",
+    "cuerpo": "La tarjeta roja mostrada a Embolo en el partido de Argentina contra Suiza en el Mundial 2026 sigue siendo un foco de controversia. Mientras la IFAB (International Football Association Board) admitió que la expulsión fue un 'error arbitral', la FIFA, en un giro sorprendente, respaldó la decisión inicial. Esta dicotomía revive el debate sobre la eficacia y la imparcialidad del VAR, especialmente cuando se trata de selecciones de alto perfil como la Argentina.\n\nLa constante disparidad en las interpretaciones y la falta de transparencia en las revisiones del VAR socavan la credibilidad del fútbol. ¿Es aceptable que una tecnología destinada a eliminar errores genere más dudas y sospechas de favoritismo? Los hechos, a menudo, hablan por sí mismos: la ambigüedad en estas decisiones solo alimenta la percepción de que los errores no son aleatorios. ¿Hasta qué punto estos fallos arbitrales, admitidos o no, distorsionan la competencia y ensombrecen el espíritu deportivo en el fútbol internacional?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "var-y-errores-la-argentina-beneficiada-por-la-polemica-arbitral",
+    "fecha": "2026-07-29",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Kiki Ramos: ¿Qué define ser 'de Argentina' en el fútbol juvenil?",
+    "bajada": "El debut del juvenil de Vélez, Kiki Ramos, nacido en Haití, en la Selección Argentina Sub 17 abre un debate sobre identidad y representación nacional en el deporte.",
+    "cuerpo": "La historia de Kiki Ramos, el joven talento de Vélez nacido en Haití que debutó con la Selección Argentina Sub 17, es un reflejo de los nuevos tiempos y las complejidades de la identidad nacional en el deporte. Su incorporación genera una sana discusión sobre lo que significa 'ser de Argentina' en un contexto de creciente migración y globalización, demostrando que el talento y la pasión no conocen fronteras. ¿Es el lugar de nacimiento el único factor, o la adopción cultural y la formación en el país también juegan un rol preponderante?\n\nSin embargo, la narrativa en torno a estos casos a veces cae en simplificaciones. Más allá de la celebración de la diversidad, es crucial analizar cómo el sistema deportivo argentino integra (o no) a jóvenes con orígenes diversos, y si se les brindan las mismas oportunidades y recursos. La meritocracia es fundamental, pero también lo es un marco que permita a todos competir en igualdad de condiciones. ¿Estamos realmente aprovechando el crisol de culturas que compone nuestra sociedad para enriquecer al deporte, o solo celebramos estas historias cuando ya son un éxito, ignorando los desafíos previos?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "kiki-ramos-que-define-ser-de-argentina-en-el-futbol-juvenil",
+    "fecha": "2026-07-29",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Fábricas en Argentina: ¿Por qué apuestan más a importar autos que a producir?",
+    "bajada": "Marcas automotrices con producción local en Argentina están priorizando la importación de vehículos, una tendencia que expone los desafíos de la industria nacional.",
+    "cuerpo": "La industria automotriz argentina enfrenta un dilema: cada vez más marcas con fábricas en el país apuestan por la importación de autos, en detrimento de la producción local. Esta tendencia subraya los problemas estructurales que ahogan a la manufactura nacional, desde altos costos laborales y presión impositiva hasta la inestabilidad macroeconómica y las restricciones a la importación de insumos clave. Desde la visión de Panorama.ar, esta realidad es un claro indicador de que las políticas proteccionistas y la falta de competitividad deterioran el tejido industrial, en lugar de fortalecerlo.\n\nLos datos revelan que, para muchas empresas, importar es hoy una opción más rentable y predecible que producir localmente. Esto tiene un impacto directo en el empleo y la cadena de valor, generando interrogantes sobre el futuro de la industria automotriz en Argentina. ¿Estamos frente a una inevitable reconversión de roles productivos o a un fracaso de las políticas industriales que no logran generar un ambiente propicio para la inversión y la producción competitiva? ¿Puede Argentina permitirse perder capacidad industrial en un sector clave por no adaptar sus regulaciones a las realidades del mercado global?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "fabricas-en-argentina-por-que-apuestan-mas-a-importar-autos-que-a-producir",
+    "fecha": "2026-07-29",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Guerra diplomática con Brasil? Los dichos de Milei y la escalada con Lula.",
     "bajada": "La tensión bilateral crece tras los cruces presidenciales, ¿un costo innecesario para Argentina?",
     "cuerpo": "La relación entre Argentina y Brasil atraviesa un momento delicado, marcado por fuertes declaraciones del presidente Milei hacia su par brasileño, Lula da Silva. El gobierno argentino, a través de sus voceros, ha justificado las críticas, señalando diferencias ideológicas y la necesidad de defender los intereses nacionales ante lo que consideran injerencias externas. Esta postura, sin embargo, genera un conflicto diplomático de alto calibre con nuestro principal socio del Mercosur.\n\nLa oposición no tardó en reaccionar, repudiando los \"agravios\" y calificándolos como hechos que \"nos avergüenzan como argentinos\". Argumentan que el estilo confrontativo del actual gobierno daña la imagen del país y perjudica lazos estratégicos fundamentales para la economía. La situación es compleja, y la Cancillería argentina busca, al mismo tiempo, defender la soberanía de la postura presidencial mientras intenta contener un posible aislamiento regional.\n\n¿Hasta qué punto es sostenible esta estrategia de choque en política exterior, o prevalecerán los pragmáticos intereses comerciales y regionales?",
@@ -9,7 +93,7 @@
     "slug": "guerra-diplomatica-con-brasil-milei-lula",
     "fecha": "2026-07-29",
     "imagen": "img/politica_8.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "¿Motor de la economía? El petróleo de Vaca Muerta lidera exportaciones.",
@@ -201,90 +285,6 @@
     "slug": "potencial-vaca-muerta-rescate-o-parche-fiscal",
     "fecha": "2026-07-28",
     "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El FMI respalda a Milei: ¿Voto de confianza o cheque en blanco al ajuste?",
-    "bajada": "Kristalina Georgieva, jefa del FMI, ratifica su apoyo al plan económico de Milei, generando debate sobre la sostenibilidad.",
-    "cuerpo": "La directora del FMI, Kristalina Georgieva, ha expresado su respaldo al programa económico del presidente Milei, afirmando que no le preocupa la capacidad de Argentina para afrontar sus pagos. Este espaldarazo internacional es clave para la credibilidad del ajuste fiscal y las reformas de mercado implementadas por el gobierno. Para Panorama.ar, esta validación externa refuerza la necesidad de mantener la disciplina fiscal y avanzar en la desregulación, pasos esenciales para estabilizar una economía históricamente endeble.Sin embargo, el apoyo del FMI no debe interpretarse como un cheque en blanco. Si bien la ortodoxia económica del gobierno busca sentar bases sólidas, la preocupación por el impacto social del ajuste es palpable. Voces críticas señalan que la velocidad y la profundidad de las medidas podrían generar tensiones sociales y complicar la gobernabilidad, comprometiendo a la larga la sostenibilidad del plan. Es fundamental que el gobierno no pierda de vista el factor humano, aunque sin ceder en los principios de responsabilidad fiscal.La pregunta central es si este respaldo es suficiente para atraer las inversiones necesarias y generar el crecimiento \"equilibrado\" que la propia Georgieva reconoció que aún falta. ¿Es el \"no me preocupa que tenga el dinero para pagar\" una señal de verdadera solvencia o una apuesta arriesgada sobre la capacidad de Argentina de sostener el ajuste en el tiempo? El camino es largo y lleno de desafíos.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fmi-respalda-milei-voto-confianza-o-cheque-en-blanco",
-    "fecha": "2026-07-28",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El choque Milei-Lula: ¿Diplomacia disruptiva o auto-sabotaje regional?",
-    "bajada": "Los cruces verbales entre los presidentes Milei y Lula escalan la tensión, marcando el peor choque diplomático con Brasil en décadas.",
-    "cuerpo": "Los fuertes intercambios verbales entre el presidente Milei y su par brasileño Lula da Silva han desembocado en el peor choque diplomático entre Argentina y Brasil en años. Esta escalada, iniciada por declaraciones contundentes de Milei, pone en jaque la histórica relación bilateral con nuestro principal socio comercial, con implicaciones directas en el Mercosur y en la economía regional. ¿Priorizar la ideología por encima de la pragmática diplomacia es un camino viable o un riesgo innecesario?Desde la óptica de Panorama.ar, la postura de Milei, aunque criticada por su estilo, busca redefinir una política exterior que se ha mostrado complaciente con modelos que no han beneficiado a Argentina. Romper con ciertas inercias y alianzas automáticas puede ser necesario, pero la forma en que se manejan estos quiebres es crucial. Los costos de una relación deteriorada con Brasil podrían ser significativos para el comercio y la integración, impactando directamente en sectores productivos clave.La pregunta es si esta \"diplomacia disruptiva\" es una estrategia calculada para forzar un nuevo alineamiento regional o si, por el contrario, responde a una impulsividad que podría aislar a Argentina en un contexto global complejo. ¿Podemos permitirnos alienar a socios estratégicos en pos de una coherencia ideológica que no siempre se traduce en beneficios tangibles para el país?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "choque-milei-lula-diplomacia-disruptiva-auto-sabotaje",
-    "fecha": "2026-07-28",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Generación perdida: El 50% de jóvenes argentinos, en profunda vulnerabilidad.",
-    "bajada": "Desempleo, adicciones y problemas de salud mental acechan a la mitad de la juventud argentina, un drama silenciado.",
-    "cuerpo": "Un alarmante estudio revela que casi el 50% de los jóvenes argentinos se encuentran en un estado de profunda vulnerabilidad, lidiando con problemas de desempleo, depresión, consumo de drogas y alcohol. Esta cifra no es solo una estadística; es el reflejo de una generación a la que el Estado y la sociedad en su conjunto le han fallado sistemáticamente. ¿Qué futuro le espera a un país con la mitad de su juventud atrapada en un ciclo de desesperanza y falta de oportunidades?Desde nuestra tribuna, esta crisis de la juventud es la herencia de décadas de políticas públicas erráticas, una educación deficiente y un mercado laboral que no genera las oportunidades necesarias. El garantismo excesivo y la falta de foco en la meritocracia han creado un caldo de cultivo para la desmotivación y la dependencia. Es urgente revisar las estructuras que condenan a nuestros jóvenes a la inacción y a la precariedad, priorizando la inversión en capital humano y la creación de un entorno propicio para el desarrollo individual.La responsabilidad no es solo del gobierno actual, sino de un sistema que ha permitido que esta situación se agrave hasta límites insostenibles. ¿Estamos dispuestos a enfrentar esta cruda realidad y tomar las medidas necesarias para revertirla, o seguiremos mirando para otro lado mientras nuestra \"generación perdida\" se hunde en la desesperanza? La inacción ya no es una opción.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "generacion-perdida-50-por-ciento-jovenes-vulnerabilidad",
-    "fecha": "2026-07-28",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Deuda privada: ¿Seis millones de argentinos al borde del colapso financiero?",
-    "bajada": "Una cifra impactante: seis millones de argentinos incapaces de afrontar sus deudas, reflejo de una economía inestable.",
-    "cuerpo": "La situación económica de Argentina sigue arrojando cifras preocupantes: seis millones de ciudadanos no pueden afrontar sus pagos de deuda. Este panorama de sobreendeudamiento y falta de capacidad de pago no solo es un indicador de la fragilidad económica general, sino que también expone la desesperación de millones de familias que luchan día a día. ¿Hasta cuándo tolerará la sociedad argentina este nivel de asfixia financiera para una parte tan considerable de su población?Para Panorama.ar, esta crisis de deuda individual es la consecuencia directa de años de inflación descontrolada, políticas económicas populistas que distorsionaron el ahorro y el crédito, y una presión impositiva asfixiante que impide el desarrollo y el saneamiento de las finanzas personales. El Estado, con su voracidad recaudatoria y su intervencionismo constante, ha contribuido a un escenario donde la previsibilidad económica es una quimera y la capacidad de planificación financiera individual, casi imposible.Es crucial que el gobierno, más allá de la macroeconomía, entienda el impacto de sus decisiones en la microeconomía de los hogares. Las medidas de ajuste, aunque necesarias en lo fiscal, deben ser acompañadas de un plan que permita a los ciudadanos respirar y reconstruir su capacidad de pago. ¿Se abordará esta crisis de deuda privada con la seriedad que amerita, o seguiremos sumando millones de argentinos al borde del colapso financiero, con consecuencias impredecibles para el tejido social?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "deuda-privada-seis-millones-argentinos-colapso-financiero",
-    "fecha": "2026-07-28",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Kristalina Georgieva y el \"no préstamo\": ¿fin de una era o nueva dependencia?",
-    "bajada": "La titular del FMI sorprendió con sus declaraciones, pero el crecimiento sigue siendo la asignatura pendiente.",
-    "cuerpo": "Kristalina Georgieva, la jefa del Fondo Monetario Internacional, ha declarado que Argentina no necesitará un nuevo préstamo. Esta afirmación, celebrada por algunos como una señal de estabilidad, debe ser analizada con la lupa de la realidad. Si bien el organismo reconoce la necesidad de un crecimiento \"equilibrado\", la pregunta central es si la ausencia de un nuevo crédito implica una verdadera autonomía o simplemente un cambio en la estrategia de sometimiento a los dictados de los organismos multilaterales. La disciplina fiscal, tan elogiada por el FMI, a menudo se traduce en recortes que afectan el desarrollo productivo y la inversión privada, elementos clave para un despegue sostenible.Panorama.ar se pregunta: ¿Es realmente un alivio o una postergación de los problemas estructurales? La Argentina sigue atrapada en ciclos de ajuste y dependencia, donde el \"crecimiento equilibrado\" parece más una utopía que una meta concreta. La presión impositiva asfixia a los productores y emprendedores, mientras el Estado mantiene una estructura de gasto ineficiente. El verdadero desafío no es solo equilibrar las cuentas, sino liberar las fuerzas productivas para generar riqueza genuina.¿Puede Argentina alcanzar una prosperidad real sin la intervención constante de organismos externos y con un Estado que aún no logra achicarse y ser eficiente? El debate sobre el futuro económico y la soberanía nacional es más urgente que nunca.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "kristalina-georgieva-no-prestamo-fmi",
-    "fecha": "2026-07-28",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Kristalina Georgieva y el círculo rojo: ¿quién define la agenda argentina?",
-    "bajada": "La jefa del FMI se reunió con la élite empresarial local, en un encuentro cargado de simbolismo y poder.",
-    "cuerpo": "La cena de Kristalina Georgieva con el \"círculo rojo\" empresarial argentino no fue un mero evento social; fue una declaración de principios sobre quiénes son los interlocutores prioritarios del Fondo Monetario Internacional en el país. Mientras la opinión pública debate las condiciones del acuerdo y el impacto de las políticas de ajuste, la titular del organismo elige a los grandes empresarios para intercambiar visiones. Este tipo de encuentros resalta una dinámica donde las decisiones económicas de alto impacto se discuten en cónclaves privados, lejos del escrutinio ciudadano y de la diversidad de voces que componen el tejido productivo nacional.Panorama.ar se pregunta qué tipo de mensaje se busca transmitir con estas reuniones. ¿Es una señal de respaldo a la gestión económica actual o una reafirmación del poder de ciertos grupos de interés en la orientación de las políticas públicas? El liberalismo de centro-derecha que defendemos promueve la libre empresa, pero también la transparencia y la equidad en el acceso a los centros de decisión. La influencia del \"círculo rojo\" es innegable, y es fundamental cuestionar si sus intereses se alinean siempre con el bienestar general de la Argentina o si, por el contrario, perpetúan un modelo de concentración que frena el desarrollo.En un momento donde la confianza institucional es frágil, ¿es saludable que la principal figura de un organismo de crédito global priorice estas interacciones privadas sobre un diálogo más amplio y representativo? El debate sobre la influencia de los poderes fácticos en la política económica argentina sigue abierto y es crucial para entender el rumbo del país.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "kristalina-georgieva-circulo-rojo-agenda",
-    "fecha": "2026-07-28",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei vs. Lula: ¿un conflicto diplomático necesario o autoinfligido?",
-    "bajada": "Las declaraciones del presidente argentino escalan la tensión con Brasil, afectando una relación bilateral histórica.",
-    "cuerpo": "La retórica incendiaria del presidente Milei ha provocado un quiebre diplomático sin precedentes con Brasil y su homólogo Lula. Lo que podría interpretarse como una reafirmación de soberanía o un posicionamiento ideológico, se ha transformado en un conflicto de alto impacto para la región. Si bien es legítimo defender posturas, el tono y la forma de los \"insultos\" exceden los códigos diplomáticos, comprometiendo no solo la relación política sino también la comercial, vital para ambos países. Panorama.ar siempre ha abogado por una política exterior pragmática que priorice los intereses nacionales, y el Mercosur es un bloque clave para la Argentina.La confrontación ideológica, aunque parte de la identidad de este gobierno, debe sopesarse con las consecuencias económicas y estratégicas. Brasil es el principal socio comercial de Argentina, y tensionar este vínculo genera incertidumbre para exportadores, productores y la inversión bilateral. Mientras el gobierno busca una \"inserción inteligente\" en el mundo, estas fricciones con vecinos directos ponen en jaque cualquier avance. La \"casta\" a la que Milei tanto critica, a menudo gestionaba estas relaciones con una prudencia que, si bien puede ser criticable en otros aspectos, evitaba estas rupturas innecesarias.¿Es la confrontación con Lula una estrategia de política interna para consolidar bases o un error que hipoteca el futuro de la relación bilateral más importante de Argentina? La política exterior no puede ser un campo de batalla ideológico que sacrifique el pragmatismo y el bienestar económico.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "milei-lula-conflicto-diplomatico",
-    "fecha": "2026-07-28",
-    "imagen": "img/politica_6.png",
     "destacada": false
   }
 ]
