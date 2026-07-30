@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Decreto Milei: ¿Quién define el 'odio' a Argentina y sus ciudadanos?",
+    "bajada": "La polémica medida del gobierno genera un intenso debate sobre los límites de la libertad de expresión y la soberanía.",
+    "cuerpo": "El reciente decreto del Presidente Milei, que permite la expulsión de extranjeros por \"mensajes de odio\" hacia Argentina, enciende alarmas y divisiones. Si bien la defensa de la identidad nacional y la protección de los ciudadanos es un objetivo legítimo, la ambigüedad del término \"odio\" abre la puerta a interpretaciones discrecionales, lo que podría generar arbitrariedades y erosionar los principios de un Estado de Derecho. La medida se enmarca en una \"campaña antiargentina\", según fuentes oficiales, buscando proteger la imagen del país y a sus habitantes.\n\nCríticos de la normativa argumentan que, sin una definición clara y un proceso judicial robusto, la expulsión podría transformarse en una herramienta para silenciar voces disidentes o críticas legítimas. La preocupación radica en cómo se garantizará el debido proceso y quién tendrá la autoridad final para determinar qué constituye un \"agravio\" o \"mensaje de odio\". Ante este escenario, la discusión sobre la seguridad jurídica y los derechos individuales cobra una relevancia crucial. ¿Es este el camino para fortalecer la soberanía o se corre el riesgo de un control excesivo del Estado?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "decreto-milei-quien-define-odio-argentina",
+    "fecha": "2026-07-30",
+    "imagen": "img/politica_7.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Infantino desafía la soberanía: ¿Malvinas en riesgo por FIFA?",
+    "bajada": "La FIFA abre una polémica investigación sobre la bandera de Malvinas, encendiendo el debate nacional.",
+    "cuerpo": "La FIFA, bajo la presidencia de Gianni Infantino, ha iniciado un proceso disciplinario contra la AFA y tres jugadores argentinos por la exhibición de una bandera con la leyenda \"Las Malvinas son Argentinas\" durante la final del Mundial. Esta decisión ha provocado una ola de indignación en el país, donde la cuestión de la soberanía sobre las islas es un tema de Estado innegociable. La postura de FIFA se percibe como una injerencia inaceptable en una causa que trasciende lo deportivo, tocando fibras sensibles de la identidad nacional.\n\nDesde la AFA, se espera una defensa enérgica, argumentando que la manifestación es un sentir legítimo del pueblo argentino, no una provocación política. La investigación pone de manifiesto la tensión entre la normativa deportiva internacional y el derecho de los pueblos a expresar sus reclamos históricos. ¿Debe el fútbol ser un espacio aséptico de toda manifestación política o es una plataforma legítima para visibilizar causas nacionales como la de #MalvinasArgentinas?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "infantino-desafia-soberania-malvinas-riesgo-fifa",
+    "fecha": "2026-07-30",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Escándalo FIFA: ¿Infantino limpia la AFA o avanza la 'casta'?",
+    "bajada": "La FIFA abre investigaciones que exponen la fragilidad institucional del fútbol argentino y su dirigencia.",
+    "cuerpo": "La FIFA, con Gianni Infantino a la cabeza, ha abierto procesos disciplinarios contra la AFA, varios jugadores y un miembro técnico de la Selección Argentina por incidentes en el Mundial. Más allá de las causas específicas –que incluyen desde comportamientos en el campo hasta declaraciones– esta medida pone de manifiesto una vez más la frágil institucionalidad del fútbol argentino y la permisividad que ha caracterizado a sus dirigentes, la \"casta\" del deporte. Mientras algunos ven una necesaria mano dura del ente rector, otros temen una injerencia excesiva.\n\nLa AFA deberá presentar sus descargos, enfrentándose a posibles sanciones que podrían afectar la imagen y la economía del fútbol local. Este panorama obliga a reflexionar sobre la gestión actual de las federaciones y el control que ejerce la FIFA. ¿Son estos procesos una oportunidad para transparentar y reformar el fútbol argentino, o solo una excusa para que poderes externos impongan su agenda, debilitando aún más la autonomía de nuestra institución, tan permeable a los vicios de la 'vieja política'?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "escandalo-fifa-infantino-limpia-afa-o-avanza-casta",
+    "fecha": "2026-07-30",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Punta del Este, sombra trágica: ¿cuándo habrá seguridad real?",
+    "bajada": "La muerte de una joven argentina en el balneario uruguayo reaviva el debate sobre la seguridad y la impunidad.",
+    "cuerpo": "La trágica muerte de una joven argentina de 18 años, hallada sin vida en Punta del Este tras ser reportada como desaparecida, ha conmocionado a la sociedad y expuesto las falencias en materia de seguridad, incluso en destinos turísticos que se presumen seguros. Este lamentable suceso subraya la vulnerabilidad de los jóvenes y la angustia de las familias, que claman por respuestas y justicia. El caso, aún bajo investigación, genera una profunda preocupación sobre la efectividad de las medidas preventivas y la rapidez de la respuesta ante desapariciones.\n\nLas autoridades uruguayas enfrentan el desafío de esclarecer lo ocurrido y brindar certezas a la familia y a la opinión pública. Sin embargo, más allá de este caso particular, la recurrencia de hechos de inseguridad en la región plantea interrogantes sobre la eficacia de las políticas de prevención del delito y la necesidad de una mayor coordinación binacional. ¿Es posible garantizar la seguridad de nuestros ciudadanos cuando el crimen no conoce fronteras, o estamos condenados a lamentar tragedias sin un abordaje integral del problema?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "punta-del-este-sombra-tragica-cuando-habra-seguridad-real",
+    "fecha": "2026-07-30",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Boom minero: ¿el camino de Argentina hacia la prosperidad genuina?",
+    "bajada": "Las exportaciones mineras de Argentina crecen un impresionante 74,4% en el primer semestre, ¿un signo de cambio real?",
+    "cuerpo": "El sector minero en Argentina celebra un crecimiento récord del 74,4% en sus exportaciones durante el primer semestre de 2026. Esta cifra, contundente, presenta un panorama alentador para la economía nacional, sugiriendo un potencial significativo para la generación de divisas y la creación de empleo. Desde una perspectiva liberal, el impulso a la actividad exportadora y la inversión en sectores productivos son pilares fundamentales para el desarrollo, liberando la capacidad de la economía para crecer sin la intervención asfixiante del Estado. Sin embargo, la dependencia de la exportación de materias primas siempre genera debates.\n\nAunque el dato es innegablemente positivo y habla de un sector con gran capacidad de desarrollo, es fundamental que este crecimiento se traduzca en beneficios tangibles para todas las regiones y no solo en ganancias para unos pocos. La transparencia en la gestión de los recursos y la creación de un marco regulatorio estable que atraiga más inversiones son clave para consolidar este impulso. ¿Es este el inicio de una verdadera transformación productiva para Argentina, o aún persisten desafíos estructurales que limitan el impacto de estos logros en la calidad de vida de los ciudadanos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "boom-minero-camino-argentina-prosperidad-genuina",
+    "fecha": "2026-07-30",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Educación: ¿fin del secundario, inicio de más desigualdad en Argentina?",
+    "bajada": "A pesar del aumento en la finalización del secundario, la desigualdad en el origen familiar sigue siendo decisiva.",
+    "cuerpo": "Un reciente informe revela que si bien más jóvenes en Argentina están terminando la secundaria, la brecha de desigualdad según el origen familiar persiste e incluso se profundiza. Esto es una señal alarmante que desmitifica la idea de la educación como un igualador social automático. Desde una perspectiva crítica, el acceso a la educación no es suficiente si la calidad y las oportunidades subsiguientes están condicionadas por el estatus socioeconómico de cada hogar, lo que perpetúa la \"casta\" de privilegios desde la cuna y el clientelismo educativo.\n\nPara Panorama.ar, esta situación exige un análisis profundo y la implementación de políticas que vayan más allá de las estadísticas de egreso. Se necesitan reformas estructurales que garanticen una educación de calidad para todos, sin importar su origen, y que preparen a los jóvenes para un mercado laboral competitivo. De lo contrario, la 'igualdad de oportunidades' se convierte en una consigna vacía. ¿Cómo podemos hablar de progreso social si el sistema educativo, lejos de corregir, replica las disparidades de cuna, profundizando la estratificación social en lugar de promover la meritocracia?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "educacion-fin-secundario-inicio-desigualdad-argentina",
+    "fecha": "2026-07-30",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Sub 17: ¿Argentina perdió el rumbo en Atlanta o es solo un traspié?",
+    "bajada": "El empate de la Selección Sub 17 ante Ecuador en Atlanta genera dudas sobre el futuro del semillero futbolístico.",
+    "cuerpo": "El reciente empate 1-1 de la Selección Argentina Sub 17 frente a Ecuador en Atlanta ha generado cierta preocupación entre los aficionados y analistas del fútbol. Si bien se trata de categorías formativas, este resultado invita a reflexionar sobre el nivel actual del semillero argentino y las estrategias de desarrollo de jóvenes talentos. En un país con una rica tradición futbolística, la expectativa siempre es alta, y cualquier traspié en estas etapas tempranas puede ser una señal para revisar los procesos y las inversiones en las divisiones inferiores, tan vitales para el futuro de clubes como #River.\n\nEs crucial analizar si este resultado es un indicio de problemas estructurales en la formación o simplemente un tropiezo aislado en el camino. Los jóvenes talentos requieren un acompañamiento y una visión clara para alcanzar su máximo potencial, evitando que se pierdan en el camino. La AFA y los clubes tienen la responsabilidad de asegurar que las promesas de hoy sean los pilares del mañana. ¿Estamos invirtiendo de forma efectiva en el futuro de nuestro fútbol, o las prioridades siguen desviadas, afectando la competitividad de la Selección?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "sub-17-argentina-perdio-rumbo-atlanta",
+    "fecha": "2026-07-30",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
     "titulo": "Decreto de Milei: ¿Protección o exceso contra la 'Campaña Antiargentina'?",
     "bajada": "El gobierno busca herramientas para expulsar extranjeros que \"agravien\" al país. Un debate urgente sobre soberanía y libertad.",
     "cuerpo": "El Poder Ejecutivo ha emitido un decreto que habilita la expulsión de extranjeros que, con sus mensajes, inciten al odio o agravien a la Argentina o sus ciudadanos. Esta medida, presentada como una respuesta a una supuesta \"campaña antiargentina\", abre un frente de debate crucial sobre los límites de la libertad de expresión y la soberanía nacional frente a opiniones foráneas.\n\nDesde el ala liberal, se argumenta la necesidad de proteger la identidad y reputación del país ante ataques orquestados, especialmente en un contexto globalizado donde la desinformación puede ser arma. Sin embargo, críticos señalan un posible desliz hacia un control de pensamiento que podría afectar la libertad de expresión y los derechos de quienes residen en el país, ¿dónde se traza la línea entre la crítica legítima y el 'agravio'?\n\nEste movimiento del gobierno actual, a menudo enfrentado a la \"casta\" política tradicional, levanta interrogantes sobre si la norma es una herramienta para silenciar discursos incómodos o una defensa legítima del interés nacional. ¿Es el Estado quien debe definir qué constituye un \"agravio\" para el país y sus ciudadanos?",
@@ -9,7 +93,7 @@
     "slug": "decreto-milei-proteccion-o-exceso-campana-antiargentina",
     "fecha": "2026-07-30",
     "imagen": "img/politica_7.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "FIFA vs. Soberanía: ¿Malvinas en riesgo por sanción a la Selección?",
@@ -201,90 +285,6 @@
     "slug": "cristina-kirchner-reaparece-conviccion-estrategia",
     "fecha": "2026-07-30",
     "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Slavko Vinčić: el árbitro del Mundial ¿silencio o despedida?",
-    "bajada": "El juez que dirigió la final entre Argentina y España anunció su retiro, revelando detalles de su charla con Messi.",
-    "cuerpo": "Slavko Vinčić, el árbitro que dirigió la final del Mundial entre Argentina y España, rompió el silencio tras su mediático rol y anunció su retiro del fútbol profesional. El juez esloveno reveló algunos pormenores de su diálogo con Lionel Messi durante el partido, ofreciendo una mirada íntima a la presión y el escrutinio que enfrentan las figuras arbitrales en los eventos de mayor magnitud. Su despedida marca el fin de una carrera bajo los focos más exigentes.\n\nLa decisión de Vinčić y sus declaraciones abren el telón sobre el lado humano del arbitraje, a menudo criticado y poco comprendido. Mientras la atención suele centrarse en los jugadores y las decisiones polémicas, el anuncio permite una reflexión sobre la trayectoria de quienes, desde el centro del campo, gestionan las emociones de millones.\n\n¿Qué implica el retiro de una figura arbitral tan relevante y qué nos dicen sus palabras sobre la intensa relación entre los jueces y las grandes estrellas del deporte como Messi? El impacto de la presión mediática y el fin de una era en el arbitraje generan un espacio para el análisis.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "slavko-vincic-arbitro-mundial-despedida",
-    "fecha": "2026-07-30",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Kiki Ramos: el talento haitiano que brilla en Argentina.",
-    "bajada": "La historia del juvenil que superó barreras para debutar en la Selección Argentina Sub 17, un símbolo de integración.",
-    "cuerpo": "La Selección Argentina Sub 17 sumó una nueva joya a sus filas: Kiki Ramos, el delantero de 17 años nacido en Haití, realizó su esperado debut. Su historia es un testimonio de esfuerzo y resiliencia, habiendo llegado a Argentina de muy joven y abriéndose camino en el fútbol nacional. Este hito no solo representa un logro personal para Ramos, sino que también envía un mensaje potente sobre la integración y el reconocimiento del talento más allá de las fronteras.\n\nSu incorporación al equipo juvenil, y el reciente encuentro ante Ecuador, demuestran que el mérito deportivo puede trascender cualquier origen. En un país con una rica tradición futbolística, la inclusión de Kiki Ramos en la Albiceleste Sub 17 es celebrada como un ejemplo positivo para las nuevas generaciones y un reflejo de la diversidad que enriquece el deporte.\n\n¿Cómo impacta el ascenso de figuras como Kiki Ramos en la construcción de una identidad futbolística más abierta e inclusiva en Argentina? Su historia invita a reflexionar sobre el potencial que se pierde cuando no se valora el talento por encima de cualquier otro factor.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "2 min",
-    "slug": "kiki-ramos-talento-haitiano-brilla-argentina",
-    "fecha": "2026-07-30",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Autos eléctricos: ¿realmente una transición económica?",
-    "bajada": "Uno de cada siete vehículos 0 km en Argentina es híbrido o eléctrico. ¿Es una tendencia sostenible sin incentivos claros?",
-    "cuerpo": "El mercado automotor argentino experimenta un giro: uno de cada siete autos 0 km vendidos ya es híbrido o eléctrico, marcando un hito histórico. Modelos como los de Honda han incluso ajustado sus precios, respondiendo a una demanda creciente que busca eficiencia y menor impacto ambiental. Sin embargo, la penetración de estos vehículos plantea interrogantes sobre la infraestructura de carga, la matriz energética y los costos a largo plazo para el consumidor.\n\nDesde una perspectiva liberal, es crucial analizar si esta transición se da por impulso genuino del mercado y la elección del consumidor, o si responde a una presión indirecta sin el debido respaldo. La ausencia de políticas fiscales claras y uniformes para incentivar la electrificación podría generar un crecimiento desordenado, donde los beneficios sean solo para un nicho y no para una verdadera masificación que beneficie a la economía en su conjunto.\n\n¿Está Argentina preparada para una electrificación masiva de su parque automotor o esta tendencia es una burbuja sin un plan de infraestructura y estímulos fiscales coherentes? Se impone un debate serio sobre cómo potenciar esta transformación sin recargar al contribuyente.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "autos-electricos-transicion-economica",
-    "fecha": "2026-07-30",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Pornografía y justicia: ¿censura o regulación necesaria?",
-    "bajada": "Argentina se enfrenta a un debate legal sobre el contenido pornográfico. ¿Dónde está el límite entre la libertad de expresión y la protección?",
-    "cuerpo": "Argentina se encuentra ante lo que algunos medios denominan el 'tribunal de la pornografía', abriendo un complejo debate sobre la regulación de contenidos sexuales explícitos. Este caso pone en tensión la libertad de expresión y los derechos individuales frente a la necesidad de proteger a grupos vulnerables y combatir la explotación. La discusión no es menor, pues define los límites de lo permitido en el espacio digital y las responsabilidades de las plataformas y los creadores de contenido.\n\nLa línea editorial de Panorama.ar, si bien defiende la libertad, también enfatiza el orden y la protección de los valores sociales. Aquí, el desafío es discernir si las acciones legales buscan una censura o una regulación justa que evite abusos, especialmente en un contexto donde el acceso a contenidos es cada vez más fácil y masivo. Las regulaciones excesivas podrían atentar contra la autonomía individual, mientras que la inacción podría dar lugar a situaciones de abuso y explotación.\n\n¿Cómo puede Argentina equilibrar la defensa de la libertad de expresión con la protección de la sociedad frente a los posibles riesgos de la pornografía? El desafío es enorme y requiere un debate maduro y sin dogmas.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "pornografia-justicia-censura-regulacion",
-    "fecha": "2026-07-30",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Cristina: La carta que reaviva fantasmas. ¿Qué busca realmente el kirchnerismo?",
-    "bajada": "La expresidenta reaparece con un mensaje crítico al gobierno actual, generando debate sobre su influencia persistente.",
-    "cuerpo": "Cristina Kirchner ha vuelto a escena con una carta abierta que, bajo el velo de \"convicciones\", dispara dardos al actual modelo económico y político. Este tipo de intervenciones no son nuevas y suelen coincidir con momentos de tensión social, buscando posicionar al kirchnerismo como la única alternativa frente a la \"crisis\". La pregunta clave es si este movimiento es un genuino aporte al debate democrático o una estrategia calculada para reagrupar fuerzas y mantener viva una narrativa populista que tantos costos ha generado a la Argentina.\n\nMás allá de las intenciones, la misiva de Cristina genera una polarización esperable, avivando el debate sobre el rol del Estado, el gasto público y la dirección del país. Mientras el gobierno busca avanzar con reformas que muchos consideran necesarias para la estabilidad económica, la figura de la expresidenta representa una visión estatista y de mayor intervención. ¿Podrá la sociedad argentina discernir entre la crítica constructiva y la retórica del pasado que tanto nos ha paralizado?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "cristina-la-carta-que-reaviva-fantasmas-que-busca-realmente-el-kirchnerismo",
-    "fecha": "2026-07-29",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Icardi vs. Justicia argentina: ¿capricho de estrella o falla judicial?",
-    "bajada": "Mauro Icardi desafía a la Justicia tras prohibírsele la salida del país con sus hijas, destapando un nuevo escándalo.",
-    "cuerpo": "Mauro Icardi, figura del fútbol, nuevamente en el ojo de la tormenta. Su feroz reacción a la prohibición judicial de salir del país con sus hijas, en el marco de una disputa con Wanda Nara, expone una faceta poco vista de la Justicia argentina. ¿Estamos frente a un capricho de una celebridad acostumbrada a saltear normas, o hay una aplicación discrecional de la ley que amerita un análisis más profundo? La situación plantea interrogantes sobre la equidad y la celeridad en los procesos judiciales que afectan a ciudadanos de a pie, contrastando con la visibilidad de estos casos mediáticos.\n\nEl conflicto entre Icardi y la Justicia, con Wanda Nara como telón de fondo, no solo alimenta el morbo de la farándula, sino que también resalta la complejidad de las leyes familiares y la protección de menores en un contexto internacional. Mientras el jugador clama por sus derechos, la Justicia defiende el interés superior de las niñas. ¿Cómo se equilibran la libertad individual y el cumplimiento de las normativas vigentes, especialmente cuando el dinero y la fama distorsionan la percepción pública?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "icardi-vs-justicia-argentina-capricho-de-estrella-o-falla-judicial",
-    "fecha": "2026-07-29",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Kiki Ramos, de Haití a la Albiceleste: el sueño argentino.",
-    "bajada": "La historia de Kiki Ramos, el joven talento nacido en Haití que debuta en la Sub 17, inspira y genera reflexión sobre la integración.",
-    "cuerpo": "El debut de Kiki Ramos en la Selección Argentina Sub 17 no es solo una noticia deportiva; es un potente símbolo de integración y oportunidad. Nacido en Haití, una nación azotada por la inestabilidad, Kiki representa el potencial que Argentina puede ofrecer a quienes buscan un futuro mejor. Su historia nos invita a reflexionar sobre la capacidad de nuestro país para acoger y potenciar talentos, independientemente de su origen. Es un recordatorio de que la meritocracia y el esfuerzo pueden abrir puertas, incluso en contextos adversos.\n\nEste hito también pone de relieve la importancia de las políticas migratorias y de inclusión, no solo como un deber humanitario, sino como una inversión en el futuro de la nación. ¿Estamos como sociedad preparados para seguir construyendo un país donde el origen no sea una barrera para el desarrollo, o aún persisten prejuicios que limitan el pleno potencial de quienes eligen Argentina como su hogar?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "2 min",
-    "slug": "kiki-ramos-de-haiti-a-la-albiceleste-el-sueno-argentino",
-    "fecha": "2026-07-29",
-    "imagen": "img/sociedad_1.png",
     "destacada": false
   }
 ]
