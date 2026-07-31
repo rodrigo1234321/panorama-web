@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Decreto Milei: ¿Más seguridad o coartar la libertad de expresión?",
+    "bajada": "El gobierno busca expulsar a extranjeros por \"agraviar\" a argentinos, una medida que genera amplio debate sobre sus alcances.",
+    "cuerpo": "El reciente decreto presidencial de Javier Milei abre un frente de discusión crucial sobre la soberanía y la seguridad nacional. La normativa permitiría la expulsión de extranjeros que incurran en \"agravios\" contra el país, una decisión que, para sus defensores, representa un paso firme hacia el orden y la protección de la identidad nacional, alineándose con una postura de mano dura ante ciertos comportamientos. Sin embargo, sus críticos alertan sobre la ambigüedad del término \"agravio\" y los posibles riesgos para la libertad de expresión y los derechos individuales.\n\nLa medida busca reafirmar la autoridad estatal en materia migratoria y establecer límites claros a quienes, siendo huéspedes, incurren en actos que el Estado considera perjudiciales. En un contexto donde la seguridad y la identidad nacional son temas centrales en la agenda pública, este decreto se posiciona como una declaración de principios. No obstante, surge la pregunta inevitable: ¿Se está priorizando la seguridad por encima de garantías fundamentales, o es una herramienta necesaria para defender la dignidad nacional frente a discursos que buscan erosionarla?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "decreto-milei-mas-seguridad-o-coartar-la-libertad-de-expresion",
+    "fecha": "2026-07-31",
+    "imagen": "img/politica_4.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Lula vs. Milei: La diplomacia en jaque, ¿quién gana con la escalada?",
+    "bajada": "La tensión entre los presidentes de Argentina y Brasil escala, afectando relaciones estratégicas y comerciales.",
+    "cuerpo": "La relación entre Argentina y Brasil atraviesa uno de sus momentos más tensos, con el presidente brasileño Lula da Silva respondiendo a las declaraciones de Javier Milei. Esta escalada verbal no es un simple intercambio de reproches entre líderes, sino que tiene consecuencias directas en la diplomacia y, potencialmente, en el comercio bilateral, vital para ambos países. Mientras el gobierno argentino busca posicionarse con una fuerte impronta ideológica, esta estrategia podría generar fricciones innecesarias con socios clave de la región.\n\nEl entredicho pone en tela de juicio la capacidad de ambas naciones para mantener una agenda pragmática más allá de las diferencias ideológicas de sus mandatarios. La incertidumbre sobre la designación del embajador en Argentina es un claro indicio de la fragilidad del vínculo actual. En un escenario global complejo, ¿es conveniente para Argentina tensar la cuerda con su principal socio comercial o debería priorizarse la estabilidad y el diálogo en beneficio de los intereses nacionales a largo plazo?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "lula-vs-milei-la-diplomacia-en-jaque-quien-gana-con-la-escalada",
+    "fecha": "2026-07-31",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Georgieva y Argentina: ¿Logrará Milei mantener el rumbo fiscal?",
+    "bajada": "La directora del FMI elogió las reformas, pero advirtió sobre la sostenibilidad del ajuste.",
+    "cuerpo": "Kristalina Georgieva, directora del FMI, ofreció una evaluación de su visita a Argentina que mezcla elogios con advertencias. Reconoció el esfuerzo del gobierno de Javier Milei por encauzar la economía con reformas y disciplina fiscal, un mensaje que resuena positivamente con el enfoque liberal de la administración. Sin embargo, su mención a la necesidad de \"mantener el rumbo\" y las referencias a la \"maquilladora con 3 trabajos\" y los \"dólares en una lata\" subrayan la cruda realidad social y la fragilidad de la confianza en un país acostumbrado a la inestabilidad.\n\nLos comentarios de Georgieva sirven como un termómetro internacional sobre la dirección económica argentina. Si bien valoró el compromiso con el ajuste, el desafío real radica en la capacidad del gobierno para sostener estas políticas en el tiempo, sin que la presión social o política fuerce un desvío del camino. La mención a Messi como ejemplo de \"pasión\" también invita a reflexionar sobre la necesidad de aplicar esa misma pasión y rigurosidad en la gestión económica para transformar el país. ¿Será el gobierno de Milei capaz de transformar este impulso inicial en una senda de crecimiento duradero sin ceder a las presiones populistas?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "georgieva-y-argentina-lograra-milei-mantener-el-rumbo-fiscal",
+    "fecha": "2026-07-31",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Malvinas y Enzo: ¿Provocación británica o lección argentina?",
+    "bajada": "Un periodista inglés propone sancionar a Enzo Fernández y Argentina por la bandera de Malvinas, desatando una ola de indignación.",
+    "cuerpo": "La propuesta de un periodista inglés para castigar a Enzo Fernández y a la Selección Argentina por exhibir la bandera de Malvinas reaviva una herida histórica y genera un fuerte repudio. Esta iniciativa, más allá de su origen mediático, es percibida en Argentina como una provocación directa y un intento de censurar una legítima expresión de soberanía nacional. La reacción esperable es de unidad y reafirmación de los derechos argentinos sobre las islas, lejos de cualquier intención de amedrentar a la sociedad.\n\nEl fútbol, como plataforma global, a menudo se convierte en un escenario para la política y las reivindicaciones nacionales. Para los argentinos, las Malvinas no son solo un tema diplomático, sino una causa que atraviesa generaciones. Esta polémica, que busca imponer una visión externa sobre un asunto interno, termina por reforzar la determinación del país en su reclamo. ¿Debería la FIFA intervenir en estos asuntos, o el deporte debe mantenerse al margen de las legítimas expresiones nacionales que no incurren en violencia?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "malvinas-y-enzo-provocacion-britanica-o-leccion-argentina",
+    "fecha": "2026-07-31",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "FIFA contra Argentina: ¿Caza de brujas o falta de control institucional?",
+    "bajada": "La FIFA abre expedientes disciplinarios contra Argentina por incidentes post-Mundial, generando dudas sobre la gestión.",
+    "cuerpo": "La FIFA ha iniciado procesos disciplinarios contra la Selección Argentina por incidentes ocurridos tras el Mundial 2026. Aunque el foco mediático a menudo se centra en los jugadores –como la figura de Enzo Fernández y otros–, esta situación pone en la mira la organización y el control institucional. Mientras algunos lo ven como una \"caza de brujas\" por parte del organismo rector del fútbol, otros señalan la posible falta de rigor en la celebración, que podría haber derivado en comportamientos sancionables.\n\nEstos expedientes no solo afectan la imagen del fútbol argentino a nivel internacional, sino que también podrían acarrear sanciones económicas o deportivas. Es fundamental analizar si estos incidentes son el resultado de la euforia desmedida o si evidencian falencias en la capacidad de la AFA para gestionar grandes eventos y las reacciones de sus protagonistas. ¿Se trata de una sanción justa por incumplimiento de normas o de una medida desproporcionada que busca castigar el éxito y la pasión de una nación?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "fifa-contra-argentina-caza-de-brujas-o-falta-de-control-institucional",
+    "fecha": "2026-07-31",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Milei vs. Kicillof: ¿Un país dividido por la ideología?",
+    "bajada": "Una nueva encuesta revela el mapa político de Argentina, con Milei y Kicillof dividiendo el territorio nacional.",
+    "cuerpo": "La polarización política en Argentina se consolida, según una reciente encuesta que proyecta el apoyo a Javier Milei y Axel Kicillof en diferentes regiones. Este estudio no solo muestra la persistencia de dos modelos antagónicos, uno más alineado con las reformas de mercado y la reducción del Estado, y otro con una visión intervencionista y de mayor gasto público, sino que también mapea la profunda división ideológica que atraviesa al país. Para \"Panorama.ar\", la continuidad de Kicillof en un polo de poder representa la resistencia de la \"casta\" política a un cambio estructural, mientras que el respaldo a Milei refleja el hartazgo con las viejas prácticas.\n\nLos resultados de la encuesta son un termómetro de la opinión pública, evidenciando que las batallas ideológicas no son solo retóricas, sino que se traducen en un apoyo territorial concreto. La brecha entre el modelo de libertad económica y el de intervencionismo estatal sigue siendo el eje central del debate. ¿Podrá Argentina encontrar un camino de consenso o estará condenada a una eterna disputa entre visiones irreconciliables que impiden el progreso sostenido?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-vs-kicillof-un-pais-dividido-por-la-ideologia",
+    "fecha": "2026-07-31",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Gendarmería: ¿Salarios justos o carga fiscal insostenible?",
+    "bajada": "Las cifras de los salarios de Gendarmería Nacional abren el debate sobre el gasto público y la presión impositiva.",
+    "cuerpo": "La publicación de los salarios del personal de Gendarmería Nacional en agosto de 2026 vuelve a poner en el centro del debate el volumen del gasto público y su impacto en las arcas del Estado. Si bien es innegable la necesidad de remunerar adecuadamente a las fuerzas de seguridad por su vital labor en la protección de los ciudadanos y el control de fronteras, la magnitud de estos montos debe ser analizada en el contexto de la delicada situación fiscal de Argentina.\n\nPara una línea editorial como la de Panorama.ar, estos datos invitan a reflexionar sobre la eficiencia del Estado y la necesidad de una disciplina fiscal. En un país con una carga impositiva elevada y persistentes déficits, cada partida presupuestaria debe ser examinada con lupa. ¿Es posible equilibrar la valoración de la labor de Gendarmería con una gestión responsable de los recursos públicos, o el tamaño del Estado argentino sigue siendo una carga insostenible para el contribuyente?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "gendarmeria-salarios-justos-o-carga-fiscal-insostenible",
+    "fecha": "2026-07-31",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "Decreto de expulsión a extranjeros: ¿Orden o amenaza para Argentina?",
     "bajada": "El gobierno busca expulsar a quienes agravien a Argentina, generando un debate candente sobre soberanía y derechos.",
     "cuerpo": "La reciente medida del gobierno que permite la expulsión por decreto de extranjeros considerados \"agravantes\" para los argentinos ha encendido la polémica. Mientras desde el oficialismo se argumenta a favor de la soberanía nacional y la protección del orden público, sectores críticos alertan sobre posibles arbitrariedades y la violación de derechos fundamentales.\n\nLa iniciativa se presenta como una herramienta para fortalecer la seguridad y la identidad nacional, buscando un control más estricto sobre aquellos que, según la interpretación oficial, atentan contra los valores del país. Sin embargo, la ambigüedad en la definición de \"agravio\" plantea interrogantes sobre los límites de la autoridad estatal y el riesgo de criminalizar opiniones o expresiones.\n\n¿Es esta una medida necesaria para defender el interés nacional o un paso peligroso hacia la discrecionalidad y la restricción de libertades?",
@@ -9,7 +93,7 @@
     "slug": "decreto-expulsion-extranjeros-orden-o-amenaza",
     "fecha": "2026-07-31",
     "imagen": "img/politica_8.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Milei minimiza ayuda de EEUU: ¿Argentina sin tutelaje financiero?",
@@ -201,90 +285,6 @@
     "slug": "malvinas-en-juego-castigo-a-argentina-por-soberania-la-absurda-propuesta-inglesa",
     "fecha": "2026-07-31",
     "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Imprimir moneda, ¿delito? Milei presiona por un giro histórico al Banco Central",
-    "bajada": "El presidente busca penalizar la emisión monetaria para financiar el déficit, una reforma radical que redefine el rol del Estado y el BCRA.",
-    "cuerpo": "Javier Milei ha elevado la apuesta en su cruzada contra la inflación y el gasto público, proponiendo al Congreso que la emisión monetaria para financiar al Estado sea considerada un delito. Esta medida representa un quiebre fundamental con las prácticas económicas de las últimas décadas en Argentina, donde la maquinita de imprimir billetes fue una herramienta recurrente para cubrir déficits fiscales, con el consecuente deterioro del poder adquisitivo de los ciudadanos. La iniciativa busca institucionalizar la disciplina fiscal y cortar de raíz la tentación de solucionar problemas de caja con más emisión.\n\nLos defensores de la propuesta argumentan que es la única vía para garantizar la estabilidad económica y proteger el valor de la moneda, liberando al Banco Central de la presión política. Sin embargo, los críticos advierten sobre la rigidez que podría imponer a la política económica, limitando la capacidad del Estado para intervenir en momentos de crisis o para implementar políticas contracíclicas. ¿Es esta una propuesta valiente para terminar con la irresponsabilidad fiscal, o una medida extrema que podría atar de manos al próximo gobierno?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "imprimir-moneda-delito-milei-presiona-por-un-giro-historico-al-banco-central",
-    "fecha": "2026-07-31",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Tragedia en la costa: Muere adolescente argentina en Punta del Este. ¿Falla de seguridad?",
-    "bajada": "La muerte de una joven argentina en la costa uruguaya conmociona a la región. Se reabre el debate sobre la seguridad en destinos turísticos.",
-    "cuerpo": "La trágica noticia del hallazgo del cuerpo de una adolescente argentina de 18 años en Punta del Este, un destino popular en la costa uruguaya, ha generado conmoción y preocupación en ambos países. La joven, que residía en Maldonado, fue encontrada sin vida tras varios días de búsqueda, abriendo interrogantes sobre las circunstancias de su muerte y la efectividad de los protocolos de seguridad. Este lamentable suceso vuelve a poner en el centro de la escena la vulnerabilidad de los jóvenes y la necesidad de reforzar la protección en zonas de alta concurrencia turística.\n\nMás allá de la investigación criminal en curso, el caso invita a una reflexión profunda sobre la seguridad personal, especialmente para quienes viajan o residen en lugares con gran afluencia. Las autoridades deberán esclarecer los hechos rápidamente y determinar si hubo falencias que pudieron haber prevenido esta tragedia. ¿Es suficiente la seguridad ofrecida en estos balnearios, o se necesita una mayor coordinación y recursos para proteger a quienes disfrutan de nuestras costas?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "tragedia-en-la-costa-muere-adolescente-argentina-en-punta-del-este-falla-de-seguridad",
-    "fecha": "2026-07-31",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Odio o estrategia? Mia Khalifa explica su campaña anti-Argentina",
-    "bajada": "La influencer revela por qué detesta a la Selección y al país, desatando un nuevo round de polémica en redes.",
-    "cuerpo": "La controversia en torno a Mia Khalifa y su \"campaña anti-Argentina\" tomó un nuevo giro cuando la influencer reveló los motivos de su aversión a la Selección y al país. Según sus declaraciones, la raíz de su enojo sería una camiseta personalizada, un detalle que para muchos no justifica la magnitud de su postura. Este tipo de declaraciones genera un fuerte impacto en las redes sociales, donde el sentimiento nacional y el orgullo futbolístico son temas extremadamente sensibles para los argentinos.\n\nMientras algunos desestiman sus comentarios como una búsqueda de atención o una estrategia de marketing, otros se indignan ante lo que perciben como un ataque injustificado a la identidad nacional y al fervor deportivo. La situación pone de manifiesto cómo figuras públicas internacionales pueden influir y polarizar opiniones en contextos culturales específicos. ¿Es esta una muestra de la banalización de la crítica o un reflejo de que el fanatismo puede llevar a reacciones desmedidas de ambos lados?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "odio-o-estrategia-mia-khalifa-explica-su-campana-anti-argentina",
-    "fecha": "2026-07-31",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "FIFA contra Argentina: ¿Cuánto cuesta la falta de disciplina mundialista?",
-    "bajada": "La FIFA abre procesos disciplinarios contra la Selección Argentina por incidentes en el Mundial. ¿Un golpe a la imagen internacional y al bolsillo?",
-    "cuerpo": "La FIFA ha iniciado procesos disciplinarios contra la Selección Argentina a raíz de incidentes ocurridos durante el Mundial 2026, una noticia que vuelve a poner en el ojo de la tormenta la conducta de algunos aficionados y miembros de la delegación. Estos procedimientos podrían derivar en multas económicas significativas o incluso sanciones deportivas, afectando la imagen de Argentina en el concierto futbolístico global. Si bien la pasión por el fútbol es un sello distintivo del país, los excesos y la falta de disciplina empañan los logros deportivos.\n\nEste tipo de situaciones, recurrentes en la historia del fútbol argentino, exigen una reflexión sobre la responsabilidad de los organismos y de los propios protagonistas en mantener un comportamiento ejemplar. Mientras la AFA deberá presentar sus descargos, la afición se pregunta si estas conductas aisladas terminan costando caro a la imagen del país. ¿Es hora de endurecer las medidas para preservar la reputación deportiva de Argentina, o la pasión desmedida es un componente inescindible de nuestro fútbol?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fifa-contra-argentina-cuanto-cuesta-la-falta-de-disciplina-mundialista",
-    "fecha": "2026-07-31",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Decreto Milei: ¿Quién define el 'odio' a Argentina y sus ciudadanos?",
-    "bajada": "La polémica medida del gobierno genera un intenso debate sobre los límites de la libertad de expresión y la soberanía.",
-    "cuerpo": "El reciente decreto del Presidente Milei, que permite la expulsión de extranjeros por \"mensajes de odio\" hacia Argentina, enciende alarmas y divisiones. Si bien la defensa de la identidad nacional y la protección de los ciudadanos es un objetivo legítimo, la ambigüedad del término \"odio\" abre la puerta a interpretaciones discrecionales, lo que podría generar arbitrariedades y erosionar los principios de un Estado de Derecho. La medida se enmarca en una \"campaña antiargentina\", según fuentes oficiales, buscando proteger la imagen del país y a sus habitantes.\n\nCríticos de la normativa argumentan que, sin una definición clara y un proceso judicial robusto, la expulsión podría transformarse en una herramienta para silenciar voces disidentes o críticas legítimas. La preocupación radica en cómo se garantizará el debido proceso y quién tendrá la autoridad final para determinar qué constituye un \"agravio\" o \"mensaje de odio\". Ante este escenario, la discusión sobre la seguridad jurídica y los derechos individuales cobra una relevancia crucial. ¿Es este el camino para fortalecer la soberanía o se corre el riesgo de un control excesivo del Estado?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "decreto-milei-quien-define-odio-argentina",
-    "fecha": "2026-07-30",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Infantino desafía la soberanía: ¿Malvinas en riesgo por FIFA?",
-    "bajada": "La FIFA abre una polémica investigación sobre la bandera de Malvinas, encendiendo el debate nacional.",
-    "cuerpo": "La FIFA, bajo la presidencia de Gianni Infantino, ha iniciado un proceso disciplinario contra la AFA y tres jugadores argentinos por la exhibición de una bandera con la leyenda \"Las Malvinas son Argentinas\" durante la final del Mundial. Esta decisión ha provocado una ola de indignación en el país, donde la cuestión de la soberanía sobre las islas es un tema de Estado innegociable. La postura de FIFA se percibe como una injerencia inaceptable en una causa que trasciende lo deportivo, tocando fibras sensibles de la identidad nacional.\n\nDesde la AFA, se espera una defensa enérgica, argumentando que la manifestación es un sentir legítimo del pueblo argentino, no una provocación política. La investigación pone de manifiesto la tensión entre la normativa deportiva internacional y el derecho de los pueblos a expresar sus reclamos históricos. ¿Debe el fútbol ser un espacio aséptico de toda manifestación política o es una plataforma legítima para visibilizar causas nacionales como la de #MalvinasArgentinas?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "infantino-desafia-soberania-malvinas-riesgo-fifa",
-    "fecha": "2026-07-30",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Escándalo FIFA: ¿Infantino limpia la AFA o avanza la 'casta'?",
-    "bajada": "La FIFA abre investigaciones que exponen la fragilidad institucional del fútbol argentino y su dirigencia.",
-    "cuerpo": "La FIFA, con Gianni Infantino a la cabeza, ha abierto procesos disciplinarios contra la AFA, varios jugadores y un miembro técnico de la Selección Argentina por incidentes en el Mundial. Más allá de las causas específicas –que incluyen desde comportamientos en el campo hasta declaraciones– esta medida pone de manifiesto una vez más la frágil institucionalidad del fútbol argentino y la permisividad que ha caracterizado a sus dirigentes, la \"casta\" del deporte. Mientras algunos ven una necesaria mano dura del ente rector, otros temen una injerencia excesiva.\n\nLa AFA deberá presentar sus descargos, enfrentándose a posibles sanciones que podrían afectar la imagen y la economía del fútbol local. Este panorama obliga a reflexionar sobre la gestión actual de las federaciones y el control que ejerce la FIFA. ¿Son estos procesos una oportunidad para transparentar y reformar el fútbol argentino, o solo una excusa para que poderes externos impongan su agenda, debilitando aún más la autonomía de nuestra institución, tan permeable a los vicios de la 'vieja política'?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "escandalo-fifa-infantino-limpia-afa-o-avanza-casta",
-    "fecha": "2026-07-30",
-    "imagen": "img/sociedad_4.png",
     "destacada": false
   }
 ]
