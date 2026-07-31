@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Fin del 'robo de la política'? La audaz reforma del Banco Central",
+    "bajada": "El presidente Milei propone cambiar radicalmente el rol del BCRA, acusándolo de ser cómplice de la \"alta política\".",
+    "cuerpo": "Javier Milei redobló la apuesta contra la \"casta\" al presentar sus propuestas para desmantelar la capacidad del Banco Central de financiar el gasto público. El mandatario calificó al organismo como una \"herramienta que posibilitó el robo de la alta política\", enfatizando la necesidad de una profunda reforma estructural para restaurar la disciplina fiscal y poner fin a décadas de emisión descontrolada que generaron inflación. Esta visión, central en el ideario liberal, busca cortar de raíz la discrecionalidad política sobre la moneda.\n\nLa discusión se centra ahora en el Congreso, donde las fuerzas políticas deberán definir si acompañan una iniciativa que busca limitar drásticamente el poder de imprimir dinero. Si bien los críticos alertan sobre posibles impactos en la gobernabilidad o la capacidad de respuesta ante crisis, la propuesta de Milei apunta a un cambio de paradigma: que el Estado se financie con recursos genuinos y no con la licuación del poder adquisitivo de los ciudadanos. ¿Es esta la receta definitiva para terminar con la inflación y el \"saqueo\" al que se refiere el Presidente?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "fin-del-robo-de-la-politica-la-audaz-reforma-del-banco-central",
+    "fecha": "2026-07-31",
+    "imagen": "img/economia_4.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿Mano dura o censura? Milei decreta expulsión por 'agravio' a Argentina",
+    "bajada": "Un nuevo decreto presidencial busca expulsar a extranjeros con \"mensajes de odio\" contra la Nación. ¿Límite a la libertad de expresión o defensa nacional legítima?",
+    "cuerpo": "El gobierno de Javier Milei ha emitido un controvertido decreto que permite la expulsión de extranjeros que \"agravien a los argentinos\" o expresen \"mensajes de odio\" contra la Nación. La medida, que busca defender la soberanía y la imagen del país, generó un intenso debate sobre los límites de la libertad de expresión y la autoridad estatal para definir qué constituye un \"agravio\". Desde el oficialismo, se argumenta que es una respuesta necesaria ante discursos denigrantes que atentan contra la identidad nacional.\n\nSin embargo, voces críticas desde distintos sectores de la sociedad civil y la oposición advierten sobre el riesgo de ambigüedad en la aplicación de la norma, temiendo que pueda derivar en censura o persecución política. La clave estará en la interpretación y los criterios que se utilicen para determinar qué expresiones califican como \"agravio\" y bajo qué procedimientos se garantizará el debido proceso. ¿Es esta una medida esencial para proteger el honor nacional o una peligrosa puerta a la arbitrariedad y la restricción de libertades?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mano-dura-o-censura-milei-decreta-expulsion-por-agravio-a-argentina",
+    "fecha": "2026-07-31",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Malvinas en juego: ¿castigo a Argentina por soberanía? La absurda propuesta inglesa",
+    "bajada": "Un periodista británico propone sanciones a la Selección Argentina por exhibir la bandera de Malvinas. ¿Hasta dónde llega el revisionismo histórico y la injerencia extranjera?",
+    "cuerpo": "La eterna disputa por las Islas Malvinas reaviva la polémica tras la propuesta de un periodista inglés de castigar a la Selección Argentina y a Enzo Fernández por exhibir la bandera de las islas. Este incidente, que va más allá de lo deportivo, toca una fibra sensible en la identidad nacional argentina, donde la soberanía sobre el archipiélago es una causa irrenunciable. Desde la prensa británica se habla de \"provocación\", mientras que en Argentina se interpreta como la reafirmación de un derecho histórico y una memoria viva.\n\nLa situación pone en evidencia cómo ciertos sectores aún intentan condicionar la expresión del sentimiento nacional argentino en foros internacionales. La respuesta oficial, tanto deportiva como diplomática, deberá ser contundente ante lo que se percibe como una injerencia inaceptable. ¿Es posible separar el deporte de la política en cuestiones tan arraigadas como Malvinas, o estamos ante un nuevo intento de silenciar el legítimo reclamo de una nación?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "malvinas-en-juego-castigo-a-argentina-por-soberania-la-absurda-propuesta-inglesa",
+    "fecha": "2026-07-31",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Imprimir moneda, ¿delito? Milei presiona por un giro histórico al Banco Central",
+    "bajada": "El presidente busca penalizar la emisión monetaria para financiar el déficit, una reforma radical que redefine el rol del Estado y el BCRA.",
+    "cuerpo": "Javier Milei ha elevado la apuesta en su cruzada contra la inflación y el gasto público, proponiendo al Congreso que la emisión monetaria para financiar al Estado sea considerada un delito. Esta medida representa un quiebre fundamental con las prácticas económicas de las últimas décadas en Argentina, donde la maquinita de imprimir billetes fue una herramienta recurrente para cubrir déficits fiscales, con el consecuente deterioro del poder adquisitivo de los ciudadanos. La iniciativa busca institucionalizar la disciplina fiscal y cortar de raíz la tentación de solucionar problemas de caja con más emisión.\n\nLos defensores de la propuesta argumentan que es la única vía para garantizar la estabilidad económica y proteger el valor de la moneda, liberando al Banco Central de la presión política. Sin embargo, los críticos advierten sobre la rigidez que podría imponer a la política económica, limitando la capacidad del Estado para intervenir en momentos de crisis o para implementar políticas contracíclicas. ¿Es esta una propuesta valiente para terminar con la irresponsabilidad fiscal, o una medida extrema que podría atar de manos al próximo gobierno?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "imprimir-moneda-delito-milei-presiona-por-un-giro-historico-al-banco-central",
+    "fecha": "2026-07-31",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Tragedia en la costa: Muere adolescente argentina en Punta del Este. ¿Falla de seguridad?",
+    "bajada": "La muerte de una joven argentina en la costa uruguaya conmociona a la región. Se reabre el debate sobre la seguridad en destinos turísticos.",
+    "cuerpo": "La trágica noticia del hallazgo del cuerpo de una adolescente argentina de 18 años en Punta del Este, un destino popular en la costa uruguaya, ha generado conmoción y preocupación en ambos países. La joven, que residía en Maldonado, fue encontrada sin vida tras varios días de búsqueda, abriendo interrogantes sobre las circunstancias de su muerte y la efectividad de los protocolos de seguridad. Este lamentable suceso vuelve a poner en el centro de la escena la vulnerabilidad de los jóvenes y la necesidad de reforzar la protección en zonas de alta concurrencia turística.\n\nMás allá de la investigación criminal en curso, el caso invita a una reflexión profunda sobre la seguridad personal, especialmente para quienes viajan o residen en lugares con gran afluencia. Las autoridades deberán esclarecer los hechos rápidamente y determinar si hubo falencias que pudieron haber prevenido esta tragedia. ¿Es suficiente la seguridad ofrecida en estos balnearios, o se necesita una mayor coordinación y recursos para proteger a quienes disfrutan de nuestras costas?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "tragedia-en-la-costa-muere-adolescente-argentina-en-punta-del-este-falla-de-seguridad",
+    "fecha": "2026-07-31",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Odio o estrategia? Mia Khalifa explica su campaña anti-Argentina",
+    "bajada": "La influencer revela por qué detesta a la Selección y al país, desatando un nuevo round de polémica en redes.",
+    "cuerpo": "La controversia en torno a Mia Khalifa y su \"campaña anti-Argentina\" tomó un nuevo giro cuando la influencer reveló los motivos de su aversión a la Selección y al país. Según sus declaraciones, la raíz de su enojo sería una camiseta personalizada, un detalle que para muchos no justifica la magnitud de su postura. Este tipo de declaraciones genera un fuerte impacto en las redes sociales, donde el sentimiento nacional y el orgullo futbolístico son temas extremadamente sensibles para los argentinos.\n\nMientras algunos desestiman sus comentarios como una búsqueda de atención o una estrategia de marketing, otros se indignan ante lo que perciben como un ataque injustificado a la identidad nacional y al fervor deportivo. La situación pone de manifiesto cómo figuras públicas internacionales pueden influir y polarizar opiniones en contextos culturales específicos. ¿Es esta una muestra de la banalización de la crítica o un reflejo de que el fanatismo puede llevar a reacciones desmedidas de ambos lados?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "odio-o-estrategia-mia-khalifa-explica-su-campana-anti-argentina",
+    "fecha": "2026-07-31",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "FIFA contra Argentina: ¿Cuánto cuesta la falta de disciplina mundialista?",
+    "bajada": "La FIFA abre procesos disciplinarios contra la Selección Argentina por incidentes en el Mundial. ¿Un golpe a la imagen internacional y al bolsillo?",
+    "cuerpo": "La FIFA ha iniciado procesos disciplinarios contra la Selección Argentina a raíz de incidentes ocurridos durante el Mundial 2026, una noticia que vuelve a poner en el ojo de la tormenta la conducta de algunos aficionados y miembros de la delegación. Estos procedimientos podrían derivar en multas económicas significativas o incluso sanciones deportivas, afectando la imagen de Argentina en el concierto futbolístico global. Si bien la pasión por el fútbol es un sello distintivo del país, los excesos y la falta de disciplina empañan los logros deportivos.\n\nEste tipo de situaciones, recurrentes en la historia del fútbol argentino, exigen una reflexión sobre la responsabilidad de los organismos y de los propios protagonistas en mantener un comportamiento ejemplar. Mientras la AFA deberá presentar sus descargos, la afición se pregunta si estas conductas aisladas terminan costando caro a la imagen del país. ¿Es hora de endurecer las medidas para preservar la reputación deportiva de Argentina, o la pasión desmedida es un componente inescindible de nuestro fútbol?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "fifa-contra-argentina-cuanto-cuesta-la-falta-de-disciplina-mundialista",
+    "fecha": "2026-07-31",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "Decreto Milei: ¿Quién define el 'odio' a Argentina y sus ciudadanos?",
     "bajada": "La polémica medida del gobierno genera un intenso debate sobre los límites de la libertad de expresión y la soberanía.",
     "cuerpo": "El reciente decreto del Presidente Milei, que permite la expulsión de extranjeros por \"mensajes de odio\" hacia Argentina, enciende alarmas y divisiones. Si bien la defensa de la identidad nacional y la protección de los ciudadanos es un objetivo legítimo, la ambigüedad del término \"odio\" abre la puerta a interpretaciones discrecionales, lo que podría generar arbitrariedades y erosionar los principios de un Estado de Derecho. La medida se enmarca en una \"campaña antiargentina\", según fuentes oficiales, buscando proteger la imagen del país y a sus habitantes.\n\nCríticos de la normativa argumentan que, sin una definición clara y un proceso judicial robusto, la expulsión podría transformarse en una herramienta para silenciar voces disidentes o críticas legítimas. La preocupación radica en cómo se garantizará el debido proceso y quién tendrá la autoridad final para determinar qué constituye un \"agravio\" o \"mensaje de odio\". Ante este escenario, la discusión sobre la seguridad jurídica y los derechos individuales cobra una relevancia crucial. ¿Es este el camino para fortalecer la soberanía o se corre el riesgo de un control excesivo del Estado?",
@@ -9,7 +93,7 @@
     "slug": "decreto-milei-quien-define-odio-argentina",
     "fecha": "2026-07-30",
     "imagen": "img/politica_7.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Infantino desafía la soberanía: ¿Malvinas en riesgo por FIFA?",
@@ -201,90 +285,6 @@
     "slug": "fifa-investiga-argentina-malvinas-en-juego-o-solo-show",
     "fecha": "2026-07-30",
     "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Mauro Icardi y la Justicia: ¿Un show mediático o colapso judicial?",
-    "bajada": "El futbolista Mauro Icardi arremete contra la justicia argentina en medio del escándalo por la tenencia de sus hijas. ¿Otro capítulo de un drama familiar o una señal de un sistema judicial en crisis?",
-    "cuerpo": "El conflicto mediático entre Mauro Icardi y Wanda Nara escaló a un nuevo nivel con las duras críticas del futbolista a la justicia argentina, en un tema tan sensible como el regreso de sus hijas al país. Este tipo de declaraciones, aunque provenientes del ámbito del espectáculo, exponen la percepción de ineficiencia o, peor aún, de parcialidad que a menudo recae sobre el sistema judicial. ¿Es el caso Icardi un reflejo de los problemas estructurales que atraviesa nuestra justicia, o simplemente el desahogo de un padre frustrado?\n\nDesde Panorama.ar, la falta de celeridad y la burocracia en los tribunales son problemas endémicos que afectan a miles de ciudadanos, no solo a figuras públicas. Mientras el entorno del futbolista alega demoras injustificadas y una justicia que no garantiza los derechos de los menores, voceros del ámbito judicial insisten en la complejidad de los casos de familia y la necesidad de respetar los tiempos procesales. Sin embargo, cuando un caso tan visible como el de Icardi se enloda en controversias, la confianza en el sistema se erosiona aún más. ¿Hasta cuándo se permitirá que la lentitud y las percepciones de arbitrariedad empañen la imagen de una institución que debería ser pilar de la República?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mauro-icardi-y-la-justicia-un-show-mediatico-o-colapso-judicial",
-    "fecha": "2026-07-30",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina y Brasil: ¿Tensión diplomática, o juego político?",
-    "bajada": "Las relaciones con Brasil se tensan tras declaraciones del vicepresidente brasileño sobre Javier Milei. ¿Riesgo para la economía o una disputa ideológica que podemos evitar?",
-    "cuerpo": "La escalada de tensión diplomática entre Argentina y Brasil, evidenciada por las recientes declaraciones del vicepresidente brasileño dirigidas a Javier Milei, plantea un serio interrogante sobre el futuro de la relación bilateral. Desde el Palacio del Planalto, se observan con recelo algunos movimientos y declaraciones del gobierno argentino, lo que genera fricciones en un vínculo históricamente crucial para el comercio y la estabilidad regional. ¿Es esta una confrontación necesaria para reafirmar principios o un costo evitable para la economía y la geopolítica de la región?\n\nPara Panorama.ar, si bien la defensa de la soberanía ideológica es un valor, los cruces diplomáticos deben medirse cuidadosamente por sus impactos. Voceros del gobierno de Milei justifican la postura firme ante lo que consideran injerencias o críticas infundadas, priorizando la coherencia ideológica. Sin embargo, cámaras empresarias y economistas advierten sobre las posibles repercusiones negativas para el intercambio comercial, que asciende a miles de millones de dólares anuales y afecta directamente a sectores clave como el automotriz. La relación con nuestro principal socio del Mercosur es un delicado equilibrio entre convicciones y pragmatismo. ¿Podrán ambos gobiernos encontrar un punto de encuentro que priorice los intereses de sus naciones por encima de las diferencias ideológicas?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-y-brasil-tension-diplomatica-o-juego-politico",
-    "fecha": "2026-07-30",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Euro hoy: ¿Reflejo de nuestra economía o espejismo monetario?",
-    "bajada": "La cotización del Euro sigue de cerca, siendo un termómetro de la economía argentina. ¿Qué nos dice su valor sobre la salud de nuestras finanzas y el futuro de la inversión?",
-    "cuerpo": "La cotización diaria del Euro en Argentina es más que un simple número; es un indicador clave de la percepción de riesgo, la estabilidad macroeconómica y la confianza de los inversores. En un país con un historial de inestabilidad monetaria y alta inflación, cada movimiento del Euro, al igual que el Dólar, es analizado con lupa por ahorristas y empresarios. ¿Estamos viendo un reflejo genuino de una economía que busca estabilizarse, o las intervenciones estatales distorsionan el verdadero valor de la moneda?\n\nDesde Panorama.ar, sostenemos que la transparencia y la libertad en el mercado de cambios son fundamentales para atraer inversiones y generar predictibilidad. La brecha entre las distintas cotizaciones del Euro, a menudo consecuencia de restricciones y regulaciones, no hace más que generar incertidumbre y desalentar el ahorro productivo. Mientras el gobierno busca controlar las variables, el mercado, con sus fluctuaciones, muestra una realidad persistente de devaluación del peso. ¿Hasta cuándo se podrá sostener un sistema que genera más especulación que inversión genuina, y cuándo tendremos un Euro que refleje una economía argentina sana y competitiva?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "euro-hoy-reflejo-de-nuestra-economia-o-espejismo-monetario",
-    "fecha": "2026-07-30",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Industria Automotriz: ¿Víctima de la diplomacia fallida?",
-    "bajada": "La escalada de tensiones diplomáticas amenaza con golpear fuerte a la industria automotriz, un sector vital para la economía argentina y con fuertes lazos con los mercados regionales.",
-    "cuerpo": "La industria automotriz argentina, un pilar fundamental de nuestra economía que genera miles de empleos directos e indirectos, se encuentra en alerta máxima ante la posible acentuación de las tensiones diplomáticas con países clave, especialmente Brasil. Este sector, altamente integrado a cadenas de valor regionales, es particularmente vulnerable a los vaivenes políticos y las restricciones comerciales. ¿Está el sector automotriz destinado a ser una víctima colateral de conflictos que exceden sus capacidades de injerencia?\n\nDesde Panorama.ar, la previsibilidad y la apertura de mercados son condiciones indispensables para el desarrollo industrial. Las empresas automotrices, con inversiones millonarias y una planificación a largo plazo, necesitan estabilidad para operar y expandirse. La imposición de aranceles, barreras no arancelarias o la interrupción de cadenas de suministro debido a 'cruces con otros países' no solo afecta la producción, sino que encarece los productos para el consumidor final y reduce la competitividad exportadora. Mientras el gobierno actual defiende una postura de firmeza en las relaciones internacionales, el costo para sectores estratégicos como el automotriz podría ser significativo. ¿Es el proteccionismo o la confrontación diplomática una estrategia sostenible para una industria que depende intrínsecamente del comercio exterior y la integración regional?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "industria-automotriz-victima-de-la-diplomacia-fallida",
-    "fecha": "2026-07-30",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "FIFA investiga bandera de Malvinas: ¿censura o respeto internacional?",
-    "bajada": "La polémica sanción que podría enfrentar la Selección Argentina tras la final del Mundial desata el debate sobre soberanía y protocolos.",
-    "cuerpo": "El Comité Disciplinario de la FIFA abrió un expediente contra Argentina por la exhibición de la bandera de 'Las Malvinas son Argentinas' y por incidentes durante la final. Esta medida genera un profundo malestar en el país, donde la frase es un símbolo de soberanía irrenunciable. Los tres jugadores implicados, aunque no nombrados en los artículos de entrada, enfrentan posibles sanciones que van desde multas hasta suspensiones, lo que añade tensión a la relación entre la AFA y el organismo internacional.\n\nLa postura de la FIFA, que se apega a estrictos códigos de conducta que prohíben manifestaciones políticas, choca con el sentimiento nacional de Argentina, que considera el reclamo por Malvinas una causa de Estado. Mientras algunos argumentan que las reglas deben ser iguales para todos y que el fútbol no debe mezclarse con la política, otros denuncian una doble vara y una intromisión en un asunto de legítima memoria e identidad nacional.\n\n¿Es la FIFA un ente neutral o sus decisiones se alinean con intereses que intentan acallar reclamos históricos? La discusión sobre la independencia de los organismos deportivos y la soberanía de los pueblos vuelve al centro del debate.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fifa-investiga-bandera-malvinas",
-    "fecha": "2026-07-30",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Tensión Milei-Lula: ¿diplomacia o provocación calculada?",
-    "bajada": "El enfrentamiento con Brasil escala mientras el Gobierno justifica las críticas presidenciales y la oposición repudia los agravios.",
-    "cuerpo": "La relación bilateral con Brasil atraviesa su punto más bajo, luego de que el vicepresidente brasileño declarara que Milei 'perjudica a la Argentina' y que el Gobierno justificara los ataques del presidente a Lula. La oposición, en tanto, calificó los agravios como 'una vergüenza' para el país, señalando la inmadurez diplomática y el daño a la inserción internacional argentina. El embajador brasileño permanece fuera de Buenos Aires, un claro signo de la escalada.\n\nDesde Casa Rosada argumentan que las declaraciones de Milei reflejan una política exterior de principios y no de conveniencias, buscando desmarcarse de lo que consideran 'diplomacia ideológica' del pasado. Sin embargo, los críticos advierten que este choque frontal con el principal socio comercial no solo aísla a Argentina, sino que también pone en riesgo acuerdos y exportaciones clave en un momento económico delicado.\n\n¿Priorizar la ideología sobre la pragmática en política exterior es un signo de valentía o de una peligrosa miopía para los intereses nacionales? El costo de la confrontación diplomática se debate intensamente en el ámbito público y privado.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "tension-milei-lula-diplomacia-provocacion",
-    "fecha": "2026-07-30",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Cristina Kirchner reaparece: ¿convicción o estrategia electoral?",
-    "bajada": "La ex vicepresidenta publicó una carta abierta defendiendo sus convicciones, en un momento clave de reconfiguración política.",
-    "cuerpo": "Cristina Kirchner volvió al ruedo político con una carta abierta en la que afirma que 'nunca podrán quebrar mis convicciones ni mi compromiso con la Argentina'. La misiva surge en un contexto de reacomodamiento dentro del peronismo y frente a los desafíos del actual gobierno, generando diversas interpretaciones sobre su verdadero alcance. Para sus seguidores, es un mensaje de resistencia y liderazgo; para sus detractores, una movida calculada para mantener influencia y presionar internamente.\n\nLa carta, difundida por Página|12, no solo reitera su visión sobre la política y la economía nacional, sino que también busca marcar la cancha frente a disidencias internas y posibles nuevos liderazgos dentro de su espacio. Es un recordatorio de su presencia y un intento de establecer la agenda, aún sin ocupar un cargo formal.\n\n¿Es esta una genuina declaración de principios o el inicio de una nueva etapa de su estrategia para influir en el futuro político argentino? La lectura de su 'compromiso con la Argentina' genera polémica, como es habitual, entre quienes la ven como una voz necesaria y quienes la critican por su constante polarización.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "cristina-kirchner-reaparece-conviccion-estrategia",
-    "fecha": "2026-07-30",
-    "imagen": "img/politica_4.png",
     "destacada": false
   }
 ]
