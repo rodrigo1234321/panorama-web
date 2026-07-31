@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Odio o libre expresión? El decreto de Milei que tensa la soberanía.",
+    "bajada": "La medida presidencial busca castigar mensajes \"anti-Argentina\", generando un fuerte debate sobre sus límites y efectos.",
+    "cuerpo": "El reciente decreto del gobierno de Javier Milei que permite la expulsión de extranjeros que emitan \"mensajes de odio\" contra Argentina ha encendido la polémica. Desde el Poder Ejecutivo, se argumenta que esta es una medida necesaria para proteger la integridad nacional y la convivencia, actuando con mano dura ante quienes, viviendo en el país, lo denostan. La iniciativa se presenta como una reafirmación de soberanía y un freno al \"garantismo\" que, según esta visión, ha erosionado la autoridad estatal.\n\nSin embargo, voces críticas, incluyendo sectores de la oposición y organizaciones de derechos humanos, alertan sobre los posibles riesgos para la libertad de expresión y los derechos individuales. Sostienen que la ambigüedad en la definición de \"mensajes de odio\" podría abrir la puerta a interpretaciones arbitrarias y persecuciones políticas, desdibujando la frontera entre la crítica legítima y la agresión punible. Este pulso entre seguridad nacional y libertades fundamentales expone las tensiones inherentes a un Estado que busca restaurar el orden a ultranza.\n\n¿Es este decreto una defensa necesaria de la patria o un desliz autoritario que amenaza las bases republicanas de la Argentina?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "gobierno-milei-expulsa-extranjeros-odio-argentina",
+    "fecha": "2026-07-31",
+    "imagen": "img/politica_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿FIFA o tribunal político? El insólito ataque por Malvinas a Argentina.",
+    "bajada": "Un periodista inglés propone sancionar a Enzo Fernández por mostrar la bandera de Malvinas, reviviendo tensiones históricas y cuestionando el rol de la FIFA.",
+    "cuerpo": "La controversia generada por un periodista inglés que sugiere castigar a la Selección Argentina y a Enzo Fernández por exhibir la bandera de Malvinas en el Mundial 2026 ha desatado una ola de indignación. Este episodio reabre la herida de una cuestión soberana innegociable para los argentinos, poniendo en evidencia la instrumentalización política de eventos deportivos y la hipocresía de ciertos discursos que exigen \"neutralidad\" mientras atacan símbolos nacionales.\n\nDesde Argentina, la postura es unánime: la bandera de Malvinas no es un \"mensaje político\" sino una reafirmación irrenunciable de soberanía. La posibilidad de que la FIFA ceda a presiones de este tipo y proceda con sanciones sería un precedente alarmante, transformando al organismo deportivo en un tribunal político que atenta contra la identidad de sus miembros, especialmente cuando se trata de reclamos legítimos sobre el territorio.\n\n¿Hasta dónde puede avanzar la intromisión de poderes externos en la expresión de un sentimiento patrio tan arraigado? La FIFA debe decidir si se somete a la agenda de algunos o defiende la autonomía de las naciones en el fútbol.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "fifa-castiga-argentina-malvinas-pregunta",
+    "fecha": "2026-07-31",
+    "imagen": "img/politica_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Mia Khalifa: ¿Criticar Argentina es tendencia o ignorancia?",
+    "bajada": "La ex actriz de cine para adultos reveló el insólito motivo detrás de su \"campaña anti-Argentina\", exponiendo la superficialidad de ciertas polémicas digitales.",
+    "cuerpo": "La ex actriz de cine para adultos Mia Khalifa ha vuelto a generar revuelo al explicar su supuesta \"campaña anti-Argentina\", atribuyéndola a una camiseta personalizada que generó confusión. Este episodio, más allá de lo anecdótico, pone de manifiesto la ligereza con la que se construyen y viralizan debates en redes sociales, donde la provocación vacía a menudo eclipsa el análisis serio o el respeto por la identidad cultural de un país.\n\nMientras algunos lo ven como una humorada o una estrategia de marketing, para muchos argentinos, esta clase de comentarios trivializa cuestiones nacionales y alimenta un sentimiento de desprecio hacia la cultura y el fútbol, que son pilares de la identidad colectiva. La incomprensión de ciertos personajes públicos sobre la pasión y el orgullo argentino evidencia una desconexión preocupante.\n\n¿Es esta una prueba más de cómo la superficialidad de lo digital contamina el debate público, o simplemente la Argentina debe aprender a reírse de sí misma frente a cualquier provocación?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mia-khalifa-anti-argentina-camiseta-revela",
+    "fecha": "2026-07-31",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Tragedia en Punta del Este: ¿Justicia para una joven argentina?",
+    "bajada": "La misteriosa muerte de una joven argentina de 18 años en Punta del Este, tras varios días desaparecida, genera interrogantes sobre la seguridad y la investigación.",
+    "cuerpo": "La trágica muerte de una joven argentina de 18 años en Punta del Este, hallada sin vida tras una intensa búsqueda, ha conmocionado a la opinión pública. Este doloroso suceso no solo reaviva el debate sobre la seguridad en destinos turísticos frecuentados por argentinos, sino que también expone las falencias en la protección de los ciudadanos que viajan al exterior. La incertidumbre sobre las causas de su fallecimiento y la lentitud de las investigaciones preliminares profundizan la angustia de una sociedad que demanda respuestas urgentes.\n\nFamiliares y amigos exigen claridad y celeridad en la investigación, clamando por justicia y señalando la necesidad de que las autoridades uruguayas garanticen la transparencia del proceso. Este caso particular resalta una problemática más amplia: la vulnerabilidad de los jóvenes en entornos recreativos, y la responsabilidad compartida de los Estados en proteger a sus ciudadanos, dentro y fuera de sus fronteras.\n\n¿Hasta cuándo los argentinos deberán lamentar tragedias con un velo de impunidad, tanto en casa como en el extranjero? La sociedad exige verdad y que se tomen las medidas necesarias para prevenir futuros desenlaces fatales.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "tragedia-argentina-punta-del-este-impunidad",
+    "fecha": "2026-07-31",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Desregulación del BCRA? El sector privado aplaude a Milei.",
+    "bajada": "La Cámara Argentina de Comercio (CAC) celebró la reforma del Banco Central propuesta por Milei, un paso clave hacia la estabilidad económica según el gobierno.",
+    "cuerpo": "La Cámara Argentina de Comercio (CAC) expresó su \"satisfacción\" ante la anunciada reforma del Banco Central por parte del gobierno de Javier Milei, una señal clara del respaldo del sector privado a las políticas de desregulación y disciplina fiscal. Esta adhesión subraya la necesidad, largamente reclamada por los actores económicos, de poner fin a la emisión descontrolada y a la intromisión política en la autoridad monetaria, consideradas causas estructurales de la inflación y la inestabilidad.\n\nDesde el oficialismo, se presenta la reforma como un pilar fundamental para estabilizar la economía, fomentar la inversión y devolverle credibilidad a la moneda. Se busca limitar las facultades discrecionales del BCRA, enfocándolo en la contención de precios y en la defensa del valor del peso. Sin embargo, algunos analistas económicos advierten sobre los desafíos de implementar una desregulación tan profunda sin generar choques inesperados en un contexto de alta volatilidad.\n\n¿Es esta reforma el camino definitivo hacia la estabilidad o una apuesta arriesgada que podría traer nuevas turbulencias? El mercado y la ciudadanía esperan resultados concretos.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "reforma-banco-central-milei-apoyo-camara-comercio",
+    "fecha": "2026-07-31",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Rosalía en Argentina: ¿Artista criticada o debate superficial?",
+    "bajada": "La llegada de Rosalía a Buenos Aires reaviva la polémica por sus supuestas críticas al país, abriendo un debate sobre la susceptibilidad nacional.",
+    "cuerpo": "La llegada de la reconocida artista Rosalía a Argentina ha vuelto a poner en el centro de la escena un debate recurrente: la susceptibilidad nacional frente a las críticas de figuras públicas extranjeras. Aunque el motivo exacto de la \"polémica\" que la precede no siempre es claro o sustancial, estos episodios suelen generar una efervescencia en redes sociales, donde se mezclan el fervor fanático con el orgullo patrio.\n\nPara algunos, cualquier comentario negativo de un extranjero hacia Argentina es una afrenta que debe ser repudiada, una muestra de desinterés o ignorancia. Para otros, esta hipersensibilidad es excesiva y distrae de problemas más urgentes, transformando críticas menores en debates desproporcionados. La cultura popular, como en este caso la visita de un ícono global, a menudo se convierte en un espejo de las tensiones y los debates identitarios de una sociedad.\n\n¿Refleja esta polémica una defensa legítima del orgullo argentino o una tendencia a sobrereaccionar ante cualquier comentario, por irrelevante que sea?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "rosalia-argentina-critica-debate-artista",
+    "fecha": "2026-07-31",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Crisis en el auto argentino? Brasil y una amenaza inesperada.",
+    "bajada": "Un cambio de reglas en Brasil pone en jaque las exportaciones de la industria automotriz argentina, anticipando un escenario complejo para el próximo año.",
+    "cuerpo": "El mercado automotriz argentino enfrenta una \"alerta\" inesperada: un cambio en las regulaciones de Brasil amenaza con impactar significativamente las exportaciones y la producción local para el año que viene. La dependencia de la industria nacional del mercado brasileño, su principal destino de ventas, expone la fragilidad de un sector que históricamente ha luchado por consolidar un modelo de producción robusto e independiente. Este nuevo escenario subraya la urgente necesidad de diversificar mercados y fortalecer la competitividad interna.\n\nDesde las cámaras empresariales y sindicatos, se advierte sobre posibles caídas en la producción y el empleo, si no se encuentran soluciones rápidas o se negocian acuerdos bilaterales que mitiguen el impacto. La política económica de la región, y sus vaivenes, demuestra una vez más cómo las decisiones de un país vecino pueden desestabilizar planes y proyecciones de inversión en Argentina, afectando directamente la actividad económica y el futuro de miles de trabajadores.\n\n¿Cómo puede la industria automotriz argentina romper la histórica dependencia de Brasil y construir un futuro más resiliente? Es un debate crucial para la planificación económica.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "alerta-mercado-autos-brasil-amenaza-argentina",
+    "fecha": "2026-07-31",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Fin del 'robo de la política'? La audaz reforma del Banco Central",
     "bajada": "El presidente Milei propone cambiar radicalmente el rol del BCRA, acusándolo de ser cómplice de la \"alta política\".",
     "cuerpo": "Javier Milei redobló la apuesta contra la \"casta\" al presentar sus propuestas para desmantelar la capacidad del Banco Central de financiar el gasto público. El mandatario calificó al organismo como una \"herramienta que posibilitó el robo de la alta política\", enfatizando la necesidad de una profunda reforma estructural para restaurar la disciplina fiscal y poner fin a décadas de emisión descontrolada que generaron inflación. Esta visión, central en el ideario liberal, busca cortar de raíz la discrecionalidad política sobre la moneda.\n\nLa discusión se centra ahora en el Congreso, donde las fuerzas políticas deberán definir si acompañan una iniciativa que busca limitar drásticamente el poder de imprimir dinero. Si bien los críticos alertan sobre posibles impactos en la gobernabilidad o la capacidad de respuesta ante crisis, la propuesta de Milei apunta a un cambio de paradigma: que el Estado se financie con recursos genuinos y no con la licuación del poder adquisitivo de los ciudadanos. ¿Es esta la receta definitiva para terminar con la inflación y el \"saqueo\" al que se refiere el Presidente?",
@@ -9,7 +93,7 @@
     "slug": "fin-del-robo-de-la-politica-la-audaz-reforma-del-banco-central",
     "fecha": "2026-07-31",
     "imagen": "img/economia_4.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "¿Mano dura o censura? Milei decreta expulsión por 'agravio' a Argentina",
@@ -201,90 +285,6 @@
     "slug": "icardi-vs-justicia-argentina-nuevo-capitulo-show-mediatico",
     "fecha": "2026-07-30",
     "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Rosalía y el bolsillo: ¿Declaraciones de ministro atacan o defienden la cultura?",
-    "bajada": "Un ministro argentino lanza una polémica frase sobre Rosalía, generando debate sobre el rol del Estado en la cultura.",
-    "cuerpo": "Un ministro de Relaciones Exteriores argentino ha generado revuelo al afirmar que Rosalía habría pedido perdón porque \"le empezó a doler el bolsillo\". Esta declaración, lejos de ser un mero comentario, inserta una figura internacional en un debate político-económico, con tintes de burla y crítica hacia la artista o, implícitamente, hacia una postura cultural que no se alinea con la visión gubernamental.\n\nDesde Panorama.ar, observamos con preocupación cómo la \"casta\" política utiliza la cultura y las figuras públicas para sus propios fines discursivos. Más allá de la veracidad de la anécdota, el comentario presidencial trivializa el arte y lo subordina a una lógica puramente económica, en lugar de reconocer su valor intrínseco. ¿Es rol del Estado ridiculizar artistas o debería fomentar el intercambio cultural sin juicios de valor basados en el rédito económico?\n\nEste episodio plantea una reflexión sobre la relación entre política, economía y cultura en Argentina. ¿Deberían los funcionarios públicos inmiscuirse en la vida o las finanzas de artistas internacionales, o su foco debería estar en la gestión de políticas que beneficien a todos los ciudadanos, dejando a un lado los comentarios incendiarios? ¿Qué dice esto de la percepción del arte en la esfera pública actual?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "rosalia-y-el-bolsillo-declaraciones-ministro-atacan-o-defienden-cultura",
-    "fecha": "2026-07-30",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Tragedia en Punta del Este: ¿Qué hay detrás de la muerte de la joven argentina?",
-    "bajada": "La desaparición y muerte de una joven en un balneario top reabre interrogantes sobre seguridad y vulnerabilidad.",
-    "cuerpo": "La trágica muerte de una joven argentina de 18 años, hallada sin vida en Punta del Este tras ser reportada como desaparecida, ha conmocionado a la opinión pública. Este lamentable suceso, que aún está bajo investigación judicial en Uruguay, plantea serias preguntas sobre la seguridad de los jóvenes en destinos turísticos y la efectividad de los protocolos de búsqueda de personas.\n\nDesde Panorama.ar, insistimos en la necesidad de un enfoque de mano dura y prevención efectiva en casos de desapariciones y posibles crímenes. La recurrencia de estas tragedias exige un análisis profundo sobre cómo se protege a los más vulnerables y si las autoridades, tanto locales como internacionales, están a la altura de las circunstancias. No podemos permitir que la sombra de la impunidad o la inacción oscurezca la búsqueda de la verdad. ¿Existen redes de \"Trata de Personas\" que operan impunemente en la región?\n\nLa justicia local analiza diversas hipótesis, pero la falta de respuestas claras alimenta la preocupación social. ¿Estamos haciendo lo suficiente para garantizar la seguridad de nuestros jóvenes en el exterior? ¿O esta tragedia expone fallas sistémicas que requieren una reforma urgente en la prevención del delito y la protección ciudadana?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "tragedia-punta-del-este-muerte-joven-argentina",
-    "fecha": "2026-07-30",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Mia Khalifa ataca a Argentina: ¿Otra provocación o reflejo de imagen compleja?",
-    "bajada": "La ex estrella para adultos vuelve a arremeter contra el país, ¿qué se esconde detrás de estas declaraciones?",
-    "cuerpo": "Mia Khalifa ha vuelto a generar revuelo en las redes sociales al lanzar nuevas críticas contra Argentina, acompañada de una confesión sobre sus motivaciones. Este tipo de declaraciones, aunque a menudo buscan la controversia y la visibilidad, plantean un interesante debate sobre la imagen internacional del país y cómo ciertas figuras mediáticas, independientemente de su ámbito, pueden influir en la percepción colectiva.\n\nDesde Panorama.ar, consideramos que, más allá del personaje o la intención, es relevante analizar por qué estas provocaciones generan tanta repercusión. ¿Es Argentina demasiado sensible a la crítica externa, o hay una parte de verdad en algunas observaciones que el orgullo nacional nos impide ver? Es fácil desestimar los comentarios de figuras como Khalifa, pero su persistencia en el \"ataque\" debería, al menos, invitarnos a la reflexión sobre cómo nos posicionamos ante el mundo.\n\nEste episodio, que podría verse como mero entretenimiento, nos obliga a preguntarnos: ¿Estamos preparados para una autocrítica constructiva, incluso cuando viene de fuentes inusuales? ¿O preferimos cerrarnos en una postura defensiva que impide un verdadero examen de nuestra imagen y desafíos como nación?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mia-khalifa-ataca-argentina-otra-provocacion-o-reflejo",
-    "fecha": "2026-07-30",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Messi y Argentina: ¿Distancia por negocios o por la presión del país?",
-    "bajada": "La corta estadía de Lionel Messi en el país genera especulaciones sobre su relación con su tierra natal.",
-    "cuerpo": "La decisión de Lionel Messi de no extender sus vacaciones en Argentina y regresar prontamente a Miami ha encendido el debate público. Mientras los hinchas anhelan su presencia y disfrutan cada momento del ídolo en casa, su rápida partida levanta interrogantes sobre las presiones que rodean a la figura más grande del fútbol argentino y su relación con el país que lo vio nacer.\n\nDesde una perspectiva crítica, ¿es la excesiva idolatría y la intrusión en su vida privada lo que empuja a Messi a buscar refugio en el exterior? Es innegable que la presión mediática y social en Argentina es abrumadora para cualquier figura pública, y aún más para un ícono como él. Panorama.ar se pregunta si la \"casta\" periodística y el público no contribuyen, inconscientemente, a alejar a quienes más queremos ver cerca.\n\nEste episodio invita a una reflexión más amplia sobre nuestra cultura de la idolatría y el escrutinio público. ¿Podemos permitir que nuestras figuras más grandes tengan una vida normal en su país, o la presión y las expectativas son siempre demasiado altas? ¿Qué implicancias tiene para la Selección Argentina, que depende tanto de su figura, que Messi priorice otros entornos?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "messi-y-argentina-distancia-por-negocios-o-presion",
-    "fecha": "2026-07-30",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Cristina Kirchner reaparece: ¿Mismo libreto, distinto final?",
-    "bajada": "La ex Presidenta lanzó una carta abierta cargada de simbolismo, pero ¿realmente ofrece una nueva visión para el país?",
-    "cuerpo": "La reaparición de Cristina Kirchner con una carta abierta genera un revuelo esperado en el escenario político nacional. En un contexto de profundas transformaciones y redefiniciones ideológicas, la ex Presidenta busca marcar la cancha, insistiendo en la defensa de sus 'convicciones' y su 'compromiso con la Argentina'. Este movimiento, si bien previsible, invita a un análisis crítico: ¿es una genuina autocrítica o un intento de reposicionamiento estratégico ante un electorado que demanda cambios urgentes?\n\nDesde la perspectiva liberal de Panorama.ar, la carta de Cristina Kirchner parece anclarse en premisas ya conocidas, que históricamente han derivado en el ensanchamiento del Estado, el gasto público descontrolado y la asfixia del sector productivo. Si bien subraya su compromiso con el país, la clave está en qué modelo de país se defiende. La retórica populista, aunque emotiva, no resuelve los problemas estructurales que aquejan a millones de argentinos, como la inflación galopante o la presión impositiva. ¿Podrá el kirchnerismo, o sus referentes, ofrecer una propuesta que rompa con el ciclo de estancamiento que tanto se critica, o estamos frente a una reafirmación de viejas recetas que han demostrado su ineficacia?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "cristina-kirchner-reaparece-mismo-libreto-distinto-final",
-    "fecha": "2026-07-30",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "DNU de Milei: ¿Orden o censura a extranjeros en Argentina?",
-    "bajada": "El decreto que prohíbe el ingreso y ordena la expulsión de extranjeros 'incitadores al odio' genera un fuerte debate sobre soberanía y libertad de expresión.",
-    "cuerpo": "El reciente DNU emitido por el gobierno de Javier Milei que prohíbe el ingreso y posibilita la expulsión de extranjeros que 'expresen mensajes de odio' contra Argentina ha encendido la mecha de la polémica. La medida, justificada por el oficialismo como una defensa de la soberanía nacional y la integridad cívica, busca establecer un marco legal más estricto contra quienes, según la visión del Ejecutivo, buscan desestabilizar o denigrar al país. Desde una perspectiva de centro-derecha, la defensa de la identidad nacional es un pilar, pero la interpretación y aplicación de 'mensajes de odio' abre interrogantes sobre la amplitud de la discrecionalidad estatal.\n\nCríticos de la medida, incluyendo voces de la oposición, advierten sobre los riesgos de caer en la censura y de lesionar principios de libertad de expresión y de derechos humanos, argumentando que la definición de 'odio' puede ser subjetiva y utilizada con fines políticos. Por otro lado, quienes apoyan el decreto señalan que es una herramienta necesaria para contrarrestar campañas de desprestigio y proteger la imagen de Argentina en el plano internacional, tal como lo manifestaron voceros del gobierno al justificar la normativa. ¿Logrará este DNU fortalecer la posición de Argentina o sentará un peligroso precedente para las libertades individuales en nombre del orden nacional?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "dnu-de-milei-orden-o-censura-a-extranjeros-en-argentina",
-    "fecha": "2026-07-30",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "FIFA investiga a Argentina: ¿Malvinas en juego, o solo show?",
-    "bajada": "La FIFA abre expedientes contra la AFA y jugadores por la bandera de Malvinas y otros incidentes en la final del Mundial. ¿Es un ataque a la soberanía o un exceso reglamentario?",
-    "cuerpo": "La decisión de la FIFA de abrir procesos disciplinarios contra la AFA, algunos jugadores y un miembro técnico de la selección argentina por la exhibición de la bandera de 'Las Malvinas son Argentinas' y otros incidentes durante la final del Mundial ha desatado una ola de indignación nacional. Si bien los organismos deportivos tienen sus reglamentaciones internas, la sensibilidad del tema Malvinas en Argentina, una causa nacional que trasciende cualquier evento deportivo, pone en jaque la diplomacia futbolística. ¿Es la FIFA un ente neutral o una herramienta de presión política encubierta?\n\nDesde Panorama.ar, entendemos que la causa Malvinas es irrenunciable y que la expresión de soberanía no puede ser sancionada por un organismo internacional, más allá de formalismos. La reacción de los jugadores y el cuerpo técnico, impulsada por un profundo sentimiento patriótico, es comprensible. Sin embargo, la FIFA argumenta una posible violación de sus códigos disciplinarios, que prohíben manifestaciones políticas. Este conflicto subraya la tensión entre la pasión y la política en el deporte, y deja abierta la pregunta: ¿la FIFA busca imponer una agenda globalista o simplemente aplica sus normas de forma imparcial, aun cuando chocan con los sentimientos más profundos de una nación?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fifa-investiga-argentina-malvinas-en-juego-o-solo-show",
-    "fecha": "2026-07-30",
-    "imagen": "img/sociedad_7.png",
     "destacada": false
   }
 ]
