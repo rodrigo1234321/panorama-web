@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Georgieva y Milei: ¿Crece la Economía o solo la narrativa oficial?",
+    "bajada": "La directora del FMI elogia la gestión argentina, pero los datos y la realidad cotidiana abren un debate necesario.",
+    "cuerpo": "Kristalina Georgieva, en su reciente visita a Argentina, destacó un supuesto crecimiento económico y una disminución de la pobreza, declaraciones que resonaron en la narrativa oficial. Sin embargo, analistas críticos y la población se preguntan si esta visión macroeconómica se alinea con la realidad de los ciudadanos, quienes aún enfrentan alta inflación y ajuste. La mención de Vaca Muerta como motor de desarrollo subraya el potencial, pero la distribución de esa riqueza y el impacto del ajuste fiscal son puntos clave.\n\nEl gobierno de **Milei** celebra los dichos de la titular del FMI, presentándolos como un aval internacional a su programa. No obstante, la crítica liberal advierte sobre el riesgo de un optimismo desmedido si no se acompaña de reformas estructurales profundas que realmente liberen el mercado y reduzcan el peso del Estado. ¿Estamos ante un verdadero despegue o una burbuja de optimismo financiada por un ajuste que castiga al sector productivo privado con excesiva presión impositiva?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "georgieva-y-milei-crece-la-economia-o-solo-la-narrativa-oficial",
+    "fecha": "2026-08-01",
+    "imagen": "img/economia_1.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Veto de Milei: ¿Silenciar a críticos o defender la Nación de discursos de odio?",
+    "bajada": "El gobierno implementa una polémica medida para vetar extranjeros que expresen 'odio' hacia Argentina, generando un profundo debate sobre libertad de expresión.",
+    "cuerpo": "El gobierno de **Milei** ha implementado una normativa para vetar el ingreso de extranjeros que, a su juicio, expresen 'odio' hacia Argentina. Esta medida, presentada como una defensa de la soberanía nacional y la identidad cultural, ha encendido las alarmas en diversos sectores sobre la libertad de expresión y los límites del poder estatal. ¿Quién define el 'odio' y cómo se garantiza que no se utilice para censurar opiniones críticas o disidentes, en lugar de proteger realmente de amenazas genuinas?\n\nDesde una perspectiva liberal, la restricción de la libertad de expresión, incluso para extranjeros, es un paso peligroso que puede sentar un precedente para futuras limitaciones internas. Si bien es legítimo proteger la reputación del país, la ambigüedad en la definición de 'odio' abre la puerta a la arbitrariedad. ¿Esta decisión, que podría vincularse al perfil ideológico que representa la propia **villarruel** en el gobierno, es un acto de soberanía necesario o un ataque a los pilares de la democracia y el debate público?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "veto-de-milei-silenciar-a-criticos-o-defender-la-nacion",
+    "fecha": "2026-08-01",
+    "imagen": "img/politica_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Milei endurece el 'grillete fiscal': ¿Libertad económica o ajuste implacable?",
+    "bajada": "Las nuevas reformas del gobierno de Milei apuntan a un 'grillete fiscal' para blindar su proyecto, con consecuencias directas para la actividad económica.",
+    "cuerpo": "El gobierno de **Milei** impulsa reformas económicas con el objetivo de establecer un 'grillete fiscal', una serie de mecanismos que buscan asegurar la disciplina presupuestaria y blindar su programa. Esta iniciativa es recibida con entusiasmo por quienes abogan por un Estado reducido y finanzas equilibradas, pero genera preocupación en sectores productivos y sociales que temen un ajuste aún más severo y una menor capacidad de respuesta estatal ante crisis.\n\nDesde nuestra óptica, la disciplina fiscal es indispensable, pero la clave reside en cómo se implementa. ¿Es este 'grillete' una herramienta para la verdadera libertad económica, liberando a los contribuyentes de la asfixia impositiva, o simplemente una forma de ajustar a la ciudadanía sin atacar de raíz el gasto de la 'casta' política y la burocracia estatal? La eficacia de estas reformas se medirá en si logran incentivar la inversión y la creación de empleo, o si profundizan la recesión.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "milei-endurece-el-grillete-fiscal-libertad-economica-o-ajuste-implacable",
+    "fecha": "2026-08-01",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Niño Godzilla vs. Producción: La Pachamama golpea la economía argentina. ¿Hay plan?",
+    "bajada": "Un fenómeno climático 'Niño Godzilla' amenaza gravemente al principal sector económico de Argentina, con consecuencias imprevisibles.",
+    "cuerpo": "Un preocupante fenómeno climático, apodado 'Niño Godzilla', se cierne sobre Argentina, amenazando directamente al sector agropecuario, pilar de nuestra economía. Las advertencias de la ONU sobre la intensificación de El Niño y sus eventos inusuales apuntan a un riesgo elevado de lluvias intensas e inundaciones, lo que podría diezmar cosechas y afectar la infraestructura productiva. Esta situación plantea una urgencia sobre la capacidad de respuesta del Estado y la resiliencia de nuestra producción.\n\nEn un país que depende fuertemente de la exportación de commodities agrícolas, la inacción o la falta de previsión ante un desastre natural de esta magnitud es inaceptable. Más allá de la invocación a la **Pachamama** o a la suerte, ¿cuenta el gobierno con un plan concreto y articulado para mitigar los efectos de este 'Niño Godzilla' y proteger a los productores, o el peso recaerá nuevamente sobre el sector privado, ya golpeado por la presión fiscal? La Argentina no puede permitirse el lujo de la improvisación frente a una amenaza tan palpable a su motor económico.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "nino-godzilla-vs-produccion-la-pachamama-golpea-la-economia-argentina-hay-plan",
+    "fecha": "2026-08-01",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Malvinas: ¿Castigar a Enzo Fernández por patriotismo o defender la soberanía Argentina?",
+    "bajada": "Un periodista inglés propone sancionar a Enzo Fernández y Argentina por la bandera de Malvinas, desatando una fuerte polémica internacional.",
+    "cuerpo": "La polémica se encendió cuando un periodista inglés sugirió castigar a Enzo Fernández y a la selección argentina por exhibir la bandera de Malvinas, reavivando una herida histórica y un reclamo de soberanía innegociable. Este incidente, que va más allá del ámbito deportivo, pone de manifiesto la persistencia de tensiones y la necesidad de reafirmar la postura argentina frente a un público internacional. ¿Es justo sancionar un acto de patriotismo que expresa un sentimiento nacional arraigado?\n\nDesde nuestra perspectiva, la defensa de la soberanía sobre las Islas Malvinas es una causa nacional que trasciende cualquier evento deportivo. Pretender censurar o castigar a un deportista por manifestar un sentimiento tan profundo es un intento inaceptable de silenciar una legítima demanda. ¿Hasta cuándo se permitirá que intereses externos intenten dictar cómo Argentina debe expresar su historia y sus derechos, y qué papel debe jugar el Estado para proteger a sus ciudadanos de tales embates?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "malvinas-castigar-a-enzo-fernandez-por-patriotismo-o-defender-la-soberania-argentina",
+    "fecha": "2026-08-01",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Economistas al poder: Solución de mercado o más casta con corbata en Argentina?",
+    "bajada": "La creciente injerencia de economistas en la 'rosca política' abre el interrogante sobre su verdadera contribución a la gestión pública.",
+    "cuerpo": "En Argentina, la 'rosca política' parece atraer cada vez más a economistas, quienes, desde la academia o el sector privado, se postulan como salvadores de la patria o asesores indispensables. Esta tendencia, aunque promete rigor técnico, genera un debate fundamental: ¿son los economistas realmente la solución a los males endémicos de la política, o simplemente representan una nueva faceta de la 'casta' que se recicla en diferentes roles de poder, sin ofrecer cambios sustanciales a la burocracia y el gasto público?\n\nSi bien la expertise económica es crucial para un país en crisis, la política requiere una visión más amplia que la mera gestión de números. La obsesión por colocar economistas en cada esfera de decisión puede derivar en tecnocracias desconectadas de las necesidades reales de la sociedad, o peor, en la justificación de políticas que, bajo el manto de la 'ciencia económica', terminan beneficiando a intereses particulares. ¿Es la llegada de más economistas al poder una verdadera reforma del Estado o solo una renovación de caras en el mismo sistema de privilegios?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "economistas-al-poder-solucion-de-mercado-o-mas-casta-con-corbata-en-argentina",
+    "fecha": "2026-08-01",
+    "imagen": "img/politica_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Por qué odiar Argentina? Un espejo de frustración y deuda con la sociedad.",
+    "bajada": "Un crudo testimonio sobre el 'día que se odió a Argentina' invita a una profunda reflexión sobre las falencias que nos impiden progresar.",
+    "cuerpo": "La visceral frase 'el día que odié a la Argentina' resuena como un eco de la frustración que muchos ciudadanos experimentan frente a la realidad del país. Más allá del patriotismo ciego, es necesario analizar qué aspectos de nuestra nación, desde la política hasta la economía y la cultura, generan tal hartazgo y desilusión. ¿Es la corrupción endémica, la burocracia paralizante, la falta de oportunidades o una dirigencia política que defrauda sistemáticamente a su gente lo que alimenta este sentimiento?\n\nDesde una perspectiva crítica, este 'odio' no es hacia la tierra o su gente, sino hacia un sistema que parece condenar al progreso y la meritocracia. Es un llamado de atención para la clase política, 'la casta', que persiste en modelos fallidos y prebendas, descuidando el futuro de millones. ¿Qué medidas concretas se necesitan para revertir esta profunda frustración y construir una Argentina que inspire orgullo y esperanza, en lugar de un amargo sentimiento de rechazo?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "por-que-odiar-argentina-un-espejo-de-frustracion-y-deuda-con-la-sociedad",
+    "fecha": "2026-08-01",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
     "titulo": "Icardi: \"¿Por qué tantos argentinos ya no eligen vivir en Argentina?\"",
     "bajada": "La polémica declaración de Mauro Icardi sobre el futuro de sus hijas expone una profunda herida nacional.",
     "cuerpo": "La decisión judicial en Italia a favor de Wanda Nara desató un nuevo round en la saga familiar de Icardi. Pero su descargo, “me opongo a que mis hijas vivan en Argentina”, trasciende el espectáculo y toca una fibra sensible en el debate público. Icardi argumenta que la educación, la inseguridad y las dificultades para el desarrollo profesional son obstáculos insalvables en el país, prefiriendo la vida en Europa para el futuro de sus hijas. Es un espejo de la realidad que enfrentan miles de familias argentinas que, ante la falta de estabilidad y oportunidades, eligen emigrar.\n\nEsta postura, aunque controversial en el ojo público por tratarse de una figura mediática, resuena con la frustración de muchos. ¿Es la crítica de Icardi un reflejo de los problemas estructurales que aquejan a la nación, desde la presión impositiva asfixiante hasta la imprevisibilidad económica? O, ¿es una mirada superficial que ignora el valor de la cultura y la comunidad que tantos otros defienden? El debate es real: ¿qué pierde Argentina cuando sus talentos y sus jóvenes buscan horizontes fuera de casa?",
@@ -9,7 +93,7 @@
     "slug": "icardi-por-que-tantos-argentinos-ya-no-eligen-vivir-en-argentina",
     "fecha": "2026-08-01",
     "imagen": "img/sociedad_1.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Castigo a Enzo por Malvinas: La soberanía no se negocia en Argentina",
@@ -201,90 +285,6 @@
     "slug": "milei-decreto-expulsion-orden-restriccion-extranjeros-argentina",
     "fecha": "2026-08-01",
     "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Wanda Nara vs. #Icardi: ¿Quién decide el futuro de las hijas en Argentina?",
-    "bajada": "La Justicia italiana falló a favor de Wanda Nara, permitiendo que sus hijas regresen a Argentina sin el permiso de Mauro Icardi.",
-    "cuerpo": "La mediática disputa entre #WandaNara y #MauroIcardi escaló a los tribunales, con una reciente decisión de la justicia italiana que favorece a Wanda. El fallo permite a sus hijas volver a #Argentina sin la autorización paterna, en contra de la postura de Icardi, quien públicamente expresó su oposición a que vivan en el país. El futbolista argumenta que busca darles estabilidad y una vida en Europa, alejado de la exposición mediática constante.\n\nEsta situación pone de relieve los desafíos de la custodia internacional y los derechos parentales en casos de figuras públicas. Mientras Wanda busca mantener un vínculo fuerte con su país de origen, Icardi prioriza un entorno que considera más beneficioso para el desarrollo de las menores. La decisión judicial es un hito en esta saga, pero la discusión sobre el bienestar de las hijas, en medio de la vorágine mediática, continúa abierta.\n\n¿Hasta qué punto la exposición pública afecta las decisiones familiares y el derecho de los hijos a elegir dónde vivir, o es un reflejo de la libertad de decisión parental para el bienestar de los menores?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "wanda-nara-icardi-quien-decide-futuro-hijas-argentina",
-    "fecha": "2026-08-01",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "#KikiRamos, la joya del Sub 17: ¿Un futuro para la #Argentina o para Europa?",
-    "bajada": "Kiki Ramos, la promesa del Sub 17 de la Selección Argentina, emociona con su historia de vida y su sentido de pertenencia.",
-    "cuerpo": "#KikiRamos, la joven promesa del #Sub17 de la Selección #Argentina, ha conmovido con su testimonio al afirmar: \"Ya me siento argentino\". Su historia, marcada por el esfuerzo y el arraigo, resuena en un contexto donde los jóvenes talentos suelen ser tentados por ligas extranjeras a edades tempranas. Ramos, quien ya dejó su huella con un primer gol, representa la ilusión de una nueva generación de futbolistas.\n\nDesde \"Panorama.ar\" celebramos el compromiso de los jóvenes talentos con la camiseta albiceleste. Sin embargo, la realidad del fútbol global impone desafíos constantes, y la retención de figuras como Ramos en el fútbol local es una incógnita. La pregunta que surge es cómo el fútbol argentino puede capitalizar y desarrollar a estas promesas, para que su futuro no sea exclusivamente el de engrosar las filas de clubes europeos.\n\n¿Cómo asegurar que el talento de jóvenes como #KikiRamos no solo brille en el #Sub17, sino que también fortalezca el deporte nacional y evite la fuga temprana de figuras?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "kiki-ramos-joya-sub17-futuro-argentina-europa",
-    "fecha": "2026-08-01",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Crisis diplomática #Argentina-#Brasil: ¿Un tango desafinado en la región?",
-    "bajada": "La relación entre Argentina y Brasil atraviesa un momento de tensión diplomática, con repercusiones económicas y políticas.",
-    "cuerpo": "La relación diplomática entre #Argentina y #Brasil, históricamente compleja pero fundamental para la región, atraviesa un nuevo momento de tensión. Lo que CNN describe como un inicio \"al compás de un tango\" y una continuación \"a ritmo de samba\", refiere a los vaivenes entre ambos gobiernos. Las diferencias ideológicas entre las administraciones actuales han profundizado una crisis que va más allá de las declaraciones y tiene impacto en la integración regional.\n\nDesde \"Panorama.ar\", vemos con preocupación cómo estas fricciones políticas pueden afectar los intereses económicos y estratégicos de #Argentina. El Mercosur, piedra angular del comercio bilateral, podría verse afectado por la falta de una visión común y la prioridad de agendas internas sobre la cooperación. La retórica confrontativa, lejos de resolver problemas, solo profundiza la brecha entre dos socios clave.\n\n¿Es esta crisis diplomática un reflejo inevitable de las diferencias ideológicas regionales, o una oportunidad perdida para fortalecer lazos económicos y geopolíticos vitales para #Argentina?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "crisis-diplomatica-argentina-brasil-un-tango-desafinado-region",
-    "fecha": "2026-08-01",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "#ElNiño más potente en décadas: ¿Está #Argentina preparada para el impacto?",
-    "bajada": "La ONU advierte sobre la intensificación de \"El Niño\", que impactará con fuerza en Argentina, y plantea interrogantes sobre la preparación del país.",
-    "cuerpo": "La ONU ha confirmado que el fenómeno de #ElNiño se intensificará a nivel global, con un impacto significativo y posiblemente el más potente en décadas para #Argentina. Las proyecciones advierten sobre eventos climáticos extremos como sequías e inundaciones, con graves consecuencias para la producción agrícola, la infraestructura y la vida cotidiana de millones de argentinos. La preparación ante este escenario es crucial.\n\nDesde \"Panorama.ar\" es imperativo exigir a las autoridades una planificación robusta y una gestión eficiente de los recursos. La historia argentina muestra deficiencias en la prevención y respuesta a catástrofes naturales, y esta vez, el margen de error es mínimo. La inversión en infraestructura, sistemas de alerta temprana y protocolos de evacuación no pueden posponerse. Es vital una coordinación interjurisdiccional y con el sector privado para mitigar los daños económicos y sociales.\n\n¿Se tomarán las medidas preventivas adecuadas ante un #ElNiño tan severo, o la burocracia estatal y la improvisación pondrán en riesgo a #Argentina y su economía?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "el-nino-mas-potente-decadas-argentina-preparada-impacto",
-    "fecha": "2026-08-01",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Decreto Milei: ¿Más seguridad o coartar la libertad de expresión?",
-    "bajada": "El gobierno busca expulsar a extranjeros por \"agraviar\" a argentinos, una medida que genera amplio debate sobre sus alcances.",
-    "cuerpo": "El reciente decreto presidencial de Javier Milei abre un frente de discusión crucial sobre la soberanía y la seguridad nacional. La normativa permitiría la expulsión de extranjeros que incurran en \"agravios\" contra el país, una decisión que, para sus defensores, representa un paso firme hacia el orden y la protección de la identidad nacional, alineándose con una postura de mano dura ante ciertos comportamientos. Sin embargo, sus críticos alertan sobre la ambigüedad del término \"agravio\" y los posibles riesgos para la libertad de expresión y los derechos individuales.\n\nLa medida busca reafirmar la autoridad estatal en materia migratoria y establecer límites claros a quienes, siendo huéspedes, incurren en actos que el Estado considera perjudiciales. En un contexto donde la seguridad y la identidad nacional son temas centrales en la agenda pública, este decreto se posiciona como una declaración de principios. No obstante, surge la pregunta inevitable: ¿Se está priorizando la seguridad por encima de garantías fundamentales, o es una herramienta necesaria para defender la dignidad nacional frente a discursos que buscan erosionarla?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "decreto-milei-mas-seguridad-o-coartar-la-libertad-de-expresion",
-    "fecha": "2026-07-31",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Lula vs. Milei: La diplomacia en jaque, ¿quién gana con la escalada?",
-    "bajada": "La tensión entre los presidentes de Argentina y Brasil escala, afectando relaciones estratégicas y comerciales.",
-    "cuerpo": "La relación entre Argentina y Brasil atraviesa uno de sus momentos más tensos, con el presidente brasileño Lula da Silva respondiendo a las declaraciones de Javier Milei. Esta escalada verbal no es un simple intercambio de reproches entre líderes, sino que tiene consecuencias directas en la diplomacia y, potencialmente, en el comercio bilateral, vital para ambos países. Mientras el gobierno argentino busca posicionarse con una fuerte impronta ideológica, esta estrategia podría generar fricciones innecesarias con socios clave de la región.\n\nEl entredicho pone en tela de juicio la capacidad de ambas naciones para mantener una agenda pragmática más allá de las diferencias ideológicas de sus mandatarios. La incertidumbre sobre la designación del embajador en Argentina es un claro indicio de la fragilidad del vínculo actual. En un escenario global complejo, ¿es conveniente para Argentina tensar la cuerda con su principal socio comercial o debería priorizarse la estabilidad y el diálogo en beneficio de los intereses nacionales a largo plazo?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "lula-vs-milei-la-diplomacia-en-jaque-quien-gana-con-la-escalada",
-    "fecha": "2026-07-31",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Georgieva y Argentina: ¿Logrará Milei mantener el rumbo fiscal?",
-    "bajada": "La directora del FMI elogió las reformas, pero advirtió sobre la sostenibilidad del ajuste.",
-    "cuerpo": "Kristalina Georgieva, directora del FMI, ofreció una evaluación de su visita a Argentina que mezcla elogios con advertencias. Reconoció el esfuerzo del gobierno de Javier Milei por encauzar la economía con reformas y disciplina fiscal, un mensaje que resuena positivamente con el enfoque liberal de la administración. Sin embargo, su mención a la necesidad de \"mantener el rumbo\" y las referencias a la \"maquilladora con 3 trabajos\" y los \"dólares en una lata\" subrayan la cruda realidad social y la fragilidad de la confianza en un país acostumbrado a la inestabilidad.\n\nLos comentarios de Georgieva sirven como un termómetro internacional sobre la dirección económica argentina. Si bien valoró el compromiso con el ajuste, el desafío real radica en la capacidad del gobierno para sostener estas políticas en el tiempo, sin que la presión social o política fuerce un desvío del camino. La mención a Messi como ejemplo de \"pasión\" también invita a reflexionar sobre la necesidad de aplicar esa misma pasión y rigurosidad en la gestión económica para transformar el país. ¿Será el gobierno de Milei capaz de transformar este impulso inicial en una senda de crecimiento duradero sin ceder a las presiones populistas?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "georgieva-y-argentina-lograra-milei-mantener-el-rumbo-fiscal",
-    "fecha": "2026-07-31",
-    "imagen": "img/economia_4.png",
     "destacada": false
   }
 ]
