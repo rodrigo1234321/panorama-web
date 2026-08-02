@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Fuga de Consumo: ¿Por qué Argentina Expulsa Compradores?",
+    "bajada": "La brecha de precios con países limítrofes impulsa a miles a buscar electrónica y celulares fuera del país.",
+    "cuerpo": "La constante diferencia de precios en productos electrónicos, especialmente celulares, entre Argentina y sus vecinos como Chile o Paraguay, es una cruda postal de nuestra economía. Mientras el gobierno insiste en políticas proteccionistas y altos impuestos a la importación, el ciudadano promedio se ve obligado a cruzar fronteras para acceder a bienes básicos de tecnología a un costo razonable. Esto no solo demuestra la ineficacia de ciertas regulaciones, sino que también implica una sangría de divisas y fomenta un mercado paralelo.\n\nEsta situación expone la profunda distorsión económica generada por la presión impositiva y la intervención estatal excesiva, que encarecen artificialmente los productos y reducen el poder adquisitivo de los argentinos. Lejos de proteger la industria nacional, estas medidas parecen solo beneficiar a un puñado de importadores cautivos y a las arcas fiscales, a costa del bolsillo de la gente.\n\n¿Hasta cuándo seguiremos con un modelo que penaliza el consumo y la inversión, forzando a nuestros ciudadanos a buscar afuera lo que aquí se niega?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "fuga-de-consumo-por-que-argentina-expulsa-compradores",
+    "fecha": "2026-08-02",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: ¿Discutimos Siempre el Problema Equivocado?",
+    "bajada": "Mientras las urgencias apremian, el país se enreda en debates superficiales que desvían la atención de lo realmente crucial.",
+    "cuerpo": "La política argentina parece tener una particular predilección por el desvío. En lugar de abordar de frente los desafíos estructurales que asfixian a la sociedad, se priorizan discusiones banales o ideologizadas que no conducen a ninguna solución real. Esta dinámica perpetúa un ciclo de estancamiento, donde la \"casta\" política, en su afán de mantener privilegios o agendas partidistas, ignora las verdaderas demandas de los ciudadanos. Es hora de preguntar: ¿quién se beneficia realmente de esta cortina de humo mediática?\n\nDesde la macroeconomía hasta la seguridad ciudadana, los temas de fondo exigen un análisis serio y medidas concretas, no consignas vacías. La incapacidad de consensuar políticas de Estado duraderas, libres de la mezquindad electoralista, condena a futuras generaciones a repetir los mismos errores. Los datos y la realidad son testarudos: mientras el mundo avanza, Argentina parece debatir sobre nimiedades, como si el tiempo no apremiara.\n\n¿Seremos capaces de madurar como sociedad y exigir a nuestros dirigentes que pongan fin a la farsa y se centren en los problemas que de verdad importan?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-discutimos-siempre-el-problema-equivocado",
+    "fecha": "2026-08-02",
+    "imagen": "img/politica_7.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Teorías del Mundial: ¿Quién No Quería a la Argentina Campeón?",
+    "bajada": "El legislador Roberto García Moritán reaviva el debate sobre las supuestas presiones contra la Selección en la final del Mundial.",
+    "cuerpo": "Las polémicas en torno a la actuación de la selección argentina en el Mundial y las teorías conspirativas que sugieren intereses externos en contra del éxito nacional siguen dando que hablar. Roberto García Moritán, figura política, ha puesto el foco en la idea de que \"les interesaba que a la Argentina no le vaya bien\", una frase que resuena en un sector de la sociedad que ve complots en cada revés. Esta narrativa, si bien alimenta el sentimiento de unidad nacional, también puede desviar la atención de problemas internos y responsabilidades propias.\n\nEl fútbol, como espejo de la sociedad, muchas veces magnifica nuestras virtudes y defectos. Criticar al arbitraje o a supuestos \"poderes\" internacionales puede ser más fácil que analizar las deficiencias estructurales que enfrenta el país. Moritán, al señalar estos \"intereses\", capitaliza un sentir popular, pero ¿cuánto de esto es una reflexión profunda y cuánto una excusa para no mirar hacia adentro?\n\n¿Es productivo para la Argentina seguir alimentando estas teorías conspirativas o deberíamos concentrarnos en construir un país fuerte que no dependa de factores externos para su éxito?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "teorias-mundial-quien-no-queria-argentina-campeon",
+    "fecha": "2026-08-02",
+    "imagen": "img/politica_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Gloria para Argentina: ¿Un Ejemplo Oculto de Éxito Nacional?",
+    "bajada": "La Selección +50 de hockey, con Vanina Oneto, logra un bicampeonato mundial, demostrando que el esfuerzo y la disciplina aún rinden frutos para la #Argentina.",
+    "cuerpo": "En un país a menudo sumido en la autocrítica y el pesimismo, el bicampeonato mundial de la Selección argentina de hockey +50, con la leyenda Vanina Oneto a la cabeza, es un recordatorio potente de lo que se puede lograr con dedicación. Mientras los titulares se llenan de crisis y conflictos, este equipo de atletas maduros demuestra una vez más que la perseverancia y el talento argentino pueden brillar a nivel global, incluso sin la atención mediática o los recursos de otras disciplinas.\n\nEste triunfo debería ser una fuente de inspiración y reflexión. ¿Por qué celebramos con más fervor las grandes victorias mediáticas y pasamos por alto estos ejemplos de excelencia y sacrificio? La disciplina y el trabajo en equipo, valores fundamentales en el deporte de alto rendimiento, son precisamente los que la Argentina necesita emular en otros ámbitos para superar sus desafíos.\n\n¿No es hora de que el país aprenda de sus propios héroes anónimos y replique ese espíritu de victoria en la gestión pública y en la economía, más allá de la pasión por Racing o los logros de Milito?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "gloria-argentina-ejemplo-oculto-exito-nacional",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La Tragedia Silenciosa: ¿Argentina Olvida a Sus Vulnerables?",
+    "bajada": "El suicidio, principal causa de muerte en jóvenes, expone una crisis de salud mental que el Estado ignora.",
+    "cuerpo": "Detrás de los debates políticos y económicos, se esconde una realidad lacerante: el suicidio es la principal causa de muerte en Argentina, especialmente entre los más jóvenes. Este dato demoledor no es solo una estadística; es el reflejo de una sociedad que no está cuidando a sus ciudadanos más vulnerables y de un Estado que, a menudo, destina recursos insuficientes o ineficaces a la salud mental. Las historias de vidas rescatadas a tiempo son un faro, pero también un grito de alerta sobre la inacción y la falta de políticas preventivas integrales.\n\nMientras se discuten medidas macroeconómicas o reformas superficiales, la vida y el bienestar de millones de argentinos quedan relegados. La crítica al garantismo en seguridad debe extenderse a la inoperancia en políticas de contención social y salud, donde la vida humana no parece ser una prioridad de la misma magnitud. Es urgente una intervención que vaya más allá de lo meramente paliativo, con programas de detección temprana, acceso a tratamientos y redes de apoyo robustas.\n\n¿Hasta cuándo permitiremos que esta tragedia silenciosa siga cobrándose vidas, mientras el Estado mira para otro lado o prioriza agendas menos urgentes para #Argentina?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "tragedia-silenciosa-argentina-olvida-vulnerables",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Punta del Este: ¿Justicia Opaca para Joven Argentina?",
+    "bajada": "La muerte de una joven argentina en Punta del Este, con una carta misteriosa y dudas familiares, expone la debilidad de las investigaciones.",
+    "cuerpo": "La trágica muerte de una joven argentina en Punta del Este, y las crecientes dudas de sus familiares sobre la versión policial oficial, reabren un debate crucial sobre la transparencia y la efectividad de la justicia, incluso más allá de nuestras fronteras. Cuando los parientes cuestionan la investigación, surge la alarma sobre posibles falencias, ya sea por negligencia o por intereses velados. Este tipo de casos, que conmueven a la opinión pública, ponen a prueba la confianza en las instituciones que deben garantizar la verdad y la seguridad.\n\nEn un contexto donde la sociedad exige respuestas claras y un fin al garantismo que muchas veces favorece la impunidad, la falta de una investigación convincente es inaceptable. Es fundamental que las autoridades, tanto uruguayas como argentinas, actúen con la mayor diligencia y transparencia para esclarecer cada detalle. La vida de una persona y la tranquilidad de una familia no pueden quedar sujetas a versiones ambiguas o a la sombra de la sospecha.\n\n¿Hasta cuándo tendremos que lamentar casos sin resolver, donde la duda persiste y la justicia parece estar al servicio de narrativas convenientes en lugar de la verdad, especialmente para jóvenes como #Delfi o #Karen?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "punta-del-este-justicia-opaca-joven-argentina",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Recesión Crónica: ¿Es Argentina Incurable o Mal Gobernado?",
+    "bajada": "La cuarta recesión más larga en 32 años demuestra un patrón de estancamiento que ningún gobierno logra romper.",
+    "cuerpo": "El dato es lapidario: la Argentina transita la cuarta recesión más prolongada de las últimas tres décadas, un ciclo vicioso de estancamiento y declive que se repite con alarmante frecuencia. Esta recurrencia no es una casualidad climática; es el resultado directo de políticas económicas erráticas, un gasto público descontrolado y una presión impositiva asfixiante que pulveriza la inversión y la iniciativa privada. La \"casta\" política, con su insistencia en soluciones cortoplacistas y parches populistas, es incapaz de romper con esta inercia destructiva.\n\nDesde los años 90, la historia económica argentina es una sucesión de breves repuntes seguidos por profundas caídas, donde cada crisis parece más larga y devastadora que la anterior. La falta de disciplina fiscal, la emisión desmedida y la constante intervención estatal en la economía han corroído las bases productivas del país. Es un patrón que trasciende colores políticos y que, de no mediar un cambio estructural profundo, seguirá condenando a la nación al atraso.\n\n¿Hasta cuándo persistiremos en la misma senda que nos lleva a la ruina, o la #Argentina finalmente adoptará las reformas de mercado y la austeridad que tan urgentemente necesita?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "recesion-cronica-es-argentina-incurable-o-mal-gobernado",
+    "fecha": "2026-08-02",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Límites a la \"libertad\" de odiar? Milei veta extranjeros y abre debate nacional",
     "bajada": "El gobierno de Javier Milei impulsa una medida migratoria que genera controversia, ¿dónde termina la libertad de expresión y empieza la defensa nacional?",
     "cuerpo": "El presidente Milei ha puesto en marcha un decreto para impedir la entrada a Argentina de extranjeros que, según el Ejecutivo, manifiesten \"odio\" hacia el país o sus instituciones. La medida, que ha sido celebrada por sectores que demandan una mayor firmeza en la política migratoria y de seguridad nacional, busca establecer un precedente en la defensa de la soberanía y la identidad argentina frente a discursos que considera perjudiciales.\n\nDesde Panorama.ar, observamos que esta iniciativa reabre la discusión sobre los límites de la libertad de expresión en el espacio público y la potestad del Estado para regular quién puede ingresar al territorio nacional. Si bien la defensa de la patria es un valor innegociable, algunos críticos argumentan que una aplicación ambigua podría derivar en censura o persecución ideológica, poniendo en riesgo derechos fundamentales. ¿Es esta una herramienta necesaria para proteger la integridad cultural y política de Argentina, o un paso riesgoso hacia la restricción de libertades individuales?",
@@ -9,7 +93,7 @@
     "slug": "limites-a-la-libertad-de-odiar-milei-veta-extranjeros-debate-nacional",
     "fecha": "2026-08-02",
     "imagen": "img/politica_4.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Milei y Lula: Pragmatismo vs. Ideología en la balanza económica de $12.000 millones",
@@ -201,90 +285,6 @@
     "slug": "milei-contra-el-odio-mano-dura-o-censura-en-argentina",
     "fecha": "2026-08-02",
     "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Chauvinismo \"bobo\"? El debate sobre la retórica de Milei.",
-    "bajada": "Una columna de opinión crítica cuestiona si el discurso de Milei, tachado de \"chauvinista bobo\", realmente beneficia a Argentina.",
-    "cuerpo": "Una reciente columna de opinión en Perfil calificó el discurso de Javier Milei como \"chauvinismo bobo\" y \"anti Argentina\", desatando una nueva ronda de críticas y defensas sobre la retórica presidencial. La nota argumenta que la insistencia en confrontaciones ideológicas y la simplificación de problemas complejos no contribuyen a una imagen sólida del país, sino que profundizan divisiones internas y afectan la proyección internacional.\n\nDesde el oficialismo, en contraste, se defiende la postura de Milei como una afirmación de soberanía y una lucha contra visiones que consideran \"progresistas\" y \"anticapitalistas\", vistas como el origen de muchos de los problemas nacionales. Se argumenta que el presidente está rompiendo con años de \"tibieza\" y defendiendo un modelo de país basado en la libertad individual y el libre mercado.\n\nAnte esta dicotomía, ¿la confrontación discursiva del gobierno fortalece la identidad nacional y defiende principios esenciales, o empobrece el debate público y aleja a #Argentina de soluciones pragmáticas?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "chauvinismo-bobo-el-debate-sobre-la-retorica-de-milei",
-    "fecha": "2026-08-02",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina: La recesión que no termina, ¿culpa de la casta?",
-    "bajada": "La economía argentina enfrenta su cuarta recesión más larga en 32 años, con consecuencias directas para el bolsillo de todos los ciudadanos.",
-    "cuerpo": "La economía argentina se encuentra inmersa en una recesión que ya se posiciona como la cuarta más prolongada de las últimas nueve experimentadas en 32 años, según datos de Infobae. Esta persistencia de ciclos de contracción genera preocupación y un profundo análisis sobre las causas estructurales que impiden a nuestro país consolidar un crecimiento sostenido, afectando directamente la inversión, el empleo y el poder adquisitivo de los ciudadanos.\n\nMientras el gobierno actual apunta a la \"herencia recibida\" y la \"casta política\" como los principales responsables de un modelo de gasto público desmedido y alta presión impositiva, otros sectores señalan la falta de un plan económico integral y la incertidumbre política como factores que profundizan la crisis, advirtiendo sobre la necesidad de medidas que estimulen la inversión privada y la disciplina fiscal.\n\nFrente a un escenario tan complejo, ¿logrará #Argentina salir de este ciclo vicioso de estancamiento y recesión, o estamos condenados a repetir los errores del pasado sin un cambio de rumbo estructural?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-la-recesion-que-no-termina-culpa-de-la-casta",
-    "fecha": "2026-08-02",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Economistas: ¿solución técnica o más rosca política en Argentina?",
-    "bajada": "La creciente participación de economistas en la arena política plantea interrogantes sobre su rol: ¿aportan soluciones o se suman al juego de la casta?",
-    "cuerpo": "El fenómeno de los economistas incursionando activamente en la política, e incluso postulándose para la presidencia, no es exclusivo de Argentina, pero aquí adquiere una relevancia particular. Desde la perspectiva de Panorama.ar, si bien la mirada técnica es crucial, la pregunta es si estos profesionales logran despojarse de la \"rosca política\" o terminan siendo cooptados por ella, perdiendo la objetividad que se les presupone.\n\nMuchos argumentan que la complejidad de la economía argentina requiere de perfiles con profundo conocimiento en la materia para liderar el país hacia la estabilidad y el crecimiento, rompiendo con los vicios del populismo y el gasto descontrolado. Sin embargo, también existe el riesgo de que la tecnocracia reemplace el debate democrático y que las soluciones propuestas no contemplen la dimensión social y política de los problemas.\n\n¿Son los economistas la clave para desarmar la \"casta\" y sanear la economía, o su ingreso a la política es solo una nueva faceta de la misma \"rosca\" que impide el avance de #Argentina?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "economistas-solucion-tecnica-o-mas-rosca-politica-en-argentina",
-    "fecha": "2026-08-02",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Rosalía y Argentina: ¿Disculpas sinceras o estrategia de marketing?",
-    "bajada": "Tras la polémica por sus declaraciones durante el Mundial, Rosalía se emocionó y pidió perdón en su primer show en Buenos Aires.",
-    "cuerpo": "La visita de Rosalía a Argentina estuvo marcada por la expectativa y, más recientemente, por la polémica generada a raíz de comentarios atribuidos a ella durante el Mundial de fútbol. En su primer show en Buenos Aires, la artista española no dudó en abordar el tema, pidiendo disculpas a sus fans y expresando su \"amor por este país\", un gesto que generó diversas reacciones entre el público y en redes sociales.\n\nPara algunos, las disculpas de Rosalía fueron un acto genuino de reconciliación y un reconocimiento de la sensibilidad del público argentino hacia el fervor futbolístico. Para otros, sin embargo, la intervención fue vista como un movimiento estratégico de relaciones públicas, buscando mitigar el impacto negativo y asegurar la buena recepción en un mercado tan importante.\n\nMás allá del show, la pregunta que persiste es sobre la autenticidad de estos gestos y cómo la cultura de las redes sociales amplifica tanto el error como el intento de redención de figuras públicas. ¿Fue un error inocente o una desconsideración, y estas disculpas cierran realmente la \"polémica\" en #Argentina?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "rosalia-y-argentina-disculpas-sinceras-o-estrategia-de-marketing",
-    "fecha": "2026-08-02",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Georgieva y Milei: ¿Crece la Economía o solo la narrativa oficial?",
-    "bajada": "La directora del FMI elogia la gestión argentina, pero los datos y la realidad cotidiana abren un debate necesario.",
-    "cuerpo": "Kristalina Georgieva, en su reciente visita a Argentina, destacó un supuesto crecimiento económico y una disminución de la pobreza, declaraciones que resonaron en la narrativa oficial. Sin embargo, analistas críticos y la población se preguntan si esta visión macroeconómica se alinea con la realidad de los ciudadanos, quienes aún enfrentan alta inflación y ajuste. La mención de Vaca Muerta como motor de desarrollo subraya el potencial, pero la distribución de esa riqueza y el impacto del ajuste fiscal son puntos clave.\n\nEl gobierno de **Milei** celebra los dichos de la titular del FMI, presentándolos como un aval internacional a su programa. No obstante, la crítica liberal advierte sobre el riesgo de un optimismo desmedido si no se acompaña de reformas estructurales profundas que realmente liberen el mercado y reduzcan el peso del Estado. ¿Estamos ante un verdadero despegue o una burbuja de optimismo financiada por un ajuste que castiga al sector productivo privado con excesiva presión impositiva?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "georgieva-y-milei-crece-la-economia-o-solo-la-narrativa-oficial",
-    "fecha": "2026-08-01",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Veto de Milei: ¿Silenciar a críticos o defender la Nación de discursos de odio?",
-    "bajada": "El gobierno implementa una polémica medida para vetar extranjeros que expresen 'odio' hacia Argentina, generando un profundo debate sobre libertad de expresión.",
-    "cuerpo": "El gobierno de **Milei** ha implementado una normativa para vetar el ingreso de extranjeros que, a su juicio, expresen 'odio' hacia Argentina. Esta medida, presentada como una defensa de la soberanía nacional y la identidad cultural, ha encendido las alarmas en diversos sectores sobre la libertad de expresión y los límites del poder estatal. ¿Quién define el 'odio' y cómo se garantiza que no se utilice para censurar opiniones críticas o disidentes, en lugar de proteger realmente de amenazas genuinas?\n\nDesde una perspectiva liberal, la restricción de la libertad de expresión, incluso para extranjeros, es un paso peligroso que puede sentar un precedente para futuras limitaciones internas. Si bien es legítimo proteger la reputación del país, la ambigüedad en la definición de 'odio' abre la puerta a la arbitrariedad. ¿Esta decisión, que podría vincularse al perfil ideológico que representa la propia **villarruel** en el gobierno, es un acto de soberanía necesario o un ataque a los pilares de la democracia y el debate público?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "veto-de-milei-silenciar-a-criticos-o-defender-la-nacion",
-    "fecha": "2026-08-01",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei endurece el 'grillete fiscal': ¿Libertad económica o ajuste implacable?",
-    "bajada": "Las nuevas reformas del gobierno de Milei apuntan a un 'grillete fiscal' para blindar su proyecto, con consecuencias directas para la actividad económica.",
-    "cuerpo": "El gobierno de **Milei** impulsa reformas económicas con el objetivo de establecer un 'grillete fiscal', una serie de mecanismos que buscan asegurar la disciplina presupuestaria y blindar su programa. Esta iniciativa es recibida con entusiasmo por quienes abogan por un Estado reducido y finanzas equilibradas, pero genera preocupación en sectores productivos y sociales que temen un ajuste aún más severo y una menor capacidad de respuesta estatal ante crisis.\n\nDesde nuestra óptica, la disciplina fiscal es indispensable, pero la clave reside en cómo se implementa. ¿Es este 'grillete' una herramienta para la verdadera libertad económica, liberando a los contribuyentes de la asfixia impositiva, o simplemente una forma de ajustar a la ciudadanía sin atacar de raíz el gasto de la 'casta' política y la burocracia estatal? La eficacia de estas reformas se medirá en si logran incentivar la inversión y la creación de empleo, o si profundizan la recesión.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "milei-endurece-el-grillete-fiscal-libertad-economica-o-ajuste-implacable",
-    "fecha": "2026-08-01",
-    "imagen": "img/economia_6.png",
     "destacada": false
   }
 ]
