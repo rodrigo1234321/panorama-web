@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Milei veta el odio: ¿Defensa nacional o límite a la libertad?",
+    "bajada": "La medida del gobierno de Milei para expulsar extranjeros por \"odio\" genera un intenso debate sobre soberanía y libertad de expresión.",
+    "cuerpo": "El gobierno de Milei ha implementado un decreto que permite vetar la entrada de extranjeros que \"expresen odio hacia Argentina\". Esta iniciativa, presentada como una defensa de la soberanía nacional y la convivencia, busca poner un límite a discursos que el oficialismo considera nocivos para el país. Se argumenta que la medida protege la identidad y el orden público ante injerencias externas, alineándose con una visión de nación fuerte y definida.\n\nSin embargo, la medida ha encendido alarmas entre diversos sectores, que la interpretan como un potencial atentado contra la libertad de expresión. Críticos señalan la subjetividad del término \"odio\" y la discrecionalidad con la que podría aplicarse, abriendo la puerta a la censura ideológica. ¿Es esta una herramienta legítima para resguardar la nación o un peligroso precedente para silenciar voces disidentes bajo el pretexto de un \"odio\" mal definido?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-veta-el-odio-defensa-nacional-o-limite-a-la-libertad",
+    "fecha": "2026-08-02",
+    "imagen": "img/politica_2.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Argentina con Milei: ¿Rumores de cambio o realidad incómoda?",
+    "bajada": "Un análisis profundo del futuro argentino bajo la presidencia de Javier Milei revela desafíos y oportunidades que definen el rumbo del país.",
+    "cuerpo": "Desde su asunción, la Argentina de Milei ha navegado aguas turbulentas, marcadas por un intento radical de desregular la economía y reducir el tamaño del Estado. Los análisis prospectivos señalan un camino lleno de escollos, desde la resistencia de la \"casta\" política hasta la adaptación de la sociedad a un modelo con menos intervención estatal. Los defensores del plan sostienen que estas medidas son indispensables para revertir décadas de declive y sentar las bases de un crecimiento sostenido, basado en la libertad de mercado y la disciplina fiscal.\n\nNo obstante, los críticos advierten sobre los costos sociales de un ajuste tan drástico, la polarización política y el riesgo de una profundización de las desigualdades si las reformas no logran generar empleo y oportunidades de manera inclusiva. La promesa de una \"Argentina libertaria\" choca con realidades estructurales y resistencias culturales. ¿Podrá Milei transformar la expectativa en una prosperidad tangible o el análisis prospectivo solo muestra el camino a una mayor fractura social?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-con-milei-rumores-de-cambio-o-realidad-incomoda",
+    "fecha": "2026-08-02",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina bicampeón: ¿Orgullo nacional o distracción de la realidad?",
+    "bajada": "La Selección argentina de hockey +50, con la legendaria Vanina Oneto, se consagra bicampeona mundial, un hito que ilumina el panorama deportivo.",
+    "cuerpo": "En medio de un contexto complejo, la noticia de la Selección argentina de hockey femenino de mayores de 50 años, con Vanina Oneto a la cabeza, logrando el bicampeonato mundial, resuena como una bocanada de aire fresco. Este triunfo no solo celebra el talento y la perseverancia de nuestras deportistas, sino que también realza la capacidad de Argentina para destacarse en el ámbito internacional. La dedicación y el espíritu de equipo de estas \"Leonas\" demuestran que, con esfuerzo y compromiso, es posible alcanzar la cima.\n\nSin embargo, mientras el país celebra este merecido éxito deportivo, surge la pregunta sobre la dualidad de estos momentos. ¿Estos logros nacionales sirven como un genuino impulso al espíritu colectivo o corren el riesgo de convertirse en una efímera distracción de problemas estructurales que Argentina enfrenta en otras áreas? El orgullo es innegable, pero ¿cuánto de este entusiasmo se traduce en un verdadero motor de cambio y mejora para el conjunto de la sociedad?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-bicampeon-orgullo-nacional-o-distraccion-de-la-realidad",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Copa Davis: Argentina busca gloria, ¿distracción o inversión?",
+    "bajada": "La presentación de la serie de Copa Davis entre Argentina y Turquía en Neuquén renueva las esperanzas deportivas y el debate sobre el gasto público.",
+    "cuerpo": "La Argentina se prepara para un nuevo desafío en la Copa Davis, recibiendo a Turquía en Neuquén. Este evento, que genera entusiasmo entre los aficionados al tenis, es presentado como una oportunidad para el deporte nacional y para la proyección internacional de la provincia. La inversión en infraestructura y la organización de eventos de esta magnitud suelen justificarse por el fomento del deporte y el impulso al turismo local.\n\nNo obstante, en un contexto de austeridad fiscal y necesidades urgentes en áreas críticas como salud y educación, cabe preguntarse sobre la magnitud y la prioridad de estos gastos. ¿Es la Copa Davis una inversión estratégica que trae beneficios tangibles a largo plazo o una distracción costosa que desvía recursos de problemas más apremiantes? El debate sobre la asignación de fondos públicos entre el entretenimiento y las necesidades básicas sigue vigente.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "copa-davis-argentina-busca-gloria-distraccion-o-inversion",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Rosalía en Argentina: ¿El público no perdona o indiferencia?",
+    "bajada": "El arribo de Rosalía a Buenos Aires, marcado por un mega operativo de seguridad y una recepción escasa, reaviva la polémica sobre sus dichos pasados.",
+    "cuerpo": "La llegada de Rosalía a Argentina, después de una controversia por sus dichos sobre el país, estuvo lejos de ser el apoteósico evento que muchas estrellas internacionales experimentan. Un desproporcionado operativo de seguridad contrastó con una puerta casi vacía en el aeropuerto, un reflejo de un público que, o bien no perdonó sus comentarios, o simplemente mostró una profunda indiferencia. Este episodio pone de manifiesto la sensibilidad del público argentino frente a las críticas de figuras públicas, especialmente cuando provienen del ámbito artístico y cultural.\n\nEste incidente también invita a reflexionar sobre la autenticidad de las disculpas públicas y la memoria colectiva. ¿Es la reacción del público un justo reproche a una falta de respeto o una muestra de la volubilidad de la opinión social, donde las redes amplifican pero también olvidan rápidamente? La frialdad de la recepción sugiere que la \"polémica\" no fue tan fugaz como algunos esperaban.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "rosalia-en-argentina-el-publico-no-perdona-o-indiferencia",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Recesión Argentina: ¿Fracaso recurrente o ciclo fatal?",
+    "bajada": "Argentina enfrenta su cuarta recesión más larga en 32 años, una señal alarmante de la incapacidad del país para estabilizar su economía y promover el crecimiento sostenido.",
+    "cuerpo": "La economía argentina vuelve a sumergirse en una recesión, la cuarta de mayor duración en las últimas tres décadas. Este ciclo de estancamiento y contracción se ha vuelto una constante dolorosa para los argentinos, reflejando una crónica inestabilidad económica que impide el desarrollo y empobrece a la población. Los constantes déficits fiscales, la emisión monetaria descontrolada y la presión impositiva asfixiante han sido, históricamente, los principales motores de esta dinámica perversa. La falta de reformas estructurales profundas y la recurrente intervención estatal en mercados que deberían ser libres son críticas constantes que explican este panorama.\n\nEste sombrío historial plantea una pregunta crucial: ¿es la recesión un destino inevitable para Argentina o el resultado directo de políticas económicas erradas y una \"casta\" política incapaz de implementar cambios duraderos? Mientras otros países prosperan con modelos de mercado y disciplina fiscal, Argentina parece atrapada en un bucle de crisis. ¿Cuándo se romperá este patrón y se priorizará un camino de crecimiento real y estabilidad?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "recesion-argentina-fracaso-recurrente-o-ciclo-fatal",
+    "fecha": "2026-08-02",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Fenómeno El Niño: ¿Desastre natural o imprevisión estatal?",
+    "bajada": "Con Argentina frente al fenómeno de El Niño más potente en décadas, los números proyectan una preocupación creciente sobre el impacto en la producción y la infraestructura.",
+    "cuerpo": "Argentina se prepara para enfrentar la embestida del fenómeno de El Niño más potente de las últimas décadas, con pronósticos que advierten sobre inundaciones, sequías y un impacto devastador en la producción agrícola y la infraestructura. Si bien se trata de un evento climático global, la recurrencia y la intensidad de sus efectos en el país ponen en tela de juicio la capacidad de los sucesivos gobiernos para desarrollar políticas de prevención y adaptación a largo plazo. La falta de inversión en obras hídricas, planificación urbana y sistemas de alerta temprana agrava la vulnerabilidad del país ante estas catástrofes naturales.\n\nLa preocupación crece a medida que los números explican la magnitud de los desafíos. Los costos económicos de estos eventos son monumentales, afectando desde el campo hasta las ciudades, y generando pérdidas millonarias que repercuten directamente en el bolsillo de los ciudadanos. ¿Es la Argentina una víctima pasiva de la naturaleza o la falta de previsión y la mala administración de los recursos públicos nos condenan a sufrir de manera desproporcionada cada vez que un fenómeno como El Niño golpea nuestras costas y campos?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "fenomeno-el-nino-desastre-natural-o-imprevision-estatal",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "¡Bicampeonas! Argentina en la cima del hockey +50: ¿ejemplo nacional?",
     "bajada": "La Selección femenina de hockey, con la ex-Leona Vanina Oneto, demuestra que el espíritu deportivo argentino trasciende generaciones.",
     "cuerpo": "En un logro que llena de orgullo, el equipo argentino de hockey femenino +50 se alzó con el bicampeonato mundial, superando a rivales internacionales y demostrando la persistencia del talento nacional. Este triunfo, que incluyó a la legendaria Vanina Oneto, no solo celebra la capacidad atlética, sino que también resalta valores como la disciplina y el trabajo en equipo, pilares fundamentales para cualquier éxito colectivo.\n\nEste tipo de hazañas deportivas nos interpela: ¿es este el reflejo del espíritu que debería impulsar a nuestra nación en otros ámbitos? Más allá del festejo merecido, queda la pregunta sobre cómo replicar esta garra y compromiso en desafíos económicos y políticos que exigen igual o mayor dedicación.\n\n¿Podrá este hito inspirar un cambio de mentalidad y enfoque en la gestión pública y privada, buscando la excelencia y el liderazgo que nuestro país necesita y merece?",
@@ -33,7 +117,7 @@
     "slug": "milei-contra-el-odio-mano-dura-o-censura-en-argentina",
     "fecha": "2026-08-02",
     "imagen": "img/politica_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "¿Chauvinismo \"bobo\"? El debate sobre la retórica de Milei.",
@@ -201,90 +285,6 @@
     "slug": "georgieva-elogia-a-argentina-maquillaje-o-realidad-economica-sostenible",
     "fecha": "2026-08-01",
     "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El Niño: ¿Está preparada Argentina para la catástrofe que se avecina?",
-    "bajada": "La ONU advierte sobre la intensificación de El Niño, que traerá eventos climáticos extremos. ¿Qué medidas concretas toma el Estado?",
-    "cuerpo": "La ONU confirmó la intensificación del fenómeno El Niño para los próximos meses, alertando sobre eventos climáticos inusuales que impactarán fuertemente en Argentina. Lluvias intensas, sequías en otras regiones y el riesgo de inundaciones masivas amenazan cosechas, infraestructuras y la vida de miles de ciudadanos. Ante este panorama, la pregunta es ineludible: ¿están nuestras autoridades preparadas, o la ineficacia y la burocracia estatal volverán a poner en jaque la respuesta ante la emergencia?\n\nMientras se acerca el “Día de la Pachamama”, la conexión con la naturaleza se hace más patente, pero también la vulnerabilidad del país frente a fenómenos que exigen una planificación seria y recursos bien administrados. Históricamente, la Argentina ha sufrido por la falta de inversión en prevención y la lentitud en la respuesta ante desastres naturales. ¿Se aprenderá de los errores del pasado para proteger a los argentinos y a su economía, o veremos de nuevo la improvisación y la falta de previsión ante una advertencia tan clara?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "el-nino-esta-preparada-argentina-para-la-catastrofe-que-se-avecina",
-    "fecha": "2026-08-01",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Odio o amor a la Argentina? Un debate que divide a la nación",
-    "bajada": "Mientras algunos declaran su amor incondicional, otros expresan una profunda desilusión con el rumbo del país. ¿Qué visión prevalece?",
-    "cuerpo": "La dicotomía entre el \"día que odié a la Argentina\" y la \"carta de amor\" de James Rhodes sintetiza un debate profundo sobre la identidad y el futuro de nuestra nación. Por un lado, la frustración por la inestabilidad crónica, la corrupción y las oportunidades perdidas lleva a muchos a la desesperanza. Por otro, figuras como Rhodes, y el sentir de millones, destacan la riqueza cultural, la resiliencia y la calidez humana que aún nos definen, especialmente en fechas como el Día de la Pachamama que nos conectan con nuestras raíces.\n\nPanorama.ar considera que es crucial preguntarse: ¿qué es lo que provoca este amor-odio hacia nuestro propio país? ¿Son los errores de la dirigencia política, el peso de una carga impositiva abrumadora o la perpetua crisis económica lo que alimenta el desencanto? O, ¿es la incapacidad de valorar lo nuestro lo que nos impide superar el estancamiento? Este debate es fundamental para entender hacia dónde va la Argentina y cómo recuperar la esperanza de aquellos que hoy solo ven motivos para el desánimo.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "odio-o-amor-a-la-argentina-un-debate-que-divide-a-la-nacion",
-    "fecha": "2026-08-01",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Autos en Argentina: ¿El país más caro de la región por los impuestos?",
-    "bajada": "Los autos 0 km son un 35% más caros en Argentina que en Brasil, una muestra de la distorsión económica.",
-    "cuerpo": "La noticia de que el precio promedio de los autos 0 km en Argentina es un 35% más alto que en Brasil es un indicador alarmante de la distorsión económica que padecemos. Este diferencial no se explica por mayores costos de producción, sino por una combinación explosiva de impuestos distorsivos, aranceles proteccionistas y una burocracia importadora que encarece artificialmente los vehículos. Es el bolsillo del consumidor argentino el que paga el precio de un Estado intervencionista y voraz.\n\nPanorama.ar denuncia que esta situación no solo afecta al acceso a bienes durables, sino que también desincentiva la inversión y la competencia en la industria automotriz. Mientras otros países de la región avanzan hacia mercados más abiertos y eficientes, Argentina persiste en un modelo que castiga el consumo y el desarrollo. ¿Hasta cuándo toleraremos que el Estado nos empobrezca con cargas impositivas insostenibles, haciendo de lo básico un lujo inalcanzable?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "autos-en-argentina-el-pais-mas-caro-de-la-region-por-los-impuestos",
-    "fecha": "2026-08-01",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Kiki Ramos: Un símbolo de la Argentina que aún puede brillar",
-    "bajada": "La historia de Kiki Ramos, promesa del fútbol adoptado tras el terremoto de Haití, es un poderoso mensaje de resiliencia y arraigo en Argentina.",
-    "cuerpo": "En medio de tanta noticia desalentadora, la historia de Kiki Ramos, sobreviviente del terremoto de Haití, adoptado por una familia argentina y hoy promesa de la selección juvenil, emerge como un faro de esperanza. Su historia no es solo un relato de superación personal, sino un testimonio del poder de integración y la calidez humana que todavía distinguen a la Argentina. Mientras muchos debaten si conviene quedarse o irse, Kiki abraza con orgullo una identidad forjada en nuestra tierra y sueña con representar al país. Es un ejemplo de que, a pesar de los desafíos, la Argentina sigue siendo una tierra de oportunidades y cariño.\n\nEsta narrativa contrasta fuertemente con las críticas de quienes, como Icardi, ven más sombras que luces en nuestro futuro. La capacidad de adoptar, formar y ver crecer el talento de un joven como Kiki, que \"ya se siente argentino\", nos recuerda las fortalezas de nuestra sociedad, a menudo eclipsadas por las urgencias económicas y políticas. ¿Podemos, como sociedad, potenciar estas historias de éxito e integración para inspirar un futuro mejor para la Argentina?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "kiki-ramos-un-simbolo-de-la-argentina-que-aun-puede-brillar",
-    "fecha": "2026-08-01",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Por qué Icardi no quiere a sus hijas en Argentina? El debate nacional.",
-    "bajada": "La declaración del futbolista destapa una dolorosa reflexión sobre el presente y futuro del país.",
-    "cuerpo": "La polémica declaración de Mauro Icardi, oponiéndose a que sus hijas tramiten pasaportes para vivir en Argentina, trasciende lo familiar y se convierte en un síntoma de un malestar más profundo. \"Me opongo a que vivan en Argentina\", sostuvo el futbolista, abriendo una herida en el sentir nacional. Más allá de las particularidades del caso, el rechazo a residir en el propio país resuena con la preocupación de miles de argentinos que ven a sus hijos emigrar en busca de un futuro más estable y con mayores oportunidades.\n\nEste comentario, que se volvió viral, pone de manifiesto una percepción compartida sobre las dificultades económicas, la inestabilidad y la falta de horizonte que muchos ciudadanos experimentan. ¿Es la decisión de Icardi un reflejo de la realidad que enfrenta la clase media y alta argentina, o una hipérbole mediática? Mientras el país lucha por atraer inversiones y retener talentos, declaraciones como estas obligan a una autocrítica.\n\n¿Qué mensaje enviamos como sociedad cuando figuras públicas expresan abiertamente su deseo de evitar que sus hijos echen raíces en la nación, y qué podemos hacer para cambiar esta percepción tan arraigada?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "por-que-icardi-no-quiere-sus-hijas-en-argentina",
-    "fecha": "2026-08-01",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Georgieva y Milei: ¿Hay señales de real crecimiento o solo optimismo?",
-    "bajada": "La titular del FMI elogió la economía argentina, pero ¿es la perspectiva del organismo la misma que la del ciudadano?",
-    "cuerpo": "Kristalina Georgieva, en su reciente visita, destacó que la economía argentina \"está creciendo y la pobreza disminuyó\", además de elogiar al presidente Milei y el potencial de Vaca Muerta. Estas declaraciones, si bien pueden infundir un optimismo necesario, chocan con la realidad cotidiana de muchos argentinos, donde la inflación sigue siendo un flagelo y la recuperación no se siente de forma generalizada. La \"maquilladora con 3 trabajos\" que mencionó Georgieva, si bien presentada como ejemplo de emprendimiento, también evidencia una precarización laboral alarmante para alcanzar un ingreso digno.\n\nDesde la perspectiva de Panorama.ar, el elogio del FMI al \"crecimiento\" debe ir acompañado de un análisis crítico sobre la calidad de ese crecimiento y su impacto en la ciudadanía. ¿Se trata de una recuperación sostenida y basada en reformas de fondo, o de un rebote tras una profunda recesión? La disciplina fiscal es crucial, pero no debe ocultar la necesidad de generar empleo genuino y reducir la presión impositiva que asfixia al sector productivo.\n\n¿Puede un país con salarios estancados y alta informalidad considerarse en \"crecimiento\" real, o solo se está viendo la punta del iceberg de una recuperación macroeconómica que aún no llega al bolsillo de todos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "georgieva-milei-senales-crecimiento",
-    "fecha": "2026-08-01",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Milei versus la Selección por Malvinas? Debate patrio.",
-    "bajada": "El presidente critica a los futbolistas por no portar la bandera de las islas, reavivando una vieja polémica.",
-    "cuerpo": "Javier Milei reabrió un frente de conflicto al criticar a los jugadores de la Selección Argentina por no exhibir la bandera de las Malvinas en eventos internacionales. Esta postura, que busca reafirmar la soberanía argentina sobre las islas, es compartida por muchos sectores nacionalistas, pero genera controversia sobre el rol de los deportistas como símbolos políticos. Para el presidente, la omisión representa una falta de compromiso con una causa nacional irrenunciable.\n\nDesde una óptica crítica, la instrumentalización de la Selección para fines políticos, incluso con una causa tan sensible como Malvinas, siempre es un terreno delicado. Si bien la defensa de la soberanía es fundamental, ¿es el ámbito deportivo el espacio para estas demostraciones o debería respetarse la autonomía de los deportistas, quienes ya representan al país en su disciplina? La \"casta\" política, que muchas veces ha utilizado Malvinas para rédito propio, ahora es interpelada por el propio Presidente, aunque sea a través de un canal que genera división.\n\n¿Debería el gobierno imponer directrices sobre cómo los atletas deben expresar su patriotismo, o la defensa de Malvinas se fortalece más desde la diplomacia y políticas de Estado coherentes?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-versus-seleccion-malvinas",
-    "fecha": "2026-08-01",
-    "imagen": "img/politica_4.png",
     "destacada": false
   }
 ]
