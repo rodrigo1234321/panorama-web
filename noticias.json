@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¡Bicampeonas! Argentina en la cima del hockey +50: ¿ejemplo nacional?",
+    "bajada": "La Selección femenina de hockey, con la ex-Leona Vanina Oneto, demuestra que el espíritu deportivo argentino trasciende generaciones.",
+    "cuerpo": "En un logro que llena de orgullo, el equipo argentino de hockey femenino +50 se alzó con el bicampeonato mundial, superando a rivales internacionales y demostrando la persistencia del talento nacional. Este triunfo, que incluyó a la legendaria Vanina Oneto, no solo celebra la capacidad atlética, sino que también resalta valores como la disciplina y el trabajo en equipo, pilares fundamentales para cualquier éxito colectivo.\n\nEste tipo de hazañas deportivas nos interpela: ¿es este el reflejo del espíritu que debería impulsar a nuestra nación en otros ámbitos? Más allá del festejo merecido, queda la pregunta sobre cómo replicar esta garra y compromiso en desafíos económicos y políticos que exigen igual o mayor dedicación.\n\n¿Podrá este hito inspirar un cambio de mentalidad y enfoque en la gestión pública y privada, buscando la excelencia y el liderazgo que nuestro país necesita y merece?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "bicampeonas-argentina-en-la-cima-del-hockey-50-ejemplo-nacional",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Kiki Ramos: El gol de la inclusión y la Argentina que queremos.",
+    "bajada": "La emotiva historia del joven futbolista que superó adversidades para vestir la camiseta de la Selección, reflejando valores de superación.",
+    "cuerpo": "La historia de Kiki Ramos, una joven promesa que sobrevivió al terremoto de Haití en 2010 y fue adoptado por una familia argentina, conmueve y emociona. Tras marcar su primer gol con la camiseta nacional, Ramos declaró no haberse sentido \"discriminado ni distinto a los demás\", un testimonio poderoso de integración y superación que resuena profundamente en nuestra sociedad.\n\nEste relato va más allá de lo deportivo; es un faro de esperanza en un contexto donde el debate sobre la inclusión y la meritocracia es constante. Muestra una Argentina capaz de abrir sus brazos y ofrecer oportunidades, donde el talento y la dedicación pueden florecer independientemente del origen.\n\n¿Estamos construyendo una sociedad que realmente valora y potencia historias como la de Kiki, o aún persisten barreras invisibles que impiden a muchos alcanzar su potencial?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "kiki-ramos-el-gol-de-la-inclusion-y-la-argentina-que-queremos",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Milei contra el \"odio\": ¿mano dura o censura en Argentina?",
+    "bajada": "El gobierno propone vetar la entrada de extranjeros que expresen mensajes de \"odio\" contra Argentina, generando un intenso debate.",
+    "cuerpo": "En una medida que genera amplio debate, el gobierno de Javier Milei anunció que vetará el ingreso de extranjeros que expresen mensajes de \"odio\" hacia Argentina. Desde el oficialismo, se argumenta que esta política busca proteger la soberanía y la identidad nacional frente a discursos que socavan la imagen del país y fomentan la división. Se destaca la necesidad de establecer límites claros ante lo que consideran agresiones ideológicas.\n\nSin embargo, críticos de la propuesta alertan sobre los riesgos para la libertad de expresión y la posibilidad de un uso discrecional de la norma, que podría derivar en censura o persecución política. La controversia radica en la definición de \"odio\" y quién será el encargado de determinarla, planteando interrogantes sobre la amplitud y la aplicación de esta nueva restricción.\n\n¿Es esta una defensa legítima de los intereses nacionales o una herramienta que podría coartar libertades fundamentales bajo el pretexto de proteger el patriotismo? La discusión es vital para el futuro de la democracia en #Argentina.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "milei-contra-el-odio-mano-dura-o-censura-en-argentina",
+    "fecha": "2026-08-02",
+    "imagen": "img/politica_6.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿Chauvinismo \"bobo\"? El debate sobre la retórica de Milei.",
+    "bajada": "Una columna de opinión crítica cuestiona si el discurso de Milei, tachado de \"chauvinista bobo\", realmente beneficia a Argentina.",
+    "cuerpo": "Una reciente columna de opinión en Perfil calificó el discurso de Javier Milei como \"chauvinismo bobo\" y \"anti Argentina\", desatando una nueva ronda de críticas y defensas sobre la retórica presidencial. La nota argumenta que la insistencia en confrontaciones ideológicas y la simplificación de problemas complejos no contribuyen a una imagen sólida del país, sino que profundizan divisiones internas y afectan la proyección internacional.\n\nDesde el oficialismo, en contraste, se defiende la postura de Milei como una afirmación de soberanía y una lucha contra visiones que consideran \"progresistas\" y \"anticapitalistas\", vistas como el origen de muchos de los problemas nacionales. Se argumenta que el presidente está rompiendo con años de \"tibieza\" y defendiendo un modelo de país basado en la libertad individual y el libre mercado.\n\nAnte esta dicotomía, ¿la confrontación discursiva del gobierno fortalece la identidad nacional y defiende principios esenciales, o empobrece el debate público y aleja a #Argentina de soluciones pragmáticas?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "chauvinismo-bobo-el-debate-sobre-la-retorica-de-milei",
+    "fecha": "2026-08-02",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: La recesión que no termina, ¿culpa de la casta?",
+    "bajada": "La economía argentina enfrenta su cuarta recesión más larga en 32 años, con consecuencias directas para el bolsillo de todos los ciudadanos.",
+    "cuerpo": "La economía argentina se encuentra inmersa en una recesión que ya se posiciona como la cuarta más prolongada de las últimas nueve experimentadas en 32 años, según datos de Infobae. Esta persistencia de ciclos de contracción genera preocupación y un profundo análisis sobre las causas estructurales que impiden a nuestro país consolidar un crecimiento sostenido, afectando directamente la inversión, el empleo y el poder adquisitivo de los ciudadanos.\n\nMientras el gobierno actual apunta a la \"herencia recibida\" y la \"casta política\" como los principales responsables de un modelo de gasto público desmedido y alta presión impositiva, otros sectores señalan la falta de un plan económico integral y la incertidumbre política como factores que profundizan la crisis, advirtiendo sobre la necesidad de medidas que estimulen la inversión privada y la disciplina fiscal.\n\nFrente a un escenario tan complejo, ¿logrará #Argentina salir de este ciclo vicioso de estancamiento y recesión, o estamos condenados a repetir los errores del pasado sin un cambio de rumbo estructural?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-la-recesion-que-no-termina-culpa-de-la-casta",
+    "fecha": "2026-08-02",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Economistas: ¿solución técnica o más rosca política en Argentina?",
+    "bajada": "La creciente participación de economistas en la arena política plantea interrogantes sobre su rol: ¿aportan soluciones o se suman al juego de la casta?",
+    "cuerpo": "El fenómeno de los economistas incursionando activamente en la política, e incluso postulándose para la presidencia, no es exclusivo de Argentina, pero aquí adquiere una relevancia particular. Desde la perspectiva de Panorama.ar, si bien la mirada técnica es crucial, la pregunta es si estos profesionales logran despojarse de la \"rosca política\" o terminan siendo cooptados por ella, perdiendo la objetividad que se les presupone.\n\nMuchos argumentan que la complejidad de la economía argentina requiere de perfiles con profundo conocimiento en la materia para liderar el país hacia la estabilidad y el crecimiento, rompiendo con los vicios del populismo y el gasto descontrolado. Sin embargo, también existe el riesgo de que la tecnocracia reemplace el debate democrático y que las soluciones propuestas no contemplen la dimensión social y política de los problemas.\n\n¿Son los economistas la clave para desarmar la \"casta\" y sanear la economía, o su ingreso a la política es solo una nueva faceta de la misma \"rosca\" que impide el avance de #Argentina?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "economistas-solucion-tecnica-o-mas-rosca-politica-en-argentina",
+    "fecha": "2026-08-02",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Rosalía y Argentina: ¿Disculpas sinceras o estrategia de marketing?",
+    "bajada": "Tras la polémica por sus declaraciones durante el Mundial, Rosalía se emocionó y pidió perdón en su primer show en Buenos Aires.",
+    "cuerpo": "La visita de Rosalía a Argentina estuvo marcada por la expectativa y, más recientemente, por la polémica generada a raíz de comentarios atribuidos a ella durante el Mundial de fútbol. En su primer show en Buenos Aires, la artista española no dudó en abordar el tema, pidiendo disculpas a sus fans y expresando su \"amor por este país\", un gesto que generó diversas reacciones entre el público y en redes sociales.\n\nPara algunos, las disculpas de Rosalía fueron un acto genuino de reconciliación y un reconocimiento de la sensibilidad del público argentino hacia el fervor futbolístico. Para otros, sin embargo, la intervención fue vista como un movimiento estratégico de relaciones públicas, buscando mitigar el impacto negativo y asegurar la buena recepción en un mercado tan importante.\n\nMás allá del show, la pregunta que persiste es sobre la autenticidad de estos gestos y cómo la cultura de las redes sociales amplifica tanto el error como el intento de redención de figuras públicas. ¿Fue un error inocente o una desconsideración, y estas disculpas cierran realmente la \"polémica\" en #Argentina?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "rosalia-y-argentina-disculpas-sinceras-o-estrategia-de-marketing",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
     "titulo": "Georgieva y Milei: ¿Crece la Economía o solo la narrativa oficial?",
     "bajada": "La directora del FMI elogia la gestión argentina, pero los datos y la realidad cotidiana abren un debate necesario.",
     "cuerpo": "Kristalina Georgieva, en su reciente visita a Argentina, destacó un supuesto crecimiento económico y una disminución de la pobreza, declaraciones que resonaron en la narrativa oficial. Sin embargo, analistas críticos y la población se preguntan si esta visión macroeconómica se alinea con la realidad de los ciudadanos, quienes aún enfrentan alta inflación y ajuste. La mención de Vaca Muerta como motor de desarrollo subraya el potencial, pero la distribución de esa riqueza y el impacto del ajuste fiscal son puntos clave.\n\nEl gobierno de **Milei** celebra los dichos de la titular del FMI, presentándolos como un aval internacional a su programa. No obstante, la crítica liberal advierte sobre el riesgo de un optimismo desmedido si no se acompaña de reformas estructurales profundas que realmente liberen el mercado y reduzcan el peso del Estado. ¿Estamos ante un verdadero despegue o una burbuja de optimismo financiada por un ajuste que castiga al sector productivo privado con excesiva presión impositiva?",
@@ -9,7 +93,7 @@
     "slug": "georgieva-y-milei-crece-la-economia-o-solo-la-narrativa-oficial",
     "fecha": "2026-08-01",
     "imagen": "img/economia_1.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Veto de Milei: ¿Silenciar a críticos o defender la Nación de discursos de odio?",
@@ -201,90 +285,6 @@
     "slug": "milei-versus-seleccion-malvinas",
     "fecha": "2026-08-01",
     "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Malvinas en la camiseta de la Selección? La política en la cancha.",
-    "bajada": "Un nuevo proyecto busca llevar el reclamo de soberanía a la indumentaria oficial, intensificando el debate.",
-    "cuerpo": "Tras las recientes polémicas sobre el compromiso patriótico, un nuevo proyecto legislativo propone incorporar la figura de las Islas Malvinas en la camiseta de la Selección Argentina. La iniciativa busca institucionalizar un símbolo de soberanía que, históricamente, ha movilizado el sentimiento nacional. La intención es clara: mantener viva la llama del reclamo de forma visible y constante, incluso en los escenarios deportivos de mayor alcance global.\n\nSin embargo, la medida abre un interrogante crucial para Panorama.ar. Si bien la causa Malvinas es irrenunciable, ¿es efectiva su inclusión en la camiseta nacional o corre el riesgo de ser percibida como una declaración meramente simbólica sin respaldo en políticas de Estado firmes? La \"casta\" política ha utilizado el tema Malvinas innumerables veces, generando gestos grandilocuentes sin avances concretos en la recuperación territorial. Este proyecto podría ser otro ejemplo de la retórica que busca más la aprobación popular que soluciones de fondo.\n\n¿Una camiseta con las Malvinas es un paso genuino en la defensa de nuestra soberanía o una distracción de los desafíos reales que Argentina enfrenta en su política exterior y doméstica?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "malvinas-camiseta-seleccion-politica-cancha",
-    "fecha": "2026-08-01",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei y el Papa: ¿un nuevo capítulo de la relación Iglesia-Estado?",
-    "bajada": "La llegada del embajador papal al país marca un punto de inflexión en el vínculo con el Vaticano.",
-    "cuerpo": "La Argentina se prepara para la posible visita del Papa León XIV, en un contexto de renovada relación con el Vaticano, evidenciada por la recepción del nuncio apostólico por parte del presidente Milei. Este acercamiento contrasta con los primeros meses de gestión, donde hubo roces verbales entre el gobierno y la figura del pontífice. La diplomacia busca ahora establecer un canal de diálogo y cooperación, fundamental para un país con una fuerte tradición católica y con grandes desafíos sociales.\n\nPara Panorama.ar, este evento tiene una doble lectura. Por un lado, la normalización de la relación con la Santa Sede es un signo de madurez institucional. Por otro, ¿qué implica este acercamiento para la laicidad del Estado y qué rol jugará la Iglesia en las políticas públicas, especialmente en áreas sensibles como la educación o la salud? Históricamente, la Iglesia ha sido una voz influyente, y su posicionamiento puede generar contrapesos importantes al discurso oficial.\n\n¿Es esta una oportunidad para una cooperación constructiva en temas sociales urgentes, o una potencial fuente de injerencia religiosa en las decisiones de un gobierno que busca autonomía en todas las esferas?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "milei-papa-capitulo-relacion-iglesia-estado",
-    "fecha": "2026-08-01",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Autos en Argentina: ¿Por qué pagamos 35% más que en Brasil?",
-    "bajada": "La diferencia de precios con el país vecino expone la distorsión económica y la presión impositiva local.",
-    "cuerpo": "Un estudio reciente revela un dato alarmante: el precio promedio de los 10 autos más vendidos en Argentina es un 35% más alto que en Brasil. Esta brecha sideral no solo impacta directamente en el poder adquisitivo de los consumidores, sino que también es un claro indicador de las profundas distorsiones que persisten en nuestra economía. Las razones son multifactoriales, pero la alta presión impositiva, la burocracia importadora y los costos laborales no competitivos juegan un rol central.\n\nDesde Panorama.ar, esta situación es inaceptable y requiere una revisión urgente de las políticas económicas. Mientras Brasil, un socio del MERCOSUR, ofrece un mercado automotriz más accesible, Argentina sigue castigando a sus ciudadanos con precios exorbitantes que limitan el acceso a bienes esenciales y dificultan la renovación del parque automotor. La intervención estatal excesiva y la falta de apertura real al comercio internacional perpetúan esta desventaja.\n\n¿Hasta cuándo los argentinos seremos rehenes de un sistema que nos obliga a pagar más por menos, y qué medidas concretas debe tomar el gobierno para desregular el mercado y reducir la carga sobre los consumidores?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "autos-argentina-pagamos-mas-que-brasil",
-    "fecha": "2026-08-01",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Qué ven los inversores en Argentina? Luces y sombras.",
-    "bajada": "Expertos internacionales analizan el atractivo del país y los desafíos que persisten para el capital extranjero.",
-    "cuerpo": "Empresarios como la guatemalteca Mónica de León y el jefe del Citibank en Argentina, Juan Bruchou, compartieron en Córdoba sus perspectivas sobre la inversión en el país. Sus declaraciones resaltan un potencial innegable, especialmente en sectores como el energético y el agroindustrial, pero también advierten sobre la volatilidad económica y la necesidad de un marco jurídico estable. El \"veranito\" financiero debe convertirse en una estación permanente para atraer capitales genuinos.\n\nPara Panorama.ar, la clave está en transformar el optimismo en políticas concretas que garanticen seguridad jurídica, previsibilidad fiscal y libertad de mercado. Las \"luces\" que ven los inversores, como los recursos naturales y el capital humano, son opacadas por las \"sombras\" de una burocracia asfixiante y una carga impositiva desproporcionada. La verdadera señal para los inversores no es solo la estabilidad macroeconómica, sino la eliminación de barreras que impiden la libre iniciativa y el crecimiento sostenible.\n\n¿Está Argentina realmente preparada para capitalizar el interés de los inversores o las trabas internas seguirán ahuyentando el capital que el país tanto necesita para desarrollarse?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "que-ven-inversores-argentina-luces-sombras",
-    "fecha": "2026-08-01",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "FIFA sanciona a Argentina: ¿Exceso de celo o disciplina necesaria para el fútbol?",
-    "bajada": "La controversia post-final del Mundial escala, con la FIFA apuntando a jugadores clave por supuestos \"incidentes\".",
-    "cuerpo": "La FIFA ha abierto un procedimiento disciplinario contra varios jugadores de la Selección Argentina y el español Gavi, a raíz de los incidentes ocurridos tras la final del Mundial. Esta medida, impulsada por la entidad que preside Gianni Infantino, busca \"garantizar la buena conducta y el respeto en el deporte\", señalando celebraciones consideradas \"excesivas\" y gestos hacia el rival.\n\nDesde AFA, aunque no hay comunicados oficiales, se esperaría una defensa contundente, argumentando que las celebraciones son parte de la pasión del fútbol y que no hubo intenciones maliciosas. Sin embargo, para la FIFA, el mensaje de disciplina y respeto a las normas debe ser claro, especialmente en un evento de magnitud global. La cuestión ahora es si esta acción es una muestra de rigor institucional o una reacción exagerada que intenta empañar la alegría de los campeones.\n\n¿Es esta una señal de que la autoridad de la #FIFA es innegociable, o una interferencia excesiva en la alegría de los campeones, alejándose de la esencia del juego popular en #Argentina?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fifa-sanciona-argentina-exceso-celo-disciplina-necesaria",
-    "fecha": "2026-08-01",
-    "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Enzo Fernández y #Malvinas: Un periodista busca censurar el reclamo argentino?",
-    "bajada": "La soberanía de Malvinas vuelve al centro de la polémica, esta vez con el fútbol y Enzo Fernández como protagonistas.",
-    "cuerpo": "Un periodista inglés ha generado un fuerte revuelo al proponer sanciones contra #EnzoFernández y la Selección #Argentina por exhibir banderas alusivas a las #Malvinas. Esta reacción refleja la sensibilidad y el trasfondo político que aún rodea la cuestión de las islas, incluso en el ámbito deportivo. Mientras en Argentina el reclamo de soberanía es una causa nacional, para ciertos sectores británicos, cualquier manifestación es vista como una provocación.\n\nLa propuesta del periodista ha sido calificada de \"absurda\" y \"colonialista\" por voces locales, que defienden el derecho de los futbolistas a expresar un sentimiento que es compartido por millones de argentinos. Sin embargo, el incidente subraya la constante tensión diplomática y la necesidad de mantener el diálogo sobre esta disputa histórica. ¿Hasta dónde deben extenderse las restricciones a la libertad de expresión en el deporte cuando se trata de reclamos soberanos?\n\n¿Es esta una muestra de la persistente desconexión entre la perspectiva argentina y ciertos sectores extranjeros sobre la cuestión de #Malvinas, o un intento de disciplinar el legítimo sentir nacional?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "enzo-fernandez-malvinas-un-periodista-busca-censurar-reclamo-argentino",
-    "fecha": "2026-08-01",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "#Milei y el decreto de expulsión: ¿orden o restricción para extranjeros en Argentina?",
-    "bajada": "El gobierno de Milei avanza con un decreto que busca expulsar a extranjeros por \"agraviar a los argentinos\", generando un amplio debate.",
-    "cuerpo": "El gobierno de Javier #Milei ha emitido un decreto que facultará la expulsión de extranjeros que realicen actos considerados como \"agravios\" u \"odio\" hacia #Argentina. La medida, que busca reforzar la \"soberanía y el orden público\", ha sido recibida con opiniones divididas. Desde el oficialismo, se argumenta que es una herramienta necesaria para proteger la identidad nacional y la convivencia, y que pone fin a la \"permisividad\" de gestiones anteriores.\n\nOrganismos de derechos humanos y sectores de la oposición han expresado preocupación, señalando que el decreto podría ser \"discrecional\" y abrir la puerta a posibles arbitrariedades o interpretaciones subjetivas de lo que constituye un \"agravio\". La crítica se centra en la posible vulneración de derechos y garantías para los residentes extranjeros en el país. Este debate esencial se centra en el equilibrio entre la seguridad nacional y las libertades individuales.\n\n¿Es este decreto una medida de seguridad necesaria para defender a #Argentina y su gente, o una herramienta que podría coartar libertades y generar tensiones innecesarias con la comunidad de extranjeros?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-decreto-expulsion-orden-restriccion-extranjeros-argentina",
-    "fecha": "2026-08-01",
-    "imagen": "img/politica_3.png",
     "destacada": false
   }
 ]
