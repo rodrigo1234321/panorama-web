@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Límites a la \"libertad\" de odiar? Milei veta extranjeros y abre debate nacional",
+    "bajada": "El gobierno de Javier Milei impulsa una medida migratoria que genera controversia, ¿dónde termina la libertad de expresión y empieza la defensa nacional?",
+    "cuerpo": "El presidente Milei ha puesto en marcha un decreto para impedir la entrada a Argentina de extranjeros que, según el Ejecutivo, manifiesten \"odio\" hacia el país o sus instituciones. La medida, que ha sido celebrada por sectores que demandan una mayor firmeza en la política migratoria y de seguridad nacional, busca establecer un precedente en la defensa de la soberanía y la identidad argentina frente a discursos que considera perjudiciales.\n\nDesde Panorama.ar, observamos que esta iniciativa reabre la discusión sobre los límites de la libertad de expresión en el espacio público y la potestad del Estado para regular quién puede ingresar al territorio nacional. Si bien la defensa de la patria es un valor innegociable, algunos críticos argumentan que una aplicación ambigua podría derivar en censura o persecución ideológica, poniendo en riesgo derechos fundamentales. ¿Es esta una herramienta necesaria para proteger la integridad cultural y política de Argentina, o un paso riesgoso hacia la restricción de libertades individuales?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "limites-a-la-libertad-de-odiar-milei-veta-extranjeros-debate-nacional",
+    "fecha": "2026-08-02",
+    "imagen": "img/politica_4.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Milei y Lula: Pragmatismo vs. Ideología en la balanza económica de $12.000 millones",
+    "bajada": "La relación entre Argentina y Brasil, marcada por diferencias ideológicas, se mantiene por el peso de la economía bilateral.",
+    "cuerpo": "La tensión ideológica entre el presidente Milei y su par brasileño, Lula da Silva, es innegable. Sin embargo, la balanza comercial de más de 12.000 millones de dólares anuales actúa como un poderoso amortiguador, obligando a ambos gobiernos a mantener una relación de conveniencia. Desde Panorama.ar, destacamos cómo la realidad económica a menudo supera las posturas políticas, demostrando que la disciplina fiscal y la necesidad de mercados son prioritarias para el desarrollo.\n\nEl gobierno de Milei, a pesar de sus principios liberales y su crítica al socialismo, reconoce la vital importancia de Brasil como socio comercial y regional. Esto subraya un pragmatismo que, si bien es lógico, genera preguntas sobre hasta qué punto la ideología puede ceder ante la necesidad económica. ¿Podrá esta frágil alianza resistir futuras fricciones o la política terminará imponiéndose sobre el intercambio comercial, afectando a la economía #Argentina?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-lula-pragmatismo-ideologia-balanza-economica",
+    "fecha": "2026-08-02",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Recesión crónica en Argentina: ¿el costo de no reformar o la herencia de la casta?",
+    "bajada": "Con la cuarta recesión más larga en 32 años, Argentina se enfrenta a un desafío estructural que exige un cambio de rumbo.",
+    "cuerpo": "La Argentina atraviesa su cuarta recesión económica más prolongada en las últimas tres décadas, una cifra alarmante que expone las falencias estructurales de un modelo de gasto público descontrolado y presión impositiva asfixiante. Desde Panorama.ar, señalamos que este patrón de crisis recurrentes no es casual, sino el resultado de políticas populistas y una intervención estatal excesiva que desalienta la inversión y la productividad.\n\nMientras algunos sectores apuntan a la coyuntura global, la realidad es que el problema de la Argentina es endógeno. La falta de reformas de mercado, la burocracia y la inestabilidad jurídica han creado un ciclo vicioso de estancamiento. Es imperativo que el país abandone la inercia del gasto y la emisión para emprender un camino de disciplina fiscal y libertad económica. ¿Hasta cuándo pagaremos el precio de no cambiar el rumbo de una economía que ahoga el futuro?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "recesion-cronica-argentina-costo-no-reformar-herencia-casta",
+    "fecha": "2026-08-02",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Punta del Este: ¿Justicia opaca para la joven argentina? La familia cuestiona la verdad oficial",
+    "bajada": "La muerte de una joven argentina en Uruguay desata dudas sobre la investigación policial y la transparencia en el sistema judicial.",
+    "cuerpo": "La trágica muerte de una joven argentina en Punta del Este ha conmocionado a la sociedad y expuesto, una vez más, la fragilidad de la justicia y la seguridad. Con una misteriosa carta en escena y la familia cuestionando abiertamente la versión policial, desde Panorama.ar exigimos rigor en la investigación y transparencia total. La incertidumbre y la falta de respuestas claras solo alimentan la desconfianza pública.\n\nEs inadmisible que en casos tan sensibles las dudas persistan, especialmente cuando las instituciones encargadas de impartir justicia son puestas en tela de juicio por los propios afectados. La sociedad demanda mano dura contra el crimen y un sistema judicial que actúe con celeridad y eficacia, sin dejar espacio a interpretaciones que deslegitimen su accionar. ¿Hasta cuándo veremos a las familias de víctimas luchar solas por la verdad frente a un sistema que parece fallarles una y otra vez?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "punta-del-este-justicia-opaca-joven-argentina-familia-cuestiona",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Rosalía y la cultura de la cancelación en Argentina: ¿Victoria de la razón o del show?",
+    "bajada": "Tras una polémica por el Mundial, Rosalía pidió disculpas en Buenos Aires, reabriendo el debate sobre los límites de la \"cancelación\" pública.",
+    "cuerpo": "La disculpa de Rosalía en su concierto de Buenos Aires, tras comentarios sobre el Mundial que generaron controversia, pone de manifiesto la creciente influencia de la cultura de la cancelación en Argentina y el mundo. Desde Panorama.ar, observamos cómo figuras públicas son sometidas a un escrutinio constante, donde cualquier desliz puede llevar a una campaña de hostigamiento digital. ¿Es este un mecanismo legítimo para exigir responsabilidad o una herramienta desproporcionada que coarta la libertad de expresión?\n\nLa artista supo manejar la situación con tacto, desactivando la polémica y reconectando con su público. Sin embargo, la facilidad con la que se pueden armar estas campañas de \"cancelación\" nos obliga a reflexionar sobre la madurez de nuestro debate público. Si bien la crítica es necesaria, la presión para que una figura se disculpe por opiniones o errores no graves puede volverse un arma de doble filo. ¿Hasta qué punto la sociedad exige perfección irreal, y cuándo debemos distinguir entre un error y un verdadero acto reprobable?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "rosalia-cultura-cancelacion-argentina-victoria-razon-show",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Hockey +50: Argentina bicampeón mundial, ¿un espejo de la garra nacional?",
+    "bajada": "La selección argentina femenina de hockey +50 conquistó el bicampeonato mundial, demostrando que la pasión y el esfuerzo no tienen edad.",
+    "cuerpo": "La selección argentina femenina de hockey +50 ha vuelto a hacer historia, consagrándose bicampeona mundial tras una emocionante final contra Inglaterra. Este triunfo, que contó con la participación de una leyenda de Las Leonas, no solo es una hazaña deportiva notable, sino también un poderoso símbolo de la resiliencia y la dedicación que caracterizan a los deportistas nacionales. Desde Panorama.ar, celebramos estos logros que inspiran y refuerzan el sentido de identidad colectiva.\n\nEn un contexto donde a menudo se resaltan las dificultades, éxitos como este nos recuerdan el inmenso talento y la capacidad de superación que posee Argentina. El compromiso de estas jugadoras, muchas de ellas con largas trayectorias, es un ejemplo de que la disciplina y la pasión pueden derribar cualquier barrera, incluso la del tiempo. ¿Podemos, como sociedad, trasladar esa misma \"garra\" y espíritu de equipo demostrado en el deporte a otros ámbitos para construir un futuro más próspero y unido?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "hockey-50-argentina-bicampeon-mundial-espejo-garra-nacional",
+    "fecha": "2026-08-02",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Derechos Humanos: La visión de Milei que sacude paradigmas en Argentina",
+    "bajada": "El enfoque de Javier Milei sobre los Derechos Humanos redefine el debate, buscando desideologizar un concepto clave para la sociedad argentina.",
+    "cuerpo": "El presidente Milei ha propuesto una revisión profunda del concepto de Derechos Humanos en Argentina, buscando despojarlo de lo que considera una carga ideológica impuesta por ciertas facciones políticas. Desde Panorama.ar, entendemos que esta iniciativa abre una necesaria discusión sobre la instrumentalización de un valor universal y la urgencia de establecer una perspectiva que abarque a todos los ciudadanos por igual, sin distinciones.\n\nDurante años, la narrativa de los Derechos Humanos ha sido monopolizada por ciertos grupos, excluyendo o estigmatizando otras visiones. La propuesta de Milei busca recuperar la universalidad del término, enfocándose en la defensa de libertades individuales y la condena de cualquier abuso, independientemente del origen político. Sin embargo, este cambio de enfoque genera resistencia. ¿Es hora de una nueva definición más inclusiva y menos politizada de los Derechos Humanos en Argentina, o se corre el riesgo de deslegitimar las luchas históricas?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "derechos-humanos-vision-milei-sacude-paradigmas-argentina",
+    "fecha": "2026-08-02",
+    "imagen": "img/politica_2.png",
+    "destacada": false
+  },
+  {
     "titulo": "Milei veta el odio: ¿Defensa nacional o límite a la libertad?",
     "bajada": "La medida del gobierno de Milei para expulsar extranjeros por \"odio\" genera un intenso debate sobre soberanía y libertad de expresión.",
     "cuerpo": "El gobierno de Milei ha implementado un decreto que permite vetar la entrada de extranjeros que \"expresen odio hacia Argentina\". Esta iniciativa, presentada como una defensa de la soberanía nacional y la convivencia, busca poner un límite a discursos que el oficialismo considera nocivos para el país. Se argumenta que la medida protege la identidad y el orden público ante injerencias externas, alineándose con una visión de nación fuerte y definida.\n\nSin embargo, la medida ha encendido alarmas entre diversos sectores, que la interpretan como un potencial atentado contra la libertad de expresión. Críticos señalan la subjetividad del término \"odio\" y la discrecionalidad con la que podría aplicarse, abriendo la puerta a la censura ideológica. ¿Es esta una herramienta legítima para resguardar la nación o un peligroso precedente para silenciar voces disidentes bajo el pretexto de un \"odio\" mal definido?",
@@ -9,7 +93,7 @@
     "slug": "milei-veta-el-odio-defensa-nacional-o-limite-a-la-libertad",
     "fecha": "2026-08-02",
     "imagen": "img/politica_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Argentina con Milei: ¿Rumores de cambio o realidad incómoda?",
@@ -201,90 +285,6 @@
     "slug": "milei-endurece-el-grillete-fiscal-libertad-economica-o-ajuste-implacable",
     "fecha": "2026-08-01",
     "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Niño Godzilla vs. Producción: La Pachamama golpea la economía argentina. ¿Hay plan?",
-    "bajada": "Un fenómeno climático 'Niño Godzilla' amenaza gravemente al principal sector económico de Argentina, con consecuencias imprevisibles.",
-    "cuerpo": "Un preocupante fenómeno climático, apodado 'Niño Godzilla', se cierne sobre Argentina, amenazando directamente al sector agropecuario, pilar de nuestra economía. Las advertencias de la ONU sobre la intensificación de El Niño y sus eventos inusuales apuntan a un riesgo elevado de lluvias intensas e inundaciones, lo que podría diezmar cosechas y afectar la infraestructura productiva. Esta situación plantea una urgencia sobre la capacidad de respuesta del Estado y la resiliencia de nuestra producción.\n\nEn un país que depende fuertemente de la exportación de commodities agrícolas, la inacción o la falta de previsión ante un desastre natural de esta magnitud es inaceptable. Más allá de la invocación a la **Pachamama** o a la suerte, ¿cuenta el gobierno con un plan concreto y articulado para mitigar los efectos de este 'Niño Godzilla' y proteger a los productores, o el peso recaerá nuevamente sobre el sector privado, ya golpeado por la presión fiscal? La Argentina no puede permitirse el lujo de la improvisación frente a una amenaza tan palpable a su motor económico.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "nino-godzilla-vs-produccion-la-pachamama-golpea-la-economia-argentina-hay-plan",
-    "fecha": "2026-08-01",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Malvinas: ¿Castigar a Enzo Fernández por patriotismo o defender la soberanía Argentina?",
-    "bajada": "Un periodista inglés propone sancionar a Enzo Fernández y Argentina por la bandera de Malvinas, desatando una fuerte polémica internacional.",
-    "cuerpo": "La polémica se encendió cuando un periodista inglés sugirió castigar a Enzo Fernández y a la selección argentina por exhibir la bandera de Malvinas, reavivando una herida histórica y un reclamo de soberanía innegociable. Este incidente, que va más allá del ámbito deportivo, pone de manifiesto la persistencia de tensiones y la necesidad de reafirmar la postura argentina frente a un público internacional. ¿Es justo sancionar un acto de patriotismo que expresa un sentimiento nacional arraigado?\n\nDesde nuestra perspectiva, la defensa de la soberanía sobre las Islas Malvinas es una causa nacional que trasciende cualquier evento deportivo. Pretender censurar o castigar a un deportista por manifestar un sentimiento tan profundo es un intento inaceptable de silenciar una legítima demanda. ¿Hasta cuándo se permitirá que intereses externos intenten dictar cómo Argentina debe expresar su historia y sus derechos, y qué papel debe jugar el Estado para proteger a sus ciudadanos de tales embates?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "malvinas-castigar-a-enzo-fernandez-por-patriotismo-o-defender-la-soberania-argentina",
-    "fecha": "2026-08-01",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Economistas al poder: Solución de mercado o más casta con corbata en Argentina?",
-    "bajada": "La creciente injerencia de economistas en la 'rosca política' abre el interrogante sobre su verdadera contribución a la gestión pública.",
-    "cuerpo": "En Argentina, la 'rosca política' parece atraer cada vez más a economistas, quienes, desde la academia o el sector privado, se postulan como salvadores de la patria o asesores indispensables. Esta tendencia, aunque promete rigor técnico, genera un debate fundamental: ¿son los economistas realmente la solución a los males endémicos de la política, o simplemente representan una nueva faceta de la 'casta' que se recicla en diferentes roles de poder, sin ofrecer cambios sustanciales a la burocracia y el gasto público?\n\nSi bien la expertise económica es crucial para un país en crisis, la política requiere una visión más amplia que la mera gestión de números. La obsesión por colocar economistas en cada esfera de decisión puede derivar en tecnocracias desconectadas de las necesidades reales de la sociedad, o peor, en la justificación de políticas que, bajo el manto de la 'ciencia económica', terminan beneficiando a intereses particulares. ¿Es la llegada de más economistas al poder una verdadera reforma del Estado o solo una renovación de caras en el mismo sistema de privilegios?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "economistas-al-poder-solucion-de-mercado-o-mas-casta-con-corbata-en-argentina",
-    "fecha": "2026-08-01",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Por qué odiar Argentina? Un espejo de frustración y deuda con la sociedad.",
-    "bajada": "Un crudo testimonio sobre el 'día que se odió a Argentina' invita a una profunda reflexión sobre las falencias que nos impiden progresar.",
-    "cuerpo": "La visceral frase 'el día que odié a la Argentina' resuena como un eco de la frustración que muchos ciudadanos experimentan frente a la realidad del país. Más allá del patriotismo ciego, es necesario analizar qué aspectos de nuestra nación, desde la política hasta la economía y la cultura, generan tal hartazgo y desilusión. ¿Es la corrupción endémica, la burocracia paralizante, la falta de oportunidades o una dirigencia política que defrauda sistemáticamente a su gente lo que alimenta este sentimiento?\n\nDesde una perspectiva crítica, este 'odio' no es hacia la tierra o su gente, sino hacia un sistema que parece condenar al progreso y la meritocracia. Es un llamado de atención para la clase política, 'la casta', que persiste en modelos fallidos y prebendas, descuidando el futuro de millones. ¿Qué medidas concretas se necesitan para revertir esta profunda frustración y construir una Argentina que inspire orgullo y esperanza, en lugar de un amargo sentimiento de rechazo?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "por-que-odiar-argentina-un-espejo-de-frustracion-y-deuda-con-la-sociedad",
-    "fecha": "2026-08-01",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Icardi: \"¿Por qué tantos argentinos ya no eligen vivir en Argentina?\"",
-    "bajada": "La polémica declaración de Mauro Icardi sobre el futuro de sus hijas expone una profunda herida nacional.",
-    "cuerpo": "La decisión judicial en Italia a favor de Wanda Nara desató un nuevo round en la saga familiar de Icardi. Pero su descargo, “me opongo a que mis hijas vivan en Argentina”, trasciende el espectáculo y toca una fibra sensible en el debate público. Icardi argumenta que la educación, la inseguridad y las dificultades para el desarrollo profesional son obstáculos insalvables en el país, prefiriendo la vida en Europa para el futuro de sus hijas. Es un espejo de la realidad que enfrentan miles de familias argentinas que, ante la falta de estabilidad y oportunidades, eligen emigrar.\n\nEsta postura, aunque controversial en el ojo público por tratarse de una figura mediática, resuena con la frustración de muchos. ¿Es la crítica de Icardi un reflejo de los problemas estructurales que aquejan a la nación, desde la presión impositiva asfixiante hasta la imprevisibilidad económica? O, ¿es una mirada superficial que ignora el valor de la cultura y la comunidad que tantos otros defienden? El debate es real: ¿qué pierde Argentina cuando sus talentos y sus jóvenes buscan horizontes fuera de casa?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "icardi-por-que-tantos-argentinos-ya-no-eligen-vivir-en-argentina",
-    "fecha": "2026-08-01",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Castigo a Enzo por Malvinas: La soberanía no se negocia en Argentina",
-    "bajada": "Un periodista inglés propone sancionar a Enzo Fernández por una bandera de Malvinas, desatando indignación y reafirmación nacional.",
-    "cuerpo": "La soberanía sobre las Islas Malvinas es una causa innegociable para la Argentina. Por eso, la propuesta de un periodista inglés de sancionar a Enzo Fernández por exhibir una bandera en el Mundial es una provocación que ignora la historia y el sentimiento nacional. Este tipo de reacciones foráneas solo consiguen reafirmar el compromiso irrenunciable de nuestro país con la recuperación de las Islas, y con el justo reclamo que persiste a pesar de las presiones internacionales.\n\nEs inadmisible que se intente disciplinar a nuestros deportistas por manifestar un sentimiento que une a todos los argentinos, trascendiendo cualquier ideología política. El intento de censura a un símbolo tan arraigado en nuestra identidad solo demuestra la persistencia de una mirada colonialista. ¿Debería la AFA tomar una postura más firme ante estas amenazas, o la diplomacia silenciosa es la única vía para defender nuestra soberanía?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "castigo-a-enzo-por-malvinas-la-soberania-no-se-negocia-en-argentina",
-    "fecha": "2026-08-01",
-    "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Georgieva elogia a Argentina: ¿Maquillaje o realidad económica sostenible?",
-    "bajada": "La titular del FMI celebró el crecimiento y la baja de la pobreza en Argentina, pero la realidad de las pymes y ciudadanos contradice el optimismo.",
-    "cuerpo": "La visita de Kristalina Georgieva dejó un balance, para algunos, sorpresivamente optimista: “la economía está creciendo y la pobreza disminuyó”, afirmó la titular del FMI. Un elogio que, si bien rescata ciertos indicadores, parece ignorar la complejidad de una macroeconomía con cepo, alta inflación y presión impositiva récord que asfixia a productores y trabajadores. Comparar el desempeño del país con un “Messi” económico puede ser una metáfora útil, pero ¿refleja la verdadera cancha que pisan los argentinos cada día?\n\nPanorama.ar insiste en la necesidad de un análisis más profundo. ¿A qué costo se logra este crecimiento y esta disminución de la pobreza, si el gasto público sigue siendo elefantiásico y la carga tributaria impide la inversión y el desarrollo genuino? El verdadero desafío de Argentina no es un crecimiento de corto plazo maquillado, sino una transformación estructural que libere las fuerzas productivas y asegure prosperidad duradera. ¿Podemos realmente celebrar estos datos sin exigir reformas profundas?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "georgieva-elogia-a-argentina-maquillaje-o-realidad-economica-sostenible",
-    "fecha": "2026-08-01",
-    "imagen": "img/economia_3.png",
     "destacada": false
   }
 ]
