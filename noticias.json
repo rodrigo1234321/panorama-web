@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Mundial: Medina y las sombras contra la Selección. ¿Justificaciones o realidad?",
+    "bajada": "La polémica sobre un complot arbitral en la final del 2022 revive, ¿es una excusa o un problema estructural del fútbol?",
+    "cuerpo": "Facundo Medina, defensor de la Selección argentina, reabrió el debate sobre supuestas conspiraciones arbitrales en la final del Mundial 2022. Sus dichos, \"perdimos y hay que aceptarlo\", intentan poner fin a la discusión, pero el trasfondo es más complejo: ¿cómo se maneja la percepción de injusticia en el deporte de élite y su impacto en la moral del equipo y la afición? Estas narrativas pueden desviar la atención de un análisis autocrítico.\n\nEl sentimiento de que \"juegan contra Argentina\" es recurrente en el fútbol nacional. Sin embargo, en un deporte tan globalizado y con intereses económicos tan vastos, culpar solo a terceros sin revisar las propias falencias es un camino peligroso. ¿Es hora de aceptar que el alto rendimiento implica también la gestión de la frustración y la responsabilidad individual, sin alimentar excusas que minan la autoconfianza?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mundial-medina-conspiraciones-seleccion-argentina",
+    "fecha": "2026-08-03",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Un emblema de la Selección argentina cerca de dejar su club: ¿Qué impacto tendrá en River y Racing?",
+    "bajada": "La posible salida de un pilar de la Scaloneta plantea interrogantes sobre el mercado de pases y el futuro del seleccionado.",
+    "cuerpo": "La noticia de que un jugador clave de la Selección argentina podría cambiar de club tras más de seis años genera gran expectativa. Este tipo de movimientos no solo impacta en la carrera individual del deportista, sino que también resuena en la estructura de la Selección, especialmente pensando en el recambio generacional y la continuidad del proyecto futbolístico. ¿Estamos viendo el inicio de una reconfiguración clave?\n\nLos intereses de clubes como River y Racing, siempre atentos a figuras de calibre nacional, se entrelazan con la necesidad de la Selección de mantener un equipo competitivo. Estas transferencias, a menudo impulsadas por el mercado europeo, pueden debilitar a los clubes locales o, por el contrario, inyectar capital fresco. ¿El profesionalismo actual prioriza el desarrollo individual o la estabilidad de los proyectos colectivos, tanto en ligas locales como en la Selección?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "emblema-seleccion-argentina-deja-club-impacto-river-racing",
+    "fecha": "2026-08-03",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La Selección argentina es bicampeona Mundial en Hockey +50: un ejemplo de pasión y vigencia",
+    "bajada": "Las glorias del hockey demuestran que el espíritu deportivo argentino trasciende edades y disciplinas.",
+    "cuerpo": "La Selección argentina de hockey +50 se alzó con el título de bicampeona mundial, una hazaña que subraya la persistencia del talento y la pasión deportiva en el país. Con la presencia de leyendas como Vanina Oneto, este logro no solo es un triunfo en sí mismo, sino un potente mensaje sobre la relevancia del deporte amateur y veterano, a menudo eclipsado por el fútbol profesional. ¿Se valora lo suficiente el esfuerzo de estas figuras?\n\nEste tipo de victorias refuerzan la identidad nacional y demuestran que el éxito no siempre está ligado a la megaexposición mediática. Es un recordatorio de que la disciplina, el trabajo en equipo y el amor por la camiseta son valores universales que trascienden el tiempo y la edad. ¿Podemos aprender de la resiliencia de estas deportistas para otros ámbitos de la sociedad argentina?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "seleccion-argentina-bicampeona-mundial-hockey-50",
+    "fecha": "2026-08-03",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La 'casta' en vilo: Milei anuncia compañero para 2027, ¿estrategia o provocación?",
+    "bajada": "Las declaraciones del Presidente sobre su fórmula para 2027 agitan el tablero político y el futuro del oficialismo.",
+    "cuerpo": "Javier Milei ha vuelto a generar revuelo en la escena política con el anuncio enigmático de que ya tendría un compañero de fórmula para 2027, \"pos-Villarruel\". Esta declaración, cargada de intención, no solo siembra incertidumbre sobre el rol futuro de su actual vicepresidenta, Victoria Villarruel, sino que también funciona como un claro mensaje a la \"casta\" política: el Presidente proyecta a largo plazo y busca consolidar un espacio más allá de las alianzas actuales. ¿Es una jugada maestra para desarticular internas o una muestra de personalismo extremo?\n\nLa forma en que se maneja esta información es un reflejo del estilo Milei: directo, provocador y con alta capacidad de impacto en la opinión pública. Mientras la oposición busca cohesionarse, el oficialismo se permite este tipo de especulaciones que desvían la atención y mantienen la agenda en torno a su figura. El electorado, ¿está más interesado en las figuras y sus relaciones o en las propuestas de fondo para la Argentina?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-companero-formula-2027-estrategia-provocacion",
+    "fecha": "2026-08-03",
+    "imagen": "img/politica_1.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Milei y la decadencia argentina: ¿las reformas realmente cambian el rumbo histórico?",
+    "bajada": "El Presidente afirma que sus medidas atacan las causas profundas de la crisis, pero la efectividad aún genera amplio debate.",
+    "cuerpo": "Javier Milei insiste en que sus reformas son la clave para revertir \"la decadencia argentina de los últimos 91 años\", una tesis central de su discurso liberal. Al señalar a la intervención estatal excesiva y el gasto público descontrolado como los males endémicos, el Presidente propone un cambio radical. Sin embargo, la discusión va más allá de la retórica: ¿estas medidas están logrando los efectos deseados a nivel macro y microeconómico, o el costo social es demasiado alto?\n\nLa promesa de un país próspero y libre de la \"casta\" resuena fuerte, pero la implementación de las reformas implica tensiones y resistencias de diversos sectores. Criticar el pasado sin ofrecer soluciones viables para el presente y el futuro es un camino peligroso. ¿La apuesta por un ajuste brutal es la única forma de desandar décadas de errores, o se necesita una estrategia más gradual y consensuada para evitar una mayor fractura social?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "milei-decadencia-argentina-reformas-cambian-rumbo",
+    "fecha": "2026-08-03",
+    "imagen": "img/politica_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Novena recesión?: La economía argentina se contrae, ¿qué falla en el rumbo actual?",
+    "bajada": "Los datos de actividad económica en caída libre en junio alertan sobre un escenario de estancamiento profundo.",
+    "cuerpo": "La economía argentina enfrenta la amenaza de una novena recesión, con niveles de actividad en junio por debajo incluso de proyecciones a futuro como febrero de 2025. Este panorama crítico, que expone la fragilidad estructural del país, plantea serios interrogantes sobre las políticas implementadas y su capacidad para reactivar el motor productivo. ¿El ajuste fiscal necesario está ahogando la actividad económica al punto de profundizar la crisis, en lugar de sentar las bases para el crecimiento?\n\nLos defensores del modelo actual argumentan que la recesión es un costo ineludible para sanear las cuentas públicas y combatir la inflación. Sin embargo, la contracción del consumo, la inversión y el empleo genera un círculo vicioso difícil de romper. Es imperativo un análisis serio sobre si la velocidad y la profundidad del ajuste son las adecuadas, o si se necesita una estrategia que equilibre la estabilidad macroeconómica con la protección del tejido productivo y social. ¿Existe un plan de crecimiento real más allá de la contención del gasto?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "novena-recesion-economia-argentina-contraccion-rumbo",
+    "fecha": "2026-08-03",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Vacaciones de invierno récord en 'modo Mundial': ¿El turismo puede compensar la crisis?",
+    "bajada": "El impacto económico del turismo en vacaciones de invierno fue significativo, impulsado por el espíritu futbolístico, pero ¿es sostenible?",
+    "cuerpo": "Las vacaciones de invierno arrojaron cifras récord para el turismo en Argentina, con un incremento del 5,9% de visitantes y un impacto económico de 2,12 billones de pesos. La Confederación Argentina de la Mediana Empresa (CAME) destaca este fenómeno, impulsado por lo que denominan el \"modo Mundial\" post-campeonato. Si bien estos números son positivos, surge la pregunta: ¿puede el envión turístico, ligado a un evento excepcional, sostenerse en el tiempo y convertirse en un motor genuino de la economía nacional frente a la contracción generalizada?\n\nEl sector turístico es vital para la generación de empleo y divisas, pero su dependencia de factores emocionales o coyunturales, como la euforia post-Mundial, expone su vulnerabilidad. Se necesitan políticas de Estado a largo plazo que fomenten la competitividad, la infraestructura y la inversión para asegurar un crecimiento sostenido, no solo picos estacionales. ¿Argentina tiene una estrategia clara para consolidar el turismo como un pilar económico robusto, o solo celebra éxitos puntuales?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "vacaciones-invierno-record-modo-mundial-turismo-compensar-crisis",
+    "fecha": "2026-08-03",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
     "titulo": "Bicampeonas Mundiales: ¿Unión Nacional ante Inglaterra o Evasión de la Realidad?",
     "bajada": "La Selección Argentina de Hockey +50 revalida su título, reviviendo el espíritu de las Malvinas frente a un rival histórico.",
     "cuerpo": "La Selección Argentina de Hockey Femenino +50 ha demostrado una vez más la garra nacional, consagrándose bicampeona mundial tras vencer a Inglaterra. Con la legendaria Vanina Oneto liderando, el equipo no solo conquistó un nuevo título, sino que reavivó ese profundo sentimiento de orgullo argentino que aflora en cada competencia contra los ingleses, evocando incluso la memoria de Malvinas. Este triunfo resalta la tenacidad de nuestros deportistas y la capacidad de unir al país detrás de un objetivo común.\n\nSin embargo, mientras celebramos estas victorias que inflan el pecho, ¿no deberíamos preguntarnos qué tan efectivo es este entusiasmo deportivo para enmascarar las profundas divisiones y problemas estructurales que asedian a la Argentina? Es innegable que el deporte genera un bálsamo de alegría, pero la euforia pasajera de un campeonato no puede ser la única respuesta a una sociedad que exige soluciones concretas.\n\n¿Hasta qué punto utilizamos el éxito deportivo como una cortina de humo para evitar debates cruciales sobre nuestra economía y política? ¿Es esta victoria un verdadero reflejo de la resiliencia argentina o una distracción bienvenida de una realidad más compleja y fragmentada?",
@@ -9,7 +93,7 @@
     "slug": "bicampeonas-mundiales-union-nacional-o-evasion",
     "fecha": "2026-08-03",
     "imagen": "img/sociedad_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Rosalía se disculpa: ¿Patriotismo Genuino o Estrategia de Mercado?",
@@ -201,90 +285,6 @@
     "slug": "recesion-cronica-argentina-costo-no-reformar-herencia-casta",
     "fecha": "2026-08-02",
     "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Punta del Este: ¿Justicia opaca para la joven argentina? La familia cuestiona la verdad oficial",
-    "bajada": "La muerte de una joven argentina en Uruguay desata dudas sobre la investigación policial y la transparencia en el sistema judicial.",
-    "cuerpo": "La trágica muerte de una joven argentina en Punta del Este ha conmocionado a la sociedad y expuesto, una vez más, la fragilidad de la justicia y la seguridad. Con una misteriosa carta en escena y la familia cuestionando abiertamente la versión policial, desde Panorama.ar exigimos rigor en la investigación y transparencia total. La incertidumbre y la falta de respuestas claras solo alimentan la desconfianza pública.\n\nEs inadmisible que en casos tan sensibles las dudas persistan, especialmente cuando las instituciones encargadas de impartir justicia son puestas en tela de juicio por los propios afectados. La sociedad demanda mano dura contra el crimen y un sistema judicial que actúe con celeridad y eficacia, sin dejar espacio a interpretaciones que deslegitimen su accionar. ¿Hasta cuándo veremos a las familias de víctimas luchar solas por la verdad frente a un sistema que parece fallarles una y otra vez?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "punta-del-este-justicia-opaca-joven-argentina-familia-cuestiona",
-    "fecha": "2026-08-02",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Rosalía y la cultura de la cancelación en Argentina: ¿Victoria de la razón o del show?",
-    "bajada": "Tras una polémica por el Mundial, Rosalía pidió disculpas en Buenos Aires, reabriendo el debate sobre los límites de la \"cancelación\" pública.",
-    "cuerpo": "La disculpa de Rosalía en su concierto de Buenos Aires, tras comentarios sobre el Mundial que generaron controversia, pone de manifiesto la creciente influencia de la cultura de la cancelación en Argentina y el mundo. Desde Panorama.ar, observamos cómo figuras públicas son sometidas a un escrutinio constante, donde cualquier desliz puede llevar a una campaña de hostigamiento digital. ¿Es este un mecanismo legítimo para exigir responsabilidad o una herramienta desproporcionada que coarta la libertad de expresión?\n\nLa artista supo manejar la situación con tacto, desactivando la polémica y reconectando con su público. Sin embargo, la facilidad con la que se pueden armar estas campañas de \"cancelación\" nos obliga a reflexionar sobre la madurez de nuestro debate público. Si bien la crítica es necesaria, la presión para que una figura se disculpe por opiniones o errores no graves puede volverse un arma de doble filo. ¿Hasta qué punto la sociedad exige perfección irreal, y cuándo debemos distinguir entre un error y un verdadero acto reprobable?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "rosalia-cultura-cancelacion-argentina-victoria-razon-show",
-    "fecha": "2026-08-02",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Hockey +50: Argentina bicampeón mundial, ¿un espejo de la garra nacional?",
-    "bajada": "La selección argentina femenina de hockey +50 conquistó el bicampeonato mundial, demostrando que la pasión y el esfuerzo no tienen edad.",
-    "cuerpo": "La selección argentina femenina de hockey +50 ha vuelto a hacer historia, consagrándose bicampeona mundial tras una emocionante final contra Inglaterra. Este triunfo, que contó con la participación de una leyenda de Las Leonas, no solo es una hazaña deportiva notable, sino también un poderoso símbolo de la resiliencia y la dedicación que caracterizan a los deportistas nacionales. Desde Panorama.ar, celebramos estos logros que inspiran y refuerzan el sentido de identidad colectiva.\n\nEn un contexto donde a menudo se resaltan las dificultades, éxitos como este nos recuerdan el inmenso talento y la capacidad de superación que posee Argentina. El compromiso de estas jugadoras, muchas de ellas con largas trayectorias, es un ejemplo de que la disciplina y la pasión pueden derribar cualquier barrera, incluso la del tiempo. ¿Podemos, como sociedad, trasladar esa misma \"garra\" y espíritu de equipo demostrado en el deporte a otros ámbitos para construir un futuro más próspero y unido?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "hockey-50-argentina-bicampeon-mundial-espejo-garra-nacional",
-    "fecha": "2026-08-02",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Derechos Humanos: La visión de Milei que sacude paradigmas en Argentina",
-    "bajada": "El enfoque de Javier Milei sobre los Derechos Humanos redefine el debate, buscando desideologizar un concepto clave para la sociedad argentina.",
-    "cuerpo": "El presidente Milei ha propuesto una revisión profunda del concepto de Derechos Humanos en Argentina, buscando despojarlo de lo que considera una carga ideológica impuesta por ciertas facciones políticas. Desde Panorama.ar, entendemos que esta iniciativa abre una necesaria discusión sobre la instrumentalización de un valor universal y la urgencia de establecer una perspectiva que abarque a todos los ciudadanos por igual, sin distinciones.\n\nDurante años, la narrativa de los Derechos Humanos ha sido monopolizada por ciertos grupos, excluyendo o estigmatizando otras visiones. La propuesta de Milei busca recuperar la universalidad del término, enfocándose en la defensa de libertades individuales y la condena de cualquier abuso, independientemente del origen político. Sin embargo, este cambio de enfoque genera resistencia. ¿Es hora de una nueva definición más inclusiva y menos politizada de los Derechos Humanos en Argentina, o se corre el riesgo de deslegitimar las luchas históricas?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "derechos-humanos-vision-milei-sacude-paradigmas-argentina",
-    "fecha": "2026-08-02",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei veta el odio: ¿Defensa nacional o límite a la libertad?",
-    "bajada": "La medida del gobierno de Milei para expulsar extranjeros por \"odio\" genera un intenso debate sobre soberanía y libertad de expresión.",
-    "cuerpo": "El gobierno de Milei ha implementado un decreto que permite vetar la entrada de extranjeros que \"expresen odio hacia Argentina\". Esta iniciativa, presentada como una defensa de la soberanía nacional y la convivencia, busca poner un límite a discursos que el oficialismo considera nocivos para el país. Se argumenta que la medida protege la identidad y el orden público ante injerencias externas, alineándose con una visión de nación fuerte y definida.\n\nSin embargo, la medida ha encendido alarmas entre diversos sectores, que la interpretan como un potencial atentado contra la libertad de expresión. Críticos señalan la subjetividad del término \"odio\" y la discrecionalidad con la que podría aplicarse, abriendo la puerta a la censura ideológica. ¿Es esta una herramienta legítima para resguardar la nación o un peligroso precedente para silenciar voces disidentes bajo el pretexto de un \"odio\" mal definido?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-veta-el-odio-defensa-nacional-o-limite-a-la-libertad",
-    "fecha": "2026-08-02",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina con Milei: ¿Rumores de cambio o realidad incómoda?",
-    "bajada": "Un análisis profundo del futuro argentino bajo la presidencia de Javier Milei revela desafíos y oportunidades que definen el rumbo del país.",
-    "cuerpo": "Desde su asunción, la Argentina de Milei ha navegado aguas turbulentas, marcadas por un intento radical de desregular la economía y reducir el tamaño del Estado. Los análisis prospectivos señalan un camino lleno de escollos, desde la resistencia de la \"casta\" política hasta la adaptación de la sociedad a un modelo con menos intervención estatal. Los defensores del plan sostienen que estas medidas son indispensables para revertir décadas de declive y sentar las bases de un crecimiento sostenido, basado en la libertad de mercado y la disciplina fiscal.\n\nNo obstante, los críticos advierten sobre los costos sociales de un ajuste tan drástico, la polarización política y el riesgo de una profundización de las desigualdades si las reformas no logran generar empleo y oportunidades de manera inclusiva. La promesa de una \"Argentina libertaria\" choca con realidades estructurales y resistencias culturales. ¿Podrá Milei transformar la expectativa en una prosperidad tangible o el análisis prospectivo solo muestra el camino a una mayor fractura social?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-con-milei-rumores-de-cambio-o-realidad-incomoda",
-    "fecha": "2026-08-02",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina bicampeón: ¿Orgullo nacional o distracción de la realidad?",
-    "bajada": "La Selección argentina de hockey +50, con la legendaria Vanina Oneto, se consagra bicampeona mundial, un hito que ilumina el panorama deportivo.",
-    "cuerpo": "En medio de un contexto complejo, la noticia de la Selección argentina de hockey femenino de mayores de 50 años, con Vanina Oneto a la cabeza, logrando el bicampeonato mundial, resuena como una bocanada de aire fresco. Este triunfo no solo celebra el talento y la perseverancia de nuestras deportistas, sino que también realza la capacidad de Argentina para destacarse en el ámbito internacional. La dedicación y el espíritu de equipo de estas \"Leonas\" demuestran que, con esfuerzo y compromiso, es posible alcanzar la cima.\n\nSin embargo, mientras el país celebra este merecido éxito deportivo, surge la pregunta sobre la dualidad de estos momentos. ¿Estos logros nacionales sirven como un genuino impulso al espíritu colectivo o corren el riesgo de convertirse en una efímera distracción de problemas estructurales que Argentina enfrenta en otras áreas? El orgullo es innegable, pero ¿cuánto de este entusiasmo se traduce en un verdadero motor de cambio y mejora para el conjunto de la sociedad?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-bicampeon-orgullo-nacional-o-distraccion-de-la-realidad",
-    "fecha": "2026-08-02",
-    "imagen": "img/sociedad_5.png",
     "destacada": false
   }
 ]
