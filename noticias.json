@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "El Fenómeno Lali: ¿Esconde Argentina Problemas Reales con Celebridades?",
+    "bajada": "El encuentro de dos íconos musicales desató euforia, pero ¿qué dice del pulso social argentino?",
+    "cuerpo": "La reciente confesión de Lali Espósito junto a Rosalía en Argentina monopolizó las redes, generando un torbellino de reacciones. Este furor mediático, si bien legítimo en su alcance de entretenimiento, invita a reflexionar sobre si la sociedad argentina, en momentos de profunda incertidumbre económica y política, busca en el espectáculo un refugio o una distracción deliberada de los problemas estructurales que la aquejan. Es lícito preguntarse cuánto de esta atención masiva desvía el foco de debates urgentes.\n\nDesde una perspectiva crítica, el entusiasmo desmedido por figuras públicas puede ser un síntoma de la fatiga social ante la compleja realidad. Mientras se discuten ajustes, inflación y reformas, el \"fenómeno Lali\" ofrece un contrapunto de evasión. ¿Es esta la Argentina que queremos construir, o estamos priorizando el escapismo sobre el debate crítico y la acción cívica?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "el-fenomeno-lali-esconde-argentina-problemas-reales",
+    "fecha": "2026-08-03",
+    "imagen": "img/sociedad_6.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Argentina: ¿Milei Acertó en el Diagnóstico, Pero Falla en la Receta?",
+    "bajada": "El presidente insiste en la profundidad de las reformas, pero la efectividad aún genera debate.",
+    "cuerpo": "Javier Milei afirmó que sus reformas \"apuntan al corazón de la decadencia argentina de los últimos 91 años\", en una clara señal de su visión sobre la crisis estructural del país. Esta narrativa resuena con la línea editorial de Panorama.ar, que históricamente ha denunciado el intervencionismo estatal y la expansión del gasto público como motores de la regresión económica. La insistencia en desmantelar privilegios y burocracia se alinea con una visión liberal que busca desatar las fuerzas productivas.\n\nSin embargo, la implementación de estas reformas no está exenta de críticas. Mientras el gobierno señala avances en materia fiscal y desregulación, sectores de la oposición y algunas voces económicas advierten sobre el impacto social a corto plazo y la necesidad de consensos más amplios. ¿Es la audacia del diagnóstico suficiente para garantizar el éxito de la transformación, o la confrontación y la falta de pragmatismo ponen en riesgo la estabilidad del proceso en Argentina?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-milei-acerto-diagnostico-falla-receta",
+    "fecha": "2026-08-03",
+    "imagen": "img/politica_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Milei y la Realidad de las Familias: ¿Mejor que Antes o Cruda Negación?",
+    "bajada": "La declaración presidencial choca con la realidad de endeudamiento y dificultad para llegar a fin de mes de miles de hogares.",
+    "cuerpo": "La polémica respuesta de Javier Milei sobre la situación de las familias argentinas que se endeudan o no llegan a fin de mes, afirmando \"No somos Suiza, pero estamos mucho mejor\", generó un fuerte debate. Para Panorama.ar, esta declaración, aunque busca defender el rumbo económico, minimiza una realidad innegable para gran parte de la población: el ajuste tiene un costo social tangible. Si bien es cierto que Argentina arrastra décadas de distorsiones, la percepción de mejora es dispar.\n\nCríticos del gobierno, incluyendo economistas y referentes sociales, señalan que indicadores como el aumento de la pobreza y la caída del consumo contradicen la idea de una mejora sustancial. Argumentan que el optimismo oficial debe contrastarse con datos concretos que reflejan el día a día de millones. ¿Hasta qué punto el discurso presidencial puede desconectarse de la experiencia vivida por los ciudadanos sin perder credibilidad, especialmente en un contexto de alta inflación y ajuste fiscal?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-realidad-familias-mejor-o-negacion",
+    "fecha": "2026-08-03",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: La Aprobación de Milei Cae: ¿Fin de la Luna de Miel?",
+    "bajada": "La popularidad del presidente experimenta un declive significativo, coincidiendo con las dificultades económicas.",
+    "cuerpo": "La aprobación de Javier Milei, según reportes, ha tocado fondo, mientras una mayoría de argentinos aún lucha por llegar a fin de mes. Este descenso en la imagen positiva del mandatario se explica, en parte, por el impacto del ajuste fiscal en el bolsillo de los ciudadanos, un fenómeno que desde Panorama.ar hemos advertido como una consecuencia inevitable de la corrección macroeconómica. Si bien la reducción del déficit es un objetivo loable, su efecto inmediato en la calidad de vida de la clase media y baja genera descontento.\n\nAnalistas políticos de diversas tendencias coinciden en que la paciencia social tiene límites, y el discurso \"anticasta\" empieza a colisionar con las exigencias de soluciones concretas. El gobierno deberá encontrar un equilibrio entre la ortodoxia económica y la gestión de las expectativas populares. ¿Podrá el oficialismo revertir esta tendencia negativa y demostrar que el sacrificio actual conducirá a una mejora tangible, o el hartazgo social sellará el destino de sus reformas?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-aprobacion-milei-cae-fin-luna-de-miel",
+    "fecha": "2026-08-03",
+    "imagen": "img/politica_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: ¿Plan de Remate o Desburocratización de Tierras?",
+    "bajada": "Organizaciones no gubernamentales denuncian un avance contra el patrimonio nacional, mientras el gobierno defiende la modernización.",
+    "cuerpo": "Más de 25 ONG alertaron que los cambios en la ley de tierras forman parte de un \"plan de remate de la Argentina\", una acusación grave que pone en el centro del debate la soberanía y el uso estratégico de los recursos naturales. Desde Panorama.ar, si bien valoramos la desburocratización y la atracción de inversiones para potenciar el desarrollo, es crucial examinar con lupa cualquier reforma que pueda afectar la propiedad y el control de bienes estratégicos, exigiendo transparencia y garantías.\n\nEl gobierno, por su parte, argumenta que estas modificaciones buscan agilizar trámites, promover la inversión y dinamizar la economía, liberando activos improductivos para generar riqueza y empleo. Sin embargo, la preocupación por la concentración de tierras en manos extranjeras y la posible especulación no es menor y requiere un contrapeso informativo y analítico. ¿Cómo garantizar que la necesaria modernización no se convierta en una entrega de activos, y cuál es el verdadero beneficio a largo plazo para todos los argentinos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-plan-remate-o-desburocratizacion-tierras",
+    "fecha": "2026-08-03",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Selección Argentina: ¿El Silencio Que Nos Hace Únicos o la Mística Que Oculta?",
+    "bajada": "Un defensor de la Selección Argentina reveló la clave de su éxito, invitando a reflexionar sobre la identidad nacional.",
+    "cuerpo": "Un defensor de la Selección Argentina rompió el silencio y atribuyó a una característica especial del equipo el factor que \"nos hace diferentes al resto\", refiriéndose a la mística y el compañerismo del plantel. Este tipo de declaraciones, aunque celebradas por el fervor popular y el orgullo nacional, desde Panorama.ar nos invitan a un análisis más profundo. ¿Es realmente una cualidad intrínseca o un relato construido que, si bien efectivo, puede ocultar las verdaderas estructuras detrás del éxito deportivo?\n\nEs innegable el impacto emocional que la Selección genera en los argentinos, unificando pasiones en un país a menudo polarizado. Sin embargo, en un contexto donde también se discuten figuras como \"River\" o exjugadores como \"Milito\", la fascinación por el fútbol puede opacar debates cruciales sobre la gestión deportiva, las finanzas de los clubes y la transparencia. ¿Hasta qué punto esta \"mística\" sirve como espejo de virtudes nacionales o como velo para problemas estructurales que persisten en la sociedad y el deporte argentinos?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "seleccion-argentina-silencio-hace-unicos-o-mistica",
+    "fecha": "2026-08-03",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Precios en Argentina: ¿Auto 0km Más Barato, Freno a la Crisis o Ilusión?",
+    "bajada": "La reducción del precio de un modelo accesible genera expectativas, pero ¿es un síntoma de recuperación real o un espejismo en la economía?",
+    "cuerpo": "La noticia de que el auto 0 km más barato de Argentina bajó US$ 2.000 generó un respiro para muchos consumidores en medio de una profunda crisis. Si bien es una señal positiva en un mercado deprimido, desde Panorama.ar proponemos una lectura crítica: ¿es esta reducción un verdadero indicador de estabilidad económica y mayor poder adquisitivo, o una estrategia comercial para mover stock en un escenario de demanda contraída y precios aún inaccesibles para la mayoría?\n\nEl sector automotor, como espejo de la economía real, muestra dificultades por la inflación y la devaluación que impactaron en los costos de producción y la capacidad de compra. Mientras el gobierno promueve la apertura de importaciones y la competencia, la oferta de vehículos \"accesibles\" podría ser un ajuste de la industria a la realidad, más que un signo de mejora estructural. ¿Refleja este fenómeno un camino hacia la normalización o es un indicio de la contracción persistente del consumo en un país que busca desesperadamente la estabilidad?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "precios-argentina-auto-0km-mas-barato-freno-crisis",
+    "fecha": "2026-08-03",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "Thiago Almada le da el sí a River: ¿Inflación de pases o inversión estratégica?",
     "bajada": "El posible regreso de la joven estrella desata el debate sobre el costo y el impacto en el fútbol argentino.",
     "cuerpo": "La noticia de que Thiago Almada habría dado el \"sí\" a River Plate para regresar al fútbol argentino sacude el mercado de pases. El ex Vélez, hoy figura en la MLS y en la órbita de la Selección Argentina, sería una incorporación de lujo para el club de Núñez, generando enorme expectativa entre los hinchas. Sin embargo, la operación millonaria en dólares reaviva la discusión sobre la sostenibilidad económica del fútbol local y la capacidad de los clubes para afrontar inversiones de esta magnitud en un contexto de restricciones cambiarias.\n\nEste movimiento, si bien potencia la calidad deportiva del torneo, plantea interrogantes sobre el verdadero valor que se le asigna a los jugadores en Argentina. ¿Son estas cifras un reflejo de su talento o una burbuja inflacionaria impulsada por la pasión y la desesperación por el éxito? Para una economía asfixiada, la inyección de divisas en un solo jugador no deja de ser un tema sensible.\n\nMás allá de lo deportivo, la llegada de figuras como Almada a River moviliza pasiones y genera un enorme impacto social, pero es crucial analizar la letra chica de estas inversiones. ¿Quién asume los riesgos? ¿Es el fútbol argentino un destino sostenible para estas estrellas o un trampolín caro para futuras ventas?",
@@ -9,7 +93,7 @@
     "slug": "thiago-almada-river-inflacion-pases",
     "fecha": "2026-08-03",
     "imagen": "img/sociedad_4.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Milei sobre la economía: ¿De \"no somos Suiza\" a la cruda realidad argentina?",
@@ -201,90 +285,6 @@
     "slug": "redes-argentinas-dialogo-o-campo-de-batalla",
     "fecha": "2026-08-03",
     "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei 2027: ¿Reelección con Fractura o Consolidación Reformista?",
-    "bajada": "El plan de reelección de Milei enfrenta el desafío de una Argentina polarizada y una derecha fragmentada: ¿hay camino hacia la consolidación?",
-    "cuerpo": "El panorama político argentino ya proyecta sombras hacia 2027, con la reelección de Milei como eje central. La estrategia del oficialismo se dibuja sobre una Argentina visiblemente partida, una división que, lejos de ser un obstáculo, podría ser capitalizada en un escenario de derecha fragmentada. Los números y las encuestas internas buscarán justificar un camino que, para muchos, es tan audaz como arriesgado, buscando consolidar un espacio político reformista.\n\nSin embargo, esta visión choca con la realidad de una oposición que, aunque dividida, podría reagruparse, y con la necesidad de demostrar resultados tangibles de las políticas de ajuste. La fractura dentro del propio espacio de centro-derecha, sumada a las tensiones inherentes a un plan de gobierno disruptivo, plantea serias dudas sobre la viabilidad de un proyecto de largo plazo. La gobernabilidad y el consenso se vuelven críticos.\n\n¿Puede un proyecto político fundarse exitosamente en la polarización permanente y en la debilidad de sus aliados? ¿O la búsqueda de una reelección en un país tan volátil solo servirá para profundizar las heridas y alejar la posibilidad de una estabilidad duradera para Argentina?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "milei-2027-reeleccion-fractura-consolidacion",
-    "fecha": "2026-08-03",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El Poder Detrás del Trono: ¿Quién Gobierna Realmente en Argentina?",
-    "bajada": "La figura de Karina Milei emerge como un pilar ineludible del poder, generando interrogantes sobre la estructura de decisión en el gobierno.",
-    "cuerpo": "La influencia de Karina Milei, hermana del Presidente, ha dejado de ser un secreto a voces para convertirse en un hecho ineludible de la política argentina. Descrita como \"la hermana que manda\", su rol trasciende el de una simple secretaria general, implicando una concentración de poder y una cercanía al Presidente que no tiene precedentes en la historia reciente. Esta configuración genera un interrogante legítimo sobre la toma de decisiones y la institucionalidad dentro de la Casa Rosada.\n\nEste fenómeno, aunque personalista, no es ajeno a una tradición argentina de cúpulas de poder reducidas, pero en este caso, la formalidad de su cargo y la magnitud de su injerencia provocan debate. La efectividad de una estructura de poder tan centralizada, que depende de la confianza personal antes que de la orgánica institucional, es puesta bajo la lupa por analistas y opositores.\n\n¿Es la figura de Karina Milei una garantía de lealtad y eficiencia para un gobierno que busca ser disruptivo, o representa un riesgo de concentración de poder que vulnera la transparencia republicana? ¿Es saludable para la democracia que el poder real recaiga en un círculo tan íntimo, o es un pragmatismo necesario para implementar reformas profundas?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "el-poder-detras-del-trono-quien-gobierna",
-    "fecha": "2026-08-03",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Empresas en Mínimos Históricos: ¿Castigo Fiscal o Fin de una Era?",
-    "bajada": "La creación de empresas en Argentina alcanza su punto más bajo desde 2002, reflejando un panorama desolador para el sector productivo.",
-    "cuerpo": "La economía argentina muestra una de sus caras más preocupantes: la creación de empresas ha caído a niveles mínimos no vistos desde 2002. Este dato, lejos de ser una anécdota, es un indicador crítico de la salud del sector privado y la confianza de los inversores. En un país que necesita desesperadamente generar riqueza y empleo, la retracción en la formación de nuevas compañías es una señal de alarma que no puede ser ignorada.\n\nEste declive es multifactorial, pero la constante presión fiscal, la inestabilidad macroeconómica y la burocracia estatal actúan como barreras insalvables para el espíritu emprendedor. El clima adverso desincentiva cualquier iniciativa, perpetuando un ciclo de estancamiento que asfixia a quienes buscan innovar y producir. Mientras el Estado crece, el motor de la economía, el sector privado, languidece.\n\n¿Es esta caída un resultado inevitable de los ajustes económicos o una prueba irrefutable de que la Argentina sigue siendo un infierno para el que invierte y crea empleo? ¿Hasta cuándo podemos esperar que un país se sostenga con una economía que ahoga la iniciativa privada, y qué medidas concretas se necesitan para revertir este preocupante declive?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "empresas-minimos-historicos-castigo-fiscal",
-    "fecha": "2026-08-03",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Dólar Cueva: ¿Quién se Financia por Fuera del Sistema en Argentina?",
-    "bajada": "Una operación millonaria en dólares revela el oscuro circuito de \"cuevas\" financieras, con pagos vinculados a una figura identificada como \"M\".",
-    "cuerpo": "Un nuevo escándalo financiero sacude a la Argentina, revelando el opaco funcionamiento de las \"cuevas\" del dólar que, lejos de ser meros mercados informales, parecen ser vehículos para mover sumas millonarias y pagar a figuras políticas. La transferencia de USD 5 millones desde el exterior, pasando por estos circuitos marginales para luego financiar a \"M\", pone en evidencia la fragilidad institucional y la permeabilidad de nuestro sistema a la corrupción.\n\nEste tipo de operaciones no solo evaden controles y normativas, sino que corroen la confianza pública y distorsionan la economía. Mientras el ciudadano de a pie lucha contra la inflación y la presión impositiva, ciertos sectores privilegiados parecen moverse con impunidad en la clandestinidad financiera, utilizando estas \"cuevas\" como una suerte de banca paralela al servicio de intereses turbios. La falta de transparencia alimenta la sospecha y el descreimiento en las instituciones.\n\n¿Hasta cuándo permitiremos que el dinero negro y los circuitos informales sean el verdadero motor de ciertas operaciones en Argentina? ¿Quién es realmente \"M\" y qué responsabilidades políticas se esconden detrás de esta trama financiera que expone la profunda debilidad de nuestros controles estatales?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "dolar-cueva-quien-se-financia-fuera-sistema",
-    "fecha": "2026-08-03",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Fuga de Consumo: ¿Por qué Argentina Expulsa Compradores?",
-    "bajada": "La brecha de precios con países limítrofes impulsa a miles a buscar electrónica y celulares fuera del país.",
-    "cuerpo": "La constante diferencia de precios en productos electrónicos, especialmente celulares, entre Argentina y sus vecinos como Chile o Paraguay, es una cruda postal de nuestra economía. Mientras el gobierno insiste en políticas proteccionistas y altos impuestos a la importación, el ciudadano promedio se ve obligado a cruzar fronteras para acceder a bienes básicos de tecnología a un costo razonable. Esto no solo demuestra la ineficacia de ciertas regulaciones, sino que también implica una sangría de divisas y fomenta un mercado paralelo.\n\nEsta situación expone la profunda distorsión económica generada por la presión impositiva y la intervención estatal excesiva, que encarecen artificialmente los productos y reducen el poder adquisitivo de los argentinos. Lejos de proteger la industria nacional, estas medidas parecen solo beneficiar a un puñado de importadores cautivos y a las arcas fiscales, a costa del bolsillo de la gente.\n\n¿Hasta cuándo seguiremos con un modelo que penaliza el consumo y la inversión, forzando a nuestros ciudadanos a buscar afuera lo que aquí se niega?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fuga-de-consumo-por-que-argentina-expulsa-compradores",
-    "fecha": "2026-08-02",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina: ¿Discutimos Siempre el Problema Equivocado?",
-    "bajada": "Mientras las urgencias apremian, el país se enreda en debates superficiales que desvían la atención de lo realmente crucial.",
-    "cuerpo": "La política argentina parece tener una particular predilección por el desvío. En lugar de abordar de frente los desafíos estructurales que asfixian a la sociedad, se priorizan discusiones banales o ideologizadas que no conducen a ninguna solución real. Esta dinámica perpetúa un ciclo de estancamiento, donde la \"casta\" política, en su afán de mantener privilegios o agendas partidistas, ignora las verdaderas demandas de los ciudadanos. Es hora de preguntar: ¿quién se beneficia realmente de esta cortina de humo mediática?\n\nDesde la macroeconomía hasta la seguridad ciudadana, los temas de fondo exigen un análisis serio y medidas concretas, no consignas vacías. La incapacidad de consensuar políticas de Estado duraderas, libres de la mezquindad electoralista, condena a futuras generaciones a repetir los mismos errores. Los datos y la realidad son testarudos: mientras el mundo avanza, Argentina parece debatir sobre nimiedades, como si el tiempo no apremiara.\n\n¿Seremos capaces de madurar como sociedad y exigir a nuestros dirigentes que pongan fin a la farsa y se centren en los problemas que de verdad importan?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-discutimos-siempre-el-problema-equivocado",
-    "fecha": "2026-08-02",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Teorías del Mundial: ¿Quién No Quería a la Argentina Campeón?",
-    "bajada": "El legislador Roberto García Moritán reaviva el debate sobre las supuestas presiones contra la Selección en la final del Mundial.",
-    "cuerpo": "Las polémicas en torno a la actuación de la selección argentina en el Mundial y las teorías conspirativas que sugieren intereses externos en contra del éxito nacional siguen dando que hablar. Roberto García Moritán, figura política, ha puesto el foco en la idea de que \"les interesaba que a la Argentina no le vaya bien\", una frase que resuena en un sector de la sociedad que ve complots en cada revés. Esta narrativa, si bien alimenta el sentimiento de unidad nacional, también puede desviar la atención de problemas internos y responsabilidades propias.\n\nEl fútbol, como espejo de la sociedad, muchas veces magnifica nuestras virtudes y defectos. Criticar al arbitraje o a supuestos \"poderes\" internacionales puede ser más fácil que analizar las deficiencias estructurales que enfrenta el país. Moritán, al señalar estos \"intereses\", capitaliza un sentir popular, pero ¿cuánto de esto es una reflexión profunda y cuánto una excusa para no mirar hacia adentro?\n\n¿Es productivo para la Argentina seguir alimentando estas teorías conspirativas o deberíamos concentrarnos en construir un país fuerte que no dependa de factores externos para su éxito?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "teorias-mundial-quien-no-queria-argentina-campeon",
-    "fecha": "2026-08-02",
-    "imagen": "img/politica_8.png",
     "destacada": false
   }
 ]
