@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Selección Argentina: ¿Messi el eterno pilar o un recambio impostergable?",
+    "bajada": "Tras el Mundial 2026, la Albiceleste prepara amistosos. ¿Es momento de apostar por nuevas figuras?",
+    "cuerpo": "La mística de la Selección Argentina, revitalizada tras el Mundial, enfrenta una encrucijada crucial. Con los primeros amistosos post-Mundial en el horizonte, la discusión se centra en el rol de Lionel Messi. Si bien su legado es innegable, la planificación a largo plazo exige evaluar cuándo y cómo se dará el recambio generacional. Infobae reporta que se barajan destinos como China o Medio Oriente para estos encuentros, buscando mantener la exposición global de la Albiceleste.\n\nLa afición y la prensa debaten entre sostener al capitán para consolidar la imagen global y la necesidad estratégica de probar nuevos talentos. Mantener la competitividad sin depender de una figura única es el desafío para la AFA, que debe equilibrar lo comercial con lo deportivo. ¿Hasta qué punto la idolatría por Messi retrasa la necesaria renovación de la Selección Argentina?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "seleccion-argentina-messi-pilar-o-recambio",
+    "fecha": "2026-08-04",
+    "imagen": "img/sociedad_4.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Mundial y ¿conspiración?: La polémica de Facundo Medina reviva el debate",
+    "bajada": "Años después, las declaraciones de un jugador reabren heridas sobre la final del Mundial.",
+    "cuerpo": "Las palabras de Facundo Medina sobre una supuesta \"conspiración\" contra la Argentina en la final del Mundial reavivan una discusión que, para muchos, nunca se cerró. Yahoo Noticias reporta que el defensor sugirió que hubo intereses para que España se quedara con la Copa, encendiendo nuevamente la mecha de la desconfianza hacia los organismos internacionales del fútbol.\n\nEsta visión, aunque polémica, resuena en un sector de la opinión pública que siempre ha sido escéptico ante las grandes decisiones. Mientras algunos lo consideran una simple excusa para la derrota, otros ven una validación de viejas sospechas sobre manejos oscuros en el deporte rey, a menudo percibido como un gran negocio. ¿Es un simple lamento o hay verdades incómodas detrás de estas \"teorías conspirativas\"?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "mundial-conspiracion-facundo-medina-debate",
+    "fecha": "2026-08-04",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Paro Docente: ¿Priorizar el reclamo o el derecho a educarse?",
+    "bajada": "Mientras los maestros exigen salarios dignos, el Gobierno de Milei presiona por clases.",
+    "cuerpo": "El conflicto docente escala y pone en jaque el inicio del ciclo lectivo. Los maestros argentinos, representados por gremios, realizan un paro en reclamo de aumentos salariales, argumentando que sus ingresos son los más bajos de las últimas décadas. En este contexto, el presidente Milei ha sido contundente: exige que las escuelas garanticen un 75% de clases, priorizando el derecho a la educación de los alumnos, según informa El País.\n\nDesde Panorama.ar, observamos cómo este eterno dilema impacta directamente en el futuro del país. Si bien el reclamo por salarios justos es legítimo, la interrupción de clases afecta principalmente a los estudiantes, especialmente a aquellos de contextos más vulnerables. La \"casta\" política suele señalar a los docentes, pero ¿se está haciendo lo suficiente para garantizar salarios dignos sin perjudicar la educación pública? La balanza entre el derecho laboral y el derecho a la educación se muestra cada vez más desequilibrada.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "paro-docente-reclamo-o-derecho-a-educarse",
+    "fecha": "2026-08-04",
+    "imagen": "img/politica_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Salario docente en mínimos históricos: es el gasto público el problema?",
+    "bajada": "Un análisis crudo revela el derrumbe del poder adquisitivo de los maestros argentinos.",
+    "cuerpo": "La radiografía salarial de los docentes argentinos, expuesta por La Nación, revela una realidad alarmante: el salario actual de los maestros es el más bajo de los últimos 20 años. Este deterioro constante impacta directamente en la calidad educativa y desincentiva la vocación. Panorama.ar ha sostenido consistentemente que la presión impositiva y la inflación descontrolada, resultado de un gasto público desmedido, erosionan los ingresos de todos los trabajadores, y los docentes no son la excepción.\n\nEs crucial diferenciar el problema: ¿es la falta de fondos en general o una mala asignación de recursos públicos lo que condena a los maestros a la precariedad? La discusión sobre la eficiencia del gasto estatal, la proliferación de cargos políticos y el clientelismo, muchas veces ignorada por \"la casta\", debe ser central. No se puede pedir calidad educativa con salarios de miseria. ¿Es viable una educación de excelencia si no se respeta el valor del trabajo docente y se mantiene un esquema de gasto ineficiente?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "salario-docente-minimos-historicos-gasto-publico",
+    "fecha": "2026-08-04",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Tesla busca talento en Argentina: ¿el país está listo para la inversión Musk?",
+    "bajada": "La empresa de Elon Musk abre sus puertas a profesionales argentinos. ¿Se aprovechará la oportunidad?",
+    "cuerpo": "La noticia sacude el mercado laboral: Tesla, la gigante de Elon Musk, está buscando talentos en Argentina, según reporta El Doce. Esta movida de una de las empresas más innovadoras del mundo representa una oportunidad única para la inserción del país en la economía del conocimiento y la alta tecnología, un campo donde Argentina históricamente ha tenido recursos humanos valiosos, pero a menudo subutilizados por la falta de un ecosistema favorable a la inversión privada.\n\nDesde Panorama.ar, celebramos la llegada de inversiones de este calibre, que pueden generar empleos de calidad y estimular el desarrollo tecnológico. Sin embargo, la gran pregunta es si las condiciones macroeconómicas y el marco regulatorio argentino, históricamente volátil y con una presión impositiva asfixiante, son realmente atractivos y sostenibles para capitales como los de Musk. ¿Será Tesla un faro de desarrollo o una excepción aislada en un mar de incertidumbre económica?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "tesla-busca-talento-argentina-inversion-musk",
+    "fecha": "2026-08-04",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Elecciones 2027: ¿fin de ciclo o continuidad de la 'casta' en Argentina?",
+    "bajada": "Con el calendario electoral en el horizonte, se abre la discusión sobre el futuro político del país.",
+    "cuerpo": "Las Elecciones 2027 ya asoman en el horizonte político argentino, y aunque parezca lejano, la discusión sobre el próximo presidente y el rumbo del país ya está en marcha. La Nación detalla el cronograma, pero más allá de las fechas, el verdadero debate se centra en la continuidad o el quiebre con las prácticas que, desde Panorama.ar, hemos denominado la \"casta\" política.\n\nLos ciudadanos, agotados de promesas incumplidas y una gestión pública ineficiente, buscarán alternativas. La clave estará en si surgirán figuras que realmente representen un cambio estructural y una mayor disciplina fiscal, o si el sistema actual seguirá reciclando nombres y políticas que han demostrado su fracaso. ¿Estamos ante la oportunidad de una verdadera transformación o solo un nuevo maquillaje para la vieja \"casta\" política?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "elecciones-2027-fin-ciclo-o-continuidad-casta",
+    "fecha": "2026-08-04",
+    "imagen": "img/politica_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Manzana argentina: ¿por qué perdimos un mercado global en expansión?",
+    "bajada": "Mientras el mundo aumentaba su consumo de manzanas, Argentina retrocedía en el comercio.",
+    "cuerpo": "El caso de la manzana argentina es un ejemplo paradigmático de oportunidades perdidas por la injerencia estatal y la falta de visión a largo plazo. Lmneuquen.com reporta cómo, a pesar del crecimiento constante del comercio mundial de manzanas, Argentina no solo no pudo capitalizarlo, sino que retrocedió drásticamente en su participación. Este declive se atribuye a factores como la alta presión impositiva, la burocracia excesiva y la inestabilidad económica, que ahuyentan la inversión y desincentivan la producción.\n\nDesde una perspectiva liberal, la intervención constante del Estado y las regulaciones distorsivas crean un ambiente hostil para el productor, impidiendo su competitividad global. El sector, vital para economías regionales, necesita previsibilidad y reglas claras, no más parches ni subsidios que solo perpetúan la ineficiencia. ¿Hasta cuándo el intervencionismo seguirá condenando a la Argentina a perder negocios en mercados donde podríamos ser líderes?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "manzana-argentina-perdimos-mercado-global",
+    "fecha": "2026-08-04",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "El Fenómeno Lali: ¿Esconde Argentina Problemas Reales con Celebridades?",
     "bajada": "El encuentro de dos íconos musicales desató euforia, pero ¿qué dice del pulso social argentino?",
     "cuerpo": "La reciente confesión de Lali Espósito junto a Rosalía en Argentina monopolizó las redes, generando un torbellino de reacciones. Este furor mediático, si bien legítimo en su alcance de entretenimiento, invita a reflexionar sobre si la sociedad argentina, en momentos de profunda incertidumbre económica y política, busca en el espectáculo un refugio o una distracción deliberada de los problemas estructurales que la aquejan. Es lícito preguntarse cuánto de esta atención masiva desvía el foco de debates urgentes.\n\nDesde una perspectiva crítica, el entusiasmo desmedido por figuras públicas puede ser un síntoma de la fatiga social ante la compleja realidad. Mientras se discuten ajustes, inflación y reformas, el \"fenómeno Lali\" ofrece un contrapunto de evasión. ¿Es esta la Argentina que queremos construir, o estamos priorizando el escapismo sobre el debate crítico y la acción cívica?",
@@ -9,7 +93,7 @@
     "slug": "el-fenomeno-lali-esconde-argentina-problemas-reales",
     "fecha": "2026-08-03",
     "imagen": "img/sociedad_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Argentina: ¿Milei Acertó en el Diagnóstico, Pero Falla en la Receta?",
@@ -201,90 +285,6 @@
     "slug": "seleccion-argentina-bicampeona-mundial-hockey-50",
     "fecha": "2026-08-03",
     "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La 'casta' en vilo: Milei anuncia compañero para 2027, ¿estrategia o provocación?",
-    "bajada": "Las declaraciones del Presidente sobre su fórmula para 2027 agitan el tablero político y el futuro del oficialismo.",
-    "cuerpo": "Javier Milei ha vuelto a generar revuelo en la escena política con el anuncio enigmático de que ya tendría un compañero de fórmula para 2027, \"pos-Villarruel\". Esta declaración, cargada de intención, no solo siembra incertidumbre sobre el rol futuro de su actual vicepresidenta, Victoria Villarruel, sino que también funciona como un claro mensaje a la \"casta\" política: el Presidente proyecta a largo plazo y busca consolidar un espacio más allá de las alianzas actuales. ¿Es una jugada maestra para desarticular internas o una muestra de personalismo extremo?\n\nLa forma en que se maneja esta información es un reflejo del estilo Milei: directo, provocador y con alta capacidad de impacto en la opinión pública. Mientras la oposición busca cohesionarse, el oficialismo se permite este tipo de especulaciones que desvían la atención y mantienen la agenda en torno a su figura. El electorado, ¿está más interesado en las figuras y sus relaciones o en las propuestas de fondo para la Argentina?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-companero-formula-2027-estrategia-provocacion",
-    "fecha": "2026-08-03",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei y la decadencia argentina: ¿las reformas realmente cambian el rumbo histórico?",
-    "bajada": "El Presidente afirma que sus medidas atacan las causas profundas de la crisis, pero la efectividad aún genera amplio debate.",
-    "cuerpo": "Javier Milei insiste en que sus reformas son la clave para revertir \"la decadencia argentina de los últimos 91 años\", una tesis central de su discurso liberal. Al señalar a la intervención estatal excesiva y el gasto público descontrolado como los males endémicos, el Presidente propone un cambio radical. Sin embargo, la discusión va más allá de la retórica: ¿estas medidas están logrando los efectos deseados a nivel macro y microeconómico, o el costo social es demasiado alto?\n\nLa promesa de un país próspero y libre de la \"casta\" resuena fuerte, pero la implementación de las reformas implica tensiones y resistencias de diversos sectores. Criticar el pasado sin ofrecer soluciones viables para el presente y el futuro es un camino peligroso. ¿La apuesta por un ajuste brutal es la única forma de desandar décadas de errores, o se necesita una estrategia más gradual y consensuada para evitar una mayor fractura social?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "milei-decadencia-argentina-reformas-cambian-rumbo",
-    "fecha": "2026-08-03",
-    "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Novena recesión?: La economía argentina se contrae, ¿qué falla en el rumbo actual?",
-    "bajada": "Los datos de actividad económica en caída libre en junio alertan sobre un escenario de estancamiento profundo.",
-    "cuerpo": "La economía argentina enfrenta la amenaza de una novena recesión, con niveles de actividad en junio por debajo incluso de proyecciones a futuro como febrero de 2025. Este panorama crítico, que expone la fragilidad estructural del país, plantea serios interrogantes sobre las políticas implementadas y su capacidad para reactivar el motor productivo. ¿El ajuste fiscal necesario está ahogando la actividad económica al punto de profundizar la crisis, en lugar de sentar las bases para el crecimiento?\n\nLos defensores del modelo actual argumentan que la recesión es un costo ineludible para sanear las cuentas públicas y combatir la inflación. Sin embargo, la contracción del consumo, la inversión y el empleo genera un círculo vicioso difícil de romper. Es imperativo un análisis serio sobre si la velocidad y la profundidad del ajuste son las adecuadas, o si se necesita una estrategia que equilibre la estabilidad macroeconómica con la protección del tejido productivo y social. ¿Existe un plan de crecimiento real más allá de la contención del gasto?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "novena-recesion-economia-argentina-contraccion-rumbo",
-    "fecha": "2026-08-03",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vacaciones de invierno récord en 'modo Mundial': ¿El turismo puede compensar la crisis?",
-    "bajada": "El impacto económico del turismo en vacaciones de invierno fue significativo, impulsado por el espíritu futbolístico, pero ¿es sostenible?",
-    "cuerpo": "Las vacaciones de invierno arrojaron cifras récord para el turismo en Argentina, con un incremento del 5,9% de visitantes y un impacto económico de 2,12 billones de pesos. La Confederación Argentina de la Mediana Empresa (CAME) destaca este fenómeno, impulsado por lo que denominan el \"modo Mundial\" post-campeonato. Si bien estos números son positivos, surge la pregunta: ¿puede el envión turístico, ligado a un evento excepcional, sostenerse en el tiempo y convertirse en un motor genuino de la economía nacional frente a la contracción generalizada?\n\nEl sector turístico es vital para la generación de empleo y divisas, pero su dependencia de factores emocionales o coyunturales, como la euforia post-Mundial, expone su vulnerabilidad. Se necesitan políticas de Estado a largo plazo que fomenten la competitividad, la infraestructura y la inversión para asegurar un crecimiento sostenido, no solo picos estacionales. ¿Argentina tiene una estrategia clara para consolidar el turismo como un pilar económico robusto, o solo celebra éxitos puntuales?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "vacaciones-invierno-record-modo-mundial-turismo-compensar-crisis",
-    "fecha": "2026-08-03",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Bicampeonas Mundiales: ¿Unión Nacional ante Inglaterra o Evasión de la Realidad?",
-    "bajada": "La Selección Argentina de Hockey +50 revalida su título, reviviendo el espíritu de las Malvinas frente a un rival histórico.",
-    "cuerpo": "La Selección Argentina de Hockey Femenino +50 ha demostrado una vez más la garra nacional, consagrándose bicampeona mundial tras vencer a Inglaterra. Con la legendaria Vanina Oneto liderando, el equipo no solo conquistó un nuevo título, sino que reavivó ese profundo sentimiento de orgullo argentino que aflora en cada competencia contra los ingleses, evocando incluso la memoria de Malvinas. Este triunfo resalta la tenacidad de nuestros deportistas y la capacidad de unir al país detrás de un objetivo común.\n\nSin embargo, mientras celebramos estas victorias que inflan el pecho, ¿no deberíamos preguntarnos qué tan efectivo es este entusiasmo deportivo para enmascarar las profundas divisiones y problemas estructurales que asedian a la Argentina? Es innegable que el deporte genera un bálsamo de alegría, pero la euforia pasajera de un campeonato no puede ser la única respuesta a una sociedad que exige soluciones concretas.\n\n¿Hasta qué punto utilizamos el éxito deportivo como una cortina de humo para evitar debates cruciales sobre nuestra economía y política? ¿Es esta victoria un verdadero reflejo de la resiliencia argentina o una distracción bienvenida de una realidad más compleja y fragmentada?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "bicampeonas-mundiales-union-nacional-o-evasion",
-    "fecha": "2026-08-03",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Rosalía se disculpa: ¿Patriotismo Genuino o Estrategia de Mercado?",
-    "bajada": "Tras la polémica por el Mundial, la cantante Rosalía emocionó con sus palabras, pero la pregunta persiste: ¿cuánto hay de amor y cuánto de cálculo?",
-    "cuerpo": "La cantante Rosalía, en su primera presentación en Buenos Aires, generó un revuelo al pedir disculpas a sus seguidores argentinos por un comentario relacionado con el Mundial. Sus palabras, \"siento amor por este país\" y \"Argentina es el lugar que me guió adonde estoy\", fueron recibidas con emoción, intentando sanar una herida de orgullo nacional que se abrió en redes. Este episodio subraya la hipersensibilidad argentina cuando se toca el tema de su identidad, especialmente en el contexto del fútbol.\n\nNo obstante, la efusividad de la disculpa y la rápida aceptación por parte del público invitan a una reflexión más profunda. ¿Es esta una muestra de la genuina conexión de la artista con el sentir argentino o una estrategia de relaciones públicas perfectamente ejecutada para apaciguar a un mercado clave? En la era de la globalización y las redes sociales, el \"amor por el país\" puede ser una herramienta poderosa, tanto para conectar como para capitalizar.\n\n¿Hasta qué punto los artistas internacionales entienden la complejidad del sentimiento argentino o simplemente despliegan el libreto esperado para asegurar la fidelidad de sus fans? ¿Esta polémica y su resolución nos dicen más sobre la construcción de la imagen pública de las celebridades o sobre la fragilidad de nuestro propio orgullo nacional?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "rosalia-se-disculpa-patriotismo-o-estrategia",
-    "fecha": "2026-08-03",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Redes Argentinas: ¿Diálogo o Campo de Batalla Pos-Mundial?",
-    "bajada": "Tras la euforia del Mundial, las redes sociales en Argentina se consolidan como un espacio de polarización y debate agravado.",
-    "cuerpo": "El clima social argentino post-Mundial ha dejado una herencia agridulce en el espacio digital. Lejos de la unión efímera que generó la Selección, las redes sociales se han transformado en un verdadero campo de batalla, donde la discusión se agrava y la polarización es la norma. Desde temas políticos hasta culturales, cualquier chispa puede encender un incendio de críticas y descalificaciones, haciendo del diálogo constructivo una quimera.\n\nEsta exacerbación de los debates en plataformas como X no es un fenómeno nuevo, pero se ha profundizado. La inmediatez y el anonimato fomentan una agresividad que trasciende lo virtual y que, a menudo, parece reflejar una incapacidad más profunda de la sociedad para encontrar puntos de encuentro y resolver diferencias de manera civilizada. El ensañamiento contra figuras públicas o la virulencia en temas triviales son síntomas de una patología mayor.\n\n¿Son las redes un mero espejo de una Argentina partida, o son ellas mismas un motor que profundiza la grieta y dificulta cualquier intento de cohesión social? ¿Cómo podemos esperar un debate público sano cuando la arena digital premia el insulto y castiga la reflexión?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "redes-argentinas-dialogo-o-campo-de-batalla",
-    "fecha": "2026-08-03",
-    "imagen": "img/sociedad_2.png",
     "destacada": false
   }
 ]
