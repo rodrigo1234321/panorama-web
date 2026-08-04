@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Mercosur: ¿Crisis regional y la inacción del Senado argentino?",
+    "bajada": "Las tensiones en el bloque regional escalan y Uruguay advierte. ¿Qué papel juega la política interna?",
+    "cuerpo": "Uruguay ha descartado mediar en las crecientes tensiones entre Argentina y Brasil, pero no dejó de señalar la preocupación por la situación actual del Mercosur. Esta postura subraya la parálisis y las profundas diferencias que atraviesan a los principales socios del bloque, evidenciando una debilidad institucional que impide avanzar en la agenda común y proyectar un futuro claro para la integración regional. La advertencia uruguaya debería encender las alarmas sobre el futuro de un mecanismo que, en lugar de ser un motor de desarrollo, parece convertirse en un lastre.\n\nEl Mercosur, concebido como un espacio de libre comercio y coordinación política, se ve hoy jaqueado por visiones contrapuestas y conflictos internos que paralizan decisiones clave. Mientras los discursos oficiales buscan minimizar el impacto, la realidad muestra un bloque estancado, con Uruguay buscando alternativas bilaterales y Brasil y Argentina en desacuerdos sustanciales. ¿Está el #Senado argentino a la altura del desafío, o las disputas partidarias impiden un análisis serio sobre el rumbo geopolítico y económico del país?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mercosur-crisis-regional-inaccion-senado-argentino",
+    "fecha": "2026-08-04",
+    "imagen": "img/politica_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "La Argentina dividida: ¿Es el relato de Milei una verdad única?",
+    "bajada": "Un análisis crudo revela las dos caras de un país polarizado bajo el gobierno actual.",
+    "cuerpo": "La realidad económica y social argentina se presenta cada vez más fragmentada, desmintiendo cualquier intento de relato homogéneo. El gobierno de Javier Milei, a pesar de sus intentos por imponer una narrativa de cambio radical, enfrenta la complejidad de un país donde las medidas de ajuste generan efectos dispares, beneficiando a unos sectores y castigando duramente a otros. Este fenómeno no es meramente un desacuerdo político; es la manifestación de dos Argentinas que viven realidades económicas y expectativas futuras completamente distintas.\n\nMientras algunos sectores ven en la desregulación y la austeridad la única vía para el crecimiento, otros denuncian la profundización de la desigualdad y la recesión. Las cifras de actividad económica, empleo e inflación son interpretadas desde ópticas radicalmente opuestas, haciendo casi imposible un consenso sobre el diagnóstico o el camino a seguir. La discusión, entonces, no se centra solo en las políticas, sino en cómo se perciben sus consecuencias. ¿Puede un gobierno consolidar un proyecto de país cuando la mitad de sus ciudadanos vive una realidad ajena a la que se predica desde el poder?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-dividida-relato-milei-verdad-unica",
+    "fecha": "2026-08-04",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Caída del PBI: ¿El costo inevitable del ajuste o un mal manejo económico?",
+    "bajada": "Economistas sorprendidos por la recesión más profunda. ¿Se están pagando las consecuencias de las reformas?",
+    "cuerpo": "La anticipada caída del Producto Bruto Interno en el segundo trimestre ha sorprendido a los economistas por su magnitud, revelando una contracción más pronunciada de lo esperado en la actividad económica argentina. Este dato enciende las alarmas sobre el verdadero costo del ajuste fiscal y las reformas estructurales implementadas, impactando directamente en la capacidad productiva del país y en el bienestar de sus ciudadanos. Si bien el gobierno defiende que la recesión es un paso necesario para sanear la economía, la velocidad y profundidad de la caída generan interrogantes sobre la sostenibilidad de esta estrategia.\n\nExpertos señalan que, si bien la disciplina fiscal es crucial, la política monetaria y las medidas para fomentar la inversión aún no logran revertir la tendencia negativa. La recesión afecta a diversos sectores, desde la industria hasta el consumo, generando un escenario complejo para la recuperación. El debate es claro: ¿es esta recesión una purga necesaria para un crecimiento futuro más robusto, o un indicador de que el sendero económico elegido está generando más daño que beneficios a corto y mediano plazo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "caida-pbi-costo-ajuste-mal-manejo-economico",
+    "fecha": "2026-08-04",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La paradoja de la manzana: ¿Por qué Argentina perdió un mercado global?",
+    "bajada": "Mientras el mundo comerciaba, el país se autoexcluyó de un negocio millonario. Las causas de un fracaso evitable.",
+    "cuerpo": "La historia del sector manzanero argentino es un claro ejemplo de cómo la intervención estatal y las políticas erráticas pueden dilapidar un negocio próspero. Mientras el comercio mundial de manzanas crecía de manera sostenida, Argentina, un productor tradicional y con ventajas comparativas, vio cómo su participación en el mercado internacional se reducía drásticamente. Este declive no fue producto de una falta de demanda global, sino de regulaciones asfixiantes, presiones impositivas y una falta de visión estratégica que impidieron a los productores competir eficazmente.\n\nEl sector, otrora pujante, se vio ahogado por un combo de alta inflación, costos laborales insostenibles y una burocracia que desalentaba la inversión y la modernización. La incapacidad de adaptarse a los estándares internacionales y la inestabilidad macroeconómica hicieron el resto, condenando a los productores locales a un mercado interno cada vez más volátil. Esta pérdida no solo es económica, sino que representa un fracaso en la defensa del sector productivo nacional. ¿Hasta cuándo se seguirán sacrificando oportunidades de desarrollo y empleo genuino en nombre de políticas que demuestran ser contraproducentes?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "paradoja-manzana-argentina-perdio-mercado-global",
+    "fecha": "2026-08-04",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Rosalía: ¿Escándalo mediático o reflejo de una sociedad hipersensible?",
+    "bajada": "La estrella española generó una controversia \"inesperada\" en Argentina, desatando el debate sobre la cultura de la cancelación.",
+    "cuerpo": "La visita de Rosalía a Argentina, más allá de sus shows, dejó un nuevo \"escándalo\" que rápidamente tomó las redes. La situación, descrita como \"insólita\", pone en evidencia la facilidad con la que ciertas figuras públicas pueden convertirse en blanco de críticas o \"escraches\" por actos que, en otro contexto, pasarían desapercibidos. Este fenómeno no solo afecta a los artistas, sino que refleja una tendencia creciente a la hipersensibilidad y la búsqueda constante de controversia en la esfera pública, alimentada por la inmediatez y el anonimato de las redes sociales.\n\nMientras algunos defienden la espontaneidad de las reacciones populares o la necesidad de señalar \"errores\", otros advierten sobre la peligrosidad de una cultura de la cancelación que juzga sin matices y condena sin derecho a réplica. La línea entre la crítica constructiva y el linchamiento digital se vuelve cada vez más difusa, afectando no solo a las celebridades, sino a cualquier persona expuesta. ¿Es esta una nueva forma de censura social o simplemente la voz de un público más exigente y empoderado?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "rosalia-escandalo-mediatico-sociedad-hipersensible",
+    "fecha": "2026-08-04",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Contrabando de celulares: ¿Porosidad en fronteras o complicidad interna?",
+    "bajada": "El hallazgo de 73 celulares ilegales en encomiendas destapa una red que burla los controles y evade impuestos.",
+    "cuerpo": "El descubrimiento de 73 celulares extranjeros ingresados al país sin aval legal, camuflados en encomiendas, expone una vez más la debilidad de los controles aduaneros y la facilidad con la que se vulneran las normativas en Argentina. Este tipo de contrabando no solo evade millonarias sumas en impuestos que deberían ir a las arcas del Estado, sino que también alimenta un mercado informal que perjudica el comercio legal y, en ocasiones, está vinculado a redes de delincuencia organizada. La aparente pasividad frente a estas prácticas genera serias dudas sobre la efectividad de las políticas de seguridad y control en nuestras fronteras y dentro del territorio.\n\nMientras el Estado se queja de la falta de recursos, estas operaciones ilícitas demuestran una sangría constante de divisas y un desafío flagrante a la legalidad. El problema no se limita a la mercadería; es un síntoma de un sistema con fallas estructurales, donde la mano dura prometida en la lucha contra el crimen organizado y la evasión parece no llegar a todos los rincones. ¿Hasta cuándo se permitirá que la informalidad y la ilegalidad campen a sus anchas, socavando la economía y la confianza en las instituciones?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "contrabando-celulares-porosidad-fronteras-complicidad",
+    "fecha": "2026-08-04",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Salario docente: ¿Realidad salarial o déficit de productividad estatal?",
+    "bajada": "Los sueldos docentes alcanzan un mínimo histórico. ¿Es un problema de ingresos o de la eficiencia del gasto público?",
+    "cuerpo": "La preocupante situación del salario docente en Argentina, que se ubica en su punto más bajo en dos décadas, genera un debate profundo que va más allá de la mera reivindicación salarial. Si bien la defensa de un ingreso justo para los educadores es innegable, es crucial analizar el problema en el contexto de la eficiencia del gasto público y la productividad del sistema educativo. ¿Se trata únicamente de una falta de recursos o de una estructura que arrastra ineficiencias y un tamaño estatal que no se condice con los resultados obtenidos? La discusión debe ser integral.\n\nMientras el sector docente reclama mejoras urgentes, la sociedad exige calidad educativa y un uso responsable de los fondos públicos. Es fundamental despolitizar la discusión y enfocarse en soluciones que mejoren tanto la situación salarial como la calidad de la enseñanza, sin ahogar las arcas del Estado con incrementos sin respaldo productivo. ¿Es el bajo salario docente el problema central, o es un síntoma de un sistema educativo y de una gestión pública que necesitan una reforma profunda para ser sostenibles y de calidad?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "salario-docente-realidad-salarial-deficit-productividad",
+    "fecha": "2026-08-04",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
     "titulo": "Docentes contra Milei: ¿Quién paga el costo de la educación en crisis?",
     "bajada": "La exigencia presidencial a los gremios en medio de un paro que visibiliza salarios bajos y un sistema al límite.",
     "cuerpo": "Los gremios docentes se encuentran en pie de guerra, con un paro masivo en reclamo de salarios dignos, que según informes, son los más bajos de los últimos 20 años. En este contexto de tensión, el gobierno de Libertador Milei exige que se garantice un 75% de las clases, poniendo en el centro del debate la continuidad educativa frente a las demandas sindicales. La medida de fuerza de CTERA, que llegó a advertir que el país se quedará \"sin maestros\", genera un profundo impacto social y económico.\n\nEste escenario expone la compleja trama de la financiación educativa y la presión fiscal. Mientras los sindicatos reclaman una recomposición salarial urgente, argumentando la pérdida del poder adquisitivo de los docentes, el Ejecutivo nacional enfatiza la necesidad de mantener el orden y la productividad, sugiriendo que la \"casta\" gremial prioriza intereses particulares sobre la educación de los niños. La discusión de fondo gira en torno a la sostenibilidad de los salarios públicos, el impacto de la inflación y la capacidad del Estado para afrontar estas demandas sin desequilibrar las cuentas públicas.\n\n¿Es sostenible un sistema educativo donde el costo lo pagan siempre los contribuyentes, o es hora de repensar el rol de los gremios y la eficiencia del gasto en educación?",
@@ -9,7 +93,7 @@
     "slug": "docentes-contra-milei-educacion-crisis",
     "fecha": "2026-08-04",
     "imagen": "img/politica_1.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Sturzenegger: ¿Libertad de mercado o parálisis comercial?",
@@ -201,90 +285,6 @@
     "slug": "paro-docente-reclamo-o-derecho-a-educarse",
     "fecha": "2026-08-04",
     "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Salario docente en mínimos históricos: es el gasto público el problema?",
-    "bajada": "Un análisis crudo revela el derrumbe del poder adquisitivo de los maestros argentinos.",
-    "cuerpo": "La radiografía salarial de los docentes argentinos, expuesta por La Nación, revela una realidad alarmante: el salario actual de los maestros es el más bajo de los últimos 20 años. Este deterioro constante impacta directamente en la calidad educativa y desincentiva la vocación. Panorama.ar ha sostenido consistentemente que la presión impositiva y la inflación descontrolada, resultado de un gasto público desmedido, erosionan los ingresos de todos los trabajadores, y los docentes no son la excepción.\n\nEs crucial diferenciar el problema: ¿es la falta de fondos en general o una mala asignación de recursos públicos lo que condena a los maestros a la precariedad? La discusión sobre la eficiencia del gasto estatal, la proliferación de cargos políticos y el clientelismo, muchas veces ignorada por \"la casta\", debe ser central. No se puede pedir calidad educativa con salarios de miseria. ¿Es viable una educación de excelencia si no se respeta el valor del trabajo docente y se mantiene un esquema de gasto ineficiente?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "salario-docente-minimos-historicos-gasto-publico",
-    "fecha": "2026-08-04",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Tesla busca talento en Argentina: ¿el país está listo para la inversión Musk?",
-    "bajada": "La empresa de Elon Musk abre sus puertas a profesionales argentinos. ¿Se aprovechará la oportunidad?",
-    "cuerpo": "La noticia sacude el mercado laboral: Tesla, la gigante de Elon Musk, está buscando talentos en Argentina, según reporta El Doce. Esta movida de una de las empresas más innovadoras del mundo representa una oportunidad única para la inserción del país en la economía del conocimiento y la alta tecnología, un campo donde Argentina históricamente ha tenido recursos humanos valiosos, pero a menudo subutilizados por la falta de un ecosistema favorable a la inversión privada.\n\nDesde Panorama.ar, celebramos la llegada de inversiones de este calibre, que pueden generar empleos de calidad y estimular el desarrollo tecnológico. Sin embargo, la gran pregunta es si las condiciones macroeconómicas y el marco regulatorio argentino, históricamente volátil y con una presión impositiva asfixiante, son realmente atractivos y sostenibles para capitales como los de Musk. ¿Será Tesla un faro de desarrollo o una excepción aislada en un mar de incertidumbre económica?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "tesla-busca-talento-argentina-inversion-musk",
-    "fecha": "2026-08-04",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Elecciones 2027: ¿fin de ciclo o continuidad de la 'casta' en Argentina?",
-    "bajada": "Con el calendario electoral en el horizonte, se abre la discusión sobre el futuro político del país.",
-    "cuerpo": "Las Elecciones 2027 ya asoman en el horizonte político argentino, y aunque parezca lejano, la discusión sobre el próximo presidente y el rumbo del país ya está en marcha. La Nación detalla el cronograma, pero más allá de las fechas, el verdadero debate se centra en la continuidad o el quiebre con las prácticas que, desde Panorama.ar, hemos denominado la \"casta\" política.\n\nLos ciudadanos, agotados de promesas incumplidas y una gestión pública ineficiente, buscarán alternativas. La clave estará en si surgirán figuras que realmente representen un cambio estructural y una mayor disciplina fiscal, o si el sistema actual seguirá reciclando nombres y políticas que han demostrado su fracaso. ¿Estamos ante la oportunidad de una verdadera transformación o solo un nuevo maquillaje para la vieja \"casta\" política?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "elecciones-2027-fin-ciclo-o-continuidad-casta",
-    "fecha": "2026-08-04",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Manzana argentina: ¿por qué perdimos un mercado global en expansión?",
-    "bajada": "Mientras el mundo aumentaba su consumo de manzanas, Argentina retrocedía en el comercio.",
-    "cuerpo": "El caso de la manzana argentina es un ejemplo paradigmático de oportunidades perdidas por la injerencia estatal y la falta de visión a largo plazo. Lmneuquen.com reporta cómo, a pesar del crecimiento constante del comercio mundial de manzanas, Argentina no solo no pudo capitalizarlo, sino que retrocedió drásticamente en su participación. Este declive se atribuye a factores como la alta presión impositiva, la burocracia excesiva y la inestabilidad económica, que ahuyentan la inversión y desincentivan la producción.\n\nDesde una perspectiva liberal, la intervención constante del Estado y las regulaciones distorsivas crean un ambiente hostil para el productor, impidiendo su competitividad global. El sector, vital para economías regionales, necesita previsibilidad y reglas claras, no más parches ni subsidios que solo perpetúan la ineficiencia. ¿Hasta cuándo el intervencionismo seguirá condenando a la Argentina a perder negocios en mercados donde podríamos ser líderes?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "manzana-argentina-perdimos-mercado-global",
-    "fecha": "2026-08-04",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El Fenómeno Lali: ¿Esconde Argentina Problemas Reales con Celebridades?",
-    "bajada": "El encuentro de dos íconos musicales desató euforia, pero ¿qué dice del pulso social argentino?",
-    "cuerpo": "La reciente confesión de Lali Espósito junto a Rosalía en Argentina monopolizó las redes, generando un torbellino de reacciones. Este furor mediático, si bien legítimo en su alcance de entretenimiento, invita a reflexionar sobre si la sociedad argentina, en momentos de profunda incertidumbre económica y política, busca en el espectáculo un refugio o una distracción deliberada de los problemas estructurales que la aquejan. Es lícito preguntarse cuánto de esta atención masiva desvía el foco de debates urgentes.\n\nDesde una perspectiva crítica, el entusiasmo desmedido por figuras públicas puede ser un síntoma de la fatiga social ante la compleja realidad. Mientras se discuten ajustes, inflación y reformas, el \"fenómeno Lali\" ofrece un contrapunto de evasión. ¿Es esta la Argentina que queremos construir, o estamos priorizando el escapismo sobre el debate crítico y la acción cívica?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "el-fenomeno-lali-esconde-argentina-problemas-reales",
-    "fecha": "2026-08-03",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina: ¿Milei Acertó en el Diagnóstico, Pero Falla en la Receta?",
-    "bajada": "El presidente insiste en la profundidad de las reformas, pero la efectividad aún genera debate.",
-    "cuerpo": "Javier Milei afirmó que sus reformas \"apuntan al corazón de la decadencia argentina de los últimos 91 años\", en una clara señal de su visión sobre la crisis estructural del país. Esta narrativa resuena con la línea editorial de Panorama.ar, que históricamente ha denunciado el intervencionismo estatal y la expansión del gasto público como motores de la regresión económica. La insistencia en desmantelar privilegios y burocracia se alinea con una visión liberal que busca desatar las fuerzas productivas.\n\nSin embargo, la implementación de estas reformas no está exenta de críticas. Mientras el gobierno señala avances en materia fiscal y desregulación, sectores de la oposición y algunas voces económicas advierten sobre el impacto social a corto plazo y la necesidad de consensos más amplios. ¿Es la audacia del diagnóstico suficiente para garantizar el éxito de la transformación, o la confrontación y la falta de pragmatismo ponen en riesgo la estabilidad del proceso en Argentina?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-milei-acerto-diagnostico-falla-receta",
-    "fecha": "2026-08-03",
-    "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei y la Realidad de las Familias: ¿Mejor que Antes o Cruda Negación?",
-    "bajada": "La declaración presidencial choca con la realidad de endeudamiento y dificultad para llegar a fin de mes de miles de hogares.",
-    "cuerpo": "La polémica respuesta de Javier Milei sobre la situación de las familias argentinas que se endeudan o no llegan a fin de mes, afirmando \"No somos Suiza, pero estamos mucho mejor\", generó un fuerte debate. Para Panorama.ar, esta declaración, aunque busca defender el rumbo económico, minimiza una realidad innegable para gran parte de la población: el ajuste tiene un costo social tangible. Si bien es cierto que Argentina arrastra décadas de distorsiones, la percepción de mejora es dispar.\n\nCríticos del gobierno, incluyendo economistas y referentes sociales, señalan que indicadores como el aumento de la pobreza y la caída del consumo contradicen la idea de una mejora sustancial. Argumentan que el optimismo oficial debe contrastarse con datos concretos que reflejan el día a día de millones. ¿Hasta qué punto el discurso presidencial puede desconectarse de la experiencia vivida por los ciudadanos sin perder credibilidad, especialmente en un contexto de alta inflación y ajuste fiscal?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-realidad-familias-mejor-o-negacion",
-    "fecha": "2026-08-03",
-    "imagen": "img/economia_6.png",
     "destacada": false
   }
 ]
