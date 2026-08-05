@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Escalada diplomática: ¿Por qué la furia de Brasil y qué implica para Argentina? #Lula",
+    "bajada": "La histórica decisión del gobierno de #Lula de retirar su embajador marca un punto de inflexión en la relación bilateral.",
+    "cuerpo": "La tensión entre Buenos Aires y Brasilia alcanzó un pico alarmante: Brasil ha retirado a su embajador de Argentina, reduciendo al mínimo la relación diplomática. Esta medida, sin precedentes recientes, se produce tras los repetidos \"ataques\" del presidente Javier Milei contra su par brasileño, Luiz Inácio #Lula da Silva. Mientras la Casa Rosada insiste en que no \"responden con una agresión\", la acción de Brasil sugiere una lectura muy diferente de las declaraciones y gestos.\n\nLa postura de la administración Milei, que prioriza la alineación ideológica por encima de la pragmática relación con su principal socio comercial del Mercosur, genera interrogantes sobre los costos a largo plazo. ¿Es esta una estrategia calculada para redefinir la política exterior argentina o una imprudencia que aísla al país en la región, justo cuando la economía necesita estabilidad y nuevos mercados?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "escalada-diplomatica-por-que-la-furia-de-brasil-y-que-implica-para-argentina-lula",
+    "fecha": "2026-08-05",
+    "imagen": "img/politica_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "La agenda del #Papa León XIV: ¿Reconciliación o choque ideológico con Milei?",
+    "bajada": "La inminente visita papal trae consigo un mensaje de justicia social que colisiona con las prioridades del gobierno libertario.",
+    "cuerpo": "La confirmación de la visita del #Papa León XIV a la Argentina en noviembre ha desatado un debate sobre el impacto de su agenda en el escenario político nacional. Con un itinerario que incluirá Buenos Aires, Córdoba y Luján, el Sumo Pontífice se espera que ponga énfasis en la justicia social, la concordia y el diálogo, temas que, según analistas, chocan frontalmente con el discurso y las políticas de ajuste del presidente Javier Milei.\n\nMientras el Vaticano busca fomentar un mensaje de unidad y atención a los más vulnerables, el gobierno argentino se ha caracterizado por una retórica confrontativa y una marcada reducción del rol del Estado en programas sociales. ¿Será la visita del #Papa un catalizador para un necesario diálogo sobre las urgencias sociales del país, o se convertirá en un nuevo foco de tensión ideológica que profundice las divisiones ya existentes?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "la-agenda-del-papa-leon-xiv-reconciliacion-o-choque-ideologico-con-milei",
+    "fecha": "2026-08-05",
+    "imagen": "img/politica_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Renovación del swap con China: ¿Alivio para la #macro o dependencia creciente?",
+    "bajada": "Argentina extiende por cinco años el acuerdo de intercambio de monedas con China, una operación clave para las reservas pero con costos ocultos.",
+    "cuerpo": "En medio de la fragilidad económica, Argentina ha logrado renovar el swap de monedas con China por un plazo de cinco años, implicando un monto de US$19.000 millones. Esta operación es crucial para el Banco Central, ya que fortalece las reservas y permite cierta estabilidad en un contexto de alta volatilidad. Sin embargo, la extensión de este acuerdo genera interrogantes sobre la profundización de la dependencia económica del gigante asiático y las condiciones que la misma implica para la soberanía monetaria nacional.\n\nLos defensores de la medida argumentan que es una herramienta vital para sortear la escasez de dólares y estabilizar la #macro, evitando una crisis mayor. No obstante, los críticos señalan que el trueque de divisas, si bien necesario en la coyuntura, no resuelve los problemas estructurales de la economía argentina y podría generar compromisos futuros. ¿Es esta renovación un paso firme hacia la estabilidad o un parche temporario que hipoteca el futuro financiero del país?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "renovacion-del-swap-con-china-alivio-para-la-macro-o-dependencia-creciente",
+    "fecha": "2026-08-05",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Índice Big Mac: ¿La hamburguesa más cara pese a mejoras en la #macro?",
+    "bajada": "Aunque mejoró respecto a 2025, Argentina aún se posiciona entre los países con el Big Mac menos accesible para sus habitantes.",
+    "cuerpo": "El último Índice Big Mac de The Economist revela una realidad persistente: Argentina sigue figurando entre los países donde la famosa hamburguesa es más cara en relación con los ingresos de sus ciudadanos. Si bien se observó una leve mejora en comparación con 2025, el poder adquisitivo sigue siendo una preocupación central para la #macro. Este indicador informal, pero revelador, sugiere que, a pesar de los esfuerzos por estabilizar la economía, la vida cotidiana para el argentino promedio sigue siendo costosa.\n\nEl dato pone de manifiesto la continua disparidad entre los precios internos y los salarios, un reflejo de la alta inflación acumulada y la lenta recuperación del poder de compra. ¿Son estas \"mejoras\" meros espejismos estadísticos o realmente se percibe un cambio positivo en el bolsillo de la gente? El debate sobre la real situación económica de las familias argentinas sigue abierto.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "indice-big-mac-la-hamburguesa-mas-cara-pese-a-mejoras-en-la-macro",
+    "fecha": "2026-08-05",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Radiografía de la deuda: ¿Dónde golpea más fuerte la crisis #macro?",
+    "bajada": "Un mapa interactivo revela las zonas más afectadas por la morosidad y las deudas impagas en Argentina, exponiendo la profundidad de la crisis.",
+    "cuerpo": "Un reciente informe, acompañado de un mapa interactivo, arroja luz sobre la alarmante concentración de deudas impagas en diversas regiones de Argentina. Este instrumento visualiza dónde la crisis #macro golpea con mayor severidad a los ciudadanos y a las pequeñas y medianas empresas, mostrando focos de alta morosidad que reflejan la dificultad para afrontar compromisos financieros. La acumulación de deuda no solo afecta la economía familiar, sino que también ralentiza la actividad comercial y crediticia en las zonas comprometidas.\n\nLa información detalla que si bien la situación es generalizada, algunas provincias y barrios sufren una presión desproporcionada. Esto plantea un desafío urgente para las políticas económicas, que deben considerar las particularidades regionales para ofrecer soluciones efectivas. ¿Son las medidas actuales suficientes para revertir esta tendencia o se necesitan intervenciones más específicas y descentralizadas para aliviar la carga de los más afectados?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "radiografia-de-la-deuda-donde-golpea-mas-fuerte-la-crisis-macro",
+    "fecha": "2026-08-05",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Combustibles: ¿Argentina líder en precios caros o distorsión #macro?",
+    "bajada": "Comparativa regional revela el elevado costo de llenar el tanque en Argentina, un reflejo de impuestos y políticas de precios internas.",
+    "cuerpo": "Llenar el tanque en Argentina sigue siendo un desafío para el bolsillo, ubicándose el país en un puesto poco favorable dentro del ranking regional de precios de combustibles. Esta realidad, que impacta directamente en los costos de transporte y producción, es un termómetro de la distorsión que afecta a la #macro. Analistas señalan la carga impositiva y las políticas de precios como factores clave que elevan el valor del litro, a pesar de ser un país productor de petróleo.\n\nLa pregunta que surge es si estos precios responden a una necesidad genuina de financiamiento estatal o si, por el contrario, representan una extracción excesiva de recursos a los ciudadanos y al sector productivo, minando la competitividad. Es fundamental un debate sobre la composición del precio final de los combustibles para entender si estamos ante una inevitabilidad o una oportunidad de alivio para la economía real. ¿Hasta cuándo pagaremos los argentinos los combustibles más caros de la región?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "combustibles-argentina-lider-en-precios-caros-o-distorsion-macro",
+    "fecha": "2026-08-05",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El regreso de Wanda Nara: ¿Fenómeno mediático o reflejo social?",
+    "bajada": "La llegada de Wanda Nara a Argentina y sus explosivas declaraciones desatan un nuevo capítulo de la saga mediática más seguida del país.",
+    "cuerpo": "La figura de Wanda Nara vuelve a acaparar la atención mediática en Argentina, esta vez con su regreso al país y contundentes declaraciones contra Mauro Icardi: \"Se va a arrepentir\", advirtió. Este tipo de noticias, que mezclan lo personal con lo público de manera tan intensa, no solo satisfacen el morbo, sino que también funcionan como un termómetro de ciertos aspectos de la sociedad argentina. El seguimiento masivo de estas historias, por figuras como Wanda, Lali o Tini Stoessel, sugiere una fascinación por la vida de las celebridades, un escape o quizás una forma de discutir indirectamente temas como las relaciones de poder, el dinero y los roles de género en el ámbito público.\n\nSi bien algunos minimizan estos eventos como mero \"chimento\", su repercusión en redes sociales y medios de comunicación es innegable, generando conversaciones y debates a gran escala. ¿Qué dice de nuestra sociedad esta voracidad por el drama ajeno y la exposición extrema de la vida privada? ¿Es un simple entretenimiento o un síntoma de una cultura que difumina cada vez más las fronteras entre lo íntimo y lo público?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "el-regreso-de-wanda-nara-fenomeno-mediatico-o-reflejo-social",
+    "fecha": "2026-08-05",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
     "titulo": "Crisis diplomática: ¿El costo de los ataques a Lula?",
     "bajada": "Brasil escala la tensión con Argentina, retirando definitivamente a su embajador tras las polémicas declaraciones del presidente.",
     "cuerpo": "La relación bilateral entre Argentina y Brasil ha alcanzado un punto crítico. La decisión de Brasil de no reponer a su embajador y rebajar el nivel de la relación diplomática es una medida sin precedentes, directamente vinculada a los \"insultos\" proferidos por el presidente argentino contra su homólogo brasileño, Lula da Silva. Este escalamiento pone en jaque no solo los lazos políticos, sino también las complejas interacciones económicas entre ambos gigantes sudamericanos.\n\nLa postura del gobierno argentino, que ha insistido en que \"nunca respondimos a una diferencia política con una medida institucional\", choca con la contundencia de la acción brasileña. Mientras algunos defienden la independencia en la política exterior y la firmeza ante líderes de izquierda, otros advierten sobre el pragmatismo que debe primar en las relaciones internacionales, especialmente con socios estratégicos.\n\n¿Es este un paso necesario en la redefinición de nuestra política exterior, o un riesgo calculado que podría aislar a Argentina en un escenario regional ya complejo? La pregunta sobre el equilibrio entre la ideología y la diplomacia queda abierta al debate.",
@@ -9,7 +93,7 @@
     "slug": "crisis-diplomatica-el-costo-de-los-ataques-a-lula",
     "fecha": "2026-08-05",
     "imagen": "img/politica_8.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Argentina frente a Brasil: ¿Diplomacia o reacción a ataques a Lula?",
@@ -201,90 +285,6 @@
     "slug": "fmi-cambia-interlocutor-joyce-wong",
     "fecha": "2026-08-05",
     "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Peter Thiel y los \"vientos de cambio\": ¿el rumbo liberal se afianza?",
-    "bajada": "El influyente inversor y pensador libertario regresa al país en un momento clave para las reformas.",
-    "cuerpo": "Peter Thiel, cofundador de PayPal y figura clave en el ecosistema tecnológico y libertario global, vuelve a Argentina para dar una charla. Su visita no es menor en un contexto donde el gobierno actual promueve una agenda de reformas de mercado y una fuerte crítica al intervencionismo estatal. La presencia de Thiel refuerza el discurso de \"vientos de cambio\" y la idea de que la libertad económica es el motor de la prosperidad, un mensaje que resuena con la línea editorial de Panorama.ar. El empresario es conocido por su visión audaz sobre la innovación, la tecnología y el papel limitado del Estado. Su perspectiva choca con la arraigada cultura del estatismo y la burocracia que históricamente frenaron el desarrollo argentino. La oportunidad de escuchar a una figura de su calibre debería ser un llamado a la reflexión para la clase política, sobre la necesidad de desregular y permitir que el capital y el talento fluyan sin las trabas asfixiantes que impone el Estado y \"la casta\". ¿Logrará la Argentina capitalizar este entusiasmo por las ideas de libertad para transformar realmente su matriz productiva y romper con el estancamiento?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "peter-thiel-vientos-cambio-rumbo-liberal",
-    "fecha": "2026-08-05",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Riesgo país baja, pero el crédito no: ¿por qué Argentina paga caro?",
-    "bajada": "Pese a la mejora en los indicadores de riesgo, el acceso al financiamiento externo sigue siendo un desafío costoso.",
-    "cuerpo": "La paradoja económica argentina persiste: mientras el riesgo país muestra una tendencia a la baja, el costo de financiamiento externo para empresas y el propio Estado sigue siendo elevado. Esta situación, crucial para la reactivación productiva y la inversión, se explica no solo por la historia de default del país, sino también por la desconfianza estructural en la sostenibilidad de las políticas económicas a largo plazo. Desde la visión de Panorama.ar, la Argentina debe consolidar una senda de disciplina fiscal inquebrantable y seguridad jurídica para que el mercado perciba un cambio real, más allá de los indicadores coyunturales. La reducción de la percepción de riesgo es un paso positivo, pero insuficiente. Los inversores exigen señales claras de que los \"vientos de cambio\" no serán efímeros y que la presión impositiva, la burocracia y la inestabilidad regulatoria dejarán de ser una constante. Sin un marco de previsibilidad y un Estado que no compita con el sector privado ni se endeude de forma irresponsable, el capital seguirá siendo escaso y caro, frenando cualquier intento de crecimiento genuino. Las políticas económicas deben centrarse en la creación de riqueza, no en su redistribución compulsiva. ¿Qué más debe hacer Argentina para convencer a los mercados internacionales de que es un socio confiable y así abaratar su financiamiento?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "riesgo-pais-baja-credito-caro-argentina",
-    "fecha": "2026-08-05",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Crisis salarial docente: ¿la educación pública en jaque?",
-    "bajada": "Los docentes enfrentan los salarios más bajos en dos décadas, revelando un problema estructural en la educación pública.",
-    "cuerpo": "La situación salarial de los docentes argentinos alcanza un punto crítico, con ingresos que se posicionan como los más bajos de los últimos 20 años. Esta radiografía expone no solo la precarización de una labor fundamental, sino también la ineficiencia de un sistema educativo y de negociación paritaria que no logra garantizar condiciones dignas para quienes están al frente de las aulas. Desde Panorama.ar, esta crisis refleja una problemática más profunda del gasto público: ¿se destina de manera eficiente el presupuesto a lo esencial o se diluye en burocracia y clientelismo? La crítica situación de los educadores debería generar un debate urgente sobre la asignación de recursos y la gestión de la educación pública. Mientras ciertos sectores gremiales defienden modelos que perpetúan la inercia, la realidad es que el salario docente pierde poder adquisitivo año tras año. Es hora de dejar de lado los dogmas ideológicos y buscar soluciones pragmáticas que prioricen la calidad educativa y el reconocimiento justo a los maestros, sin engrosar la burocracia ni el gasto improductivo que ahoga las finanzas públicas. ¿Hasta cuándo Argentina permitirá que sus docentes sean de los peor pagos, sacrificando el futuro de la educación pública en el altar de la ineficiencia y la presión sindical?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "crisis-salarial-docente-educacion-publica",
-    "fecha": "2026-08-05",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Manzanas argentinas: ¿cómo se perdió un negocio de exportación clave?",
-    "bajada": "Argentina, otrora líder, ve cómo el mundo crece en exportación de manzanas mientras su producción se estanca.",
-    "cuerpo": "El caso de la industria de la manzana en Argentina es un claro ejemplo de oportunidades perdidas por la falta de competitividad y una política estatal errática. Mientras el comercio mundial de esta fruta sigue en auge, el país, que alguna vez fue un jugador relevante, ha visto estancarse su producción y reducirse drásticamente su participación en los mercados internacionales. Esta declive se puede atribuir a la combinación de alta presión impositiva, costos laborales elevados, infraestructura deficiente y regulaciones que desincentivan la inversión y la modernización del sector. Desde la perspectiva de Panorama.ar, la pérdida de este y otros negocios de exportación es una consecuencia directa de la intervención estatal excesiva y la falta de visión de largo plazo para el sector productivo. En lugar de facilitar la inversión y la adaptación a las demandas globales, las políticas han generado un clima de incertidumbre que frena el crecimiento y la innovación. Revertir esta tendencia exige liberar al productor de cargas innecesarias, fomentar la apertura de mercados y garantizar la estabilidad macroeconómica, para que los sectores con potencial exportador puedan competir de igual a igual. ¿Podrá Argentina recuperar el terreno perdido en el comercio internacional o seguirá siendo rehén de políticas que castigan la producción y la exportación?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "manzanas-argentinas-negocio-exportacion",
-    "fecha": "2026-08-05",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Mercosur: ¿Crisis regional y la inacción del Senado argentino?",
-    "bajada": "Las tensiones en el bloque regional escalan y Uruguay advierte. ¿Qué papel juega la política interna?",
-    "cuerpo": "Uruguay ha descartado mediar en las crecientes tensiones entre Argentina y Brasil, pero no dejó de señalar la preocupación por la situación actual del Mercosur. Esta postura subraya la parálisis y las profundas diferencias que atraviesan a los principales socios del bloque, evidenciando una debilidad institucional que impide avanzar en la agenda común y proyectar un futuro claro para la integración regional. La advertencia uruguaya debería encender las alarmas sobre el futuro de un mecanismo que, en lugar de ser un motor de desarrollo, parece convertirse en un lastre.\n\nEl Mercosur, concebido como un espacio de libre comercio y coordinación política, se ve hoy jaqueado por visiones contrapuestas y conflictos internos que paralizan decisiones clave. Mientras los discursos oficiales buscan minimizar el impacto, la realidad muestra un bloque estancado, con Uruguay buscando alternativas bilaterales y Brasil y Argentina en desacuerdos sustanciales. ¿Está el #Senado argentino a la altura del desafío, o las disputas partidarias impiden un análisis serio sobre el rumbo geopolítico y económico del país?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mercosur-crisis-regional-inaccion-senado-argentino",
-    "fecha": "2026-08-04",
-    "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La Argentina dividida: ¿Es el relato de Milei una verdad única?",
-    "bajada": "Un análisis crudo revela las dos caras de un país polarizado bajo el gobierno actual.",
-    "cuerpo": "La realidad económica y social argentina se presenta cada vez más fragmentada, desmintiendo cualquier intento de relato homogéneo. El gobierno de Javier Milei, a pesar de sus intentos por imponer una narrativa de cambio radical, enfrenta la complejidad de un país donde las medidas de ajuste generan efectos dispares, beneficiando a unos sectores y castigando duramente a otros. Este fenómeno no es meramente un desacuerdo político; es la manifestación de dos Argentinas que viven realidades económicas y expectativas futuras completamente distintas.\n\nMientras algunos sectores ven en la desregulación y la austeridad la única vía para el crecimiento, otros denuncian la profundización de la desigualdad y la recesión. Las cifras de actividad económica, empleo e inflación son interpretadas desde ópticas radicalmente opuestas, haciendo casi imposible un consenso sobre el diagnóstico o el camino a seguir. La discusión, entonces, no se centra solo en las políticas, sino en cómo se perciben sus consecuencias. ¿Puede un gobierno consolidar un proyecto de país cuando la mitad de sus ciudadanos vive una realidad ajena a la que se predica desde el poder?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-dividida-relato-milei-verdad-unica",
-    "fecha": "2026-08-04",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Caída del PBI: ¿El costo inevitable del ajuste o un mal manejo económico?",
-    "bajada": "Economistas sorprendidos por la recesión más profunda. ¿Se están pagando las consecuencias de las reformas?",
-    "cuerpo": "La anticipada caída del Producto Bruto Interno en el segundo trimestre ha sorprendido a los economistas por su magnitud, revelando una contracción más pronunciada de lo esperado en la actividad económica argentina. Este dato enciende las alarmas sobre el verdadero costo del ajuste fiscal y las reformas estructurales implementadas, impactando directamente en la capacidad productiva del país y en el bienestar de sus ciudadanos. Si bien el gobierno defiende que la recesión es un paso necesario para sanear la economía, la velocidad y profundidad de la caída generan interrogantes sobre la sostenibilidad de esta estrategia.\n\nExpertos señalan que, si bien la disciplina fiscal es crucial, la política monetaria y las medidas para fomentar la inversión aún no logran revertir la tendencia negativa. La recesión afecta a diversos sectores, desde la industria hasta el consumo, generando un escenario complejo para la recuperación. El debate es claro: ¿es esta recesión una purga necesaria para un crecimiento futuro más robusto, o un indicador de que el sendero económico elegido está generando más daño que beneficios a corto y mediano plazo?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "caida-pbi-costo-ajuste-mal-manejo-economico",
-    "fecha": "2026-08-04",
-    "imagen": "img/economia_2.png",
     "destacada": false
   }
 ]
