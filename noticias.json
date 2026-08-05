@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Crisis diplomática con Brasil: ¿El Senado debe intervenir ante el costo de la retórica?",
+    "bajada": "La escalada de tensiones con el principal socio comercial de Argentina pone en jaque la diplomacia regional.",
+    "cuerpo": "La decisión de Brasil de retirar a su embajador y rebajar el nivel de las relaciones diplomáticas con Argentina es un golpe sin precedentes para la política exterior del país. Este movimiento, provocado por las reiteradas declaraciones ofensivas del presidente argentino hacia su par brasileño, Lula da Silva, genera interrogantes sobre la viabilidad de la política exterior actual y sus consecuencias para la economía nacional.\n\nLa postura inflexible del gobierno argentino, que prioriza la confrontación ideológica sobre el pragmatismo diplomático, ya está generando un costo tangible. Más allá de la retórica, la relación con Brasil es fundamental para el comercio y la estabilidad regional. ¿Es sostenible una estrategia que aísla al país de sus vecinos más importantes en nombre de una pureza ideológica, o estamos pagando un precio demasiado alto por la beligerancia verbal? ¿Qué rol deberían asumir las instituciones como el Senado para moderar esta crisis y proteger los intereses nacionales a largo plazo?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "crisis-diplomatica-brasil-senado-retorica",
+    "fecha": "2026-08-05",
+    "imagen": "img/politica_7.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Decreto Sturzenegger: ¿Desregulación o burocracia que frena el comercio?",
+    "bajada": "Un nuevo decreto presidencial genera incertidumbre y paraliza más de 150 buques, afectando directamente el comercio exterior.",
+    "cuerpo": "El flamante decreto impulsado por Federico Sturzenegger, con el objetivo de 'desburocratizar' el comercio exterior, ha generado un efecto paradójico: una parálisis que afecta a más de 150 buques. Los sectores exportadores e importadores denuncian una falta de claridad en la implementación y la creación de nuevos cuellos de botella que, lejos de agilizar, complican aún más las operaciones. Esta situación subraya la constante tensión entre la intención de simplificar procesos y la realidad de una administración que a menudo genera más obstáculos de los que pretende eliminar.\n\nDesde una perspectiva liberal, la intervención estatal, incluso con buenas intenciones, suele derivar en distorsiones de mercado y costos adicionales para los privados. Si bien se busca una mayor eficiencia, la implementación de medidas abruptas sin un consenso o una transición adecuada puede generar un caos que termina perjudicando la competitividad. ¿Hasta qué punto es eficaz una 'desregulación' que se impone de facto, y qué consecuencias tiene esta interrupción para la ya frágil balanza comercial argentina?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "decreto-sturzenegger-desregulacion-burocracia-comercio",
+    "fecha": "2026-08-05",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Decreto presidencial: ¿Victoria pírrica del Gobierno frente a la sombra de Moyano?",
+    "bajada": "La desactivación de una protesta portuaria por un polémico decreto presidencial revela las tensiones latentes entre el Gobierno y los sindicatos.",
+    "cuerpo": "La reciente desactivación de una protesta que mantuvo paralizados más de 150 buques, originada por un controvertido decreto presidencial, pone de manifiesto la delicada dinámica entre el Gobierno y los poderosos sindicatos argentinos. Si bien el oficialismo celebra la medida como un avance en la 'normalización' de la actividad, la sombra de figuras como Moyano y otros líderes gremiales sigue siendo un factor de poder ineludible en cualquier intento de reforma.\n\nDesde la perspectiva de la disciplina fiscal y la libertad de mercado, estas protestas reflejan la resistencia a la modernización y la persistencia de privilegios sectoriales. Sin embargo, la forma en que el Estado desactiva estas medidas, a menudo mediante negociaciones a puertas cerradas o concesiones, plantea dudas sobre la verdadera voluntad de cambio y la capacidad de imponer límites al corporativismo sindical. ¿Hasta dónde está dispuesto a ceder el Gobierno para evitar conflictos, y qué mensaje envía esto a la sociedad sobre quién detenta el poder real en la Argentina?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "decreto-presidencial-victoria-pirrica-moyano",
+    "fecha": "2026-08-05",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Mercado ilegal de celulares: ¿Por qué la Argentina sigue siendo paraíso de contrabandistas?",
+    "bajada": "El descubrimiento de 73 celulares sin aval legal en encomiendas reabre el debate sobre la laxitud de los controles y la impunidad del delito.",
+    "cuerpo": "La reciente incautación de decenas de celulares de alta gama, ingresados al país sin ningún tipo de aval legal y distribuidos mediante encomiendas, es solo la punta del iceberg de un problema mucho más profundo: el contrabando y el mercado negro en Argentina. Este tipo de hechos expone la porosidad de nuestras fronteras y la ineficacia de los controles, que permiten a organizaciones criminales operar con una impunidad preocupante.\n\nDesde una óptica de 'mano dura' contra el delito, la falta de una política estatal contundente no solo fomenta la ilegalidad, sino que también socava la industria local y perjudica a los comerciantes que operan dentro de la ley. ¿Por qué, a pesar de las constantes denuncias y los operativos esporádicos, el contrabando de mercaderías sigue siendo un negocio floreciente en nuestro país? ¿Qué medidas concretas se necesitan para desmantelar estas redes y garantizar un control efectivo que proteja tanto al Estado como a los ciudadanos honestos?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mercado-ilegal-celulares-argentina-contrabandistas",
+    "fecha": "2026-08-05",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Tesla llega a Argentina: ¿Una luz de esperanza o un desafío para la burocracia estatal?",
+    "bajada": "La apertura de búsquedas laborales por parte de Tesla genera expectativas, pero plantea la pregunta sobre la capacidad del país para atraer inversiones reales.",
+    "cuerpo": "La noticia de que Tesla, el gigante de Elon Musk, ha iniciado búsquedas laborales en Argentina es un soplo de aire fresco en un contexto económico a menudo desalentador. La llegada de una empresa de este calibre, incluso en una fase inicial, puede ser un indicio de confianza en el potencial del país y un motor para la generación de empleo calificado y la transferencia tecnológica. Esto, sin embargo, no exime a Argentina de sus desafíos estructurales.\n\nDesde una perspectiva liberal, la verdadera atracción de inversiones no se logra solo con discursos, sino con reglas claras, estabilidad jurídica y una menor presión fiscal. La burocracia excesiva, la inestabilidad macroeconómica y una legislación laboral rígida son obstáculos históricos que el país debe superar para capitalizar plenamente estas oportunidades. ¿Está Argentina realmente preparada para recibir y retener inversiones de talla mundial, o estas oportunidades quedarán diluidas por la persistencia de un Estado sobredimensionado y regulador?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "tesla-argentina-luz-esperanza-desafio-burocracia-estatal",
+    "fecha": "2026-08-05",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La Selección rumbo al Mundial: ¿Éxito deportivo que opaca la realidad nacional?",
+    "bajada": "Mientras la Selección Argentina de fútbol se prepara para la Copa del Mundo, el éxito deportivo genera un respiro en medio de un panorama social complejo.",
+    "cuerpo": "La goleada 3-0 de la Selección Argentina contra Islandia y su preparación para el debut mundialista genera una ola de optimismo y orgullo nacional que, a menudo, sirve como un bálsamo en tiempos de incertidumbre. El fútbol, como fenómeno social, tiene el poder de unir a los argentinos y ofrecer una distracción temporal de las preocupaciones cotidianas, desde la inflación hasta la inseguridad.\n\nSin embargo, desde una mirada crítica, surge la pregunta de si este éxito deportivo, aunque merecido, no termina por opacar los debates cruciales que el país necesita afrontar. La euforia futbolística puede, en ocasiones, desviar la atención de problemas estructurales de larga data, diluyendo la presión ciudadana sobre los asuntos de Estado. ¿Hasta qué punto el fervor por la Selección se convierte en un mecanismo de escape que nos impide enfrentar las verdaderas prioridades nacionales con la seriedad que merecen?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "seleccion-rumbo-mundial-exito-opaca-realidad",
+    "fecha": "2026-08-05",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Escalada diplomática con Brasil: ¿El rol de villarruel agrava la fractura regional?",
+    "bajada": "La retirada del embajador brasileño por los insultos del presidente argentino pone a prueba la capacidad de la diplomacia argentina.",
+    "cuerpo": "La crisis diplomática con Brasil, desencadenada por los reiterados insultos del presidente argentino hacia su homólogo brasileño, ha llegado a un punto crítico con la retirada del embajador y la rebaja de las relaciones. En este contexto de tensión, la figura de la vicepresidenta villarruel, conocida por sus posturas firmes y a menudo confrontativas en política exterior y defensa, adquiere una relevancia particular. Si bien su rol formal es de apoyo, sus intervenciones y alineamientos ideológicos pueden ser percibidos como un factor que agrava la situación, o al menos que no contribuye a un acercamiento.\n\nPara un medio como Panorama.ar, es fundamental analizar si esta línea de confrontación ideológica beneficia o perjudica los intereses estratégicos de Argentina, especialmente con un socio vital como Brasil. La búsqueda de aliados ideológicos puede ser tentadora, pero ¿a qué costo para las relaciones comerciales, la integración regional y la influencia geopolítica? ¿Debería la vicepresidenta, o cualquier figura de alto rango, adoptar un perfil más conciliador en momentos de crisis diplomática o es la hora de reafirmar posturas, incluso si eso implica un mayor aislamiento?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "escalada-diplomatica-brasil-villarruel-fractura-regional",
+    "fecha": "2026-08-05",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
     "titulo": "Crisis diplomática con Brasil: ¿`Senado` y `Congreso` en alerta?",
     "bajada": "La decisión de Brasil de no reponer embajador escala la tensión y fuerza una revisión de la política exterior.",
     "cuerpo": "La relación bilateral con Brasil, históricamente un pilar regional, atraviesa su momento más delicado. Tras las reiteradas fricciones y la falta de un embajador en Buenos Aires, la situación se degrada a nivel de encargado de negocios, un movimiento diplomático que subraya la seriedad del desacuerdo. Este escenario plantea interrogantes sobre la capacidad de la diplomacia argentina para manejar conflictos con socios estratégicos sin escalar innecesariamente. La postura adoptada por el gobierno genera un quiebre que podría tener repercusiones en el Mercosur y en la economía regional, afectando flujos comerciales vitales para ambos países. La falta de un canal de comunicación de alto nivel complica la gestión de intereses compartidos y abre la puerta a una mayor polarización. Es imperativo que el `Congreso` y el `Senado` se involucren activamente en un debate profundo sobre la orientación de nuestra política exterior, para evitar que la ideología domine sobre la pragmática necesidad de buenas relaciones con los principales vecinos. ¿Cómo planea el gobierno reconstruir el diálogo con Brasil y qué costo tendrá esta confrontación en el futuro regional de Argentina?",
@@ -9,7 +93,7 @@
     "slug": "crisis-diplomatica-brasil-senado-congreso",
     "fecha": "2026-08-05",
     "imagen": "img/politica_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "`Indec` y el Big Mac: ¿Argentina sigue siendo cara en dólares?",
@@ -201,90 +285,6 @@
     "slug": "llega-tesla-argentina-libertador-desafios",
     "fecha": "2026-08-04",
     "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El amargo sabor de la manzana: ¿La Ley de Tierras y el estatismo liquidaron un negocio?",
-    "bajada": "Argentina, de potencia frutícola a exportador marginal: el relato de cómo se perdió un negocio de millones por políticas erradas.",
-    "cuerpo": "La fruticultura argentina, otrora un motor de exportación y prosperidad regional, hoy lamenta la pérdida del negocio mundial de la manzana. Mientras el comercio global crecía, Argentina vio cómo su participación se desvanecía, un síntoma más de una economía asfixiada por regulaciones y falta de visión a largo plazo. Este declive no es un fenómeno aislado, sino el resultado de décadas de intervención estatal, presión impositiva y la incertidumbre generada por marcos legales como la Ley de Tierras, que desalentaron la inversión y la expansión productiva en el sector.\n\nLos productores y especialistas señalan que la falta de políticas de fomento claras, sumado a costos laborales excesivos y una burocracia asfixiante, hicieron inviable la competitividad de las manzanas argentinas en los mercados internacionales. La obsesión por el control y la distribución, en lugar de la producción y la eficiencia, transformó un sector pujante en uno dependiente y marginal. La \"casta\" política y sus decisiones, que priorizaron la ideología sobre la rentabilidad, son las verdaderas responsables de esta decadencia productiva que afecta a miles de familias.\n\n¿Hasta cuándo la Argentina seguirá condenando a sus sectores productivos con un modelo que castiga al que invierte y produce, en lugar de liberar el potencial de su campo?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "amargo-sabor-manzana-ley-tierras-estatismo",
-    "fecha": "2026-08-04",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Elecciones 2027: ¿El fin del ciclo del Libertador o una nueva era?",
-    "bajada": "Con la mira puesta en 2027, el calendario electoral ya marca el pulso de una Argentina que definirá el rumbo post-Milei.",
-    "cuerpo": "Aunque aún faltan años, el tablero político ya se mueve con la vista en las Elecciones presidenciales de 2027. La pregunta central que comienza a resonar es si el gobierno del Libertador logrará consolidar su proyecto y asegurar una continuidad, o si el panorama de fuerzas se reacomodará para presentar una alternativa. Los primeros sondeos y movimientos de piezas de la \"casta\" tradicional y de nuevas figuras marcan el inicio de una contienda que definirá la profundidad y permanencia de las reformas actuales.\n\nDesde los sectores más críticos, se prepara una embestida basada en el desgaste económico y social, buscando capitalizar cualquier descontento. Por otro lado, los defensores del modelo actual buscarán mostrar resultados que justifiquen el camino elegido, apelando a la necesidad de mantener el rumbo de la libertad y el orden. La participación de figuras como Facundo Moyano o gobernadores como Quintela, que representan estructuras tradicionales, será clave para entender cómo se configurará la oposición o el apoyo al proyecto en curso.\n\n¿Será 2027 la ratificación de un cambio profundo o el regreso de la vieja política disfrazada de novedad? El debate ya está abierto.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "elecciones-2027-fin-ciclo-libertador-nueva-era",
-    "fecha": "2026-08-04",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿El futuro de Messi en la Selección? El post-Mundial y la renovación.",
-    "bajada": "Tras el Mundial 2026, la Albiceleste encara sus primeros amistosos y el interrogante sobre la continuidad de su máxima estrella.",
-    "cuerpo": "La Selección Argentina, después de su actuación en el Mundial 2026, se prepara para su vuelta a las canchas con los primeros amistosos confirmados. Pero más allá de los rivales o las sedes, la gran pregunta que desvela a los hinchas y al mundo del fútbol es el futuro de Messi con la Albiceleste. ¿Será este el inicio de su despedida o aún hay cuerda para seguir liderando al equipo? La expectativa por cada paso del astro es inmensa, y su decisión marcará el pulso de la renovación del plantel.\n\nLos partidos venideros serán una oportunidad para que el cuerpo técnico evalúe nuevas figuras y comience a delinear el equipo de cara a futuros desafíos. La gestión de este recambio generacional, con la posible ausencia de grandes nombres, pondrá a prueba la capacidad de la AFA para mantener el nivel competitivo y el fervor popular. Los debates en torno a la mística de la selección, la necesidad de nuevos talentos y el legado de la Scaloneta, se intensifican en un escenario donde clubes como River y otros grandes ya buscan sus propias estrellas.\n\n¿Podrá la Selección Argentina reinventarse y mantener su hegemonía sin su figura más brillante, o estamos ante el fin de una era dorada?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "futuro-messi-seleccion-post-mundial-renovacion",
-    "fecha": "2026-08-04",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Repensar Argentina: ¿Qué modelo de desarrollo post-Libertador?",
-    "bajada": "Un encuentro clave busca definir el camino para el desarrollo argentino, entre el estatismo fracasado y las promesas de libertad.",
-    "cuerpo": "Bajo el lema \"Repensar Argentina\", diversos sectores se reunieron para debatir el desafío del desarrollo, en un contexto de profundas transformaciones impulsadas por el gobierno del Libertador. Este tipo de encuentros son cruciales para confrontar visiones sobre el futuro económico y social del país, especialmente tras décadas de políticas que, lejos de generar prosperidad, sumieron a Argentina en la inestabilidad y el estancamiento. La discusión central radica en si se seguirá el camino de la intervención estatal y la \"casta\" política, o si se optará por un modelo de libertad económica y mercados abiertos.\n\nDesde Panorama.ar, creemos que la clave está en desmantelar las estructuras que impiden el crecimiento, reducir el gasto público y la presión impositiva que ahoga a la producción. Los fracasos del pasado, marcados por la inflación y el déficit crónico, exigen un cambio de paradigma radical, que priorice la iniciativa privada y la responsabilidad fiscal. Las imágenes de estos encuentros deben servir no solo para la reflexión, sino para impulsar acciones concretas que rompan con el ciclo de decadencia, más allá de la retórica política.\n\n¿Serán estos debates el motor para una Argentina finalmente libre y próspera, o una oportunidad más para la autocomplacencia y la perpetuación de modelos fallidos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "repensar-argentina-modelo-desarrollo-post-libertador",
-    "fecha": "2026-08-04",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Tesla en Argentina: ¿Oportunidad o espejismo de Musk?",
-    "bajada": "La llegada del gigante de Elon Musk al país reaviva el debate sobre la apertura económica y la capacidad de competir.",
-    "cuerpo": "La reciente noticia de que Tesla, la empresa de Elon Musk, buscará empleados en Argentina generó un considerable revuelo. Para el CEO local de BYD, esto no representa una amenaza real, afirmando \"Ya les ganamos a nivel mundial\". Esta postura, si bien defiende la industria nacional, plantea la pregunta sobre el verdadero potencial de Argentina para atraer y retener inversiones de talla global. ¿Estamos listos para una competencia abierta o persisten las barreras que frenan el desarrollo? El modelo BYD ha demostrado ser eficiente en mercados emergentes, con costos más bajos y una infraestructura adaptada. Sin embargo, la presencia de un jugador como Tesla no solo trae tecnología y capital, sino que también ejerce presión para modernizar regulaciones y sistemas. Criticar de antemano la posible competencia internacional esconde, a menudo, el miedo a la ineficiencia local o a la rigidez de un mercado demasiado protegido. La verdadera pregunta es si Argentina adoptará políticas que fomenten la inversión y la competencia leal, o si continuará privilegiando esquemas que, bajo la excusa de proteger, terminan aislando y empobreciendo. ¿Será la llegada de Tesla un catalizador para un cambio de paradigma o solo otro intento frustrado en un mercado que no sabe cómo abrirse?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "tesla-en-argentina-oportunidad-o-espejismo-de-musk",
-    "fecha": "2026-08-04",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Derrota con España: ¿Casualidad o conspiración?",
-    "bajada": "Mariano Closs aviva la polémica sobre la caída de la Selección, cuestionando las teorías que rodean el resultado.",
-    "cuerpo": "La derrota de la Selección Argentina ante España sigue generando un torbellino de especulaciones. El reconocido periodista Mariano Closs ha salido a reflexionar categóricamente sobre las teorías conspirativas que circulan, sugiriendo que la explicación podría ser más simple que un complot. Sin embargo, en un país donde la desconfianza es moneda corriente, las explicaciones fáciles rara vez satisfacen a la opinión pública. Es un hecho que la cultura de la conspiración se arraiga profundamente cuando la frustración o la incredulidad sobre un resultado son grandes. Cuestionar el rendimiento de los jugadores o las decisiones técnicas se vuelve secundario frente a la idea de que \"algo raro pasó\". Esto desvía el foco de un análisis serio sobre el desempeño deportivo, hacia narrativas que buscan culpas externas, a menudo sin fundamento. La reflexión de Closs es un llamado a la cordura, pero también expone un síntoma de nuestra sociedad: la dificultad para aceptar las derrotas y analizar críticamente los propios errores, prefiriendo la comodidad de una teoría que exime de responsabilidades. ¿Hasta qué punto esta mentalidad afecta no solo al deporte, sino también a la política y la economía?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "derrota-con-espana-casualidad-o-conspiracion",
-    "fecha": "2026-08-04",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Salario Docente: ¿Vocación en crisis o casta indiferente?",
-    "bajada": "La radiografía del sueldo docente revela la caída más abrupta en dos décadas, poniendo en jaque el futuro educativo.",
-    "cuerpo": "Un reciente informe revela que el salario docente en Argentina ha alcanzado su punto más bajo en 20 años, encendiendo alarmas sobre el futuro de la educación. Mientras la \"casta\" política parece disfrutar de beneficios inalterables, quienes forman a las futuras generaciones sufren un deterioro constante de su poder adquisitivo. Esta disparidad no solo es injusta, sino que mina la calidad educativa y desalienta la vocación. Los datos son crudos: los salarios reales de los docentes se han desplomado, impactando directamente en su calidad de vida y en la motivación para ejercer una profesión tan crucial. Los gremios, históricamente protectores, han logrado mejoras marginales que no compensan la inflación galopante ni la desidia estatal. La pregunta es: ¿hasta cuándo podemos exigir excelencia educativa sin garantizar un ingreso digno a quienes la imparten? Esta situación no es solo un problema salarial; es un síntoma de un modelo que prioriza el gasto improductivo y las prerrogativas de la política por encima de pilares fundamentales como la educación. Es imperativo un cambio profundo que revalorice el rol docente, no solo con palabras, sino con políticas fiscales responsables que permitan salarios justos. ¿Seguiremos sacrificando el futuro por mantener privilegios?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "salario-docente-vocacion-en-crisis-o-casta-indiferente",
-    "fecha": "2026-08-04",
-    "imagen": "img/sociedad_3.png",
     "destacada": false
   }
 ]
