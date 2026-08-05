@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Crisis diplomática con Brasil: ¿`Senado` y `Congreso` en alerta?",
+    "bajada": "La decisión de Brasil de no reponer embajador escala la tensión y fuerza una revisión de la política exterior.",
+    "cuerpo": "La relación bilateral con Brasil, históricamente un pilar regional, atraviesa su momento más delicado. Tras las reiteradas fricciones y la falta de un embajador en Buenos Aires, la situación se degrada a nivel de encargado de negocios, un movimiento diplomático que subraya la seriedad del desacuerdo. Este escenario plantea interrogantes sobre la capacidad de la diplomacia argentina para manejar conflictos con socios estratégicos sin escalar innecesariamente. La postura adoptada por el gobierno genera un quiebre que podría tener repercusiones en el Mercosur y en la economía regional, afectando flujos comerciales vitales para ambos países. La falta de un canal de comunicación de alto nivel complica la gestión de intereses compartidos y abre la puerta a una mayor polarización. Es imperativo que el `Congreso` y el `Senado` se involucren activamente en un debate profundo sobre la orientación de nuestra política exterior, para evitar que la ideología domine sobre la pragmática necesidad de buenas relaciones con los principales vecinos. ¿Cómo planea el gobierno reconstruir el diálogo con Brasil y qué costo tendrá esta confrontación en el futuro regional de Argentina?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "crisis-diplomatica-brasil-senado-congreso",
+    "fecha": "2026-08-05",
+    "imagen": "img/politica_6.png",
+    "destacada": true
+  },
+  {
+    "titulo": "`Indec` y el Big Mac: ¿Argentina sigue siendo cara en dólares?",
+    "bajada": "El famoso índice de The Economist revela una Argentina con precios por encima de la región, pese a mejoras.",
+    "cuerpo": "El \"Índice Big Mac\" de The Economist, una herramienta no oficial pero influyente para medir el poder adquisitivo, vuelve a poner a Argentina en el foco. Pese a ciertas mejoras respecto al año anterior, los datos del `Indec` (aunque el índice no usa directamente sus datos, la temática es la misma) y el Big Mac sugieren que el país mantiene un nivel de precios en dólares que lo posiciona como uno de los más caros de la región. Esta situación, a menudo atribuida a la alta presión fiscal y la intervención estatal en la economía, distorsiona los valores de mercado y dificulta la competitividad. La persistencia de un \"dólar Big Mac\" elevado impacta directamente en el consumo interno y en el atractivo para inversiones, al reflejar un costo de vida y de producción que no siempre se condice con los ingresos reales de la población. Mientras el gobierno promueve la apertura de mercados y la reducción del déficit, la realidad del día a día muestra que aún hay un largo camino para alinear los precios locales con los internacionales, liberando al sector privado de cargas excesivas que terminan pagando los consumidores. ¿Hasta cuándo los argentinos pagarán los precios más altos por bienes y servicios básicos en comparación con el resto del mundo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "indec-big-mac-argentina-cara",
+    "fecha": "2026-08-05",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El FMI cambia su interlocutor: ¿nueva etapa con Joyce Wong?",
+    "bajada": "La designación de una nueva jefa para Argentina en el FMI marca un posible giro en las negociaciones y la supervisión.",
+    "cuerpo": "El Fondo Monetario Internacional ha designado a Joyce Wong como la nueva responsable del caso argentino, sucediendo a quien hasta ahora lideraba las conversaciones. Este cambio de interlocutor, aunque puede ser de rutina, siempre genera expectativas sobre la continuidad o revisión de las políticas acordadas y la rigurosidad en el monitoreo de las metas fiscales. Para Panorama.ar, la clave estará en si la nueva representante mantendrá la firmeza en la exigencia de disciplina fiscal y reformas estructurales, pilares para la estabilidad económica del país. El gobierno actual ha mostrado una fuerte voluntad de ajuste, buscando la reducción del gasto público y el equilibrio fiscal. La llegada de Wong podría ser una oportunidad para consolidar esta dirección, o bien, para reevaluar aspectos del acuerdo que no estén arrojando los resultados esperados en términos de crecimiento y estabilidad. Es fundamental que la administración se mantenga firme en la reducción del déficit y la eliminación de distorsiones que históricamente han ahuyentado la inversión y generado inflación, sin ceder a las presiones que buscan volver al despilfarro. ¿Será Joyce Wong la figura que impulse definitivamente a Argentina hacia la senda de la responsabilidad fiscal y el crecimiento sostenible, o veremos más de lo mismo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "fmi-cambia-interlocutor-joyce-wong",
+    "fecha": "2026-08-05",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Peter Thiel y los \"vientos de cambio\": ¿el rumbo liberal se afianza?",
+    "bajada": "El influyente inversor y pensador libertario regresa al país en un momento clave para las reformas.",
+    "cuerpo": "Peter Thiel, cofundador de PayPal y figura clave en el ecosistema tecnológico y libertario global, vuelve a Argentina para dar una charla. Su visita no es menor en un contexto donde el gobierno actual promueve una agenda de reformas de mercado y una fuerte crítica al intervencionismo estatal. La presencia de Thiel refuerza el discurso de \"vientos de cambio\" y la idea de que la libertad económica es el motor de la prosperidad, un mensaje que resuena con la línea editorial de Panorama.ar. El empresario es conocido por su visión audaz sobre la innovación, la tecnología y el papel limitado del Estado. Su perspectiva choca con la arraigada cultura del estatismo y la burocracia que históricamente frenaron el desarrollo argentino. La oportunidad de escuchar a una figura de su calibre debería ser un llamado a la reflexión para la clase política, sobre la necesidad de desregular y permitir que el capital y el talento fluyan sin las trabas asfixiantes que impone el Estado y \"la casta\". ¿Logrará la Argentina capitalizar este entusiasmo por las ideas de libertad para transformar realmente su matriz productiva y romper con el estancamiento?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "peter-thiel-vientos-cambio-rumbo-liberal",
+    "fecha": "2026-08-05",
+    "imagen": "img/politica_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Riesgo país baja, pero el crédito no: ¿por qué Argentina paga caro?",
+    "bajada": "Pese a la mejora en los indicadores de riesgo, el acceso al financiamiento externo sigue siendo un desafío costoso.",
+    "cuerpo": "La paradoja económica argentina persiste: mientras el riesgo país muestra una tendencia a la baja, el costo de financiamiento externo para empresas y el propio Estado sigue siendo elevado. Esta situación, crucial para la reactivación productiva y la inversión, se explica no solo por la historia de default del país, sino también por la desconfianza estructural en la sostenibilidad de las políticas económicas a largo plazo. Desde la visión de Panorama.ar, la Argentina debe consolidar una senda de disciplina fiscal inquebrantable y seguridad jurídica para que el mercado perciba un cambio real, más allá de los indicadores coyunturales. La reducción de la percepción de riesgo es un paso positivo, pero insuficiente. Los inversores exigen señales claras de que los \"vientos de cambio\" no serán efímeros y que la presión impositiva, la burocracia y la inestabilidad regulatoria dejarán de ser una constante. Sin un marco de previsibilidad y un Estado que no compita con el sector privado ni se endeude de forma irresponsable, el capital seguirá siendo escaso y caro, frenando cualquier intento de crecimiento genuino. Las políticas económicas deben centrarse en la creación de riqueza, no en su redistribución compulsiva. ¿Qué más debe hacer Argentina para convencer a los mercados internacionales de que es un socio confiable y así abaratar su financiamiento?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "riesgo-pais-baja-credito-caro-argentina",
+    "fecha": "2026-08-05",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Crisis salarial docente: ¿la educación pública en jaque?",
+    "bajada": "Los docentes enfrentan los salarios más bajos en dos décadas, revelando un problema estructural en la educación pública.",
+    "cuerpo": "La situación salarial de los docentes argentinos alcanza un punto crítico, con ingresos que se posicionan como los más bajos de los últimos 20 años. Esta radiografía expone no solo la precarización de una labor fundamental, sino también la ineficiencia de un sistema educativo y de negociación paritaria que no logra garantizar condiciones dignas para quienes están al frente de las aulas. Desde Panorama.ar, esta crisis refleja una problemática más profunda del gasto público: ¿se destina de manera eficiente el presupuesto a lo esencial o se diluye en burocracia y clientelismo? La crítica situación de los educadores debería generar un debate urgente sobre la asignación de recursos y la gestión de la educación pública. Mientras ciertos sectores gremiales defienden modelos que perpetúan la inercia, la realidad es que el salario docente pierde poder adquisitivo año tras año. Es hora de dejar de lado los dogmas ideológicos y buscar soluciones pragmáticas que prioricen la calidad educativa y el reconocimiento justo a los maestros, sin engrosar la burocracia ni el gasto improductivo que ahoga las finanzas públicas. ¿Hasta cuándo Argentina permitirá que sus docentes sean de los peor pagos, sacrificando el futuro de la educación pública en el altar de la ineficiencia y la presión sindical?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "crisis-salarial-docente-educacion-publica",
+    "fecha": "2026-08-05",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Manzanas argentinas: ¿cómo se perdió un negocio de exportación clave?",
+    "bajada": "Argentina, otrora líder, ve cómo el mundo crece en exportación de manzanas mientras su producción se estanca.",
+    "cuerpo": "El caso de la industria de la manzana en Argentina es un claro ejemplo de oportunidades perdidas por la falta de competitividad y una política estatal errática. Mientras el comercio mundial de esta fruta sigue en auge, el país, que alguna vez fue un jugador relevante, ha visto estancarse su producción y reducirse drásticamente su participación en los mercados internacionales. Esta declive se puede atribuir a la combinación de alta presión impositiva, costos laborales elevados, infraestructura deficiente y regulaciones que desincentivan la inversión y la modernización del sector. Desde la perspectiva de Panorama.ar, la pérdida de este y otros negocios de exportación es una consecuencia directa de la intervención estatal excesiva y la falta de visión de largo plazo para el sector productivo. En lugar de facilitar la inversión y la adaptación a las demandas globales, las políticas han generado un clima de incertidumbre que frena el crecimiento y la innovación. Revertir esta tendencia exige liberar al productor de cargas innecesarias, fomentar la apertura de mercados y garantizar la estabilidad macroeconómica, para que los sectores con potencial exportador puedan competir de igual a igual. ¿Podrá Argentina recuperar el terreno perdido en el comercio internacional o seguirá siendo rehén de políticas que castigan la producción y la exportación?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "manzanas-argentinas-negocio-exportacion",
+    "fecha": "2026-08-05",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "Mercosur: ¿Crisis regional y la inacción del Senado argentino?",
     "bajada": "Las tensiones en el bloque regional escalan y Uruguay advierte. ¿Qué papel juega la política interna?",
     "cuerpo": "Uruguay ha descartado mediar en las crecientes tensiones entre Argentina y Brasil, pero no dejó de señalar la preocupación por la situación actual del Mercosur. Esta postura subraya la parálisis y las profundas diferencias que atraviesan a los principales socios del bloque, evidenciando una debilidad institucional que impide avanzar en la agenda común y proyectar un futuro claro para la integración regional. La advertencia uruguaya debería encender las alarmas sobre el futuro de un mecanismo que, en lugar de ser un motor de desarrollo, parece convertirse en un lastre.\n\nEl Mercosur, concebido como un espacio de libre comercio y coordinación política, se ve hoy jaqueado por visiones contrapuestas y conflictos internos que paralizan decisiones clave. Mientras los discursos oficiales buscan minimizar el impacto, la realidad muestra un bloque estancado, con Uruguay buscando alternativas bilaterales y Brasil y Argentina en desacuerdos sustanciales. ¿Está el #Senado argentino a la altura del desafío, o las disputas partidarias impiden un análisis serio sobre el rumbo geopolítico y económico del país?",
@@ -9,7 +93,7 @@
     "slug": "mercosur-crisis-regional-inaccion-senado-argentino",
     "fecha": "2026-08-04",
     "imagen": "img/politica_3.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "La Argentina dividida: ¿Es el relato de Milei una verdad única?",
@@ -201,90 +285,6 @@
     "slug": "salario-docente-vocacion-en-crisis-o-casta-indiferente",
     "fecha": "2026-08-04",
     "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Negocio de la Manzana: ¿Cómo el Estado ahogó su potencial?",
-    "bajada": "Mientras el comercio mundial de manzanas florece, Argentina se queda atrás, perdiendo una oportunidad de oro por trabas internas.",
-    "cuerpo": "La historia de cómo Argentina perdió su lugar en el negocio mundial de la manzana es un caso emblemático de cómo la intervención estatal excesiva y la falta de visión pueden destruir una industria próspera. Mientras otros países incrementaban su producción y exportación, Argentina veía cómo sus productores se ahogaban en regulaciones, impuestos y una inflación que aniquilaba la rentabilidad. Un sector con potencial millonario, desaprovechado. Los datos muestran que la demanda global de manzanas siguió creciendo. Sin embargo, la competitividad argentina fue socavada por costos logísticos ineficientes, trabas burocráticas para la exportación y una presión fiscal insostenible. El Estado, en lugar de facilitar, se convirtió en un obstáculo, impidiendo a los productores locales competir en igualdad de condiciones con sus pares internacionales. Este ejemplo es una dura lección sobre los peligros del proteccionismo mal entendido y la intervención excesiva en la economía. Es un recordatorio de que la prosperidad llega de la mano de mercados abiertos y reglas claras, no de un Estado omnipresente que asfixia la iniciativa privada. ¿Cuántos \"negocios de la manzana\" se han perdido por seguir un modelo fallido?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "negocio-de-la-manzana-como-el-estado-ahogo-su-potencial",
-    "fecha": "2026-08-04",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Elecciones 2027: ¿Nueva casta o cambio real?",
-    "bajada": "Con la mira puesta en 2027, el panorama político ya empieza a mostrar figuras y movimientos, pero ¿habrá renovación o más de lo mismo?",
-    "cuerpo": "A tres años de las Elecciones 2027, la maquinaria política en Argentina ya se pone en marcha, con posibles precandidatos y alianzas que comienzan a tejerse. La pregunta que muchos ciudadanos se hacen es si este nuevo ciclo electoral traerá una verdadera renovación o si estaremos, una vez más, ante la misma \"casta\" política con diferentes disfraces. La memoria de promesas incumplidas y una gestión pública ineficiente sigue latente. Es crucial observar cómo los partidos tradicionales se preparan para el desafío. ¿Aprenderán de los errores del pasado o seguirán aferrados a prácticas que han demostrado ser perjudiciales para el país? La ciudadanía demanda líderes que presenten propuestas concretas y viables, que busquen soluciones reales a los problemas económicos y sociales, en lugar de meras consignas vacías o pactos de cúpulas. Panorama.ar seguirá de cerca estos movimientos, con la lupa puesta en aquellos que busquen perpetuar privilegios y en la emergencia de figuras realmente comprometidas con un cambio estructural. Las Elecciones 2027 son una oportunidad para redefinir el rumbo. ¿Estamos a tiempo de elegir un futuro diferente o condenados a repetir la historia?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "elecciones-2027-nueva-casta-o-cambio-real",
-    "fecha": "2026-08-04",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Auto 0 km: ¿Precio bajo, costo real oculto?",
-    "bajada": "Un modelo 0 km baja US$ 2.000, posicionándose como el más económico, pero ¿realmente es accesible para el argentino promedio?",
-    "cuerpo": "La noticia de que el auto 0 km más barato de Argentina ha bajado su precio en US$ 2.000 es, a primera vista, una bocanada de aire fresco en un mercado automotor golpeado. Sin embargo, en un país con una economía volátil y un poder adquisitivo en constante declive, la pregunta es si este \"auto más barato\" representa una oportunidad real para la clase media o si es un espejismo en un desierto de costos crecientes. Analizando la situación, es cierto que una baja de precio es siempre bienvenida. No obstante, el costo total de poseer un vehículo en Argentina va mucho más allá del precio de compra. Entre impuestos, seguros, combustible y mantenimiento, el \"auto más barato\" puede transformarse rápidamente en una carga insostenible. Esta realidad contrasta con la narrativa de una \"recuperación\" que aún no se siente en el bolsillo del ciudadano común. Desde Panorama.ar, instamos a la reflexión: ¿estas ofertas son resultado de una mejora genuina en la economía o de un reacomodamiento de precios en un mercado en recesión? Sin reformas estructurales que bajen la presión fiscal y estabilicen la moneda, incluso el auto \"más barato\" seguirá siendo un lujo inalcanzable para muchos. ¿Cuál es el verdadero costo de la vida?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "auto-0-km-precio-bajo-costo-real-oculto",
-    "fecha": "2026-08-04",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vacaciones de invierno: ¿Éxito regional o solo brilla santiago del estero?",
-    "bajada": "Tras las vacaciones de invierno, se celebra el récord de visitantes, pero ¿la distribución del éxito fue equitativa o concentrada?",
-    "cuerpo": "Las vacaciones de invierno dejaron un saldo positivo en términos de visitantes para varias provincias argentinas, con el sector turístico celebrando números que buscan reactivar la economía regional. Sin embargo, es vital un análisis crítico: ¿este éxito se distribuyó equitativamente o fue un fenómeno concentrado en pocos destinos, como el caso de Santiago del Estero que a menudo genera alto tráfico mediático y de visitantes? La realidad económica de muchas regiones sigue siendo precaria, y un par de semanas de boom no cambian la ecuación de fondo. Los informes destacan provincias con gran afluencia, lo que, a primera vista, parecería indicar una recuperación. Pero ¿cuánto de ese flujo se traduce en desarrollo sostenible para las comunidades locales y no solo en ganancias para grandes operadores? La dependencia de subsidios o programas estatales para fomentar el turismo puede distorsionar el mercado, ocultando la falta de infraestructura genuina y la ineficiencia de la gestión en ciertos destinos. Panorama.ar cuestiona la visión idílica: es necesario evaluar si este turismo genera riqueza real o si es un paliativo temporal que esconde problemas estructurales. Es fundamental que las provincias inviertan en competitividad, servicios de calidad y una gestión fiscal transparente, para no depender de la narrativa del éxito esporádico. ¿Estamos construyendo un turismo sostenible o solo maquillando la realidad de muchas provincias?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "vacaciones-de-invierno-exito-regional-o-solo-brilla-santiago-del-estero",
-    "fecha": "2026-08-04",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Selección Argentina: ¿Messi el eterno pilar o un recambio impostergable?",
-    "bajada": "Tras el Mundial 2026, la Albiceleste prepara amistosos. ¿Es momento de apostar por nuevas figuras?",
-    "cuerpo": "La mística de la Selección Argentina, revitalizada tras el Mundial, enfrenta una encrucijada crucial. Con los primeros amistosos post-Mundial en el horizonte, la discusión se centra en el rol de Lionel Messi. Si bien su legado es innegable, la planificación a largo plazo exige evaluar cuándo y cómo se dará el recambio generacional. Infobae reporta que se barajan destinos como China o Medio Oriente para estos encuentros, buscando mantener la exposición global de la Albiceleste.\n\nLa afición y la prensa debaten entre sostener al capitán para consolidar la imagen global y la necesidad estratégica de probar nuevos talentos. Mantener la competitividad sin depender de una figura única es el desafío para la AFA, que debe equilibrar lo comercial con lo deportivo. ¿Hasta qué punto la idolatría por Messi retrasa la necesaria renovación de la Selección Argentina?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "seleccion-argentina-messi-pilar-o-recambio",
-    "fecha": "2026-08-04",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Mundial y ¿conspiración?: La polémica de Facundo Medina reviva el debate",
-    "bajada": "Años después, las declaraciones de un jugador reabren heridas sobre la final del Mundial.",
-    "cuerpo": "Las palabras de Facundo Medina sobre una supuesta \"conspiración\" contra la Argentina en la final del Mundial reavivan una discusión que, para muchos, nunca se cerró. Yahoo Noticias reporta que el defensor sugirió que hubo intereses para que España se quedara con la Copa, encendiendo nuevamente la mecha de la desconfianza hacia los organismos internacionales del fútbol.\n\nEsta visión, aunque polémica, resuena en un sector de la opinión pública que siempre ha sido escéptico ante las grandes decisiones. Mientras algunos lo consideran una simple excusa para la derrota, otros ven una validación de viejas sospechas sobre manejos oscuros en el deporte rey, a menudo percibido como un gran negocio. ¿Es un simple lamento o hay verdades incómodas detrás de estas \"teorías conspirativas\"?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "2 min",
-    "slug": "mundial-conspiracion-facundo-medina-debate",
-    "fecha": "2026-08-04",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Paro Docente: ¿Priorizar el reclamo o el derecho a educarse?",
-    "bajada": "Mientras los maestros exigen salarios dignos, el Gobierno de Milei presiona por clases.",
-    "cuerpo": "El conflicto docente escala y pone en jaque el inicio del ciclo lectivo. Los maestros argentinos, representados por gremios, realizan un paro en reclamo de aumentos salariales, argumentando que sus ingresos son los más bajos de las últimas décadas. En este contexto, el presidente Milei ha sido contundente: exige que las escuelas garanticen un 75% de clases, priorizando el derecho a la educación de los alumnos, según informa El País.\n\nDesde Panorama.ar, observamos cómo este eterno dilema impacta directamente en el futuro del país. Si bien el reclamo por salarios justos es legítimo, la interrupción de clases afecta principalmente a los estudiantes, especialmente a aquellos de contextos más vulnerables. La \"casta\" política suele señalar a los docentes, pero ¿se está haciendo lo suficiente para garantizar salarios dignos sin perjudicar la educación pública? La balanza entre el derecho laboral y el derecho a la educación se muestra cada vez más desequilibrada.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "paro-docente-reclamo-o-derecho-a-educarse",
-    "fecha": "2026-08-04",
-    "imagen": "img/politica_2.png",
     "destacada": false
   }
 ]
