@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Argentina cae en el ranking global: ¿el costo del populismo?",
+    "bajada": "El país se desplomó 34 puestos en un índice de desarrollo económico, revelando las consecuencias de tres años de políticas que asfixiaron la inversión.",
+    "cuerpo": "Un reciente informe global expone la dura realidad económica argentina, que pasó del puesto 70 al 104 en solo tres años en un índice clave para el desarrollo. Esta caída, sin precedentes, refleja el impacto de políticas de control excesivo y un gasto público desmedido que alejaron la inversión y la confianza, estrangulando el potencial productivo de la nación. La intervención estatal, lejos de ser la solución, parece ser la raíz de una regresión que nos aleja de las naciones prósperas.\n\nEl índice, vital para medir la libertad económica y la capacidad de generación de riqueza, subraya cómo la presión impositiva y la incertidumbre jurídica desalientan a los emprendedores y a la capitalización. Mientras otros países avanzan con reformas de mercado, Argentina se estanca, perpetuando un ciclo de empobrecimiento. ¿Hasta cuándo se ignorará la evidencia de que el camino del estatismo conduce al abismo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-cae-en-el-ranking-global-el-costo-del-populismo",
+    "fecha": "2026-08-06",
+    "imagen": "img/economia_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Ley de Tierras: ¿Quién teme a la inversión y por qué?",
+    "bajada": "La polémica sobre la venta de tierras a extranjeros vuelve a encender el debate sobre la propiedad privada y la soberanía, mientras el gobierno da marcha atrás en su propuesta.",
+    "cuerpo": "La reforma de la Ley de Tierras Rurales, que buscaba flexibilizar la venta a extranjeros, fue retirada tras una fuerte oposición, bajo el lema \"Argentina no está en venta\". La discusión, sin embargo, revela una profunda tensión ideológica: ¿es la propiedad privada un derecho inalienable y la inversión extranjera un motor de desarrollo, o una amenaza a la soberanía nacional? Sectores que se oponen a la reforma argumentan que la venta de tierras a no residentes comprometería recursos estratégicos y la identidad cultural.\n\nDesde una perspectiva liberal, limitar la inversión es limitar el crecimiento. La evidencia muestra que un campo argentino vale menos de la mitad que uno brasileño, y un tercio que uno estadounidense, en parte por la falta de un marco legal atractivo y seguridad jurídica. El debate no debería centrarse en quién compra, sino en cómo garantizar que la inversión genere empleo y desarrollo sostenible. ¿Es más \"soberano\" un país pobre que uno que abre sus puertas al capital productivo?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "ley-de-tierras-quien-teme-a-la-inversion-y-por-que",
+    "fecha": "2026-08-06",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Brasil escala la tensión: ¿aislamiento o defensa de principios?",
+    "bajada": "La retirada del embajador brasileño marca un punto de inflexión en la relación bilateral, planteando interrogantes sobre la política exterior argentina.",
+    "cuerpo": "La decisión de Brasil de retirar a su embajador de Argentina y rebajar el nivel de la relación diplomática es un golpe sin precedentes, según analistas internacionales. Esta escalada de tensión, impulsada por el gobierno de Lula, genera preocupación sobre el impacto en la economía regional y en la posición geopolítica de Argentina. Mientras desde el Palacio San Martín se minimiza la situación, la realidad es que el país vecino ha tomado una medida drástica que no puede ser ignorada, poniendo en jaque acuerdos y proyectos conjuntos.\n\nEl gobierno argentino, bajo la administración de Milei, ha defendido una postura de firmeza ideológica que choca con la diplomacia tradicional. Si bien la defensa de principios es valorable, la pregunta es si este enfoque está conduciendo a un aislamiento innecesario o si, por el contrario, es un paso audaz hacia una nueva política exterior. La situación exige un análisis profundo: ¿es el costo diplomático de esta \"nueva era\" un precio que Argentina puede permitirse pagar?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "brasil-escala-la-tension-aislamiento-o-defensa-de-principios",
+    "fecha": "2026-08-06",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La visita del Papa: ¿fe, política o distracción?",
+    "bajada": "León XIV confirma su llegada a Argentina en noviembre, desatando expectativas y el habitual torbellino de especulaciones y noticias falsas.",
+    "cuerpo": "El Papa León XIV finalmente confirmó su visita a Argentina en noviembre, un evento que sin duda movilizará a millones y generará un intenso debate público. Más allá de su significado espiritual para la comunidad católica, cada visita papal en nuestro país ha sido siempre un termómetro de la política y la sociedad. La agenda incluye Buenos Aires, Córdoba y Luján, puntos clave que concentran tanto devoción como, inevitablemente, focos de discusión sobre los costos, la seguridad y la posible instrumentalización política del acontecimiento.\n\nEn este contexto, es crucial prestar atención al fenómeno de las noticias falsas, que ya circulan intensamente sobre la figura del Pontífice y los detalles de su viaje. La desinformación, una constante en el ecosistema digital, distorsiona el debate y manipula opiniones. ¿Será esta visita una oportunidad para la reflexión profunda sobre la fe y los valores, o terminará siendo una arena más para la polarización y la difusión de contenido sin verificar?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "la-visita-del-papa-fe-politica-o-distraccion",
+    "fecha": "2026-08-06",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Drama en EE.UU.: ¿burocracia o justicia migratoria?",
+    "bajada": "La detención de Iliana Lick, niñera argentina, por el ICE cuando viajaba a ver un partido de la Selección, reabre el debate sobre las políticas migratorias.",
+    "cuerpo": "La historia de Iliana Lick, una niñera argentina detenida por el ICE en Estados Unidos, ha conmovido a la opinión pública. Su detención, ocurrida cuando se dirigía a ver un partido de la Selección, pone de relieve la dura realidad de las leyes migratorias y la discrecionalidad con la que pueden aplicarse. El caso, que genera un fuerte impacto emocional, suscita preguntas sobre los límites de la autoridad estatal y los derechos de los individuos en un contexto de migración irregular.\n\nMientras algunos defienden la aplicación estricta de la ley, otros cuestionan la falta de humanidad y el costo social de estas medidas. La situación de Iliana no es aislada y refleja un problema más amplio sobre cómo los países abordan la migración y sus implicaciones. ¿Es la \"mano dura\" la única respuesta posible a la migración irregular, o existen vías más justas y eficientes que protejan tanto la soberanía como la dignidad humana?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "drama-en-eeuu-burocracia-o-justicia-migratoria",
+    "fecha": "2026-08-06",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El Big Mac Index desnuda la economía argentina: ¿caros o pobres?",
+    "bajada": "Argentina sigue entre los países donde la hamburguesa es más cara en relación con los ingresos, a pesar de una leve mejora respecto a 2025.",
+    "cuerpo": "El reciente Índice Big Mac 2026 revela una cruda realidad para los argentinos: el país se mantiene entre aquellos donde el famoso sándwich es más caro en comparación con los ingresos de sus habitantes. A pesar de una ligera mejoría frente al año anterior, esta situación subraya un problema persistente de poder adquisitivo y el impacto de la inflación. La paradoja de un bien \"mundial\" que se vuelve inalcanzable para muchos, es un síntoma claro de desequilibrios macroeconómicos.\n\nEste indicador, aunque informal, es un espejo de la salud económica y la presión inflacionaria. Mientras el gobierno celebra cualquier atisbo de mejora, la ciudadanía siente en su bolsillo el peso de precios elevados y salarios que no acompañan. ¿Es la ligera \"mejora\" un verdadero alivio para las familias, o simplemente un espejismo en un contexto de poder de compra debilitado? ¿Hasta cuándo seguiremos pagando precios de \"primer mundo\" con salarios de economías en desarrollo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "el-big-mac-index-desnuda-la-economia-argentina-caros-o-pobres",
+    "fecha": "2026-08-06",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Precio de la nafta: ¿por qué los argentinos pagan más?",
+    "bajada": "El costo del combustible en Argentina se posiciona entre los más altos del mundo en relación con los ingresos, un golpe directo al bolsillo de los ciudadanos.",
+    "cuerpo": "El precio de la nafta en Argentina se ha convertido en un termómetro constante de la situación económica, y el informe de 2026 no trae buenas noticias: el país se ubica entre las naciones con el litro más caro si se considera el poder adquisitivo. Este dato es un golpe directo al bolsillo de trabajadores y productores, afectando la logística, el transporte y, en última instancia, el costo de vida general. La ciudadanía se pregunta por qué, con recursos petroleros propios, el combustible sigue siendo un lujo.\n\nLos factores son complejos: alta carga impositiva, costos de producción y distribución, y un mercado que, a pesar de las promesas, no siempre opera con la transparencia esperada. Mientras desde el sector privado se habla de ajustes necesarios, los consumidores exigen explicaciones claras. ¿Es este un precio justo por un recurso esencial, o una consecuencia de distorsiones de mercado y una política fiscal que asfixia a los contribuyentes? El debate sobre la libertad de mercado y el rol del estado en la regulación de precios es más vigente que nunca.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "precio-de-la-nafta-por-que-los-argentinos-pagan-mas",
+    "fecha": "2026-08-06",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
     "titulo": "Escalada diplomática: ¿Por qué la furia de Brasil y qué implica para Argentina? #Lula",
     "bajada": "La histórica decisión del gobierno de #Lula de retirar su embajador marca un punto de inflexión en la relación bilateral.",
     "cuerpo": "La tensión entre Buenos Aires y Brasilia alcanzó un pico alarmante: Brasil ha retirado a su embajador de Argentina, reduciendo al mínimo la relación diplomática. Esta medida, sin precedentes recientes, se produce tras los repetidos \"ataques\" del presidente Javier Milei contra su par brasileño, Luiz Inácio #Lula da Silva. Mientras la Casa Rosada insiste en que no \"responden con una agresión\", la acción de Brasil sugiere una lectura muy diferente de las declaraciones y gestos.\n\nLa postura de la administración Milei, que prioriza la alineación ideológica por encima de la pragmática relación con su principal socio comercial del Mercosur, genera interrogantes sobre los costos a largo plazo. ¿Es esta una estrategia calculada para redefinir la política exterior argentina o una imprudencia que aísla al país en la región, justo cuando la economía necesita estabilidad y nuevos mercados?",
@@ -9,7 +93,7 @@
     "slug": "escalada-diplomatica-por-que-la-furia-de-brasil-y-que-implica-para-argentina-lula",
     "fecha": "2026-08-05",
     "imagen": "img/politica_3.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "La agenda del #Papa León XIV: ¿Reconciliación o choque ideológico con Milei?",
@@ -201,90 +285,6 @@
     "slug": "decreto-presidencial-victoria-pirrica-moyano",
     "fecha": "2026-08-05",
     "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Mercado ilegal de celulares: ¿Por qué la Argentina sigue siendo paraíso de contrabandistas?",
-    "bajada": "El descubrimiento de 73 celulares sin aval legal en encomiendas reabre el debate sobre la laxitud de los controles y la impunidad del delito.",
-    "cuerpo": "La reciente incautación de decenas de celulares de alta gama, ingresados al país sin ningún tipo de aval legal y distribuidos mediante encomiendas, es solo la punta del iceberg de un problema mucho más profundo: el contrabando y el mercado negro en Argentina. Este tipo de hechos expone la porosidad de nuestras fronteras y la ineficacia de los controles, que permiten a organizaciones criminales operar con una impunidad preocupante.\n\nDesde una óptica de 'mano dura' contra el delito, la falta de una política estatal contundente no solo fomenta la ilegalidad, sino que también socava la industria local y perjudica a los comerciantes que operan dentro de la ley. ¿Por qué, a pesar de las constantes denuncias y los operativos esporádicos, el contrabando de mercaderías sigue siendo un negocio floreciente en nuestro país? ¿Qué medidas concretas se necesitan para desmantelar estas redes y garantizar un control efectivo que proteja tanto al Estado como a los ciudadanos honestos?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mercado-ilegal-celulares-argentina-contrabandistas",
-    "fecha": "2026-08-05",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Tesla llega a Argentina: ¿Una luz de esperanza o un desafío para la burocracia estatal?",
-    "bajada": "La apertura de búsquedas laborales por parte de Tesla genera expectativas, pero plantea la pregunta sobre la capacidad del país para atraer inversiones reales.",
-    "cuerpo": "La noticia de que Tesla, el gigante de Elon Musk, ha iniciado búsquedas laborales en Argentina es un soplo de aire fresco en un contexto económico a menudo desalentador. La llegada de una empresa de este calibre, incluso en una fase inicial, puede ser un indicio de confianza en el potencial del país y un motor para la generación de empleo calificado y la transferencia tecnológica. Esto, sin embargo, no exime a Argentina de sus desafíos estructurales.\n\nDesde una perspectiva liberal, la verdadera atracción de inversiones no se logra solo con discursos, sino con reglas claras, estabilidad jurídica y una menor presión fiscal. La burocracia excesiva, la inestabilidad macroeconómica y una legislación laboral rígida son obstáculos históricos que el país debe superar para capitalizar plenamente estas oportunidades. ¿Está Argentina realmente preparada para recibir y retener inversiones de talla mundial, o estas oportunidades quedarán diluidas por la persistencia de un Estado sobredimensionado y regulador?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "tesla-argentina-luz-esperanza-desafio-burocracia-estatal",
-    "fecha": "2026-08-05",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La Selección rumbo al Mundial: ¿Éxito deportivo que opaca la realidad nacional?",
-    "bajada": "Mientras la Selección Argentina de fútbol se prepara para la Copa del Mundo, el éxito deportivo genera un respiro en medio de un panorama social complejo.",
-    "cuerpo": "La goleada 3-0 de la Selección Argentina contra Islandia y su preparación para el debut mundialista genera una ola de optimismo y orgullo nacional que, a menudo, sirve como un bálsamo en tiempos de incertidumbre. El fútbol, como fenómeno social, tiene el poder de unir a los argentinos y ofrecer una distracción temporal de las preocupaciones cotidianas, desde la inflación hasta la inseguridad.\n\nSin embargo, desde una mirada crítica, surge la pregunta de si este éxito deportivo, aunque merecido, no termina por opacar los debates cruciales que el país necesita afrontar. La euforia futbolística puede, en ocasiones, desviar la atención de problemas estructurales de larga data, diluyendo la presión ciudadana sobre los asuntos de Estado. ¿Hasta qué punto el fervor por la Selección se convierte en un mecanismo de escape que nos impide enfrentar las verdaderas prioridades nacionales con la seriedad que merecen?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "seleccion-rumbo-mundial-exito-opaca-realidad",
-    "fecha": "2026-08-05",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Escalada diplomática con Brasil: ¿El rol de villarruel agrava la fractura regional?",
-    "bajada": "La retirada del embajador brasileño por los insultos del presidente argentino pone a prueba la capacidad de la diplomacia argentina.",
-    "cuerpo": "La crisis diplomática con Brasil, desencadenada por los reiterados insultos del presidente argentino hacia su homólogo brasileño, ha llegado a un punto crítico con la retirada del embajador y la rebaja de las relaciones. En este contexto de tensión, la figura de la vicepresidenta villarruel, conocida por sus posturas firmes y a menudo confrontativas en política exterior y defensa, adquiere una relevancia particular. Si bien su rol formal es de apoyo, sus intervenciones y alineamientos ideológicos pueden ser percibidos como un factor que agrava la situación, o al menos que no contribuye a un acercamiento.\n\nPara un medio como Panorama.ar, es fundamental analizar si esta línea de confrontación ideológica beneficia o perjudica los intereses estratégicos de Argentina, especialmente con un socio vital como Brasil. La búsqueda de aliados ideológicos puede ser tentadora, pero ¿a qué costo para las relaciones comerciales, la integración regional y la influencia geopolítica? ¿Debería la vicepresidenta, o cualquier figura de alto rango, adoptar un perfil más conciliador en momentos de crisis diplomática o es la hora de reafirmar posturas, incluso si eso implica un mayor aislamiento?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "escalada-diplomatica-brasil-villarruel-fractura-regional",
-    "fecha": "2026-08-05",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Crisis diplomática con Brasil: ¿`Senado` y `Congreso` en alerta?",
-    "bajada": "La decisión de Brasil de no reponer embajador escala la tensión y fuerza una revisión de la política exterior.",
-    "cuerpo": "La relación bilateral con Brasil, históricamente un pilar regional, atraviesa su momento más delicado. Tras las reiteradas fricciones y la falta de un embajador en Buenos Aires, la situación se degrada a nivel de encargado de negocios, un movimiento diplomático que subraya la seriedad del desacuerdo. Este escenario plantea interrogantes sobre la capacidad de la diplomacia argentina para manejar conflictos con socios estratégicos sin escalar innecesariamente. La postura adoptada por el gobierno genera un quiebre que podría tener repercusiones en el Mercosur y en la economía regional, afectando flujos comerciales vitales para ambos países. La falta de un canal de comunicación de alto nivel complica la gestión de intereses compartidos y abre la puerta a una mayor polarización. Es imperativo que el `Congreso` y el `Senado` se involucren activamente en un debate profundo sobre la orientación de nuestra política exterior, para evitar que la ideología domine sobre la pragmática necesidad de buenas relaciones con los principales vecinos. ¿Cómo planea el gobierno reconstruir el diálogo con Brasil y qué costo tendrá esta confrontación en el futuro regional de Argentina?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "crisis-diplomatica-brasil-senado-congreso",
-    "fecha": "2026-08-05",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "`Indec` y el Big Mac: ¿Argentina sigue siendo cara en dólares?",
-    "bajada": "El famoso índice de The Economist revela una Argentina con precios por encima de la región, pese a mejoras.",
-    "cuerpo": "El \"Índice Big Mac\" de The Economist, una herramienta no oficial pero influyente para medir el poder adquisitivo, vuelve a poner a Argentina en el foco. Pese a ciertas mejoras respecto al año anterior, los datos del `Indec` (aunque el índice no usa directamente sus datos, la temática es la misma) y el Big Mac sugieren que el país mantiene un nivel de precios en dólares que lo posiciona como uno de los más caros de la región. Esta situación, a menudo atribuida a la alta presión fiscal y la intervención estatal en la economía, distorsiona los valores de mercado y dificulta la competitividad. La persistencia de un \"dólar Big Mac\" elevado impacta directamente en el consumo interno y en el atractivo para inversiones, al reflejar un costo de vida y de producción que no siempre se condice con los ingresos reales de la población. Mientras el gobierno promueve la apertura de mercados y la reducción del déficit, la realidad del día a día muestra que aún hay un largo camino para alinear los precios locales con los internacionales, liberando al sector privado de cargas excesivas que terminan pagando los consumidores. ¿Hasta cuándo los argentinos pagarán los precios más altos por bienes y servicios básicos en comparación con el resto del mundo?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "indec-big-mac-argentina-cara",
-    "fecha": "2026-08-05",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El FMI cambia su interlocutor: ¿nueva etapa con Joyce Wong?",
-    "bajada": "La designación de una nueva jefa para Argentina en el FMI marca un posible giro en las negociaciones y la supervisión.",
-    "cuerpo": "El Fondo Monetario Internacional ha designado a Joyce Wong como la nueva responsable del caso argentino, sucediendo a quien hasta ahora lideraba las conversaciones. Este cambio de interlocutor, aunque puede ser de rutina, siempre genera expectativas sobre la continuidad o revisión de las políticas acordadas y la rigurosidad en el monitoreo de las metas fiscales. Para Panorama.ar, la clave estará en si la nueva representante mantendrá la firmeza en la exigencia de disciplina fiscal y reformas estructurales, pilares para la estabilidad económica del país. El gobierno actual ha mostrado una fuerte voluntad de ajuste, buscando la reducción del gasto público y el equilibrio fiscal. La llegada de Wong podría ser una oportunidad para consolidar esta dirección, o bien, para reevaluar aspectos del acuerdo que no estén arrojando los resultados esperados en términos de crecimiento y estabilidad. Es fundamental que la administración se mantenga firme en la reducción del déficit y la eliminación de distorsiones que históricamente han ahuyentado la inversión y generado inflación, sin ceder a las presiones que buscan volver al despilfarro. ¿Será Joyce Wong la figura que impulse definitivamente a Argentina hacia la senda de la responsabilidad fiscal y el crecimiento sostenible, o veremos más de lo mismo?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "fmi-cambia-interlocutor-joyce-wong",
-    "fecha": "2026-08-05",
-    "imagen": "img/economia_1.png",
     "destacada": false
   }
 ]
