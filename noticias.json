@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "San Cayetano y el Mito del Pan y el Trabajo: ¿Realidad o Consuelo?",
+    "bajada": "Cada 7 de agosto, millones renuevan la fe en el patrono, pero la coyuntura argentina obliga a un análisis más profundo sobre la generación de empleo.",
+    "cuerpo": "El fervor en el día de San Cayetano es innegable, con miles de fieles clamando por pan y trabajo. Sin embargo, más allá de la devoción, es crucial reflexionar sobre las causas estructurales que impiden a tantos argentinos acceder a un empleo digno y formal. La narrativa del \"patrono del trabajo\" debe coexistir con un análisis crítico de las políticas públicas que frustran la iniciativa privada y asfixian al sector productivo con impuestos y regulaciones excesivas.\n\nEl \"Pan y el Trabajo\" no pueden ser solo una rogativa; requieren de un entorno que incentive la inversión, reduzca la carga fiscal y simplifique la burocracia para quienes desean generar riqueza y empleos genuinos. Mientras se suceden las promesas políticas, la realidad golpea con una informalidad persistente y una presión impositiva que castiga a los emprendedores. La ayuda social es un paliativo necesario, pero no una solución de fondo.\n\n¿Estamos construyendo un país donde el trabajo sea una oportunidad real para todos, o seguimos delegando en la fe lo que debería ser responsabilidad de un Estado eficiente y una economía libre?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "san-cayetano-mito-pan-trabajo-realidad-consuelo",
+    "fecha": "2026-08-07",
+    "imagen": "img/sociedad_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Crisis Diplomática: ¿El Capricho de Milei Aísla a Argentina?",
+    "bajada": "La tensión con Brasil escala a niveles preocupantes, poniendo en jaque relaciones estratégicas vitales y el rol del gobierno argentino en la región.",
+    "cuerpo": "La confirmación de que Brasil no repondrá a su embajador en Argentina hasta que cesen los \"reiterados insultos y agresiones\" atribuidos al presidente Milei enfría, aún más, una relación bilateral clave. Este episodio no solo es un conflicto personalista, sino que revela una preocupante estrategia de política exterior que prioriza la confrontación ideológica por encima de los intereses nacionales. Mientras el Gobierno argumenta libertad de expresión, la diplomacia exige tacto y pragmatismo, especialmente con un socio comercial vital como Brasil.\n\nEl costo de este aislamiento autoimpuesto podría ser altísimo, impactando el comercio bilateral y la posición de Argentina en foros regionales e internacionales. La confrontación constante, si bien puede apelar a una base electoral, genera incertidumbre y aleja potenciales inversiones, complicando la ya frágil situación económica del país. Los beneficios de una postura desafiante deben sopesarse con el pragmatismo que exigen las relaciones de Estado.\n\n¿Hasta qué punto la convicción ideológica del Gobierno justifica el riesgo de sacrificar alianzas estratégicas fundamentales para el futuro de Argentina?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "crisis-diplomatica-capricho-milei-aisla-argentina",
+    "fecha": "2026-08-07",
+    "imagen": "img/politica_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Huawei en Argentina: ¿Soberanía Tecnológica o Presión Extranjera?",
+    "bajada": "Estados Unidos amenaza a empresarios argentinos por trabajar con Huawei, forzando al país a elegir bando en una guerra tecnológica global.",
+    "cuerpo": "La advertencia de Estados Unidos de retirar visas a empresarios argentinos que trabajen con Huawei pone de manifiesto la creciente presión geopolítica que enfrenta Argentina. El dilema no es menor: ceder a la demanda de Washington podría significar limitar el acceso a tecnologías avanzadas y oportunidades comerciales con China, un socio clave, mientras que ignorarla podría acarrear sanciones. Esta situación expone la vulnerabilidad de la soberanía tecnológica nacional ante intereses externos.\n\nDesde una perspectiva liberal, la injerencia extranjera en las decisiones empresariales y la imposición de vetos a proveedores, sin pruebas claras de riesgo nacional, distorsionan el libre mercado y la competencia. El gobierno debe defender la autonomía de las empresas argentinas para elegir a sus socios comerciales y tecnológicos, priorizando siempre los intereses de Argentina y no los de potencias foráneas. La reacción de China, acusando sabotaje, solo subraya la complejidad del escenario.\n\n¿Debería Argentina sacrificar sus relaciones económicas con China por la presión de Estados Unidos, o es momento de reafirmar una política exterior independiente que priorice la libertad de mercado y la prosperidad nacional?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "huawei-argentina-soberania-tecnologica-presion-extranjera",
+    "fecha": "2026-08-07",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El Dólar y el Big Mac: ¿Reflejo Real de Nuestra Economía?",
+    "bajada": "El icónico índice de The Economist vuelve a exponer distorsiones económicas, revelando un dólar subvaluado que esconde profundas ineficiencias.",
+    "cuerpo": "El Índice Big Mac, a menudo simplificado pero contundente, ha vuelto a poner bajo la lupa la verdadera valuación del dólar en Argentina. Que nuestro Big Mac sea significativamente más caro en términos de paridad de poder adquisitivo sugiere una distorsión cambiaria que impacta directamente en la competitividad y en el poder de compra real de los ciudadanos. Esto no es solo una anécdota, sino un síntoma claro de una economía con fuertes desequilibrios.\n\nLa persistente brecha entre el valor nominal del dólar y su capacidad de compra real es consecuencia de años de controles, regulaciones y una emisión monetaria descontrolada. Mientras algunos sectores pueden beneficiarse temporalmente de un dólar \"barato\", la mayoría de los productores y exportadores sufren la falta de competitividad, y el ciudadano común ve cómo su poder adquisitivo se erosiona en el largo plazo. La intervención estatal constante termina por generar estas anomalías.\n\n¿Estamos dispuestos a enfrentar las verdaderas causas de la subvaluación de nuestro dólar, o seguiremos ignorando las señales de una economía que clama por reformas estructurales y libertad de mercado?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "dolar-big-mac-reflejo-real-nuestra-economia",
+    "fecha": "2026-08-07",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Nafta: ¿Argentina Cara o Impuestos Pesados?",
+    "bajada": "Un nuevo ranking de precios de combustible en la región expone la cruda realidad que enfrentan los automovilistas y transportistas argentinos.",
+    "cuerpo": "Llenar el tanque en Argentina se ha convertido en un verdadero dolor de cabeza, y un reciente ranking regional lo confirma: nos ubicamos en los puestos más altos en cuanto a precio de los combustibles. Esta realidad, que golpea directamente el bolsillo del consumidor y los costos de producción, no puede atribuirse únicamente a los vaivenes del mercado internacional. La pesada carga impositiva que recae sobre la nafta es un factor determinante y, a menudo, ignorado en el debate público.\n\nMientras el Estado se beneficia de una recaudación exorbitante a través de impuestos al combustible, la ciudadanía y las empresas de transporte sufren el impacto en cadena. Esta política impositiva regresiva no solo encarece la vida, sino que también resta competitividad a toda la cadena productiva, desde la agricultura hasta la logística. Reducir la presión fiscal sobre los combustibles sería un alivio inmediato y una señal clara de compromiso con la #Economia real.\n\n¿Seguiremos financiando el gasto público desmedido con los impuestos más altos a la nafta, o es momento de revisar la estructura tributaria para aliviar a los ciudadanos y fomentar el desarrollo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "nafta-argentina-cara-impuestos-pesados",
+    "fecha": "2026-08-07",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Lula Responsable: ¿Quién Rompió el Vínculo con Argentina?",
+    "bajada": "Flavio Bolsonaro señala a Lula como el artífice de la escalada diplomática, revelando una trastienda política que va más allá de los \"insultos\".",
+    "cuerpo": "En medio de la creciente tensión entre Brasil y Argentina, Flavio Bolsonaro, hijo del expresidente, no dudó en señalar a Lula da Silva como el principal responsable de la ruptura del vínculo bilateral. Según Bolsonaro, la fricción no era \"inevitable\", sugiriendo una estrategia deliberada por parte del gobierno brasileño. Esta perspectiva desafía la narrativa dominante y pone en evidencia que la política exterior de la región está lejos de ser monolítica, existiendo diferentes interpretaciones sobre quién instiga la discordia.\n\nDesde nuestra óptica, la acusación de Bolsonaro invita a analizar la complejidad de las relaciones internacionales, donde la ideología y los intereses políticos internos a menudo moldean las decisiones diplomáticas. Si bien los \"insultos\" del presidente argentino pueden haber sido un catalizador, es crucial investigar si existía una predisposición por parte de Brasil para escalar el conflicto, quizás buscando capitalizar políticamente la situación. Las relaciones de Estado no deberían ser rehén de disputas ideológicas o personales.\n\n¿Es Lula el verdadero responsable de la tensión con Argentina, o la diplomacia de confrontación de ambos gobiernos ha llevado a la región a una crisis innecesaria con costos para todos?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "lula-responsable-quien-rompio-vinculo-argentina",
+    "fecha": "2026-08-07",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "AFA bajo Fuego: ¿Argentina sin Vergüenza Internacional?",
+    "bajada": "La prensa inglesa explota contra una decisión de la AFA, reabriendo el debate sobre la imagen de Argentina en el concierto global y la transparencia institucional.",
+    "cuerpo": "La furiosa reacción de la prensa inglesa, calificando a \"Argentina sin vergüenza\" por una controvertida decisión de la AFA, enciende una luz de alarma sobre cómo es percibido nuestro país a nivel internacional. Más allá de la habitual rivalidad futbolística, este tipo de titulares dañan la imagen de Argentina y, lamentablemente, refuerzan estereotipos negativos sobre la seriedad y transparencia de nuestras instituciones. No se trata solo de fútbol, sino de la reputación de un país.\n\nDesde una perspectiva crítica, es fundamental que las instituciones argentinas, incluyendo la AFA, operen con la máxima transparencia y responsabilidad. Ciertos manejos opacos o decisiones cuestionables no solo afectan la credibilidad deportiva, sino que proyectan una sombra sobre la gobernanza general del país. El \"garantismo\" con el que a veces se tratan estas situaciones solo perpetúa la impunidad y el desprestigio, tanto a nivel local como global.\n\n¿Es hora de que las instituciones argentinas, incluida la AFA, asuman la responsabilidad por sus actos y trabajen por una imagen de seriedad y transparencia que beneficie a todo el país, o seguiremos ignorando las críticas internacionales?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "afa-bajo-fuego-argentina-sin-verguenza-internacional",
+    "fecha": "2026-08-07",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "Bullrich vs. Lula: ¿Crisis diplomática sin salida en el Congreso?",
     "bajada": "La ministra de Seguridad apuntó directamente contra el mandatario brasileño, escalando un conflicto que exige debate y claridad en la política exterior argentina.",
     "cuerpo": "La tensión entre Argentina y Brasil ha alcanzado un nuevo pico con las declaraciones de Patricia Bullrich, quien no dudó en culpar a Lula da Silva por la escalada diplomática. Mientras se espera el retorno del embajador brasileño, las acusaciones públicas plantean serias dudas sobre la capacidad de resolución de la Casa Rosada y la diplomacia tradicional. ¿Es esta una estrategia efectiva o un riesgo innecesario para las relaciones bilaterales?\n\nEl intercambio de culpas entre figuras políticas de alto rango evidencia la fragilidad de un vínculo fundamental para la región. Mientras Bullrich insiste en una postura firme, los sectores críticos se preguntan si el \"mano dura\" diplomático es el camino correcto, o si se están descuidando los canales de diálogo en un momento donde la estabilidad regional es clave. La situación requiere una intervención y un debate urgente en el Congreso para definir una estrategia de Estado.\n\n¿Hasta qué punto puede la confrontación directa reemplazar la negociación en la política exterior, especialmente con un socio estratégico como Brasil?",
@@ -21,7 +105,7 @@
     "slug": "geopolitica-el-congreso-rehen-de-la-puja-entre-china-y-eeuu",
     "fecha": "2026-08-07",
     "imagen": "img/politica_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Iliana Lick: La Represión silenciosa de una argentina en EE.UU.",
@@ -201,90 +285,6 @@
     "slug": "crisis-diplomatica-quirno-confirma-retiro-embajador",
     "fecha": "2026-08-06",
     "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Escalada con Brasil: embajador de Milei regresa, ¿qué hará el Senado?",
-    "bajada": "La rebaja de las relaciones diplomáticas entre Argentina y Brasil profundiza la crisis bilateral y exige una respuesta legislativa.",
-    "cuerpo": "La decisión de Brasil de rebajar la relación diplomática con Argentina y el consecuente regreso del embajador de Javier Milei a Buenos Aires, tras \"insultos y agresiones\", representa una peligrosa escalada. Este quiebre no solo afecta el plano ejecutivo, sino que interpela directamente al sistema institucional argentino, incluyendo el Senado, en su rol de garante de la política exterior y los tratados internacionales. ¿Puede el Poder Ejecutivo actuar con tal desfachatez sin rendir cuentas al Poder Legislativo?\n\nUna política exterior seria se construye con consensos y visión a largo plazo, no con declaraciones impulsivas que dinamitan puentes históricos. Brasil es un pilar fundamental para la economía argentina, un socio que trasciende las ideologías de los gobiernos de turno. La postura de la actual administración, lejos de fortalecer la soberanía, parece conducir al país a un aislamiento regional que solo beneficia a nuestros competidores y perjudica a la producción nacional.\n\nEn este escenario crítico, ¿está el Senado argentino a la altura de las circunstancias para debatir y encauzar una política exterior que proteja los intereses nacionales por encima de las bravuconadas ideológicas?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "escalada-brasil-embajador-milei-senado",
-    "fecha": "2026-08-06",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La provocadora crítica: ¿Milei llenará el país de \"otras Malvinas\"?",
-    "bajada": "Una fuerte acusación resuena, cuestionando la política de tierras del gobierno y su impacto en la soberanía nacional.",
-    "cuerpo": "La contundente afirmación de que \"Milei quiere llenar de otras Malvinas todo el territorio argentino\" lanzada desde un sector crítico, aunque provocadora, pone en el centro del debate la política de privatizaciones y extranjerización de tierras del actual gobierno. La comparación con el conflicto de Malvinas busca alertar sobre la potencial pérdida de control territorial y recursos estratégicos, un argumento que resuena en la sensibilidad nacionalista, incluso si proviene de un sector con el que el medio no siempre concuerda ideológicamente.\n\nDesde nuestra perspectiva, la apertura a la inversión extranjera es fundamental para el desarrollo, pero siempre debe hacerse bajo marcos regulatorios claros que protejan la soberanía y los intereses nacionales estratégicos. La retórica populista que demoniza cualquier tipo de inversión foránea es tan perjudicial como una desregulación sin control. Lo que Argentina necesita son reglas de juego estables y transparentes que atraigan capital sin comprometer su integridad territorial.\n\n¿Es esta una crítica legítima a una política de desregulación excesiva o una herramienta más de la \"casta\" para frenar las reformas que buscan modernizar el país y evitar el intervencionismo estatal?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-otras-malvinas-critica-politica-tierras",
-    "fecha": "2026-08-06",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Iliana Lick: la tragedia de la niñera argentina, ¿falla estatal o negligencia personal?",
-    "bajada": "La detención de una joven argentina en EE.UU. por el ICE reabre el debate sobre la migración irregular y la asistencia consular.",
-    "cuerpo": "El caso de Iliana Lick, la niñera argentina detenida por el ICE en Estados Unidos cuando se dirigía a ver un partido de la Selección, conmueve y genera indignación. Si bien cada caso de migración irregular tiene sus particularidades, la situación de Iliana pone de manifiesto la vulnerabilidad de quienes buscan oportunidades fuera de su país y la delgada línea entre la búsqueda de un futuro y las consecuencias de no cumplir con las normativas migratorias.\n\nEs imperativo que el Estado argentino, a través de sus consulados, brinde la asistencia legal y humanitaria necesaria a sus ciudadanos en el exterior. Sin embargo, también es crucial que se promueva la migración legal y se eduque sobre los riesgos de la irregularidad. La retórica que culpa exclusivamente al país receptor sin abordar las causas y responsabilidades individuales de la situación, desvía el foco de una problemática compleja que requiere un enfoque más maduro y responsable.\n\nMás allá del drama personal, ¿qué lecciones debe aprender Argentina sobre la protección de sus ciudadanos y la promoción de una migración ordenada y segura?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "iliana-lick-niñera-argentina-detenida-ice",
-    "fecha": "2026-08-06",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Mercado Libre: éxito récord, ¿un oasis de mercado en la crisis argentina?",
-    "bajada": "El gigante del e-commerce supera los 10 mil millones de dólares en ingresos, demostrando el potencial del sector privado aún con \"consumo desafiante\".",
-    "cuerpo": "Mientras el gobierno debate cómo ajustar las cuentas públicas y la sociedad enfrenta un \"consumo desafiante\", Mercado Libre anuncia un hito: superar los 10 mil millones de dólares en ingresos por primera vez. Este logro, con crecimiento sostenido en Argentina, es un claro ejemplo del dinamismo y la capacidad de generación de valor que tiene el sector privado cuando se le permite operar con cierta libertad, más allá de las vicisitudes macroeconómicas.\n\nEl éxito de empresas como Mercado Libre contrasta fuertemente con la constante dependencia del Estado y el sector público en Argentina. Muestra que la clave para la prosperidad no reside en más intervención o más gasto, sino en fomentar un ecosistema que impulse la innovación, la inversión y la competencia. Este tipo de logros deberían ser un espejo para las políticas económicas: menos barreras, menos impuestos y más seguridad jurídica para quienes arriesgan e invierten.\n\n¿Es Mercado Libre la excepción que confirma la regla del estancamiento argentino o un modelo a seguir para una verdadera reactivación económica impulsada por el mercado y no por el Estado?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "mercado-libre-exito-record-oasis-mercado",
-    "fecha": "2026-08-06",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina cae en el ranking global: ¿el costo del populismo?",
-    "bajada": "El país se desplomó 34 puestos en un índice de desarrollo económico, revelando las consecuencias de tres años de políticas que asfixiaron la inversión.",
-    "cuerpo": "Un reciente informe global expone la dura realidad económica argentina, que pasó del puesto 70 al 104 en solo tres años en un índice clave para el desarrollo. Esta caída, sin precedentes, refleja el impacto de políticas de control excesivo y un gasto público desmedido que alejaron la inversión y la confianza, estrangulando el potencial productivo de la nación. La intervención estatal, lejos de ser la solución, parece ser la raíz de una regresión que nos aleja de las naciones prósperas.\n\nEl índice, vital para medir la libertad económica y la capacidad de generación de riqueza, subraya cómo la presión impositiva y la incertidumbre jurídica desalientan a los emprendedores y a la capitalización. Mientras otros países avanzan con reformas de mercado, Argentina se estanca, perpetuando un ciclo de empobrecimiento. ¿Hasta cuándo se ignorará la evidencia de que el camino del estatismo conduce al abismo?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-cae-en-el-ranking-global-el-costo-del-populismo",
-    "fecha": "2026-08-06",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Ley de Tierras: ¿Quién teme a la inversión y por qué?",
-    "bajada": "La polémica sobre la venta de tierras a extranjeros vuelve a encender el debate sobre la propiedad privada y la soberanía, mientras el gobierno da marcha atrás en su propuesta.",
-    "cuerpo": "La reforma de la Ley de Tierras Rurales, que buscaba flexibilizar la venta a extranjeros, fue retirada tras una fuerte oposición, bajo el lema \"Argentina no está en venta\". La discusión, sin embargo, revela una profunda tensión ideológica: ¿es la propiedad privada un derecho inalienable y la inversión extranjera un motor de desarrollo, o una amenaza a la soberanía nacional? Sectores que se oponen a la reforma argumentan que la venta de tierras a no residentes comprometería recursos estratégicos y la identidad cultural.\n\nDesde una perspectiva liberal, limitar la inversión es limitar el crecimiento. La evidencia muestra que un campo argentino vale menos de la mitad que uno brasileño, y un tercio que uno estadounidense, en parte por la falta de un marco legal atractivo y seguridad jurídica. El debate no debería centrarse en quién compra, sino en cómo garantizar que la inversión genere empleo y desarrollo sostenible. ¿Es más \"soberano\" un país pobre que uno que abre sus puertas al capital productivo?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "ley-de-tierras-quien-teme-a-la-inversion-y-por-que",
-    "fecha": "2026-08-06",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Brasil escala la tensión: ¿aislamiento o defensa de principios?",
-    "bajada": "La retirada del embajador brasileño marca un punto de inflexión en la relación bilateral, planteando interrogantes sobre la política exterior argentina.",
-    "cuerpo": "La decisión de Brasil de retirar a su embajador de Argentina y rebajar el nivel de la relación diplomática es un golpe sin precedentes, según analistas internacionales. Esta escalada de tensión, impulsada por el gobierno de Lula, genera preocupación sobre el impacto en la economía regional y en la posición geopolítica de Argentina. Mientras desde el Palacio San Martín se minimiza la situación, la realidad es que el país vecino ha tomado una medida drástica que no puede ser ignorada, poniendo en jaque acuerdos y proyectos conjuntos.\n\nEl gobierno argentino, bajo la administración de Milei, ha defendido una postura de firmeza ideológica que choca con la diplomacia tradicional. Si bien la defensa de principios es valorable, la pregunta es si este enfoque está conduciendo a un aislamiento innecesario o si, por el contrario, es un paso audaz hacia una nueva política exterior. La situación exige un análisis profundo: ¿es el costo diplomático de esta \"nueva era\" un precio que Argentina puede permitirse pagar?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "brasil-escala-la-tension-aislamiento-o-defensa-de-principios",
-    "fecha": "2026-08-06",
-    "imagen": "img/politica_6.png",
     "destacada": false
   }
 ]
