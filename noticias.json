@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "La Argentina de luto: Murió Jorge Messi, pilar del 10.",
+    "bajada": "Una noticia que conmueve a toda la nación y al mundo del fútbol, trascendiendo lo deportivo.",
+    "cuerpo": "La triste noticia del fallecimiento de Jorge Messi, padre del astro Lionel, ha sumido a la Argentina en un profundo pesar. Más allá del ámbito futbolístico, la figura de Lionel Messi representa un símbolo de orgullo y unidad nacional, y la pérdida de su padre toca una fibra sensible en el corazón de millones de argentinos. Este evento nos recuerda la humanidad detrás de las grandes figuras públicas, generando un momento de reflexión y empatía colectiva. El impacto de la familia Messi en la identidad argentina es innegable. Desde su trayectoria en el fútbol hasta su vida personal, cada acontecimiento resuena en un país que lo adoptó como su máximo exponente. ¿Cómo procesa una nación este tipo de duelo que, aunque personal, se siente propio?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "la-argentina-de-luto-murio-jorge-messi-pilar-del-10",
+    "fecha": "2026-08-08",
+    "imagen": "img/sociedad_1.png",
+    "destacada": true
+  },
+  {
+    "titulo": "La propiedad privada: ¿Qué avanza Milei en Argentina?",
+    "bajada": "El gobierno actual impulsa reformas cruciales que prometen un cambio radical en la concepción del derecho a la propiedad.",
+    "cuerpo": "En un giro histórico para la economía argentina, el gobierno de Javier Milei ha puesto la propiedad privada en el centro de su agenda, buscando desandar décadas de intervención estatal. Las medidas propuestas y los discursos oficiales señalan una clara intención de fortalecer las garantías constitucionales sobre la propiedad, esenciales para la inversión y el desarrollo. Esto contrasta fuertemente con políticas pasadas que, bajo distintas administraciones, erosionaron la confianza y los derechos de los propietarios, frenando el crecimiento económico y ahuyentando capitales. Este énfasis en la propiedad privada es celebrado por el sector liberal, que lo considera la base de la libertad económica y el progreso. Sin embargo, no faltan las voces críticas que alertan sobre los posibles impactos sociales o la reconfiguración de derechos adquiridos. ¿Es este el camino definitivo para destrabar el potencial productivo de la Argentina, o las resistencias internas frenarán el avance de Milei?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "la-propiedad-privada-que-avanza-milei-en-argentina",
+    "fecha": "2026-08-08",
+    "imagen": "img/politica_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Logro histórico para Milei: Términos de intercambio récords.",
+    "bajada": "Un dato económico clave revela un escenario internacional inmejorable para la Argentina.",
+    "cuerpo": "La gestión de Javier Milei celebra un hito económico: la Argentina registra los mejores términos de intercambio en más de 125 años. Este indicador, que mide la relación entre los precios de exportación y los de importación, implica que el país recibe más por lo que vende al exterior y paga menos por lo que compra. Esta coyuntura favorable ofrece una oportunidad única para la acumulación de reservas y la estabilización macroeconómica, un respiro en la histórica fragilidad argentina. Sin embargo, la durabilidad de este contexto internacional favorable es incierta, y la capacidad del gobierno para capitalizarlo en reformas estructurales será crucial. Mientras algunos ven una prueba del acierto en la política de apertura y desregulación, otros advierten sobre la dependencia de factores externos y la necesidad de una diversificación productiva. ¿Podrá la administración de Milei transformar esta ventaja exógena en crecimiento sostenible para todos los argentinos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "logro-historico-para-milei-terminos-de-intercambio-records",
+    "fecha": "2026-08-08",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Rechazo a extranjeros: ¿Le sobra plata a la Argentina o faltan políticas?",
+    "bajada": "Un debate preocupante emerge mientras la Argentina enfrenta desafíos económicos y sociales.",
+    "cuerpo": "En un momento donde la Argentina necesita cada vez más inversión y dinamismo económico, emerge una preocupante tendencia de rechazo hacia los extranjeros. La narrativa de \"como si sobrara plata\" para mantener inmigrantes, propuesta por ciertos sectores, simplifica una problemática compleja. En lugar de culpar al recién llegado, ¿no deberíamos analizar la ineficacia de las políticas públicas y la pesada carga impositiva que asfixia a todos, nacionales y extranjeros, y frena la creación de empleo genuino? La historia argentina es la historia de la inmigración. Frenar la llegada de quienes buscan oportunidades aquí no solo es contraintuitivo para un país que necesita repoblarse y producir, sino que desvía la atención de los verdaderos problemas estructurales: el gasto público descontrolado y la inseguridad jurídica. ¿Es este rechazo un síntoma de un Estado ineficiente o una excusa para no abordar las reformas de fondo que el país exige?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "rechazo-a-extranjeros-le-sobra-plata-a-la-argentina-o-faltan-politicas",
+    "fecha": "2026-08-08",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Más pobres en Argentina: ¿fracaso de la economía social o del Estado?",
+    "bajada": "Las cifras de pobreza aumentan, poniendo en jaque el modelo de intervención estatal.",
+    "cuerpo": "El inicio de 2026 trae cifras alarmantes: un aumento en el número de nuevos pobres en Argentina. Este dato pone bajo la lupa no solo la gestión económica general, sino también la efectividad de los programas de \"economía social\" que, lejos de generar riqueza y autonomía, parecen perpetuar la dependencia. Si bien la coyuntura puede influir, la persistencia de la pobreza en un país con tanto potencial productivo obliga a cuestionar la raíz del problema: ¿es la falta de oportunidades genuinas en el mercado formal o el intervencionismo excesivo del Estado lo que profundiza la desigualdad? Panorama.ar sostiene que la verdadera solución no pasa por más \"planes\" o regulaciones, sino por la liberación de las fuerzas productivas, la reducción del gasto público y la disminución de la presión impositiva que ahoga a pymes y emprendedores. La \"economía social\" a menudo se convierte en un eufemismo para el control estatal y la ineficiencia. ¿Hasta cuándo se seguirá insistiendo con recetas que, históricamente, han demostrado ser ineficaces para sacar a los argentinos de la pobreza?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mas-pobres-en-argentina-fracaso-de-la-economia-social-o-del-estado",
+    "fecha": "2026-08-08",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Fin de una era? Tagliafico y el futuro de la Selección Argentina.",
+    "bajada": "Una declaración impactante genera debate sobre la renovación de la gloriosa camada campeona del mundo.",
+    "cuerpo": "La reciente revelación de Nicolás Tagliafico, quien expresó \"Creo que fue mi último Mundial\", sacude al mundo del fútbol argentino. Estas palabras no solo marcan un posible fin de ciclo para una figura clave en la obtención de la Copa del Mundo, sino que abren el interrogante sobre la inminente renovación de la Selección Argentina. La generación dorada que nos dio tantas alegrías inevitablemente dará paso a nuevos talentos, un proceso natural pero siempre desafiante para mantener el nivel de competitividad. La noticia genera un debate sobre el futuro del equipo nacional y cómo se gestionará la transición. Mientras se celebra la trayectoria de jugadores como Tagliafico, la mirada se posa en la AFA y los cuerpos técnicos para asegurar un recambio exitoso que permita a la Selección Argentina seguir siendo protagonista. ¿Está el fútbol argentino preparado para la partida de estos ídolos y la llegada de una nueva camada de jugadores?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "fin-de-una-era-tagliafico-y-el-futuro-de-la-seleccion-argentina",
+    "fecha": "2026-08-08",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Fórmula 1 en Argentina: ¿Ilusión o gasto público encubierto?",
+    "bajada": "La posibilidad de un Gran Premio renueva el entusiasmo, pero plantea interrogantes sobre la financiación.",
+    "cuerpo": "La declaración del CEO de la Fórmula 1 sobre un posible regreso a la Argentina ha encendido la ilusión de muchos fanáticos y promete un potencial impulso turístico y económico. Sin embargo, en un país con prioridades fiscales tan apremiantes, es crucial analizar bajo qué condiciones se concretaría un evento de esta magnitud. ¿Se tratará de una inversión mayormente privada que beneficie al país o de un festival de gasto público encubierto, disfrazado de \"grandes eventos\", como ya hemos visto en el pasado? Desde Panorama.ar, celebramos iniciativas que atraigan inversión y generen riqueza genuina, pero con la clara condición de que no impliquen un drenaje de recursos públicos que podrían destinarse a infraestructura o reducción de impuestos. La experiencia previa ha demostrado que el financiamiento estatal de eventos deportivos de lujo suele ser un pozo sin fondo. ¿La Argentina está lista para un Gran Premio que no cargue los costos sobre los contribuyentes, o la \"ilusión\" nos cegará ante el despilfarro?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "formula-1-en-argentina-ilusion-o-gasto-publico-encubierto",
+    "fecha": "2026-08-08",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Milei perderá en 2027? La casta ya afila cuchillos.",
     "bajada": "El futuro político de Milei en Argentina y los desafíos frente a una oposición fragmentada.",
     "cuerpo": "El panorama político argentino se recalienta con la pregunta sobre la reelección del presidente Javier Milei en 2027. Analistas y encuestas ya debaten los factores que podrían inclinar la balanza. Los principales escollos serían la implementación de reformas estructurales y la capacidad de contener la inflación sin un costo social excesivo. La \"casta\" política, que el actual gobierno busca desmantelar, parece estar reagrupándose, buscando fisuras en la base de apoyo oficialista. Sin embargo, la fragmentación de la oposición y la falta de un liderazgo claro le otorgan a Milei una ventana de oportunidad, siempre y cuando logre mostrar resultados concretos en la economía. ¿Podrá la \"nueva política\" consolidar sus cambios o la \"vieja guardia\" logrará su cometido de recuperar el poder en Argentina?",
@@ -9,7 +93,7 @@
     "slug": "milei-perdera-2027-la-casta-ya-afla-cuchillos",
     "fecha": "2026-08-08",
     "imagen": "img/politica_3.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Propiedad privada: ¿Hasta dónde Milei pudo avanzar en Argentina?",
@@ -201,90 +285,6 @@
     "slug": "el-futuro-de-milei-que-lo-lleva-a-ganar-o-perder-en-2027",
     "fecha": "2026-08-08",
     "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La agenda del Papa: ¿Un mensaje social o político para Argentina?",
-    "bajada": "El esperado regreso del Papa a Argentina despierta interrogantes sobre el verdadero impacto de su mensaje social en un contexto polarizado.",
-    "cuerpo": "La inminente visita del Papa a Argentina, un evento de magnitud que convoca a millones, pone en el centro del debate la interpretación de su \"mensaje social\". Si bien la figura papal trasciende lo político, sus palabras y gestos son leídos con lupa en un país con profundas heridas económicas y sociales. ¿Será un llamado a la unidad y la solidaridad, o un espaldarazo a ciertas agendas que, bajo el manto social, proponen más intervención estatal y menos libertad individual?\n\nDesde Panorama.ar, observamos que, aunque la figura de Francisco es de gran relevancia para muchos, el foco debería estar en soluciones concretas que no dependan de la caridad o la redistribución forzada, sino de la generación de riqueza. La invocación a la \"justicia social\" a menudo se traduce en más impuestos y más burocracia, ahogando al sector productivo que es el verdadero motor del progreso. Es fundamental que el mensaje promueva la cultura del trabajo y el esfuerzo, pilares de una sociedad próspera, y no un asistencialismo que perpetúe la dependencia.\n\nLa visita del Papa será un momento de reflexión para muchos. ¿Logrará su figura tender puentes reales o profundizará aún más las divisiones con discursos que, si bien bienintencionados, pueden ser instrumentalizados por sectores que resisten las reformas de mercado y la disciplina fiscal? El debate está abierto.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "la-agenda-del-papa-un-mensaje-social-o-politico-para-argentina",
-    "fecha": "2026-08-08",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La bandera de Malvinas: ¿Símbolo de orgullo o de una deuda eterna?",
-    "bajada": "Tras el Mundial, la emotiva bandera de Malvinas mostrada por la Selección Argentina reaviva el debate sobre nuestra soberanía.",
-    "cuerpo": "La imagen de los jugadores de la Selección Argentina exhibiendo la bandera de las Malvinas tras un triunfo mundialista fue un momento de profunda emoción y reafirmación de un sentimiento nacional. Sin embargo, más allá del gesto patriótico, surge la pregunta incómoda: ¿qué acciones concretas acompañan este simbolismo? La cuestión Malvinas es una herida abierta que requiere de una estrategia de estado sólida y coherente, no solo de postales emocionantes.\n\nDesde Panorama.ar, valoramos el sentimiento nacional, pero criticamos la instrumentalización política de la causa que a menudo desvía el foco de los problemas urgentes del país. ¿Qué se ha hecho realmente en las últimas décadas para avanzar en la recuperación de la soberanía, más allá de discursos grandilocuentes y gestos mediáticos? La realidad es que se necesita una política exterior seria, que fomente alianzas estratégicas y una defensa nacional robusta, lejos del garantismo que ha desfinanciado nuestras fuerzas armadas.\n\nLa bandera de Malvinas es un recordatorio constante de una asignatura pendiente. ¿Será este gesto deportivo el catalizador para que la clase política asuma con seriedad la responsabilidad de una estrategia a largo plazo, o seguirá siendo un mero recurso para generar aplausos fáciles en momentos de euforia? La memoria exige más que una foto.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "la-bandera-de-malvinas-simbolo-de-orgullo-o-de-una-deuda-eterna",
-    "fecha": "2026-08-08",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La Bolsa argentina en caída: ¿Se agrava la crisis económica?",
-    "bajada": "La sexta baja consecutiva de la Bolsa y un riesgo país alarmante plantean dudas sobre la sostenibilidad del rumbo económico de Argentina.",
-    "cuerpo": "La Bolsa argentina ha registrado su sexta caída consecutiva, un indicador preocupante que, sumado a un riesgo país en ascenso, enciende las alarmas sobre la estabilidad económica. Estas cifras no son meros números; reflejan la desconfianza de los inversores y la fragilidad de un sistema que aún no encuentra el rumbo. Mientras la \"casta\" política discute trivialidades, la economía real sufre el impacto de la incertidumbre y la falta de reformas estructurales profundas.\n\nDesde Panorama.ar, insistimos en que la disciplina fiscal y la reducción del gasto público son el único camino para generar confianza. La historia nos ha enseñado que los parches y el populismo solo prolongan la agonía. ¿Qué mensaje se le da al mundo cuando, a pesar de los discursos de cambio, los mercados reaccionan con tanta aversión al riesgo? Los inversores necesitan previsibilidad, reglas claras y una drástica reducción de la presión impositiva que ahoga a la producción nacional. Sin un giro contundente, el camino es hacia una mayor recesión.\n\nEl desafío es titánico: ¿logrará el gobierno estabilizar la economía y revertir la tendencia negativa, o seguiremos en una espiral de desconfianza que aleja la posibilidad de desarrollo y prosperidad para los argentinos? Los datos son contundentes y exigen respuestas urgentes y medidas audaces.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "la-bolsa-argentina-en-caida-se-agrava-la-crisis-economica",
-    "fecha": "2026-08-08",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina en caída libre: del puesto 70 al 104 en 3 años.",
-    "bajada": "Un informe global revela el drástico deterioro de Argentina en desarrollo económico, un reflejo de políticas erradas y la falta de reformas estructurales.",
-    "cuerpo": "El reciente informe que ubica a Argentina en el puesto 104 en un índice clave de desarrollo económico, cayendo del 70 en solo tres años, es una bofetada a la realidad que no podemos ignorar. Esta brutal regresión no es casualidad; es el resultado directo de décadas de populismo, gasto público descontrolado, presión impositiva asfixiante y una intervención estatal que ahoga la iniciativa privada. Mientras otros países avanzan, Argentina se hunde en el ranking por la obstinación de una \"casta\" política que se resiste a las verdaderas reformas.\n\nDesde Panorama.ar, no nos cansaremos de señalar que la prosperidad se construye con libertad económica, seguridad jurídica y respeto a la propiedad, no con la redistribución y el asistencialismo que generan dependencia. Los 34 puestos de caída en un índice que mide la capacidad de crecimiento demuestran que el camino elegido en el pasado reciente ha sido devastador. Es hora de asumir la magnitud del desastre y encarar, de una vez por todas, un modelo de apertura y desregulación que devuelva a Argentina al camino del progreso. Sin eso, cualquier intento será un parche que solo postergará el colapso.\n\n¿Hasta cuándo los argentinos seremos rehenes de un modelo que nos empobrece sistemáticamente y nos aleja de los estándares globales? La caída en este índice global no es solo una estadística; es un grito de alerta sobre el futuro que nos espera si no se producen cambios profundos y urgentes en la matriz económica del país. El debate es impostergable: ¿más Estado o más libertad?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-en-caida-libre-del-puesto-70-al-104-en-3-anos",
-    "fecha": "2026-08-08",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El Senado aprueba Ley de Propiedad Privada: ¿Seguridad jurídica o nuevo conflicto?",
-    "bajada": "Con una votación ajustada, la cámara alta da luz verde a una norma clave que redefine el marco de protección patrimonial.",
-    "cuerpo": "La aprobación de la Ley de Propiedad Privada en el Senado argentino marca un hito en la agenda legislativa, prometiendo mayor seguridad jurídica para inversores y propietarios. Defensores de la norma, afines a posturas liberales como las impulsadas por Benegas Lynch, argumentan que es esencial para atraer capitales y fomentar el desarrollo económico, garantizando que el fruto del trabajo y la inversión no esté sujeto a la discrecionalidad estatal. Esta medida, esperada por sectores productivos, busca alinear a Argentina con estándares internacionales de protección patrimonial.\n\nSin embargo, la votación no estuvo exenta de críticas. Opositores advierten sobre posibles consecuencias sociales, particularmente en el acceso a la tierra y la vivienda para los sectores más vulnerables. Algunos analistas señalan que, si bien la protección de la propiedad es fundamental, la implementación podría generar tensiones en un país con marcadas desigualdades y conflictos territoriales históricos. La discusión sobre el alcance y los límites de esta ley promete seguir en el centro del debate público.\n\n¿Realmente esta ley impulsará la inversión y el crecimiento, o profundizará las brechas sociales existentes?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "el-senado-aprueba-ley-de-propiedad-privada-seguridad-juridica-o-nuevo-conflicto",
-    "fecha": "2026-08-07",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Caos en el Congreso: ¿La Ley de Propiedad Privada genera más protestas?",
-    "bajada": "Masivas movilizaciones rechazan el proyecto de ley, advirtiendo sobre sus posibles impactos en la sociedad.",
-    "cuerpo": "Mientras el Senado debate y avanza con la Ley de Propiedad Privada, las calles alrededor del Congreso se convierten en escenario de intensas protestas. Diversas organizaciones sociales, campesinas y de derechos humanos salieron a manifestarse contra una normativa que, según denuncian, favorece a grandes terratenientes y especuladores inmobiliarios en detrimento de los sectores más desprotegidos. Los manifestantes expresan temor a un aumento en los desalojos y una mayor dificultad para acceder a tierras y viviendas dignas, exacerbando la crisis habitacional.\n\nDesde Panorama.ar, observamos cómo este conflicto pone en evidencia la profunda brecha ideológica que atraviesa al país. Mientras el liberalismo defiende la absoluta inviolabilidad de la propiedad privada como motor de desarrollo, vastos sectores de la sociedad argentina reclaman una mirada social y distributiva, que considere la función social de la propiedad. La tensión escaló con incidentes y un fuerte operativo de seguridad, evidenciando que el consenso sobre estas políticas está lejos de alcanzarse.\n\n¿Podrá el gobierno conciliar la necesidad de seguridad jurídica con las demandas de justicia social que movilizan a miles en las calles?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "caos-en-el-congreso-la-ley-de-propiedad-privada-genera-mas-protestas",
-    "fecha": "2026-08-07",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La derrota de Bullrich: ¿Fracaso en la política de tierras?",
-    "bajada": "Un revés legislativo expone las limitaciones de la ministra en la promoción de la extranjerización de la tierra.",
-    "cuerpo": "Patricia Bullrich sufrió un nuevo traspié político en su intento por avanzar con la desregulación de la extranjerización de la tierra, una política que encuentra fuerte resistencia en el Congreso y en la opinión pública. La iniciativa, que buscaba flexibilizar los límites a la compra de tierras por parte de capitales extranjeros, fue interpretada por amplios sectores como una amenaza a la soberanía nacional y a la pequeña producción rural. El proyecto se topó con un muro de oposición que incluyó tanto a partidos tradicionales como a organizaciones agrarias.\n\nEste resultado adverso para la ministra se suma a una serie de frustraciones legislativas que evidencian la complejidad de implementar reformas estructurales en un contexto de fragmentación política. Desde una perspectiva liberal, la extranjerización podría significar inversión y desarrollo para regiones postergadas, pero la percepción pública sobre la \"venta de la patria\" ha sido un obstáculo insalvable. La política de tierras es un campo de batalla ideológico que Bullrich parece no poder conquistar con la facilidad deseada.\n\n¿Qué lecciones debería aprender el oficialismo de este fracaso para avanzar con otras reformas estructurales en el futuro?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "la-derrota-de-bullrich-fracaso-en-la-politica-de-tierras",
-    "fecha": "2026-08-07",
-    "imagen": "img/politica_3.png",
     "destacada": false
   }
 ]
