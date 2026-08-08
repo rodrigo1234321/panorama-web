@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Propiedad privada: ¿avanza el plan de Milei o lo frena el Congreso?",
+    "bajada": "La tensión entre la agenda de reformas y la realidad política argentina se agudiza.",
+    "cuerpo": "La defensa de la propiedad privada es una piedra angular del discurso del presidente Milei, prometiendo un giro radical respecto a décadas de intervencionismo. Sin embargo, la implementación de estas reformas enfrenta un arduo camino en el Congreso y el Senado, donde la resistencia de la \"casta\" política busca mantener privilegios y esquemas prebendarios. El debate no es menor: ¿se consolidarán los derechos individuales o la inercia estatal ahogará la libertad económica?\n\nEl Gobierno insiste en que el respeto irrestricto a la propiedad es clave para atraer inversiones y generar riqueza genuina, mientras sectores opositores, a menudo vinculados al kirchnerismo, alertan sobre un supuesto \"avasallamiento de derechos\" que en realidad encubre la defensa de regulaciones que benefician a unos pocos. La verdadera pregunta es qué precio paga la sociedad por cada iniciativa que no logra despegar en el Parlamento. ¿Podrá la Argentina liberarse de las ataduras de la intervención estatal?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "propiedad-privada-avanza-plan-milei-frena-congreso",
+    "fecha": "2026-08-08",
+    "imagen": "img/politica_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "2027: ¿Qué desafíos enfrenta Milei para mantener el rumbo?",
+    "bajada": "El futuro político del oficialismo se define hoy: las reformas impuestas vs. la resistencia de la vieja política.",
+    "cuerpo": "La posibilidad de que el presidente Milei pierda las elecciones en 2027 no es un debate menor; es una radiografía del pulso político actual. Dependerá, en gran medida, de la efectividad de sus reformas económicas y de la capacidad para sortear la constante oposición de la \"casta\" tradicional, que ve amenazados sus históricos privilegios. Las promesas de ajuste fiscal y desregulación generan esperanza en un sector de la sociedad, mientras la izquierda y parte del peronismo apuestan al desgaste social para recuperar terreno.\n\nLa gobernabilidad, el apoyo legislativo en el Congreso y la paciencia de la ciudadanía serán factores determinantes. La Argentina se encuentra en un punto de inflexión: ¿será el modelo libertario una solución duradera o la resistencia de los sectores más conservadores del status quo inclinará la balanza? La historia política argentina nos muestra que la estabilidad económica es el principal factor de respaldo popular. ¿Se consolidará un nuevo paradigma o se repetirá el ciclo de populismo y crisis?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "2027-que-desafios-enfrenta-milei-para-mantener-rumbo",
+    "fecha": "2026-08-08",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Economía: ¿El ajuste no alcanza? La Bolsa cae y el riesgo país se dispara.",
+    "bajada": "La fragilidad financiera expone la necesidad de reformas estructurales profundas y el impacto de la inestabilidad política.",
+    "cuerpo": "La economía argentina vuelve a mostrar señales de alarma: la bolsa en caída libre por sexta jornada y un riesgo país que escala a niveles preocupantes. Esta situación no solo refleja la desconfianza de los mercados, sino también la incertidumbre ante la falta de reformas estructurales y la constante presión del gasto público. Los datos son contundentes: sin disciplina fiscal y reglas de juego claras, la recuperación se torna una quimera.\n\nEl legado de gestiones pasadas, donde la emisión descontrolada fue la norma, sigue pesando en las expectativas. Ahora, la mirada está puesta en el Congreso y el Senado, donde proyectos clave para estabilizar las cuentas públicas se demoran o encuentran férrea oposición. La pregunta es crucial: ¿hasta cuándo pagará la sociedad el costo de la irresponsabilidad política y la inacción legislativa? ¿Estamos condenados a repetir los errores del pasado o hay voluntad real de un cambio de paradigma?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "economia-ajuste-no-alcanza-bolsa-riesgo-pais-dispara",
+    "fecha": "2026-08-08",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Prisión domiciliaria: ¿Justicia para todos o para nadie?",
+    "bajada": "Un análisis crítico sobre el sistema judicial en la Argentina de Milei y sus efectos en la seguridad.",
+    "cuerpo": "En la Argentina de Milei, el debate sobre la prisión domiciliaria y la política criminal se intensifica. Mientras el Estado muestra falencias en garantizar la seguridad, la discusión sobre quién debe y quién no debe acceder a este beneficio expone una grieta profunda. Para \"Panorama.ar\", es claro: la laxitud en la aplicación de la ley y el garantismo exacerbado comprometen la protección de las víctimas y fomentan la impunidad. La justicia debe ser firme y contundente, no un mero trámite administrativo.\n\nLa ineficacia estatal no solo se observa en la falta de respuesta ante el delito, sino también en la ausencia de políticas claras que aborden las problemáticas de fondo, llevando a la proliferación de redes de apoyo alternativas, como las que intentan \"salvar a las mujeres\" en un contexto de desamparo. Es imperativo que el Congreso y el Senado tomen cartas en el asunto, reformando leyes obsoletas y garantizando un sistema penal que priorice a la sociedad. ¿Seguiremos con un sistema que protege más al delincuente que al ciudadano honesto?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "prision-domiciliaria-justicia-para-todos-o-para-nadie",
+    "fecha": "2026-08-08",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El Papa León XIV llega a Argentina: ¿Un mensaje de unión o más grieta?",
+    "bajada": "La visita papal genera expectativas y debates sobre el rol de la Iglesia en un país polarizado.",
+    "cuerpo": "La inminente visita del Papa León XIV a Argentina, con un itinerario cargado de actividades, pone en el centro del debate el rol de la Iglesia en un país atravesado por profundas divisiones. Para muchos, la llegada del Sumo Pontífice representa una oportunidad de reflexión y un llamado a la unidad; para otros, es una instancia donde se podría profundizar la \"grieta\" si el mensaje se percibe con sesgos políticos. Figuras como García Cuerva, arzobispo de Buenos Aires, ya han destacado el \"compromiso del cristiano\" en este contexto, pero la sociedad espera más que palabras.\n\nEl itinerario oficial incluye encuentros con líderes políticos y sociales, lo que inevitablemente cargará la visita de connotaciones más allá de lo puramente religioso. La expectativa es alta, no solo por la dimensión espiritual, sino por el impacto que sus palabras puedan tener en un escenario nacional complejo, donde la sociedad busca respuestas. ¿Será la visita papal un catalizador para la reconciliación o un nuevo frente de batalla ideológica en la Argentina?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "papa-leon-xiv-llega-argentina-mensaje-union-mas-grieta",
+    "fecha": "2026-08-08",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: ¿Cómo salir del laberinto de problemas y crisis?",
+    "bajada": "Un diagnóstico crudo del país que exige soluciones urgentes y un cambio de rumbo definitivo.",
+    "cuerpo": "La Argentina enfrenta un escenario complejo, marcado por \"tres problemas y dos crisis\" que demandan una reconstrucción profunda y urgente. Desde la perspectiva de \"Panorama.ar\", estas calamidades son el resultado directo de décadas de políticas erráticas, gasto público desmedido y una intervención estatal sofocante que ha ahogado la iniciativa privada y la generación de riqueza genuina. La irresponsabilidad fiscal y la constante presión impositiva han creado un círculo vicioso de estancamiento y endeudamiento.\n\nLa clase política, muchas veces la \"casta\" señalada, se muestra ineficaz para ofrecer soluciones concretas, debatiéndose en disputas internas en el Congreso y el Senado mientras el país se desangra. Es tiempo de dejar atrás las recetas populistas y abrazar la disciplina fiscal, la desregulación y el respeto por las libertades individuales. ¿Están los dirigentes actuales a la altura de las circunstancias para liderar la reconstrucción o seguiremos postergando las soluciones definitivas?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-como-salir-laberinto-problemas-crisis",
+    "fecha": "2026-08-08",
+    "imagen": "img/politica_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Fin de ciclo: ¿Quién liderará la Argentina tras el adiós a un ídolo?",
+    "bajada": "Una figura clave de la Selección Argentina anuncia su retiro del Mundial, abriendo el debate sobre el futuro del equipo.",
+    "cuerpo": "El anuncio de un titular de la Selección Argentina, figura en la final contra España, sobre su retiro de futuros Mundiales marca un punto de inflexión. \"No me da para otro\", sentenció, reflejando el desgaste de una carrera brillante pero también abriendo la discusión sobre la renovación generacional en el equipo. Para \"Panorama.ar\", este tipo de noticias, si bien son esperables, obligan a reflexionar sobre la planificación a largo plazo y la capacidad de las estructuras deportivas para asegurar la continuidad de los éxitos.\n\nLa transición de ídolos siempre es un desafío. ¿Está la AFA y el cuerpo técnico preparados para buscar nuevos talentos que suplanten estas bajas sensibles? La Selección Argentina es un emblema nacional, y su futuro genera siempre un gran interés y debate en las redes sociales. ¿Quiénes serán los próximos líderes dentro y fuera de la cancha? ¿Se logrará mantener el nivel de competitividad con la partida de estas figuras?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "fin-ciclo-quien-liderara-argentina-tras-adios-idolo",
+    "fecha": "2026-08-08",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿El Senado defiende la propiedad privada o solo simula?",
     "bajada": "La reciente aprobación de la ley en el Senado genera debate sobre su impacto real en la seguridad jurídica y el desarrollo.",
     "cuerpo": "La Cámara Alta argentina ha dado el visto bueno a una nueva ley de propiedad privada, un movimiento que, a priori, debería ser celebrado por quienes defienden la seguridad jurídica y la inversión. Sin embargo, el diablo está en los detalles y la pregunta que surge es si esta medida es una victoria genuina contra la intervención estatal o una mera fachada legislativa. La historia argentina está plagada de normativas que, en la práctica, terminaron desvirtuando el espíritu original de protección.\n\nDesde Panorama.ar, observamos con lupa las cláusulas que podrían abrir puertas a futuras expropiaciones encubiertas o a una burocracia que termine ahogando a los verdaderos dueños de la tierra. ¿Cómo se garantizará que esta ley no sea letra muerta ante presiones populistas o agendas ideológicas? La verdadera defensa de la propiedad se demuestra con hechos y con una reducción drástica de la presión impositiva, no solo con leyes que luego son desfinanciadas o reinterpretadas.\n\nEl desafío es enorme: ¿logrará esta ley sentar un precedente firme para el respeto a la propiedad, o será otra normativa más en el juego de equilibrios políticos que poco cambia la realidad de la inversión y el desarrollo en Argentina?",
@@ -81,7 +165,7 @@
     "slug": "argentina-en-caida-libre-del-puesto-70-al-104-en-3-anos",
     "fecha": "2026-08-08",
     "imagen": "img/economia_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "El Senado aprueba Ley de Propiedad Privada: ¿Seguridad jurídica o nuevo conflicto?",
@@ -201,90 +285,6 @@
     "slug": "huawei-argentina-soberania-tecnologica-presion-extranjera",
     "fecha": "2026-08-07",
     "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El Dólar y el Big Mac: ¿Reflejo Real de Nuestra Economía?",
-    "bajada": "El icónico índice de The Economist vuelve a exponer distorsiones económicas, revelando un dólar subvaluado que esconde profundas ineficiencias.",
-    "cuerpo": "El Índice Big Mac, a menudo simplificado pero contundente, ha vuelto a poner bajo la lupa la verdadera valuación del dólar en Argentina. Que nuestro Big Mac sea significativamente más caro en términos de paridad de poder adquisitivo sugiere una distorsión cambiaria que impacta directamente en la competitividad y en el poder de compra real de los ciudadanos. Esto no es solo una anécdota, sino un síntoma claro de una economía con fuertes desequilibrios.\n\nLa persistente brecha entre el valor nominal del dólar y su capacidad de compra real es consecuencia de años de controles, regulaciones y una emisión monetaria descontrolada. Mientras algunos sectores pueden beneficiarse temporalmente de un dólar \"barato\", la mayoría de los productores y exportadores sufren la falta de competitividad, y el ciudadano común ve cómo su poder adquisitivo se erosiona en el largo plazo. La intervención estatal constante termina por generar estas anomalías.\n\n¿Estamos dispuestos a enfrentar las verdaderas causas de la subvaluación de nuestro dólar, o seguiremos ignorando las señales de una economía que clama por reformas estructurales y libertad de mercado?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "dolar-big-mac-reflejo-real-nuestra-economia",
-    "fecha": "2026-08-07",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Nafta: ¿Argentina Cara o Impuestos Pesados?",
-    "bajada": "Un nuevo ranking de precios de combustible en la región expone la cruda realidad que enfrentan los automovilistas y transportistas argentinos.",
-    "cuerpo": "Llenar el tanque en Argentina se ha convertido en un verdadero dolor de cabeza, y un reciente ranking regional lo confirma: nos ubicamos en los puestos más altos en cuanto a precio de los combustibles. Esta realidad, que golpea directamente el bolsillo del consumidor y los costos de producción, no puede atribuirse únicamente a los vaivenes del mercado internacional. La pesada carga impositiva que recae sobre la nafta es un factor determinante y, a menudo, ignorado en el debate público.\n\nMientras el Estado se beneficia de una recaudación exorbitante a través de impuestos al combustible, la ciudadanía y las empresas de transporte sufren el impacto en cadena. Esta política impositiva regresiva no solo encarece la vida, sino que también resta competitividad a toda la cadena productiva, desde la agricultura hasta la logística. Reducir la presión fiscal sobre los combustibles sería un alivio inmediato y una señal clara de compromiso con la #Economia real.\n\n¿Seguiremos financiando el gasto público desmedido con los impuestos más altos a la nafta, o es momento de revisar la estructura tributaria para aliviar a los ciudadanos y fomentar el desarrollo?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "nafta-argentina-cara-impuestos-pesados",
-    "fecha": "2026-08-07",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Lula Responsable: ¿Quién Rompió el Vínculo con Argentina?",
-    "bajada": "Flavio Bolsonaro señala a Lula como el artífice de la escalada diplomática, revelando una trastienda política que va más allá de los \"insultos\".",
-    "cuerpo": "En medio de la creciente tensión entre Brasil y Argentina, Flavio Bolsonaro, hijo del expresidente, no dudó en señalar a Lula da Silva como el principal responsable de la ruptura del vínculo bilateral. Según Bolsonaro, la fricción no era \"inevitable\", sugiriendo una estrategia deliberada por parte del gobierno brasileño. Esta perspectiva desafía la narrativa dominante y pone en evidencia que la política exterior de la región está lejos de ser monolítica, existiendo diferentes interpretaciones sobre quién instiga la discordia.\n\nDesde nuestra óptica, la acusación de Bolsonaro invita a analizar la complejidad de las relaciones internacionales, donde la ideología y los intereses políticos internos a menudo moldean las decisiones diplomáticas. Si bien los \"insultos\" del presidente argentino pueden haber sido un catalizador, es crucial investigar si existía una predisposición por parte de Brasil para escalar el conflicto, quizás buscando capitalizar políticamente la situación. Las relaciones de Estado no deberían ser rehén de disputas ideológicas o personales.\n\n¿Es Lula el verdadero responsable de la tensión con Argentina, o la diplomacia de confrontación de ambos gobiernos ha llevado a la región a una crisis innecesaria con costos para todos?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "lula-responsable-quien-rompio-vinculo-argentina",
-    "fecha": "2026-08-07",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "AFA bajo Fuego: ¿Argentina sin Vergüenza Internacional?",
-    "bajada": "La prensa inglesa explota contra una decisión de la AFA, reabriendo el debate sobre la imagen de Argentina en el concierto global y la transparencia institucional.",
-    "cuerpo": "La furiosa reacción de la prensa inglesa, calificando a \"Argentina sin vergüenza\" por una controvertida decisión de la AFA, enciende una luz de alarma sobre cómo es percibido nuestro país a nivel internacional. Más allá de la habitual rivalidad futbolística, este tipo de titulares dañan la imagen de Argentina y, lamentablemente, refuerzan estereotipos negativos sobre la seriedad y transparencia de nuestras instituciones. No se trata solo de fútbol, sino de la reputación de un país.\n\nDesde una perspectiva crítica, es fundamental que las instituciones argentinas, incluyendo la AFA, operen con la máxima transparencia y responsabilidad. Ciertos manejos opacos o decisiones cuestionables no solo afectan la credibilidad deportiva, sino que proyectan una sombra sobre la gobernanza general del país. El \"garantismo\" con el que a veces se tratan estas situaciones solo perpetúa la impunidad y el desprestigio, tanto a nivel local como global.\n\n¿Es hora de que las instituciones argentinas, incluida la AFA, asuman la responsabilidad por sus actos y trabajen por una imagen de seriedad y transparencia que beneficie a todo el país, o seguiremos ignorando las críticas internacionales?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "afa-bajo-fuego-argentina-sin-verguenza-internacional",
-    "fecha": "2026-08-07",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Bullrich vs. Lula: ¿Crisis diplomática sin salida en el Congreso?",
-    "bajada": "La ministra de Seguridad apuntó directamente contra el mandatario brasileño, escalando un conflicto que exige debate y claridad en la política exterior argentina.",
-    "cuerpo": "La tensión entre Argentina y Brasil ha alcanzado un nuevo pico con las declaraciones de Patricia Bullrich, quien no dudó en culpar a Lula da Silva por la escalada diplomática. Mientras se espera el retorno del embajador brasileño, las acusaciones públicas plantean serias dudas sobre la capacidad de resolución de la Casa Rosada y la diplomacia tradicional. ¿Es esta una estrategia efectiva o un riesgo innecesario para las relaciones bilaterales?\n\nEl intercambio de culpas entre figuras políticas de alto rango evidencia la fragilidad de un vínculo fundamental para la región. Mientras Bullrich insiste en una postura firme, los sectores críticos se preguntan si el \"mano dura\" diplomático es el camino correcto, o si se están descuidando los canales de diálogo en un momento donde la estabilidad regional es clave. La situación requiere una intervención y un debate urgente en el Congreso para definir una estrategia de Estado.\n\n¿Hasta qué punto puede la confrontación directa reemplazar la negociación en la política exterior, especialmente con un socio estratégico como Brasil?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "bullrich-vs-lula-crisis-diplomatica-sin-salida-en-el-congreso",
-    "fecha": "2026-08-07",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Geopolítica: ¿El Congreso rehén de la puja entre China y EE.UU.?",
-    "bajada": "Argentina se encuentra en el centro de una disputa de poder global, con acusaciones de EE.UU. a empresas chinas en Neuquén. ¿Qué rol toma el gobierno de Milei y el Congreso?",
-    "cuerpo": "La escalada de tensión entre China y Estados Unidos encuentra en Argentina un nuevo campo de batalla, especialmente en Neuquén, donde las inversiones y la influencia de ambos gigantes se cruzan. Las amenazas de EE.UU. a empresas con capitales chinos han generado un fuerte repudio de la embajada asiática, dejando al gobierno de Milei en una posición delicada. La pregunta es si la Argentina, y particularmente el Congreso, tiene una estrategia clara para navegar esta puja sin ceder soberanía ni comprometer intereses nacionales.\n\nPara Panorama.ar, esta situación expone la falta de una política de estado sólida que defina el rol de Argentina en el tablero geopolítico. ¿Es el país un simple peón en la contienda de otros, o puede establecer sus propios términos? La indefinición actual solo profundiza la incertidumbre para la inversión y el desarrollo local.\n\n¿Hasta cuándo permitirá el Congreso que la política exterior sea un terreno de improvisación, en lugar de un pilar para el crecimiento y la soberanía nacional?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "geopolitica-el-congreso-rehen-de-la-puja-entre-china-y-eeuu",
-    "fecha": "2026-08-07",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Iliana Lick: La Represión silenciosa de una argentina en EE.UU.",
-    "bajada": "La historia de una niñera argentina detenida por ICE en Estados Unidos durante un mes expone las fallas de un sistema migratorio implacable.",
-    "cuerpo": "La detención de Iliana Lick, una niñera argentina que lleva un mes bajo custodia de ICE en Estados Unidos, pone de manifiesto la cruda realidad de la política migratoria y el costo humano de la Represión fronteriza. Lo que comenzó como un viaje para ver un partido de fútbol se transformó en una pesadilla de incertidumbre y burocracia, lejos de los ojos de la opinión pública masiva. La falta de respuestas rápidas y la angustia de sus seres queridos invitan a reflexionar sobre el alcance de la protección consular.\n\nEste caso, que se suma a tantos otros, genera interrogantes sobre la vulnerabilidad de los ciudadanos argentinos en el extranjero y la efectividad de las representaciones diplomáticas. Mientras el Estado argentino debería velar por sus ciudadanos, casos como el de Iliana Lick sugieren que la asistencia puede ser insuficiente o tardía.\n\n¿Es el Estado argentino lo suficientemente activo y eficaz en la protección de sus ciudadanos frente a la Represión extranjera y los desafíos migratorios globales?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "iliana-lick-la-represion-silenciosa-de-una-argentina-en-eeuu",
-    "fecha": "2026-08-07",
-    "imagen": "img/sociedad_6.png",
     "destacada": false
   }
 ]

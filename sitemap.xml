@@ -19,6 +19,12 @@
     <priority>0.3</priority>
   </url>
   <url>
+    <loc>https://panorama-web-one.vercel.app/notas/2027-que-desafios-enfrenta-milei-para-mantener-rumbo.html</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://panorama-web-one.vercel.app/notas/86-argentina-inglaterra-guerra-sin-armas.html</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -254,6 +260,12 @@
   </url>
   <url>
     <loc>https://panorama-web-one.vercel.app/notas/argentina-cayo-de-pie-orgullo-o-resignacion.html</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://panorama-web-one.vercel.app/notas/argentina-como-salir-laberinto-problemas-crisis.html</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -1117,6 +1129,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://panorama-web-one.vercel.app/notas/economia-ajuste-no-alcanza-bolsa-riesgo-pais-dispara.html</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://panorama-web-one.vercel.app/notas/economia-se-contrae-fin-ajuste-crisis.html</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -1574,6 +1592,12 @@
   </url>
   <url>
     <loc>https://panorama-web-one.vercel.app/notas/fifa-vs-soberania-malvinas-riesgo-sancion-seleccion.html</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://panorama-web-one.vercel.app/notas/fin-ciclo-quien-liderara-argentina-tras-adios-idolo.html</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -2971,6 +2995,12 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://panorama-web-one.vercel.app/notas/papa-leon-xiv-llega-argentina-mensaje-union-mas-grieta.html</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://panorama-web-one.vercel.app/notas/paradoja-manzana-argentina-perdio-mercado-global.html</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
@@ -3133,7 +3163,19 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://panorama-web-one.vercel.app/notas/prision-domiciliaria-justicia-para-todos-o-para-nadie.html</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://panorama-web-one.vercel.app/notas/promesas-de-milei-al-campo-gestion-o-solo-retorica-sin-acciones.html</loc>
+    <lastmod>2026-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://panorama-web-one.vercel.app/notas/propiedad-privada-avanza-plan-milei-frena-congreso.html</loc>
     <lastmod>2026-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
