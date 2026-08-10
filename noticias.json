@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Consumo: ¿Quién miente en Argentina? Galperín vs. la burocracia.",
+    "bajada": "Los datos oficiales chocan con la realidad del mercado y la visión de un empresario clave.",
+    "cuerpo": "La discusión sobre el consumo en Argentina escala, con Marcos Galperín, CEO de Mercado Libre, desafiando públicamente las cifras presentadas por una entidad empresaria que sugiere una recuperación. Mientras algunos sectores celebran repuntes marginales, la visión desde la economía real, a menudo ligada a la actividad privada y la innovación, pinta un panorama distinto. Esta disparidad no es menor: refleja la constante tensión entre narrativas estatales o corporativas y la experiencia diaria de millones de argentinos. La intervención de figuras como Galperín pone en relieve la necesidad de datos transparentes y un análisis despojado de intereses políticos o sectoriales. ¿Es el consumo un termómetro fiel de la salud económica o una herramienta más en la batalla de los relatos? ¿Estamos realmente ante una recuperación genuina o es solo un espejismo para justificar políticas? ¿Qué datos deberían priorizarse para entender la verdadera situación de los hogares argentinos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "consumo-quien-miente-en-argentina-galperin-vs-burocracia",
+    "fecha": "2026-08-10",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Milei vs. Brasil: ¿Diplomacia o confrontación innecesaria?",
+    "bajada": "La relación con nuestro socio estratégico, al límite. ¿Hay una estrategia o pura improvisación?",
+    "cuerpo": "La tensión diplomática entre Argentina y Brasil ha escalado a niveles críticos, con el retiro del embajador argentino y declaraciones cruzadas que congelan el vínculo bilateral. Mientras el gobierno brasileño, a través de su canciller Mauro Vieira, exige el cese de \"agresiones\" para normalizar la relación, desde Buenos Aires se defiende una postura de soberanía y crítica a la injerencia externa. Esta escalada, lejos de ser un incidente aislado, refleja la nueva política exterior del gobierno de Milei, que prioriza una agenda ideológica sobre el pragmatismo regional. La pregunta clave es si esta estrategia de confrontación beneficia o perjudica los intereses nacionales, especialmente en un contexto económico complejo donde la estabilidad regional es un activo invaluable. ¿Es el distanciamiento de Brasil un paso hacia una mayor libertad o una autoimposición de aislamiento regional? ¿Estamos dispuestos a pagar el costo de una \"diplomacia ideológica\" en términos económicos y políticos?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "milei-vs-brasil-diplomacia-o-confrontacion-innecesaria",
+    "fecha": "2026-08-10",
+    "imagen": "img/politica_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Vaca Muerta: ¿El motor que Argentina necesita o un espejismo?",
+    "bajada": "Los récords de producción en la megacuenca reavivan la esperanza, pero ¿superaremos la burocracia y la inestabilidad?",
+    "cuerpo": "Vaca Muerta vuelve a ser noticia con récords de producción que posicionan a Argentina más cerca del 1% de la producción petrolera mundial y rozando el millón de barriles diarios. Esta megacuenca representa una oportunidad histórica para el desarrollo económico del país, atrayendo inversiones y prometiendo divisas frescas. Sin embargo, la historia argentina está plagada de promesas incumplidas en materia energética. La clave del éxito no reside solo en el potencial del subsuelo, sino en un marco regulatorio estable, políticas de inversión claras y una reducción de la presión impositiva que aliente la llegada de capitales y tecnología. La \"promesa argentina\" del petróleo solo se hará realidad si el Estado desarticula las trabas burocráticas y permite al sector privado operar con previsibilidad. ¿Estamos finalmente en camino a explotar nuestro verdadero potencial energético o Vaca Muerta será otra víctima de la inestabilidad y la intervención estatal? ¿Cuándo veremos una política energética de largo plazo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "vaca-muerta-el-motor-que-argentina-necesita-o-espejismo",
+    "fecha": "2026-08-10",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Deuda récord: La mora de argentinos se quintuplicó. ¿Alguien lo frena?",
+    "bajada": "Un dato alarmante: más del 30% de los argentinos fuera del sistema bancario están en mora. ¿Consecuencia de la inflación y la crisis?",
+    "cuerpo": "La situación económica de los argentinos sigue mostrando signos de profunda fragilidad: la mora total se quintuplicó en solo 18 meses, y el dato más preocupante es que fuera del sistema bancario formal, más del 30% de los ciudadanos no pueden cumplir con sus pagos. Esta cifra es un crudo reflejo de la erosión del poder adquisitivo, la inflación descontrolada y la falta de oportunidades genuinas en la economía. Mientras el discurso oficial se centra en la estabilización macroeconómica, la realidad en los hogares muestra una creciente asfixia financiera, llevando a millones a una espiral de endeudamiento insostenible. Esta situación no solo afecta la calidad de vida de las familias, sino que también genera un freno al consumo y la inversión, perpetuando el ciclo recesivo. ¿Hasta cuándo se ignorará la creciente crisis de endeudamiento de los argentinos? ¿Qué medidas reales se proponen para aliviar esta carga y evitar una explosión social?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "deuda-record-mora-argentinos-se-quintuplico-alguien-lo-frena",
+    "fecha": "2026-08-10",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Inversión Argentina: Récord de balances y potencial del 41%?",
+    "bajada": "En medio de la incertidumbre, una acción local desafía al mercado con proyecciones de fuerte crecimiento.",
+    "cuerpo": "Mientras muchos se debaten sobre el futuro económico, una acción argentina acaba de presentar un balance récord y proyecta una posible suba del 41%. Este tipo de noticias son un respiro en un contexto de inestabilidad, mostrando que, a pesar de las dificultades macroeconómicas, existen empresas y sectores que logran sobresalir y generar valor. Este éxito individual subraya la importancia de la iniciativa privada y la eficiencia en la gestión, elementos que a menudo se ven opacados por el intervencionismo estatal. La capacidad de ciertas compañías para adaptarse y crecer, incluso en entornos adversos, demuestra el potencial que el mercado argentino aún encierra si se le permite operar con mayor libertad y previsibilidad. ¿Son estos casos aislados o un indicio de que, con las políticas correctas, el mercado de capitales argentino puede volver a ser un motor de desarrollo? ¿Cuándo dejará el Estado de ser un obstáculo para la inversión?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "inversion-argentina-record-balances-potencial-41",
+    "fecha": "2026-08-10",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina, campeón de Vóley: ¿Otro orgullo nacional que la política ignora?",
+    "bajada": "La Selección femenina de Vóley brilló en Sudamérica, demostrando que con esfuerzo se pueden alcanzar grandes logros.",
+    "cuerpo": "La Selección Argentina de Vóleibol femenino volvió a levantar un título continental, consagrándose campeón tras vencer a Brasil en una final emocionante. Este nuevo logro deportivo no solo llena de orgullo a los aficionados, sino que también pone en evidencia el talento y la dedicación de atletas que, a menudo, compiten con recursos limitados y escaso apoyo estatal. Mientras los focos mediáticos y la mayoría de las inversiones públicas se concentran en un único deporte, otras disciplinas como el vóley demuestran que, con pasión y gestión eficiente, es posible alcanzar la cima. Este triunfo es un recordatorio de que el deporte, en todas sus formas, es una herramienta poderosa para la cohesión social y la proyección internacional de Argentina. ¿Por qué el éxito de deportes menos populares no recibe el mismo reconocimiento y apoyo que el fútbol? ¿Estamos desaprovechando el potencial de nuestros atletas más allá de las canchas más mainstream?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-campeon-voley-otro-orgullo-nacional-politica-ignora",
+    "fecha": "2026-08-10",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Básquet femenino: Argentina a la final. ¿Reconocimiento o sólo fútbol?",
+    "bajada": "La Selección logró un hito, pero ¿recibirá el apoyo y difusión que merece el deporte nacional?",
+    "cuerpo": "La Selección Argentina de Básquet femenino ha logrado un hito importante al clasificarse para la final del Campeonato Sudamericano, tras una victoria contundente contra Brasil. Este éxito, fruto de años de trabajo y dedicación, vuelve a poner en el centro de la escena a disciplinas deportivas que luchan por visibilidad y recursos en un país fuertemente futbolizado. Es innegable el talento y la garra de estas atletas, que a pesar de las limitaciones de infraestructura y el escaso patrocinio, compiten al más alto nivel continental. Su logro debería ser un llamado de atención para las autoridades deportivas y la sociedad en general, sobre la necesidad de diversificar el apoyo y la promoción del deporte en Argentina. ¿Cuándo se dejará de ignorar el potencial de otras selecciones nacionales que nos llenan de orgullo? ¿Es posible un verdadero desarrollo deportivo sin una política integral que trascienda el fútbol?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "basquet-femenino-argentina-a-la-final-reconocimiento-o-solo-futbol",
+    "fecha": "2026-08-10",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "La nación se une en el dolor: ¡Fuerza Leo! Adiós a Jorge Messi",
     "bajada": "La conmoción por el fallecimiento del padre del capitán argentino une a un país en la despedida y el apoyo incondicional.",
     "cuerpo": "La noticia del deceso de Jorge Messi golpeó hondo en el corazón de los argentinos, trascendiendo el ámbito deportivo para convertirse en un luto nacional. La emotividad del mensaje de la Selección Argentina, \"Estamos con ustedes\", resume el sentimiento colectivo de un pueblo que ve en Lionel no solo a un ídolo, sino a un símbolo de unión y superación. Este evento demuestra cómo figuras públicas, más allá de sus logros, conectan con la sociedad a través de los lazos familiares y el dolor compartido.\n\nEn un país a menudo fragmentado, la figura de Lionel Messi se erige como un puente. La respuesta unánime de apoyo hacia él y su familia, que incluye desde mensajes de la AFA hasta incontables publicaciones en redes sociales bajo el hashtag #FuerzaLeo, refleja una unidad pocas veces vista. Este apoyo trasciende cualquier diferencia política o social, recordándonos que existen valores y sentimientos que nos hermanan por encima de las divisiones.\n\n¿Es esta manifestación de afecto un recordatorio de que la verdadera fuerza de Argentina reside en su capacidad de empatía y cohesión frente a la adversidad, más allá de los debates cotidianos?",
@@ -9,7 +93,7 @@
     "slug": "la-nacion-se-une-en-el-dolor-fuerza-leo-adios-a-jorge-messi",
     "fecha": "2026-08-09",
     "imagen": "img/sociedad_8.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Tensión con Brasil: ¿Milei agrava la relación o defiende la soberanía nacional?",
@@ -201,90 +285,6 @@
     "slug": "logro-historico-para-milei-terminos-de-intercambio-records",
     "fecha": "2026-08-08",
     "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Rechazo a extranjeros: ¿Le sobra plata a la Argentina o faltan políticas?",
-    "bajada": "Un debate preocupante emerge mientras la Argentina enfrenta desafíos económicos y sociales.",
-    "cuerpo": "En un momento donde la Argentina necesita cada vez más inversión y dinamismo económico, emerge una preocupante tendencia de rechazo hacia los extranjeros. La narrativa de \"como si sobrara plata\" para mantener inmigrantes, propuesta por ciertos sectores, simplifica una problemática compleja. En lugar de culpar al recién llegado, ¿no deberíamos analizar la ineficacia de las políticas públicas y la pesada carga impositiva que asfixia a todos, nacionales y extranjeros, y frena la creación de empleo genuino? La historia argentina es la historia de la inmigración. Frenar la llegada de quienes buscan oportunidades aquí no solo es contraintuitivo para un país que necesita repoblarse y producir, sino que desvía la atención de los verdaderos problemas estructurales: el gasto público descontrolado y la inseguridad jurídica. ¿Es este rechazo un síntoma de un Estado ineficiente o una excusa para no abordar las reformas de fondo que el país exige?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "rechazo-a-extranjeros-le-sobra-plata-a-la-argentina-o-faltan-politicas",
-    "fecha": "2026-08-08",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Más pobres en Argentina: ¿fracaso de la economía social o del Estado?",
-    "bajada": "Las cifras de pobreza aumentan, poniendo en jaque el modelo de intervención estatal.",
-    "cuerpo": "El inicio de 2026 trae cifras alarmantes: un aumento en el número de nuevos pobres en Argentina. Este dato pone bajo la lupa no solo la gestión económica general, sino también la efectividad de los programas de \"economía social\" que, lejos de generar riqueza y autonomía, parecen perpetuar la dependencia. Si bien la coyuntura puede influir, la persistencia de la pobreza en un país con tanto potencial productivo obliga a cuestionar la raíz del problema: ¿es la falta de oportunidades genuinas en el mercado formal o el intervencionismo excesivo del Estado lo que profundiza la desigualdad? Panorama.ar sostiene que la verdadera solución no pasa por más \"planes\" o regulaciones, sino por la liberación de las fuerzas productivas, la reducción del gasto público y la disminución de la presión impositiva que ahoga a pymes y emprendedores. La \"economía social\" a menudo se convierte en un eufemismo para el control estatal y la ineficiencia. ¿Hasta cuándo se seguirá insistiendo con recetas que, históricamente, han demostrado ser ineficaces para sacar a los argentinos de la pobreza?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mas-pobres-en-argentina-fracaso-de-la-economia-social-o-del-estado",
-    "fecha": "2026-08-08",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Fin de una era? Tagliafico y el futuro de la Selección Argentina.",
-    "bajada": "Una declaración impactante genera debate sobre la renovación de la gloriosa camada campeona del mundo.",
-    "cuerpo": "La reciente revelación de Nicolás Tagliafico, quien expresó \"Creo que fue mi último Mundial\", sacude al mundo del fútbol argentino. Estas palabras no solo marcan un posible fin de ciclo para una figura clave en la obtención de la Copa del Mundo, sino que abren el interrogante sobre la inminente renovación de la Selección Argentina. La generación dorada que nos dio tantas alegrías inevitablemente dará paso a nuevos talentos, un proceso natural pero siempre desafiante para mantener el nivel de competitividad. La noticia genera un debate sobre el futuro del equipo nacional y cómo se gestionará la transición. Mientras se celebra la trayectoria de jugadores como Tagliafico, la mirada se posa en la AFA y los cuerpos técnicos para asegurar un recambio exitoso que permita a la Selección Argentina seguir siendo protagonista. ¿Está el fútbol argentino preparado para la partida de estos ídolos y la llegada de una nueva camada de jugadores?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "2 min",
-    "slug": "fin-de-una-era-tagliafico-y-el-futuro-de-la-seleccion-argentina",
-    "fecha": "2026-08-08",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Fórmula 1 en Argentina: ¿Ilusión o gasto público encubierto?",
-    "bajada": "La posibilidad de un Gran Premio renueva el entusiasmo, pero plantea interrogantes sobre la financiación.",
-    "cuerpo": "La declaración del CEO de la Fórmula 1 sobre un posible regreso a la Argentina ha encendido la ilusión de muchos fanáticos y promete un potencial impulso turístico y económico. Sin embargo, en un país con prioridades fiscales tan apremiantes, es crucial analizar bajo qué condiciones se concretaría un evento de esta magnitud. ¿Se tratará de una inversión mayormente privada que beneficie al país o de un festival de gasto público encubierto, disfrazado de \"grandes eventos\", como ya hemos visto en el pasado? Desde Panorama.ar, celebramos iniciativas que atraigan inversión y generen riqueza genuina, pero con la clara condición de que no impliquen un drenaje de recursos públicos que podrían destinarse a infraestructura o reducción de impuestos. La experiencia previa ha demostrado que el financiamiento estatal de eventos deportivos de lujo suele ser un pozo sin fondo. ¿La Argentina está lista para un Gran Premio que no cargue los costos sobre los contribuyentes, o la \"ilusión\" nos cegará ante el despilfarro?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "formula-1-en-argentina-ilusion-o-gasto-publico-encubierto",
-    "fecha": "2026-08-08",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Milei perderá en 2027? La casta ya afila cuchillos.",
-    "bajada": "El futuro político de Milei en Argentina y los desafíos frente a una oposición fragmentada.",
-    "cuerpo": "El panorama político argentino se recalienta con la pregunta sobre la reelección del presidente Javier Milei en 2027. Analistas y encuestas ya debaten los factores que podrían inclinar la balanza. Los principales escollos serían la implementación de reformas estructurales y la capacidad de contener la inflación sin un costo social excesivo. La \"casta\" política, que el actual gobierno busca desmantelar, parece estar reagrupándose, buscando fisuras en la base de apoyo oficialista. Sin embargo, la fragmentación de la oposición y la falta de un liderazgo claro le otorgan a Milei una ventana de oportunidad, siempre y cuando logre mostrar resultados concretos en la economía. ¿Podrá la \"nueva política\" consolidar sus cambios o la \"vieja guardia\" logrará su cometido de recuperar el poder en Argentina?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-perdera-2027-la-casta-ya-afla-cuchillos",
-    "fecha": "2026-08-08",
-    "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Propiedad privada: ¿Hasta dónde Milei pudo avanzar en Argentina?",
-    "bajada": "El gobierno busca fortalecer el derecho de propiedad, pilar fundamental para el desarrollo económico.",
-    "cuerpo": "La defensa de la propiedad privada ha sido una bandera central del gobierno de Javier Milei en Argentina. Tras décadas de intervencionismo estatal y relativización de este derecho fundamental, la administración actual impulsó medidas para garantizar la seguridad jurídica y atraer inversiones. Aunque el camino es complejo, se observan avances en la eliminación de regulaciones que asfixiaban a los propietarios y generaban incertidumbre. Desde la desregulación de alquileres hasta la revisión de expropiaciones dudosas, la señal es clara: un Estado que respete la propiedad privada es indispensable para el crecimiento. ¿Será suficiente este impulso para revertir años de erosión de un derecho básico? ¿O la resistencia de quienes se benefician del caos regulatorio frenará un cambio fundamental para la economía de Argentina?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "propiedad-privada-hasta-donde-milei-pudo-avanzar-en-argentina",
-    "fecha": "2026-08-08",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Productividad laboral: ¿El fin del letargo en Argentina? (Según Infobae)",
-    "bajada": "Un informe de Infobae revela un repunte en la productividad laboral tras años de estancamiento.",
-    "cuerpo": "Las últimas cifras publicadas por Infobae traen una noticia alentadora para la economía argentina: la productividad laboral ha comenzado a repuntar desde 2024, revirtiendo una tendencia de caída que se extendió por años. Este dato es crucial para el crecimiento sostenido y la mejora en la calidad de vida. Este incremento sugiere que las reformas y la búsqueda de una mayor eficiencia en el sector privado podrían estar rindiendo frutos, contrastando con periodos donde la intervención estatal y la rigidez laboral obstaculizaban el progreso. Es un indicio de que, con menos trabas y más libertad, el capital humano argentino puede potenciar su rendimiento. ¿Es este repunte una señal de un cambio estructural o una mejora pasajera? ¿Se mantendrá la tendencia si no se profundizan las reformas que fomenten la inversión y la flexibilidad en Argentina?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "productividad-laboral-el-fin-del-letargo-en-argentina-segun-infobae",
-    "fecha": "2026-08-08",
-    "imagen": "img/economia_4.png",
     "destacada": false
   }
 ]
