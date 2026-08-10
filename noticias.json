@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Almada a River: ¿La nueva estrella que ilusiona a la Hinchada?",
+    "bajada": "El esperado arribo de Thiago Almada a River Plate genera gran expectativa y debate en el fútbol nacional.",
+    "cuerpo": "Thiago Almada ya se encuentra en Argentina para sumarse a los entrenamientos de River Plate, una noticia que revoluciona el mundo del fútbol local. La llegada del talentoso mediocampista, proveniente del fútbol internacional, promete ser uno de los pases más importantes del mercado y genera una ola de optimismo entre los hinchas de River que esperan verlo brillar con la banda.\n\nSu incorporación plantea interrogantes sobre el impacto inmediato en el rendimiento del equipo y el esquema táctico. ¿Será Almada la pieza clave que River necesita para dominar la liga y aspirar a títulos internacionales, o la presión de un club gigante y la alta expectativa podrían ser un peso para el joven talento? Su adaptación será clave, y el debate en redes ya está encendido: ¿Almada en River es sinónimo de campeonato?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "almada-a-river-la-nueva-estrella-que-ilusiona-a-la-hinchada",
+    "fecha": "2026-08-10",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Tensión Milei/Brasil: ¿Giro diplomático o aislamiento regional?",
+    "bajada": "La retirada del embajador argentino de Brasilia enciende alarmas sobre la política exterior de Milei.",
+    "cuerpo": "La escalada de tensión bilateral entre Argentina y Brasil, con el retiro del embajador argentino de Brasilia, marca un punto crítico en la relación entre ambos países. Este movimiento, en medio de roces entre los gobiernos de Milei y Lula da Silva, genera interrogantes sobre la estrategia diplomática argentina. Desde el Gobierno Nacional, se argumenta la defensa de la soberanía y una postura firme ante injerencias externas, mientras que voces críticas advierten sobre el riesgo de un aislamiento regional que podría tener costos económicos y políticos significativos.\n\nLa fricción con Brasil, socio comercial clave y pilar del Mercosur, podría impactar directamente en el comercio y las inversiones. ¿Es esta una muestra de la independencia ideológica que Milei busca para Argentina, o una jugada arriesgada que prioriza el posicionamiento político sobre la estabilidad económica y diplomática en una región compleja? La \"casta\" política tradicional cuestiona la improvisación, mientras el oficialismo defiende la no-alineación. ¿Podrá la economía argentina soportar una diplomacia tan volátil?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "tension-milei-brasil-giro-diplomatico-o-aislamiento-regional",
+    "fecha": "2026-08-10",
+    "imagen": "img/politica_7.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Propiedad Privada: ¿Milei afianza garantías o desregula el país?",
+    "bajada": "El gobierno de Milei impulsa cambios profundos en la protección de la propiedad privada, generando debate.",
+    "cuerpo": "El gobierno de Milei ha puesto en agenda la protección de la propiedad privada con un énfasis sin precedentes, buscando desmantelar regulaciones que, según su visión, han socavado los derechos de los propietarios. Esta postura, central en la ideología liberal libertaria, apunta a fomentar la inversión y el desarrollo económico al asegurar un marco jurídico robusto para los activos individuales y corporativos. La administración sostiene que la seguridad jurídica es un pilar para atraer capitales y generar crecimiento.\n\nSin embargo, críticos de distintas corrientes advierten sobre los posibles efectos de una desregulación extrema, temiendo que, en ciertos casos, pueda abrir la puerta a abusos o desprotección de sectores vulnerables. La \"casta\" kirchnerista ha levantado la bandera del \"estado presente\" como garante, mientras que la visión de Panorama.ar siempre ha sido la de un estado que garantice derechos sin cooptar libertades. La discusión es clave: ¿hasta dónde debe llegar el Estado en la regulación de la propiedad, y dónde empieza la verdadera libertad económica?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "propiedad-privada-milei-afianza-garantias-o-desregula-el-pais",
+    "fecha": "2026-08-10",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Milei y Lula: ¿La diplomacia uruguaya salva el diálogo con Brasil?",
+    "bajada": "Uruguay intercede para recomponer la tensa relación entre Argentina y Brasil, poniendo a prueba la diplomacia regional.",
+    "cuerpo": "La iniciativa uruguaya de mediar entre los presidentes Milei y Lula da Silva, con la propuesta de usar la figura del Papa León XIV como puente, destaca la preocupación regional por la creciente tensión bilateral con Brasil. Este intento de acercamiento subraya la fragilidad de la relación entre dos de los principales actores del Mercosur, cuyas diferencias ideológicas y personales han escalado en los últimos meses, impactando en la dinámica del bloque. El rol del Papa, si bien simbólico, busca un terreno común para el diálogo.\n\nPara Panorama.ar, esta situación expone la necesidad de una política exterior pragmática que priorice los intereses nacionales y la estabilidad regional sobre las divisiones ideológicas, sin ceder en principios fundamentales. La \"casta\" política, que suele operar bajo lógicas clientelares, a menudo subestima la importancia de estas relaciones. La pregunta es si la intervención de terceros logrará un diálogo constructivo o si las posturas irreductibles de ambos líderes seguirán afectando la cooperación y el comercio. ¿Es viable una verdadera reconciliación o solo un cese al fuego temporal?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-lula-diplomacia-uruguaya-dialogo-brasil",
+    "fecha": "2026-08-10",
+    "imagen": "img/politica_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La Selección Argentina de Vóley: ¿Otro golpe a Brasil y orgullo nacional?",
+    "bajada": "Argentina se consagra campeón sudamericano de vóleibol masculino, reafirmando su supremacía regional.",
+    "cuerpo": "La victoria de la Selección Argentina de Vóleibol sobre Brasil en la Copa Sudamericana no solo significa un título más, sino que reafirma la competitividad y el talento deportivo de nuestro país en una disciplina clave. Derrotar al clásico rival siempre tiene un gusto especial, y este triunfo, que además otorga una importante clasificación, genera un merecido orgullo nacional. Este logro contrasta con la visión de quienes creen que el Estado no debe invertir en deporte de alto rendimiento, demostrando que con gestión y esfuerzo, los resultados llegan.\n\nMientras la \"casta\" política discute sobre subsidios y burocracia, estos jóvenes demuestran con creces lo que se puede lograr con dedicación y disciplina. Los atletas, a menudo olvidados, ponen en alto la bandera argentina en el escenario continental. ¿Este éxito es el resultado de una política deportiva integral o de esfuerzos individuales y un liderazgo excepcional que merecen más apoyo sin la injerencia política habitual?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "seleccion-argentina-voley-otro-golpe-a-brasil-orgullo-nacional",
+    "fecha": "2026-08-10",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Basquet Femenino: ¿Argentina otra vez campeona, la \"casta\" lo celebra?",
+    "bajada": "La Selección Argentina de Básquet Femenino revalida su título sudamericano con una victoria contundente.",
+    "cuerpo": "La Selección Argentina de Básquet Femenino se alzó nuevamente con el Sudamericano, demostrando un dominio que debería ser ejemplo en otros ámbitos nacionales. Con un marcador de 53-44 ante Venezuela, nuestras atletas confirman que la disciplina, el trabajo en equipo y el talento pueden superar cualquier obstáculo, incluso la falta de recursos que a menudo afecta al deporte femenino. Este bicampeonato es un faro de éxito que el país debería observar.\n\nMientras la \"casta\" política sigue en sus eternas disputas, ignorando las verdaderas necesidades, estos logros deportivos son un reflejo de lo que se puede construir con verdadera dedicación. ¿Se dará el apoyo necesario para que estas disciplinas sigan creciendo y no sean solo noticia esporádica? O, como es costumbre, ¿se esperará a la foto oficial para luego abandonar el compromiso real con el desarrollo deportivo y la formación de futuras campeonas?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "basquet-femenino-argentina-otra-vez-campeona-la-casta-lo-celebra",
+    "fecha": "2026-08-10",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Comercio con China: ¿Oportunidad para Argentina frente a crisis de Brasil?",
+    "bajada": "Brasil se acerca al límite de su cuota de exportación a China, abriendo una ventana para Argentina en el mercado asiático.",
+    "cuerpo": "La inminente situación de Brasil al agotar su cuota de exportación a China representa una oportunidad estratégica para Argentina, especialmente en el sector agroindustrial. Mientras nuestro vecino gigante enfrenta limitaciones, Argentina podría posicionarse para incrementar sus envíos al apetitoso mercado chino, un movimiento crucial para la generación de divisas y el impulso de nuestra economía. Esta ventana comercial exige agilidad y pragmatismo del sector público para eliminar trabas burocráticas y facilitar la exportación, en lugar de seguir las lógicas de la \"casta\" que frena la producción.\n\nEsta situación pone de manifiesto la importancia de una política comercial externa activa y diversificada, que no dependa exclusivamente de alianzas ideológicas. Panorama.ar siempre ha defendido la apertura de mercados y la eliminación de la pesada mano del Estado sobre los productores. ¿Podrá Argentina, con su potencial productivo, capitalizar efectivamente esta coyuntura o las intervenciones y la presión impositiva seguirán erosionando nuestra competitividad en un mercado global?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "comercio-con-china-oportunidad-argentina-frente-crisis-brasil",
+    "fecha": "2026-08-10",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
     "titulo": "La Argentina de luto: El adiós a Jorge Messi y el legado de un apellido",
     "bajada": "La partida del padre de Lionel Messi conmueve a un país que lo despide en la intimidad, mientras su figura se erige como pilar de una historia de éxito global.",
     "cuerpo": "La noticia del fallecimiento de Jorge Messi, padre y primer impulsor de la carrera de Lionel, ha resonado profundamente en Argentina. Más allá del ámbito familiar, la figura de Jorge representa la tenacidad y el sacrificio que a menudo quedan en las sombras, pero que son esenciales para forjar a un ídolo de la magnitud de su hijo. Su partida invita a reflexionar sobre el rol de las familias detrás de los grandes talentos y el impacto cultural que trasciende el deporte.\n\nEste evento no es solo una despedida personal; es un recordatorio de los orígenes y los cimientos de una de las figuras más importantes de la historia argentina. En un país que tanto valora el fútbol y a sus héroes, la vida y obra de Jorge Messi encapsulan una narrativa de esfuerzo y respaldo incondicional. ¿Es el apoyo familiar el motor fundamental que impulsa a nuestros talentos a la cima, o la sociedad solo ve el resultado final sin dimensionar el camino?",
@@ -9,7 +93,7 @@
     "slug": "la-argentina-de-luto-el-adios-a-jorge-messi-y-el-legado-de-un-apellido",
     "fecha": "2026-08-10",
     "imagen": "img/sociedad_4.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Educación: ¿Un mes perdido por año condena el futuro argentino?",
@@ -201,90 +285,6 @@
     "slug": "la-visita-del-papa-leon-xiv-un-llamado-a-la-unidad-o-mas-controversia",
     "fecha": "2026-08-09",
     "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Libertad bajo fianza para la niñera: ¿Triunfo de la justicia o mero alivio temporal?",
-    "bajada": "El caso de la joven argentina detenida en EE.UU. culmina con su liberación, pero plantea dudas sobre el sistema migratorio.",
-    "cuerpo": "La noticia de la liberación bajo fianza de la niñera argentina detenida por el ICE en Estados Unidos durante el Mundial trae alivio a su familia y a la opinión pública que siguió de cerca su caso. Sin embargo, este desenlace, aunque positivo para la involucrada, no disipa las interrogantes sobre los criterios y la celeridad con la que operan las autoridades migratorias estadounidenses. La joven, que iba a visitar a su familia, se encontró con una detención prolongada, un escenario que resalta la vulnerabilidad de los ciudadanos ante procesos burocráticos y legales complejos en territorio extranjero.\n\nEl caso expone la dureza de las políticas migratorias y las amplias facultades de agencias como el ICE, que a menudo priorizan la aplicación estricta de la ley sobre las consideraciones humanitarias. Si bien las autoridades migratorias tienen el deber de asegurar el cumplimiento de las normativas, la detención de personas sin antecedentes penales graves por periodos extensos y las dificultades para acceder a fianzas accesibles, como se vio en este caso donde se fijó una suma significativa en dólares, generan un debate sobre la proporcionalidad y la humanidad del sistema. Es crucial garantizar el debido proceso y la protección de los derechos de los individuos, especialmente cuando se enfrentan a un sistema legal ajeno.\n\n¿Es suficiente la libertad bajo fianza para subsanar los meses de incertidumbre y el trauma de una detención injustificada para muchos, o este caso revela fallas más profundas en la protección de los derechos del ciudadano común en el extranjero?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "libertad-bajo-fianza-para-la-ninera-triunfo-de-la-justicia-o-mero-alivio-temporal",
-    "fecha": "2026-08-09",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vaca Muerta: ¿El motor económico que la Argentina necesita o una oportunidad desaprovechada?",
-    "bajada": "Los récords de producción de petróleo en Vaca Muerta muestran su potencial, pero el camino hacia la inversión plena es incierto.",
-    "cuerpo": "Vaca Muerta continúa marcando récords de producción, acercando a Argentina al 1% de la producción petrolera mundial. Este hito es un claro indicador del gigantesco potencial de nuestros recursos no convencionales para transformar la matriz energética y económica del país. Sin embargo, la historia de Vaca Muerta es también un recordatorio constante de las oportunidades perdidas y las barreras que el intervencionismo estatal y la inestabilidad regulatoria han impuesto sobre la inversión privada, limitando su capacidad de desarrollo exponencial y la llegada de capitales que podrían acelerar su impacto.\n\nPara que este potencial se traduzca en riqueza efectiva para todos los argentinos, es indispensable un marco jurídico estable y una menor presión fiscal. La extracción y exportación de petróleo requiere inversiones a largo plazo y reglas de juego claras que no se modifiquen al ritmo de los ciclos políticos. Criticar la sobrecarga impositiva y la burocracia estatal es crucial, ya que ahuyentan a los inversores y encarecen los proyectos, obstaculizando una verdadera explotación de estos recursos que podrían generar miles de empleos y divisas, factores que la administración de Massa también enfrentó con políticas que no lograron destrabar el sector.\n\n¿Será esta la vez que Argentina capitalice su \"petróleo\" o las recurrentes trabas burocráticas y la falta de visión a largo plazo seguirán diluyendo su promesa de prosperidad?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "vaca-muerta-el-motor-economico-que-la-argentina-necesita-o-una-oportunidad-desaprovechada",
-    "fecha": "2026-08-09",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Economía Milei: ¿Hito histórico o espejismo pasajero en términos de intercambio?",
-    "bajada": "El gobierno actual celebra los mejores términos de intercambio en 125 años, planteando un debate sobre las bases de este éxito.",
-    "cuerpo": "El gobierno de Javier Milei celebra un logro económico significativo: los mejores términos de intercambio en más de 125 años de historia argentina. Esta métrica, que mide la relación entre los precios de exportación e importación, sugiere una mejora en el poder adquisitivo del país en el comercio internacional. Desde una perspectiva liberal, esto es presentado como un resultado de la disciplina fiscal, la desregulación y la apertura de mercados, que permiten a Argentina insertarse de manera más ventajosa en la economía global, rompiendo con el aislamiento y los controles que caracterizaron gestiones anteriores, como la de Massa.\n\nSin embargo, es crucial un análisis crítico sobre la sostenibilidad y las causas de este fenómeno. Mientras el gobierno atribuye el éxito a sus políticas, algunos economistas señalan que una parte importante podría deberse a factores externos, como la subida de precios de commodities o una fuerte caída de importaciones producto de la recesión interna y la restricción de divisas, que limitan la capacidad productiva del país. Es fundamental diferenciar entre una coyuntura favorable y una base sólida de crecimiento estructural. Para que este \"hito\" se traduzca en bienestar general, se requiere que la ventaja se extienda a la producción y el empleo, no solo a la macroeconomía.\n\n¿Representan estos términos de intercambio un verdadero cambio de rumbo económico, o son el reflejo de una situación externa favorable y una contracción interna que no todos los argentinos perciben como un beneficio?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "economia-milei-hito-historico-o-espejismo-pasajero-en-terminos-de-intercambio",
-    "fecha": "2026-08-09",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Deuda y mora: ¿La herencia económica que ahoga a los argentinos?",
-    "bajada": "La mora crediticia se quintuplicó en 18 meses, un síntoma preocupante de la fragilidad económica de las familias argentinas.",
-    "cuerpo": "La alarmante noticia de que la mora total de los argentinos se quintuplicó en solo 18 meses, superando el 30% fuera del sistema bancario formal, pone de manifiesto la severa crisis económica que enfrentan miles de familias. Este incremento brutal en los niveles de endeudamiento y la incapacidad de pago son una clara señal de la asfixia financiera que sufren los ciudadanos, resultado de años de inflación descontrolada, pérdida de poder adquisitivo y una presión fiscal insostenible. Es un reflejo de políticas económicas que no lograron contener la licuación de los ingresos ni promover un ambiente de estabilidad para el ahorro y el crédito.\n\nEste panorama contrasta fuertemente con la necesidad de una economía sana, basada en la confianza y el respeto por la propiedad privada. La proliferación del crédito informal, donde la mora es aún más elevada, expone la desesperación de quienes no acceden al sistema formal y se ven obligados a recurrir a fuentes más riesgosas. La falta de acceso a financiación transparente y a tasas razonables es una barrera para el desarrollo individual y la pequeña empresa. La herencia de gestiones pasadas, incluida la de Massa, con su enfoque en el control de precios y el gasto público desmedido, contribuyó a un escenario donde la capacidad de pago se erosionó drásticamente, dejando a la población vulnerable.\n\n¿Podrá la actual administración revertir esta tendencia crítica de endeudamiento y mora, o la factura de años de desmanejo fiscal seguirá siendo pagada por el ciudadano común, comprometiendo su futuro y el del país?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "deuda-y-mora-la-herencia-economica-que-ahoga-a-los-argentinos",
-    "fecha": "2026-08-09",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La Selección envía #FuerzaLeo: tras la muerte de Jorge Messi, ¿un país unido?",
-    "bajada": "La emotiva despedida de la Selección argentina a Lionel Messi y su familia, en un momento que paraliza a la nación.",
-    "cuerpo": "La noticia del fallecimiento de Jorge Messi, padre de nuestro capitán, sacudió a toda la Argentina. La Selección no tardó en expresar su apoyo con un sentido mensaje, un gesto que trasciende el fútbol y nos recuerda la humanidad detrás de los ídolos. Es en estos momentos de dolor personal donde la figura de Lionel se humaniza aún más, y el respaldo colectivo se convierte en un símbolo de unidad nacional.\n\n¿Qué nos dice esta reacción masiva sobre el papel de figuras como Messi en la cohesión social argentina? Más allá de la cancha, el capitán representa una parte intrínseca de nuestra identidad. La solidaridad demostrada, tanto por la AFA como por millones de ciudadanos, es un recordatorio de que, pese a las diferencias, hay hilos invisibles que aún nos conectan.\n\nEn un país a menudo polarizado, ¿puede la tragedia personal de una figura pública ser un catalizador, aunque sea momentáneo, para una genuina muestra de empatía y cohesión social?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "la-seleccion-envia-fuerzaleo-tras-la-muerte-de-jorge-messi-un-pais-unido",
-    "fecha": "2026-08-09",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Messi en Argentina para Jorge Messi: ¿Un dolor que une al país?",
-    "bajada": "La llegada de Lionel Messi al país para despedir a su padre, Jorge, resalta la dimensión humana del ídolo y moviliza la empatía nacional.",
-    "cuerpo": "La noticia de la llegada de Lionel Messi a Argentina para el último adiós a su padre, Jorge Messi, generó una ola de reacciones en todo el país. El astro del fútbol, siempre reservado en su vida privada, enfrenta públicamente una de las pérdidas más grandes. Este momento subraya la universalidad del duelo y la capacidad del país para solidarizarse con sus figuras más emblemáticas.\n\nMás allá del fervor futbolístico, la presencia de Messi en estas circunstancias tan íntimas nos recuerda su arraigo a la Argentina y la importancia de la familia. Es un llamado a la reflexión sobre cómo, incluso en la cima del éxito mundial, las tragedias personales nos anclan a nuestras raíces y nos hacen vulnerables.\n\nEn una sociedad donde a menudo se glorifica al personaje público, ¿es esta muestra de humanidad de Lionel un recordatorio necesario sobre los valores que realmente importan más allá de la fama y el éxito?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "messi-en-argentina-para-jorge-messi-un-dolor-que-une-al-pais",
-    "fecha": "2026-08-09",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "AFA y Selección ante Jorge Messi: ¿Gesto de unidad o mero protocolo?",
-    "bajada": "La AFA y la Selección argentina expresaron su pésame por el fallecimiento de Jorge Messi, generando un debate sobre la autenticidad de los gestos institucionales en momentos de duelo.",
-    "cuerpo": "Tras la dolorosa noticia del fallecimiento de Jorge Messi, padre de Lionel, tanto la Selección argentina como la AFA emitieron comunicados oficiales de condolencias. Estos gestos, esperables en una situación así, abren el debate sobre la verdadera naturaleza de las expresiones institucionales: ¿son reflejo de un genuino sentimiento colectivo o meros actos protocolares?\n\nSi bien es innegable el impacto emocional de la partida de Jorge Messi en el capitán y en la comunidad futbolística, la rapidez y formalidad de los mensajes institucionales invitan a la reflexión. La AFA, en particular, tiene un historial complejo en la gestión de sus relaciones internas y externas, y cada acción es analizada con lupa. La pregunta es si, más allá del protocolo, estas muestras de apoyo contribuyen a una verdadera cohesión nacional.\n\nEn un contexto donde las instituciones suelen ser miradas con desconfianza, ¿cómo deberían las entidades como la AFA manejar la dimensión humana de sus figuras más importantes para que el mensaje resuene con autenticidad en la sociedad?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "afa-y-seleccion-ante-jorge-messi-gesto-de-unidad-o-mero-protocolo",
-    "fecha": "2026-08-09",
-    "imagen": "img/sociedad_5.png",
     "destacada": false
   }
 ]
