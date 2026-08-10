@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "La Argentina de luto: El adiós a Jorge Messi y el legado de un apellido",
+    "bajada": "La partida del padre de Lionel Messi conmueve a un país que lo despide en la intimidad, mientras su figura se erige como pilar de una historia de éxito global.",
+    "cuerpo": "La noticia del fallecimiento de Jorge Messi, padre y primer impulsor de la carrera de Lionel, ha resonado profundamente en Argentina. Más allá del ámbito familiar, la figura de Jorge representa la tenacidad y el sacrificio que a menudo quedan en las sombras, pero que son esenciales para forjar a un ídolo de la magnitud de su hijo. Su partida invita a reflexionar sobre el rol de las familias detrás de los grandes talentos y el impacto cultural que trasciende el deporte.\n\nEste evento no es solo una despedida personal; es un recordatorio de los orígenes y los cimientos de una de las figuras más importantes de la historia argentina. En un país que tanto valora el fútbol y a sus héroes, la vida y obra de Jorge Messi encapsulan una narrativa de esfuerzo y respaldo incondicional. ¿Es el apoyo familiar el motor fundamental que impulsa a nuestros talentos a la cima, o la sociedad solo ve el resultado final sin dimensionar el camino?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "la-argentina-de-luto-el-adios-a-jorge-messi-y-el-legado-de-un-apellido",
+    "fecha": "2026-08-10",
+    "imagen": "img/sociedad_4.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Educación: ¿Un mes perdido por año condena el futuro argentino?",
+    "bajada": "Alarmante: la mitad de los estudiantes secundarios pierden un mes de clases anual, un síntoma de la decadencia educativa que hipoteca generaciones.",
+    "cuerpo": "La educación argentina enfrenta una crisis silenciosa pero devastadora. Que uno de cada dos estudiantes secundarios acumule un mes de clases perdidas al año no es solo una estadística, es la crónica de un futuro comprometido. Este flagelo, exacerbado por factores como paros docentes, infraestructura deficiente y sistemas de evaluación obsoletos, revela la incapacidad del Estado para garantizar un derecho fundamental y preparar a los jóvenes para un mercado laboral cada vez más exigente.\n\nMientras se debate la calidad educativa, los datos de Infobae exponen una realidad ineludible: la falta de continuidad pedagógica genera lagunas de aprendizaje irrecuperables, incrementando la deserción y la desigualdad. ¿Es esta una prioridad real para nuestra clase política, o simplemente un tema más en la agenda coyuntural? La inversión en educación y una política clara que priorice la presencialidad y la excelencia son urgentes para romper este ciclo de atraso. ¿Estamos condenando a una generación a la irrelevancia al no garantizarles una educación de calidad y continuidad?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "educacion-un-mes-perdido-por-ano-condena-el-futuro-argentino",
+    "fecha": "2026-08-10",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Consumo: ¿Por qué Argentina es el más caro de América Latina?",
+    "bajada": "Precios exorbitantes en rubros clave revelan una estructura económica asfixiante que penaliza al consumidor y frena el desarrollo.",
+    "cuerpo": "Argentina ostenta un triste récord: es el país más caro de América Latina en al menos tres rubros clave de consumo. Este fenómeno, lejos de ser casualidad, es consecuencia directa de décadas de políticas económicas erráticas, alta presión impositiva, burocracia desmedida y una competencia distorsionada por la intervención estatal. Los argentinos, con salarios que no acompañan la inflación, ven su poder adquisitivo pulverizado, forzados a pagar precios de primer mundo con ingresos de economías subdesarrolladas.\n\nInfobae detalla cómo la carga fiscal sobre la producción y la comercialización se traslada directamente al precio final, haciendo que bienes y servicios esenciales sean inaccesibles para gran parte de la población. Mientras el consumo se contrae, el debate sobre el rol del Estado y la necesidad de una profunda reforma estructural se vuelve imperativo. ¿Podremos alguna vez competir y ofrecer precios justos si no desmantelamos la red de distorsiones que encarece cada producto y servicio en nuestro país?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "consumo-por-que-argentina-es-el-mas-caro-de-america-latina",
+    "fecha": "2026-08-10",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Deuda: ¿La mora que se quintuplicó es el espejo de la crisis argentina?",
+    "bajada": "La deuda de los argentinos se disparó, revelando la vulnerabilidad financiera de los hogares frente a la inestabilidad económica y la ausencia de previsibilidad.",
+    "cuerpo": "La mora total de los argentinos se quintuplicó en solo 18 meses, alcanzando más del 30% fuera del sistema bancario formal. Esta cifra alarmante, publicada por La Nación, es un termómetro ineludible de la grave crisis económica que golpea a las familias y pymes. El aumento exponencial del endeudamiento y la dificultad para afrontar los pagos son el resultado directo de la inflación galopante, la caída del poder adquisitivo y la falta de oportunidades genuinas que el sector productivo no logra generar bajo la presión impositiva y regulatoria.\n\nMientras el gobierno de turno intenta estabilizar la macroeconomía, la realidad microeconómica muestra un tejido social y productivo cada vez más frágil. La incapacidad de acceder a crédito formal empuja a muchos a fuentes de financiamiento más costosas y riesgosas, agravando aún más su situación. ¿Es este un síntoma de la ineficacia de las políticas actuales para reactivar la economía real o una muestra más de las consecuencias de la intervención estatal crónica en el mercado?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "deuda-la-mora-que-se-quintuplico-es-el-espejo-de-la-crisis-argentina",
+    "fecha": "2026-08-10",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Vaca Muerta: ¿El 1% mundial de petróleo es suficiente para despegar?",
+    "bajada": "Récords de Vaca Muerta nos acercan a ser un actor relevante en el mercado petrolero global, pero la burocracia y la inestabilidad aún frenan el despegue definitivo.",
+    "cuerpo": "Los récords de producción en Vaca Muerta posicionan a Argentina más cerca de alcanzar el 1% de la producción petrolera mundial, un hito que, según Infobae, podría transformar radicalmente nuestra matriz energética y económica. Esta formidable reserva de recursos no convencionales representa una oportunidad histórica para atraer inversiones, generar empleo y consolidar la independencia energética del país. Sin embargo, el camino hacia la plena explotación está sembrado de desafíos que la \"casta\" política no siempre atiende.\n\nLa persistente inestabilidad regulatoria, la presión impositiva y las barreras burocráticas siguen siendo obstáculos significativos para el desarrollo de su máximo potencial. Mientras el mundo demanda energía, Argentina tiene la posibilidad de convertirse en un exportador neto, pero esto requiere un marco legal y económico previsible y atractivo para el capital privado. ¿Estamos los argentinos dispuestos a liberar el potencial de Vaca Muerta o permitiremos que la ineficiencia estatal diluya esta ventaja estratégica?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "vaca-muerta-el-1-mundial-de-petroleo-es-suficiente-para-despegar",
+    "fecha": "2026-08-10",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Malvinas y petróleo: ¿Un saqueo silencioso mientras miramos?",
+    "bajada": "El petróleo de Malvinas, una riqueza estratégica que se explota sin freno, pone en evidencia la fragilidad de nuestra soberanía y la pasividad de la dirigencia.",
+    "cuerpo": "Página|12 advierte sobre el \"saqueo\" del petróleo en Malvinas, un recurso estratégico que se explota impunemente mientras Argentina lucha por recuperar la soberanía de las islas. La extracción de hidrocarburos por parte de empresas extranjeras en nuestra plataforma continental es un golpe tanto a nuestro patrimonio natural como a nuestra dignidad nacional. Este expolio silencioso no solo priva al país de vastas riquezas energéticas, sino que también consolida la presencia británica y debilita nuestra posición en el reclamo.\n\nLa inacción efectiva de la política exterior argentina a lo largo de décadas ha permitido esta situación. Más allá de los discursos grandilocuentes, la realidad es que la riqueza submarina de Malvinas se escurre sin que se implementen medidas contundentes que detengan este proceso. ¿Hasta cuándo permitiremos este \"saqueo\" de nuestros recursos en Malvinas? ¿O es que nuestra dirigencia solo se conforma con el lamento estéril mientras los hechos consumados erosionan nuestra soberanía?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "malvinas-y-petroleo-un-saqueo-silencioso-mientras-miramos",
+    "fecha": "2026-08-10",
+    "imagen": "img/politica_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Vóley: ¿Otro triunfo argentino oculto tras el fútbol?",
+    "bajada": "La Selección Argentina de Vóleibol se consagró campeona sudamericana venciendo a Brasil, un logro que demuestra el potencial deportivo más allá del fútbol.",
+    "cuerpo": "Mientras la atención de las redes suele acaparar los debates futbolísticos con tendencias como #SanLorenzo o #River, la Selección Argentina de Vóleibol femenino nos dio otra alegría al consagrarse campeona sudamericana tras vencer a Brasil. Este triunfo, destacado por DeporTV y Clarín, no es menor: representa el esfuerzo, la disciplina y el talento de un equipo que, con menos reflectores, sigue cosechando éxitos y elevando el nombre de Argentina en el plano internacional. Es un recordatorio de que nuestro país es una potencia deportiva integral.\n\nLa victoria sobre el clásico rival, Brasil, es un mérito adicional que subraya la calidad de nuestros atletas y entrenadores. En un contexto donde el éxito deportivo a menudo se mide solo por los resultados en el fútbol, estos logros en otras disciplinas merecen un reconocimiento equitativo. ¿Es la sociedad argentina demasiado futbolera, a tal punto de opacar otras proezas deportivas nacionales? ¿Cómo podemos fomentar un mayor aprecio por la diversidad de talentos que nos representan con orgullo?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "voley-otro-triunfo-argentino-oculto-tras-el-futbol",
+    "fecha": "2026-08-10",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
     "titulo": "Consumo: ¿Quién miente en Argentina? Galperín vs. la burocracia.",
     "bajada": "Los datos oficiales chocan con la realidad del mercado y la visión de un empresario clave.",
     "cuerpo": "La discusión sobre el consumo en Argentina escala, con Marcos Galperín, CEO de Mercado Libre, desafiando públicamente las cifras presentadas por una entidad empresaria que sugiere una recuperación. Mientras algunos sectores celebran repuntes marginales, la visión desde la economía real, a menudo ligada a la actividad privada y la innovación, pinta un panorama distinto. Esta disparidad no es menor: refleja la constante tensión entre narrativas estatales o corporativas y la experiencia diaria de millones de argentinos. La intervención de figuras como Galperín pone en relieve la necesidad de datos transparentes y un análisis despojado de intereses políticos o sectoriales. ¿Es el consumo un termómetro fiel de la salud económica o una herramienta más en la batalla de los relatos? ¿Estamos realmente ante una recuperación genuina o es solo un espejismo para justificar políticas? ¿Qué datos deberían priorizarse para entender la verdadera situación de los hogares argentinos?",
@@ -21,7 +105,7 @@
     "slug": "milei-vs-brasil-diplomacia-o-confrontacion-innecesaria",
     "fecha": "2026-08-10",
     "imagen": "img/politica_8.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Vaca Muerta: ¿El motor que Argentina necesita o un espejismo?",
@@ -201,90 +285,6 @@
     "slug": "afa-y-seleccion-ante-jorge-messi-gesto-de-unidad-o-mero-protocolo",
     "fecha": "2026-08-09",
     "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Propiedad privada bajo Milei: ¿Más allá del relato, la Argentina avanza?",
-    "bajada": "Un análisis crítico sobre los avances en la protección de la propiedad privada bajo la gestión de Milei, ¿se está desmantelando la herencia intervencionista?",
-    "cuerpo": "La cuestión de la propiedad privada en Argentina ha sido un eje central de debate por décadas, marcada por la intromisión estatal y la inseguridad jurídica. Bajo la administración de Milei, se observa un intento declarado de revertir esta tendencia, buscando fortalecer los derechos de los propietarios y reducir la discrecionalidad pública. Sin embargo, ¿son estas medidas suficientes para desterrar la cultura intervencionista que tanto ha erosionado la confianza en el país?\n\nLa retórica libertaria es clara: sin propiedad privada garantizada, no hay inversión ni desarrollo. Desde el gobierno, se argumenta que cada paso para desregular y simplificar normativas apunta a ese fin. No obstante, críticos señalan que el camino es largo y que las resistencias de sectores beneficiados por el status quo son profundas. La verdadera prueba no es solo la sanción de leyes, sino su aplicación efectiva y el cambio cultural necesario.\n\n¿Hasta qué punto la Argentina está dispuesta a abrazar un modelo que priorice la propiedad privada y el mercado libre, o persistirá en las viejas prácticas que nos llevaron al estancamiento?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "propiedad-privada-bajo-milei-mas-alla-del-relato-la-argentina-avanza",
-    "fecha": "2026-08-09",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei y la economía: ¿un récord histórico o una ventana de oportunidad efímera?",
-    "bajada": "El gobierno de Milei celebra los mejores términos de intercambio en 125 años, una noticia económica que despierta esperanzas y escepticismo.",
-    "cuerpo": "El actual gobierno de Milei se jacta de un hito económico: los mejores términos de intercambio de la Argentina en más de 125 años. Esta estadística, que mide la relación entre los precios de exportación e importación, sugiere una coyuntura internacional favorable que podría beneficiar las arcas del Estado y mejorar la balanza comercial. Para una gestión que promueve la apertura económica y la desregulación, este dato es un espaldarazo a su narrativa de cambio y recuperación.\n\nSin embargo, la historia argentina está plagada de oportunidades desperdiciadas. La pregunta crítica es si esta \"lluvia de dólares\" externa, producto de factores muchas veces ajenos a la política interna, será capitalizada para reformas estructurales profundas o si, como en el pasado, se diluirá en el gasto público improductivo. La oportunidad es clara: usar estos recursos para bajar la presión impositiva y reducir el déficit fiscal, sentando las bases de un crecimiento sostenible.\n\n¿Podrá la administración actual transformar esta coyuntura favorable en una ventaja estructural duradera para la Argentina, o quedará en una anécdota histórica más, sin un impacto real en el bienestar de los ciudadanos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "milei-y-la-economia-un-record-historico-o-una-ventana-de-oportunidad-efimera",
-    "fecha": "2026-08-09",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Rechazo a extranjeros en Argentina: lujo que no podemos pagar?",
-    "bajada": "La controversia sobre la política migratoria y el gasto en extranjeros en Argentina genera un fuerte debate en un contexto de escasez económica.",
-    "cuerpo": "La Argentina, sumida en una crisis económica y con un Estado que lucha por equilibrar sus finanzas, asiste a un debate inquietante: el rechazo a la presencia de extranjeros y la discusión sobre el \"costo\" que representan. El argumento, a menudo simplista, de que \"como si nos sobrara plata, ahora rechazamos extranjeros\", ignora la complejidad de las políticas migratorias y las responsabilidades estatales.\n\nDesde una perspectiva liberal, la inmigración siempre ha sido un motor de crecimiento y diversidad cultural, siempre y cuando se integre al marco legal y contributivo del país. No obstante, es legítimo cuestionar si el Estado argentino, con sus recurrentes déficits y el abuso de los recursos públicos, puede permitirse \"sostener\" a poblaciones sin una contrapartida clara. La crítica no debería apuntar al extranjero per se, sino a la ineficiencia estatal y a la falta de políticas claras de integración que garanticen que todos los residentes contribuyan al erario público.\n\nEn un país que necesita mano de obra y talento, ¿es el debate sobre los extranjeros un síntoma de una mala gestión de recursos y un desvío de la atención de los problemas económicos de fondo?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "rechazo-a-extranjeros-en-argentina-lujo-que-no-podemos-pagar",
-    "fecha": "2026-08-09",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Inflación: ¿También en EE.UU. se manipulan las cifras oficiales?",
-    "bajada": "El debate sobre la veracidad de los datos de inflación, un eco familiar para Argentina, ahora resuena en Estados Unidos, ¿qué revela sobre la confianza en los números oficiales?",
-    "cuerpo": "La inflación es un flagelo que la Argentina conoce de sobra, y la desconfianza en las cifras oficiales ha sido una constante durante años, especialmente en gestiones pasadas. Ahora, la sorpresa llega desde Estados Unidos, donde también surgen dudas y cuestionamientos sobre la precisión de los datos de inflación publicados por el gobierno. Esta situación plantea una pregunta fundamental: ¿es la manipulación o el embellecimiento de estadísticas una tentación universal para los gobiernos, independientemente de su ideología o la solidez de su economía?\n\nEn un contexto global donde la información es poder, la transparencia y el rigor en la presentación de datos económicos son cruciales para la toma de decisiones tanto de ciudadanos como de inversores. Cuando la credibilidad de las instituciones estadísticas se ve comprometida, se erosiona la confianza pública y se dificulta cualquier planificación a largo plazo. La experiencia argentina, con su historia de \"Indecs intervenidos\" y cifras maquilladas, debería servir de advertencia.\n\nSi incluso en economías desarrolladas se cuestiona la veracidad de las cifras oficiales, ¿qué mecanismos de control son realmente efectivos para garantizar la transparencia y la objetividad de los datos económicos en cualquier nación?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "inflacion-tambien-en-eeuu-se-manipulan-las-cifras-oficiales",
-    "fecha": "2026-08-09",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La Argentina de luto: Murió Jorge Messi, pilar del 10.",
-    "bajada": "Una noticia que conmueve a toda la nación y al mundo del fútbol, trascendiendo lo deportivo.",
-    "cuerpo": "La triste noticia del fallecimiento de Jorge Messi, padre del astro Lionel, ha sumido a la Argentina en un profundo pesar. Más allá del ámbito futbolístico, la figura de Lionel Messi representa un símbolo de orgullo y unidad nacional, y la pérdida de su padre toca una fibra sensible en el corazón de millones de argentinos. Este evento nos recuerda la humanidad detrás de las grandes figuras públicas, generando un momento de reflexión y empatía colectiva. El impacto de la familia Messi en la identidad argentina es innegable. Desde su trayectoria en el fútbol hasta su vida personal, cada acontecimiento resuena en un país que lo adoptó como su máximo exponente. ¿Cómo procesa una nación este tipo de duelo que, aunque personal, se siente propio?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "2 min",
-    "slug": "la-argentina-de-luto-murio-jorge-messi-pilar-del-10",
-    "fecha": "2026-08-08",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La propiedad privada: ¿Qué avanza Milei en Argentina?",
-    "bajada": "El gobierno actual impulsa reformas cruciales que prometen un cambio radical en la concepción del derecho a la propiedad.",
-    "cuerpo": "En un giro histórico para la economía argentina, el gobierno de Javier Milei ha puesto la propiedad privada en el centro de su agenda, buscando desandar décadas de intervención estatal. Las medidas propuestas y los discursos oficiales señalan una clara intención de fortalecer las garantías constitucionales sobre la propiedad, esenciales para la inversión y el desarrollo. Esto contrasta fuertemente con políticas pasadas que, bajo distintas administraciones, erosionaron la confianza y los derechos de los propietarios, frenando el crecimiento económico y ahuyentando capitales. Este énfasis en la propiedad privada es celebrado por el sector liberal, que lo considera la base de la libertad económica y el progreso. Sin embargo, no faltan las voces críticas que alertan sobre los posibles impactos sociales o la reconfiguración de derechos adquiridos. ¿Es este el camino definitivo para destrabar el potencial productivo de la Argentina, o las resistencias internas frenarán el avance de Milei?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "la-propiedad-privada-que-avanza-milei-en-argentina",
-    "fecha": "2026-08-08",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Logro histórico para Milei: Términos de intercambio récords.",
-    "bajada": "Un dato económico clave revela un escenario internacional inmejorable para la Argentina.",
-    "cuerpo": "La gestión de Javier Milei celebra un hito económico: la Argentina registra los mejores términos de intercambio en más de 125 años. Este indicador, que mide la relación entre los precios de exportación y los de importación, implica que el país recibe más por lo que vende al exterior y paga menos por lo que compra. Esta coyuntura favorable ofrece una oportunidad única para la acumulación de reservas y la estabilización macroeconómica, un respiro en la histórica fragilidad argentina. Sin embargo, la durabilidad de este contexto internacional favorable es incierta, y la capacidad del gobierno para capitalizarlo en reformas estructurales será crucial. Mientras algunos ven una prueba del acierto en la política de apertura y desregulación, otros advierten sobre la dependencia de factores externos y la necesidad de una diversificación productiva. ¿Podrá la administración de Milei transformar esta ventaja exógena en crecimiento sostenible para todos los argentinos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "logro-historico-para-milei-terminos-de-intercambio-records",
-    "fecha": "2026-08-08",
-    "imagen": "img/economia_2.png",
     "destacada": false
   }
 ]
