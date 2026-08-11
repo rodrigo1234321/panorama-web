@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Solidaridad efectiva? Argentina ofrece ayuda a Colombia tras el terremoto",
+    "bajada": "Tras el sismo que sacudió a Bogotá, el gobierno argentino reafirma su compromiso humanitario internacional.",
+    "cuerpo": "La confirmación de que Argentina ofreció asistencia a Colombia tras el terremoto de 7.4 grados genera un debate crucial. Mientras la solidaridad internacional es un pilar, la gestión de recursos en contextos de crisis interna siempre está bajo escrutinio. ¿Se priorizan adecuadamente las necesidades locales y la capacidad logística para una ayuda eficaz?\n\nLa ministra de Seguridad, Patricia Bullrich, y la canciller Diana Mondino han destacado la disposición del país para colaborar, una señal positiva en el ámbito diplomático. Sin embargo, la efectividad de esta ayuda dependerá de una coordinación eficiente y de la capacidad real del Estado para desplegar asistencia significativa sin descuidar desafíos internos.\n\nEs fundamental analizar si la ayuda es meramente simbólica o si representa un despliegue concreto y necesario. ¿Cómo garantizar que la asistencia a Colombia sea un verdadero apoyo y no una mera declaración de intenciones en un contexto de limitaciones presupuestarias?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "solidaridad-efectiva-argentina-ofrece-ayuda-a-colombia",
+    "fecha": "2026-08-11",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Argentina preparada para un sismo como el de Colombia? Expertos alertan",
+    "bajada": "Tras la tragedia en Colombia, la posibilidad de un terremoto en Argentina reabre el debate sobre la infraestructura y la prevención.",
+    "cuerpo": "La reciente actividad sísmica en Colombia ha puesto en relieve la vulnerabilidad de la región y ha llevado a expertos a analizar la probabilidad de eventos similares en Argentina. Las zonas sísmicas del país, como el oeste, están bajo constante monitoreo, pero ¿está la infraestructura actual a la altura de un potencial desastre?\n\nGeólogos y sismólogos insisten en la necesidad de reforzar las normativas de construcción y los planes de evacuación. La improvisación ante una catástrofe no es una opción viable, y la historia de la región muestra la devastación que puede causar un evento de magnitud. La burocracia estatal y la falta de inversión sostenida suelen ser los grandes obstáculos.\n\nEs hora de que el Estado deje de lado la inacción y asuma la responsabilidad de garantizar la seguridad de sus ciudadanos. ¿Estamos realmente preparados para enfrentar un escenario como el vivido en Colombia, o la desidia habitual nos costará caro?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-preparada-para-un-sismo-como-el-de-colombia",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Comienza la definición: arranca la Copa Argentina en octavos",
+    "bajada": "Los partidos de octavos de final de la Copa Argentina prometen emoción y sorpresas en el camino a la gloria.",
+    "cuerpo": "La Copa Argentina entra en su fase más caliente con el inicio de los octavos de final. Este torneo, conocido por sus cruces inesperados y la oportunidad que brinda a equipos menores de medirse con los grandes, siempre genera expectativas en los hinchas de todo el país. La pasión del fútbol se vive en cada rincón, y la lucha por el título es feroz.\n\nLos aficionados ya analizan las llaves y especulan sobre quiénes serán los próximos clasificados. La competencia es intensa y cualquier resultado es posible, lo que añade un condimento especial a cada encuentro. Desde el interior hasta la capital, la expectativa por ver a los equipos dejarlo todo en la cancha es palpable.\n\n¿Qué equipos darán la sorpresa en esta etapa de la Copa Argentina y cuáles confirmarán su favoritismo? El camino hacia la final está más abierto que nunca y el debate sobre los posibles campeones ya se instaló entre los fanáticos.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "comienza-la-definicion-arranca-la-copa-argentina-en-octavos",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¡Orgullo nacional! Argentina campeón de vóley ante Brasil",
+    "bajada": "La Selección Argentina de Vóley masculino se coronó en la Copa Sudamericana, venciendo a su clásico rival.",
+    "cuerpo": "La gesta de la Selección Argentina de Vóley masculino al conquistar la Copa Sudamericana frente a Brasil es un recordatorio del talento y la garra de nuestros deportistas. Este triunfo no solo es una medalla más, sino la reafirmación de que la excelencia deportiva nacional está en constante ascenso, muchas veces a pesar de las condiciones.\n\nGanarle a Brasil, nuestro histórico rival, siempre tiene un sabor especial y eleva el espíritu colectivo. Este tipo de logros no solo celebra el esfuerzo de los atletas, sino que también inspira a las nuevas generaciones y pone en valor el deporte argentino. Es un ejemplo de cómo la dedicación y el trabajo en equipo pueden superar cualquier desafío.\n\nEn un país donde el fútbol monopoliza la atención, el vóley demuestra con este campeonato que hay mucho más para celebrar. ¿Veremos un mayor apoyo y reconocimiento a disciplinas que, como el vóley, nos traen tantas alegrías internacionales?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "orgullo-nacional-argentina-campeon-de-voley-ante-brasil",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: 78% en la cuerda floja, ¿fracaso de la casta?",
+    "bajada": "La cruda realidad de la pirámide social: casi 8 de cada 10 hogares argentinos entre la clase media baja y la pobreza.",
+    "cuerpo": "Los datos son contundentes y revelan una Argentina en declive social: el 78% de los hogares se ubica entre la clase media baja y la pobreza. Esta alarmante cifra no es producto del azar, sino el resultado de décadas de políticas erradas, gasto público descontrolado y una presión impositiva asfixiante que pulveriza la capacidad de ascenso social. ¿Quién se hace cargo de esta regresión?\n\nMientras los discursos políticos se suceden, la realidad golpea con fuerza a la mayoría de los argentinos. La clase media, motor fundamental de cualquier economía sana, se desdibuja, arrastrada por la inflación y la falta de oportunidades genuinas. La \"casta\" política, con sus privilegios y su retórica vacía, parece ajena a la angustia diaria de millones que luchan por llegar a fin de mes.\n\nEs imperativo un cambio de rumbo radical que fomente la inversión, reduzca la carga fiscal y promueva un verdadero desarrollo productivo. De lo contrario, la Argentina seguirá condenada a un ciclo de empobrecimiento que hipoteca el futuro de todos. ¿Hasta cuándo toleraremos esta decadencia social?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-78-en-la-cuerda-floja-fracaso-de-la-casta",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_5.png",
+    "destacada": true
+  },
+  {
+    "titulo": "La paradoja económica: MercadoLibre crece, pero el consumidor ¿retrocede?",
+    "bajada": "Mientras el gigante del e-commerce celebra un aumento del 38%, advierte una caída en la demanda del consumidor argentino. ¿Quién gana?",
+    "cuerpo": "El último reporte de MercadoLibre expone una paradoja irritante para el ciudadano de a pie: la empresa registra un crecimiento del 38% en sus operaciones, pero al mismo tiempo advierte sobre una \"menor demanda del consumidor\" en Argentina. ¿Cómo se explica esta brecha entre el éxito de un gigante y la fragilidad del bolsillo de la mayoría?\n\nEsta situación sugiere que el consumo, especialmente el de bienes no esenciales, está siendo impactado severamente por la pérdida de poder adquisitivo y la inflación. Las grandes plataformas pueden crecer al absorber más mercado o expandirse a otros segmentos, mientras que la capacidad de compra de las familias argentinas se deteriora. La informalidad y la precarización laboral también juegan un rol clave.\n\nLa pregunta es si este modelo de crecimiento beneficia realmente a la economía nacional o si solo consolida el poder de unos pocos mientras la base de la pirámide social se contrae. ¿Qué medidas concretas se están tomando para revitalizar la demanda interna y proteger al consumidor, más allá de los números macroeconómicos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "la-paradoja-economica-mercadolibre-crece-pero-el-consumidor-retrocede",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Vaca Muerta: potencial millonario, ¿lo frena la burocracia estatal?",
+    "bajada": "Récords de producción acercan a Argentina al 1% global, pero ¿el Estado permitirá su desarrollo pleno o lo ahogará?",
+    "cuerpo": "Vaca Muerta sigue rompiendo récords, consolidando a Argentina como un jugador cada vez más relevante en el mercado energético global. Alcanzar el 1% de la producción petrolera mundial es un hito que demuestra el enorme potencial de nuestros recursos, una verdadera mina de oro que podría transformar la economía del país si se gestiona con visión y eficiencia.\n\nSin embargo, la pregunta crucial es si la \"casta\" política y la burocracia estatal permitirán que este gigante se desarrolle a su máximo esplendor, o si, como ha ocurrido históricamente, lo ahogarán con regulaciones excesivas, impuestos confiscatorios y la interferencia constante que espanta las inversiones. La incertidumbre sobre las reglas de juego y la falta de un marco legal estable son los principales frenos.\n\nEs hora de liberar el potencial de Vaca Muerta con políticas pro-mercado, reducción de impuestos y seguridad jurídica para atraer capitales y tecnología. ¿Será el gobierno capaz de capitalizar esta oportunidad histórica o prevalecerá el populismo y la ineficiencia?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "vaca-muerta-potencial-millonario-lo-frena-la-burocracia-estatal",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
     "titulo": "Terremoto en Colombia: Argentina, ¿solidaridad genuina o gesto político?",
     "bajada": "Tras la tragedia en Bogotá, el Gobierno argentino ofreció ayuda humanitaria, pero surge la pregunta sobre las prioridades nacionales.",
     "cuerpo": "La noticia del terremoto en Colombia, específicamente en Bogotá, conmovió a la región. El gobierno argentino, a través de Quirno, no tardó en ofrecer asistencia humanitaria y confirmar la ausencia de víctimas argentinas. Este gesto es loable en términos de cooperación internacional, mostrando la capacidad de respuesta del país ante catástrofes externas. Sin embargo, la rapidez y la difusión de esta oferta plantean un interrogante: ¿refleja una genuina preocupación por la ayuda externa o busca consolidar una imagen internacional mientras persisten urgencias internas? Es crucial equilibrar la solidaridad global con las necesidades apremiantes que enfrentan los propios ciudadanos, desde crisis económicas hasta deficiencias en infraestructura. ¿Hasta qué punto un país con sus propios desafíos puede extender recursos significativos a otros sin generar un debate sobre la asignación de prioridades?",
@@ -9,7 +93,7 @@
     "slug": "terremoto-colombia-argentina-solidaridad-prioridad",
     "fecha": "2026-08-11",
     "imagen": "img/sociedad_3.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Tras Colombia: ¿Está Argentina preparada para un terremoto?",
@@ -201,90 +285,6 @@
     "slug": "propiedad-privada-milei-afianza-garantias-o-desregula-el-pais",
     "fecha": "2026-08-10",
     "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei y Lula: ¿La diplomacia uruguaya salva el diálogo con Brasil?",
-    "bajada": "Uruguay intercede para recomponer la tensa relación entre Argentina y Brasil, poniendo a prueba la diplomacia regional.",
-    "cuerpo": "La iniciativa uruguaya de mediar entre los presidentes Milei y Lula da Silva, con la propuesta de usar la figura del Papa León XIV como puente, destaca la preocupación regional por la creciente tensión bilateral con Brasil. Este intento de acercamiento subraya la fragilidad de la relación entre dos de los principales actores del Mercosur, cuyas diferencias ideológicas y personales han escalado en los últimos meses, impactando en la dinámica del bloque. El rol del Papa, si bien simbólico, busca un terreno común para el diálogo.\n\nPara Panorama.ar, esta situación expone la necesidad de una política exterior pragmática que priorice los intereses nacionales y la estabilidad regional sobre las divisiones ideológicas, sin ceder en principios fundamentales. La \"casta\" política, que suele operar bajo lógicas clientelares, a menudo subestima la importancia de estas relaciones. La pregunta es si la intervención de terceros logrará un diálogo constructivo o si las posturas irreductibles de ambos líderes seguirán afectando la cooperación y el comercio. ¿Es viable una verdadera reconciliación o solo un cese al fuego temporal?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-lula-diplomacia-uruguaya-dialogo-brasil",
-    "fecha": "2026-08-10",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La Selección Argentina de Vóley: ¿Otro golpe a Brasil y orgullo nacional?",
-    "bajada": "Argentina se consagra campeón sudamericano de vóleibol masculino, reafirmando su supremacía regional.",
-    "cuerpo": "La victoria de la Selección Argentina de Vóleibol sobre Brasil en la Copa Sudamericana no solo significa un título más, sino que reafirma la competitividad y el talento deportivo de nuestro país en una disciplina clave. Derrotar al clásico rival siempre tiene un gusto especial, y este triunfo, que además otorga una importante clasificación, genera un merecido orgullo nacional. Este logro contrasta con la visión de quienes creen que el Estado no debe invertir en deporte de alto rendimiento, demostrando que con gestión y esfuerzo, los resultados llegan.\n\nMientras la \"casta\" política discute sobre subsidios y burocracia, estos jóvenes demuestran con creces lo que se puede lograr con dedicación y disciplina. Los atletas, a menudo olvidados, ponen en alto la bandera argentina en el escenario continental. ¿Este éxito es el resultado de una política deportiva integral o de esfuerzos individuales y un liderazgo excepcional que merecen más apoyo sin la injerencia política habitual?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "2 min",
-    "slug": "seleccion-argentina-voley-otro-golpe-a-brasil-orgullo-nacional",
-    "fecha": "2026-08-10",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Basquet Femenino: ¿Argentina otra vez campeona, la \"casta\" lo celebra?",
-    "bajada": "La Selección Argentina de Básquet Femenino revalida su título sudamericano con una victoria contundente.",
-    "cuerpo": "La Selección Argentina de Básquet Femenino se alzó nuevamente con el Sudamericano, demostrando un dominio que debería ser ejemplo en otros ámbitos nacionales. Con un marcador de 53-44 ante Venezuela, nuestras atletas confirman que la disciplina, el trabajo en equipo y el talento pueden superar cualquier obstáculo, incluso la falta de recursos que a menudo afecta al deporte femenino. Este bicampeonato es un faro de éxito que el país debería observar.\n\nMientras la \"casta\" política sigue en sus eternas disputas, ignorando las verdaderas necesidades, estos logros deportivos son un reflejo de lo que se puede construir con verdadera dedicación. ¿Se dará el apoyo necesario para que estas disciplinas sigan creciendo y no sean solo noticia esporádica? O, como es costumbre, ¿se esperará a la foto oficial para luego abandonar el compromiso real con el desarrollo deportivo y la formación de futuras campeonas?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "2 min",
-    "slug": "basquet-femenino-argentina-otra-vez-campeona-la-casta-lo-celebra",
-    "fecha": "2026-08-10",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Comercio con China: ¿Oportunidad para Argentina frente a crisis de Brasil?",
-    "bajada": "Brasil se acerca al límite de su cuota de exportación a China, abriendo una ventana para Argentina en el mercado asiático.",
-    "cuerpo": "La inminente situación de Brasil al agotar su cuota de exportación a China representa una oportunidad estratégica para Argentina, especialmente en el sector agroindustrial. Mientras nuestro vecino gigante enfrenta limitaciones, Argentina podría posicionarse para incrementar sus envíos al apetitoso mercado chino, un movimiento crucial para la generación de divisas y el impulso de nuestra economía. Esta ventana comercial exige agilidad y pragmatismo del sector público para eliminar trabas burocráticas y facilitar la exportación, en lugar de seguir las lógicas de la \"casta\" que frena la producción.\n\nEsta situación pone de manifiesto la importancia de una política comercial externa activa y diversificada, que no dependa exclusivamente de alianzas ideológicas. Panorama.ar siempre ha defendido la apertura de mercados y la eliminación de la pesada mano del Estado sobre los productores. ¿Podrá Argentina, con su potencial productivo, capitalizar efectivamente esta coyuntura o las intervenciones y la presión impositiva seguirán erosionando nuestra competitividad en un mercado global?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "comercio-con-china-oportunidad-argentina-frente-crisis-brasil",
-    "fecha": "2026-08-10",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La Argentina de luto: El adiós a Jorge Messi y el legado de un apellido",
-    "bajada": "La partida del padre de Lionel Messi conmueve a un país que lo despide en la intimidad, mientras su figura se erige como pilar de una historia de éxito global.",
-    "cuerpo": "La noticia del fallecimiento de Jorge Messi, padre y primer impulsor de la carrera de Lionel, ha resonado profundamente en Argentina. Más allá del ámbito familiar, la figura de Jorge representa la tenacidad y el sacrificio que a menudo quedan en las sombras, pero que son esenciales para forjar a un ídolo de la magnitud de su hijo. Su partida invita a reflexionar sobre el rol de las familias detrás de los grandes talentos y el impacto cultural que trasciende el deporte.\n\nEste evento no es solo una despedida personal; es un recordatorio de los orígenes y los cimientos de una de las figuras más importantes de la historia argentina. En un país que tanto valora el fútbol y a sus héroes, la vida y obra de Jorge Messi encapsulan una narrativa de esfuerzo y respaldo incondicional. ¿Es el apoyo familiar el motor fundamental que impulsa a nuestros talentos a la cima, o la sociedad solo ve el resultado final sin dimensionar el camino?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "la-argentina-de-luto-el-adios-a-jorge-messi-y-el-legado-de-un-apellido",
-    "fecha": "2026-08-10",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Educación: ¿Un mes perdido por año condena el futuro argentino?",
-    "bajada": "Alarmante: la mitad de los estudiantes secundarios pierden un mes de clases anual, un síntoma de la decadencia educativa que hipoteca generaciones.",
-    "cuerpo": "La educación argentina enfrenta una crisis silenciosa pero devastadora. Que uno de cada dos estudiantes secundarios acumule un mes de clases perdidas al año no es solo una estadística, es la crónica de un futuro comprometido. Este flagelo, exacerbado por factores como paros docentes, infraestructura deficiente y sistemas de evaluación obsoletos, revela la incapacidad del Estado para garantizar un derecho fundamental y preparar a los jóvenes para un mercado laboral cada vez más exigente.\n\nMientras se debate la calidad educativa, los datos de Infobae exponen una realidad ineludible: la falta de continuidad pedagógica genera lagunas de aprendizaje irrecuperables, incrementando la deserción y la desigualdad. ¿Es esta una prioridad real para nuestra clase política, o simplemente un tema más en la agenda coyuntural? La inversión en educación y una política clara que priorice la presencialidad y la excelencia son urgentes para romper este ciclo de atraso. ¿Estamos condenando a una generación a la irrelevancia al no garantizarles una educación de calidad y continuidad?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "educacion-un-mes-perdido-por-ano-condena-el-futuro-argentino",
-    "fecha": "2026-08-10",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Consumo: ¿Por qué Argentina es el más caro de América Latina?",
-    "bajada": "Precios exorbitantes en rubros clave revelan una estructura económica asfixiante que penaliza al consumidor y frena el desarrollo.",
-    "cuerpo": "Argentina ostenta un triste récord: es el país más caro de América Latina en al menos tres rubros clave de consumo. Este fenómeno, lejos de ser casualidad, es consecuencia directa de décadas de políticas económicas erráticas, alta presión impositiva, burocracia desmedida y una competencia distorsionada por la intervención estatal. Los argentinos, con salarios que no acompañan la inflación, ven su poder adquisitivo pulverizado, forzados a pagar precios de primer mundo con ingresos de economías subdesarrolladas.\n\nInfobae detalla cómo la carga fiscal sobre la producción y la comercialización se traslada directamente al precio final, haciendo que bienes y servicios esenciales sean inaccesibles para gran parte de la población. Mientras el consumo se contrae, el debate sobre el rol del Estado y la necesidad de una profunda reforma estructural se vuelve imperativo. ¿Podremos alguna vez competir y ofrecer precios justos si no desmantelamos la red de distorsiones que encarece cada producto y servicio en nuestro país?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "consumo-por-que-argentina-es-el-mas-caro-de-america-latina",
-    "fecha": "2026-08-10",
-    "imagen": "img/economia_3.png",
     "destacada": false
   }
 ]
