@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Terremoto en Colombia: Argentina, ¿solidaridad genuina o gesto político?",
+    "bajada": "Tras la tragedia en Bogotá, el Gobierno argentino ofreció ayuda humanitaria, pero surge la pregunta sobre las prioridades nacionales.",
+    "cuerpo": "La noticia del terremoto en Colombia, específicamente en Bogotá, conmovió a la región. El gobierno argentino, a través de Quirno, no tardó en ofrecer asistencia humanitaria y confirmar la ausencia de víctimas argentinas. Este gesto es loable en términos de cooperación internacional, mostrando la capacidad de respuesta del país ante catástrofes externas. Sin embargo, la rapidez y la difusión de esta oferta plantean un interrogante: ¿refleja una genuina preocupación por la ayuda externa o busca consolidar una imagen internacional mientras persisten urgencias internas? Es crucial equilibrar la solidaridad global con las necesidades apremiantes que enfrentan los propios ciudadanos, desde crisis económicas hasta deficiencias en infraestructura. ¿Hasta qué punto un país con sus propios desafíos puede extender recursos significativos a otros sin generar un debate sobre la asignación de prioridades?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "terremoto-colombia-argentina-solidaridad-prioridad",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Tras Colombia: ¿Está Argentina preparada para un terremoto?",
+    "bajada": "Expertos advierten sobre la posibilidad de sismos en Argentina, generando preocupación sobre la infraestructura y la gestión de riesgos.",
+    "cuerpo": "El reciente terremoto en Colombia ha puesto en alerta a la región, y expertos en sismología ya debaten la posibilidad de eventos similares en Argentina. Este análisis no es menor: nuestro país posee zonas con actividad sísmica considerable, y la calidad de la infraestructura es un factor crítico para mitigar daños y salvar vidas. La preparación y prevención deben ser una prioridad ineludible. La pregunta sobre la resiliencia argentina ante un desastre natural de gran escala revela las falencias históricas en inversión pública. Mientras se discute la ayuda externa, es imperativo revisar el estado de las construcciones, los protocolos de emergencia y la educación ciudadana. No se trata solo de la respuesta post-desastre, sino de la capacidad de anticipación de un Estado que históricamente ha sido reactivo. ¿Estamos invirtiendo lo suficiente en seguridad edilicia y planes de contingencia, o el riesgo de un sismo al estilo Colombia es una preocupación aún subestimada por la política?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "esta-argentina-preparada-terremoto-colombia",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Copa Argentina: ¿negocio millonario o pasión que sangra?",
+    "bajada": "La llave de octavos de final de la Copa Argentina genera expectativas, pero el negocio detrás del fútbol levanta sospechas.",
+    "cuerpo": "La Copa Argentina avanza con sus partidos de octavos de final, encendiendo la pasión de los hinchas y moviendo millones en la industria futbolística. Sin embargo, detrás del espectáculo deportivo, se esconde una maquinaria económica que, en ocasiones, parece priorizar el lucro por encima de la transparencia y la experiencia del aficionado. Los costos asociados, desde las entradas hasta la logística para los clubes, son un reflejo de esta compleja ecuación. Desde el punto de vista liberal, el fútbol, como cualquier actividad, debe funcionar con reglas claras y sin distorsiones, lejos de la intervención que muchas veces lo ha manchado en el país. La gestión de la Conmebol y de las federaciones locales es constantemente cuestionada por manejos discrecionales y la falta de rendición de cuentas, afectando la confianza en la competencia y en sus actores. Nombres como San Lorenzo u otros equipos populares también se ven envueltos en esta dinámica. ¿Es la Copa Argentina un motor de desarrollo o un circo que desvía la atención de los verdaderos problemas estructurales del deporte y de la economía nacional?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "copa-argentina-negocio-millonario-o-pasion-sangra",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Copa Argentina: Tello y la polémica, ¿fin de la 'casta' arbitral?",
+    "bajada": "El retorno de Facundo Tello a la Copa Argentina reabre el debate sobre la imparcialidad y la transparencia en el arbitraje argentino.",
+    "cuerpo": "Facundo Tello, árbitro de trayectoria internacional, volverá a dirigir en la Copa Argentina, y su regreso reaviva una discusión recurrente en el fútbol local: la calidad y la imparcialidad del arbitraje. En un deporte donde cada decisión puede definir un resultado y mover millones, la figura del referí es central y, a menudo, foco de controversias. ¿Son los árbitros parte de una 'casta' intocable, o la profesionalización y la transparencia están llegando? Desde la perspectiva de la autonomía y el rigor, es fundamental que el arbitraje se maneje con criterios meritocráticos y una fiscalización implacable, lejos de cualquier sospecha de favoritismo o presiones. Las recurrentes quejas de clubes como San Lorenzo o Independiente Santa Fe (en otras competencias) y de los aficionados reflejan una profunda desconfianza en el sistema, que socava la credibilidad del espectáculo. La tecnología, si bien ayuda, no reemplaza la necesidad de una gestión proba. ¿Qué medidas concretas se están tomando para garantizar un arbitraje transparente en la Copa Argentina y desterrar la sombra de la sospecha que tanto daña al fútbol argentino?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "copa-argentina-tello-polemica-fin-casta-arbitral",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Vaca Muerta: ¿El motor energético que Metrogas y la 'casta' frenan?",
+    "bajada": "Los récords de Vaca Muerta demuestran un potencial exportador, pero la regulación y la ineficiencia estatal limitan su explosión.",
+    "cuerpo": "Vaca Muerta, el yacimiento de shale oil y gas, sigue batiendo récords de producción, acercando a Argentina al 1% del total mundial. Este dato es crucial y expone el inmenso potencial del sector energético para generar divisas y desarrollo. Sin embargo, el camino hacia la plena explotación está plagado de obstáculos burocráticos y una regulación estatal que, en lugar de facilitar, a menudo frena la inversión y la eficiencia. Empresas como Metrogas y otras distribuidoras también sufren las consecuencias de una matriz energética desorganizada. La visión liberal es clara: es indispensable desregular, eliminar la pesada mano del Estado sobre el sector y garantizar previsibilidad jurídica para atraer las inversiones necesarias. La 'casta' política, con su apego a subsidios distorsivos y controles de precios, ha impedido que Vaca Muerta alcance su verdadera magnitud, condenando al país a una dependencia energética evitable y postergando el crecimiento económico. La exportación de energía no debe ser un espejismo, sino una realidad palpable. ¿Será Vaca Muerta finalmente liberada de las ataduras estatales, o seguirá siendo un gigante dormido por la ineficiencia política y la falta de visión a largo plazo, impactando incluso a usuarios de servicios como Metrogas?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "vaca-muerta-motor-energetico-metrogas-casta-frenan",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Galperin vs. Pymes: El consumo, ¿un debate que Manuel Adorni debe liderar?",
+    "bajada": "La disputa entre Marcos Galperin y CAME por las cifras de consumo expone una grieta profunda en la economía real argentina.",
+    "cuerpo": "El cruce entre Marcos Galperin, CEO de Mercado Libre, y la CAME (Confederación Argentina de la Mediana Empresa) por las cifras de consumo es más que una simple discusión: revela las tensiones estructurales de la economía argentina. Mientras Galperin señala un crecimiento en el e-commerce, CAME subraya las dificultades de las pymes tradicionales. Esta divergencia no solo evidencia la transformación del mercado, sino también la fragilidad de un sector productivo agobiado por la presión impositiva y la incertidumbre. Desde una perspectiva de centro-derecha, es fundamental que el Estado intervenga lo menos posible, pero que garantice un marco de competencia justo y fomente la baja de impuestos y la desburocratización para que las pymes puedan prosperar. La voz del vocero presidencial, Manuel Adorni, debería ser contundente en la defensa de la libertad de mercado y en la crítica a las cargas que asfixian a los pequeños y medianos empresarios, muchas veces ignoradas por la 'casta' política. ¿Se reducirá esta disputa a un mero intercambio de comunicados, o el gobierno, a través de figuras como Manuel Adorni, tomará medidas concretas para aliviar la carga de las pymes y estimular un consumo más libre y dinámico?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "galperin-pymes-consumo-debate-adorni-liderar",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Papa León XIV: ¿Desafío político o distracción en la Argentina de Pagano?",
+    "bajada": "La inminente visita de León XIV a Argentina genera expectativas religiosas, pero también un profundo análisis sobre su impacto en la polarizada política local.",
+    "cuerpo": "La histórica visita del Papa León XIV a Argentina para noviembre se presenta como un evento de gran trascendencia religiosa y social. Sin embargo, en un país marcado por profundas divisiones políticas, su llegada inevitablemente se convierte en un 'desafío para la política', como lo plantea Infobae. Los discursos y gestos papales serán analizados bajo la lupa de la 'grieta', y la clase dirigente, desde figuras como Pagano hasta Colombo, buscará capitalizar o neutralizar su mensaje. Desde una visión liberal, la separación entre Iglesia y Estado debe ser clara, y la atención no debe desviarse de los problemas estructurales que aquejan a la sociedad. Es crucial evitar que el evento se transforme en un circo mediático o en una oportunidad para la 'casta' política de desviar la atención de la crisis económica y social, o para justificar un gasto público excesivo en su organización. La libertad de culto es un derecho, pero la instrumentalización política es un riesgo. ¿Logrará la visita de León XIV elevar el nivel del debate público o se convertirá en una oportunidad más para la polarización y la distracción de los problemas reales que la política, con figuras como Pagano, debe enfrentar con urgencia?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "papa-leon-xiv-desafio-politico-distraccion-pagano",
+    "fecha": "2026-08-11",
+    "imagen": "img/politica_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Renace la esperanza en River con la llegada de Almada?",
     "bajada": "El esperado arribo de Thiago Almada a River genera debate: ¿inversión estratégica o gasto excesivo para un club con desafíos económicos?",
     "cuerpo": "La llegada de Thiago Almada a River Plate ha encendido el entusiasmo de los hinchas y el debate en el ambiente futbolístico. Mientras la dirigencia lo presenta como una pieza clave para futuras glorias, voces críticas se preguntan si esta inversión millonaria es sostenible en el actual contexto económico del país y del propio club. ¿Estamos ante una apuesta audaz por el éxito deportivo o un movimiento que compromete la ya delicada salud financiera?\n\nLa danza de millones en el fútbol argentino a menudo contrasta con la realidad de otros sectores productivos que luchan por salir adelante. ¿Es el fútbol una burbuja inmune a la austeridad, o debería también reflejar la disciplina fiscal que se exige en otras áreas? El impacto en las finanzas de River será un termómetro para evaluar si este tipo de fichajes realmente rentabiliza a largo plazo, más allá del fervor inicial de la hinchada.\n\n¿Hasta qué punto el espectáculo deportivo justifica erogaciones que superan ampliamente las posibilidades de la economía real, distorsionando prioridades y generando debates sobre la asignación de recursos en un país con tantas necesidades?",
@@ -21,7 +105,7 @@
     "slug": "advertencia-rumbo-economico-caida-activos-argentinos",
     "fecha": "2026-08-10",
     "imagen": "img/economia_4.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Consumo y pymes en crisis: ¿Quién defiende el mercado libre?",
@@ -201,90 +285,6 @@
     "slug": "consumo-por-que-argentina-es-el-mas-caro-de-america-latina",
     "fecha": "2026-08-10",
     "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Deuda: ¿La mora que se quintuplicó es el espejo de la crisis argentina?",
-    "bajada": "La deuda de los argentinos se disparó, revelando la vulnerabilidad financiera de los hogares frente a la inestabilidad económica y la ausencia de previsibilidad.",
-    "cuerpo": "La mora total de los argentinos se quintuplicó en solo 18 meses, alcanzando más del 30% fuera del sistema bancario formal. Esta cifra alarmante, publicada por La Nación, es un termómetro ineludible de la grave crisis económica que golpea a las familias y pymes. El aumento exponencial del endeudamiento y la dificultad para afrontar los pagos son el resultado directo de la inflación galopante, la caída del poder adquisitivo y la falta de oportunidades genuinas que el sector productivo no logra generar bajo la presión impositiva y regulatoria.\n\nMientras el gobierno de turno intenta estabilizar la macroeconomía, la realidad microeconómica muestra un tejido social y productivo cada vez más frágil. La incapacidad de acceder a crédito formal empuja a muchos a fuentes de financiamiento más costosas y riesgosas, agravando aún más su situación. ¿Es este un síntoma de la ineficacia de las políticas actuales para reactivar la economía real o una muestra más de las consecuencias de la intervención estatal crónica en el mercado?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "deuda-la-mora-que-se-quintuplico-es-el-espejo-de-la-crisis-argentina",
-    "fecha": "2026-08-10",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vaca Muerta: ¿El 1% mundial de petróleo es suficiente para despegar?",
-    "bajada": "Récords de Vaca Muerta nos acercan a ser un actor relevante en el mercado petrolero global, pero la burocracia y la inestabilidad aún frenan el despegue definitivo.",
-    "cuerpo": "Los récords de producción en Vaca Muerta posicionan a Argentina más cerca de alcanzar el 1% de la producción petrolera mundial, un hito que, según Infobae, podría transformar radicalmente nuestra matriz energética y económica. Esta formidable reserva de recursos no convencionales representa una oportunidad histórica para atraer inversiones, generar empleo y consolidar la independencia energética del país. Sin embargo, el camino hacia la plena explotación está sembrado de desafíos que la \"casta\" política no siempre atiende.\n\nLa persistente inestabilidad regulatoria, la presión impositiva y las barreras burocráticas siguen siendo obstáculos significativos para el desarrollo de su máximo potencial. Mientras el mundo demanda energía, Argentina tiene la posibilidad de convertirse en un exportador neto, pero esto requiere un marco legal y económico previsible y atractivo para el capital privado. ¿Estamos los argentinos dispuestos a liberar el potencial de Vaca Muerta o permitiremos que la ineficiencia estatal diluya esta ventaja estratégica?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "vaca-muerta-el-1-mundial-de-petroleo-es-suficiente-para-despegar",
-    "fecha": "2026-08-10",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Malvinas y petróleo: ¿Un saqueo silencioso mientras miramos?",
-    "bajada": "El petróleo de Malvinas, una riqueza estratégica que se explota sin freno, pone en evidencia la fragilidad de nuestra soberanía y la pasividad de la dirigencia.",
-    "cuerpo": "Página|12 advierte sobre el \"saqueo\" del petróleo en Malvinas, un recurso estratégico que se explota impunemente mientras Argentina lucha por recuperar la soberanía de las islas. La extracción de hidrocarburos por parte de empresas extranjeras en nuestra plataforma continental es un golpe tanto a nuestro patrimonio natural como a nuestra dignidad nacional. Este expolio silencioso no solo priva al país de vastas riquezas energéticas, sino que también consolida la presencia británica y debilita nuestra posición en el reclamo.\n\nLa inacción efectiva de la política exterior argentina a lo largo de décadas ha permitido esta situación. Más allá de los discursos grandilocuentes, la realidad es que la riqueza submarina de Malvinas se escurre sin que se implementen medidas contundentes que detengan este proceso. ¿Hasta cuándo permitiremos este \"saqueo\" de nuestros recursos en Malvinas? ¿O es que nuestra dirigencia solo se conforma con el lamento estéril mientras los hechos consumados erosionan nuestra soberanía?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "malvinas-y-petroleo-un-saqueo-silencioso-mientras-miramos",
-    "fecha": "2026-08-10",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vóley: ¿Otro triunfo argentino oculto tras el fútbol?",
-    "bajada": "La Selección Argentina de Vóleibol se consagró campeona sudamericana venciendo a Brasil, un logro que demuestra el potencial deportivo más allá del fútbol.",
-    "cuerpo": "Mientras la atención de las redes suele acaparar los debates futbolísticos con tendencias como #SanLorenzo o #River, la Selección Argentina de Vóleibol femenino nos dio otra alegría al consagrarse campeona sudamericana tras vencer a Brasil. Este triunfo, destacado por DeporTV y Clarín, no es menor: representa el esfuerzo, la disciplina y el talento de un equipo que, con menos reflectores, sigue cosechando éxitos y elevando el nombre de Argentina en el plano internacional. Es un recordatorio de que nuestro país es una potencia deportiva integral.\n\nLa victoria sobre el clásico rival, Brasil, es un mérito adicional que subraya la calidad de nuestros atletas y entrenadores. En un contexto donde el éxito deportivo a menudo se mide solo por los resultados en el fútbol, estos logros en otras disciplinas merecen un reconocimiento equitativo. ¿Es la sociedad argentina demasiado futbolera, a tal punto de opacar otras proezas deportivas nacionales? ¿Cómo podemos fomentar un mayor aprecio por la diversidad de talentos que nos representan con orgullo?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "voley-otro-triunfo-argentino-oculto-tras-el-futbol",
-    "fecha": "2026-08-10",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Consumo: ¿Quién miente en Argentina? Galperín vs. la burocracia.",
-    "bajada": "Los datos oficiales chocan con la realidad del mercado y la visión de un empresario clave.",
-    "cuerpo": "La discusión sobre el consumo en Argentina escala, con Marcos Galperín, CEO de Mercado Libre, desafiando públicamente las cifras presentadas por una entidad empresaria que sugiere una recuperación. Mientras algunos sectores celebran repuntes marginales, la visión desde la economía real, a menudo ligada a la actividad privada y la innovación, pinta un panorama distinto. Esta disparidad no es menor: refleja la constante tensión entre narrativas estatales o corporativas y la experiencia diaria de millones de argentinos. La intervención de figuras como Galperín pone en relieve la necesidad de datos transparentes y un análisis despojado de intereses políticos o sectoriales. ¿Es el consumo un termómetro fiel de la salud económica o una herramienta más en la batalla de los relatos? ¿Estamos realmente ante una recuperación genuina o es solo un espejismo para justificar políticas? ¿Qué datos deberían priorizarse para entender la verdadera situación de los hogares argentinos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "consumo-quien-miente-en-argentina-galperin-vs-burocracia",
-    "fecha": "2026-08-10",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei vs. Brasil: ¿Diplomacia o confrontación innecesaria?",
-    "bajada": "La relación con nuestro socio estratégico, al límite. ¿Hay una estrategia o pura improvisación?",
-    "cuerpo": "La tensión diplomática entre Argentina y Brasil ha escalado a niveles críticos, con el retiro del embajador argentino y declaraciones cruzadas que congelan el vínculo bilateral. Mientras el gobierno brasileño, a través de su canciller Mauro Vieira, exige el cese de \"agresiones\" para normalizar la relación, desde Buenos Aires se defiende una postura de soberanía y crítica a la injerencia externa. Esta escalada, lejos de ser un incidente aislado, refleja la nueva política exterior del gobierno de Milei, que prioriza una agenda ideológica sobre el pragmatismo regional. La pregunta clave es si esta estrategia de confrontación beneficia o perjudica los intereses nacionales, especialmente en un contexto económico complejo donde la estabilidad regional es un activo invaluable. ¿Es el distanciamiento de Brasil un paso hacia una mayor libertad o una autoimposición de aislamiento regional? ¿Estamos dispuestos a pagar el costo de una \"diplomacia ideológica\" en términos económicos y políticos?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "milei-vs-brasil-diplomacia-o-confrontacion-innecesaria",
-    "fecha": "2026-08-10",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vaca Muerta: ¿El motor que Argentina necesita o un espejismo?",
-    "bajada": "Los récords de producción en la megacuenca reavivan la esperanza, pero ¿superaremos la burocracia y la inestabilidad?",
-    "cuerpo": "Vaca Muerta vuelve a ser noticia con récords de producción que posicionan a Argentina más cerca del 1% de la producción petrolera mundial y rozando el millón de barriles diarios. Esta megacuenca representa una oportunidad histórica para el desarrollo económico del país, atrayendo inversiones y prometiendo divisas frescas. Sin embargo, la historia argentina está plagada de promesas incumplidas en materia energética. La clave del éxito no reside solo en el potencial del subsuelo, sino en un marco regulatorio estable, políticas de inversión claras y una reducción de la presión impositiva que aliente la llegada de capitales y tecnología. La \"promesa argentina\" del petróleo solo se hará realidad si el Estado desarticula las trabas burocráticas y permite al sector privado operar con previsibilidad. ¿Estamos finalmente en camino a explotar nuestro verdadero potencial energético o Vaca Muerta será otra víctima de la inestabilidad y la intervención estatal? ¿Cuándo veremos una política energética de largo plazo?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "vaca-muerta-el-motor-que-argentina-necesita-o-espejismo",
-    "fecha": "2026-08-10",
-    "imagen": "img/economia_4.png",
     "destacada": false
   }
 ]
