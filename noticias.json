@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Solidaridad efectiva o gesto político? Milei y la ayuda a Colombia",
+    "bajada": "La respuesta oficial argentina tras el sismo en el país vecino genera debate sobre prioridades y eficiencia estatal.",
+    "cuerpo": "El gobierno de Milei ha formalizado su ofrecimiento de ayuda humanitaria a Colombia tras el reciente terremoto, con la confirmación de Quirno de que no hay víctimas argentinas. Mientras el gesto de solidaridad internacional es bienvenido, la oportunidad para reflexionar sobre la capacidad del Estado argentino para gestionar crisis externas e internas se vuelve ineludible. ¿Está Argentina realmente en posición de ofrecer asistencia significativa o se trata de una movida más orientada a la agenda exterior?\n\nLa administración actual se ha caracterizado por un discurso de austeridad y eficiencia. En este contexto, cada asignación de recursos, incluso para fines humanitarios, debe ser evaluada bajo la lupa de la disciplina fiscal. ¿Cómo se articula esta ayuda con las urgencias sociales y económicas que aún persisten a nivel nacional? Es crucial que la transparencia sobre los recursos destinados y los mecanismos de implementación acompañe este tipo de iniciativas, evitando desvíos o ineficiencias que la \"casta\" solía capitalizar.\n\nLa tragedia en Colombia nos interpela sobre la preparación ante catástrofes. Más allá de la ayuda externa, ¿qué se está haciendo para asegurar que Argentina misma tenga los protocolos y recursos para proteger a sus ciudadanos? ¿Estamos construyendo un Estado robusto o uno que solo reacciona con gestos frente a la crisis ajena, mientras las propias debilidades estructurales se postergan?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "solidaridad-efectiva-o-gesto-politico-milei-y-la-ayuda-a-colombia",
+    "fecha": "2026-08-11",
+    "imagen": "img/politica_5.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿Estamos preparados? Terremoto en Colombia enciende alarmas en Argentina",
+    "bajada": "Expertos advierten sobre la posibilidad sísmica en el país, impulsando un debate urgente sobre prevención y respuesta estatal.",
+    "cuerpo": "El reciente y devastador terremoto en Colombia ha puesto en relieve la vulnerabilidad sísmica de varias regiones sudamericanas, incluida Argentina. Expertos locales están analizando la posibilidad de eventos similares en nuestro territorio, lo que debería generar una discusión seria sobre la preparación y las políticas públicas de prevención. Más allá del fatalismo, ¿qué medidas concretas está tomando el Estado para proteger a la población y la infraestructura crítica?\n\nHistóricamente, la inversión en infraestructura antisísmica y la educación en prevención han sido insuficientes en comparación con la magnitud del riesgo en ciertas provincias. En un contexto de austeridad, es vital discernir si los recursos se están destinando de manera eficiente a áreas realmente críticas, o si la \"casta\" política sigue priorizando gastos superflúos. La prevención de desastres no es un gasto, sino una inversión estratégica que evita costos mucho mayores en vidas humanas y reconstrucción.\n\nLa comparación con experiencias como la de Colombia y Venezuela debe servir como un llamado de atención. ¿Tenemos los protocolos de emergencia adecuados? ¿Hay suficiente inversión en sistemas de alerta temprana y en la capacitación de equipos de rescate? Es hora de un plan integral, lejos de la improvisación y la burocracia, para asegurar que la tragedia ajena no se replique en casa por falta de previsión.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "estamos-preparados-terremoto-en-colombia-enciende-alarmas-en-argentina",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Adiós a la gratuidad: ¿Pagarán extranjeros la salud pública?",
+    "bajada": "El Gobierno oficializa el cobro de la atención médica a no residentes, una medida que busca poner fin a la sangría de recursos estatales.",
+    "cuerpo": "La decisión del Gobierno de cobrar la atención médica a extranjeros no residentes en hospitales públicos marca un punto de inflexión. Esta medida, largamente reclamada por sectores que denuncian el uso abusivo de un sistema financiado por contribuyentes argentinos, busca restaurar la equidad y la sostenibilidad fiscal. La gratuidad universal, sin distinción de residencia, se ha convertido en una carga insostenible para un sistema de salud ya precarizado, desviando recursos que podrían destinarse a mejorar la calidad de vida de los ciudadanos que sí aportan al erario.\n\nLa polémica rodea la implementación, con críticas que apuntan a una supuesta falta de humanidad. Sin embargo, ¿es humano exigir a los ciudadanos que financien servicios para quienes no contribuyen al sistema? Los datos sobre el impacto fiscal de la atención a no residentes son contundentes y exigen una acción directa. La \"casta\" política anterior prefirió eludir este debate, perpetuando un modelo que agotaba los recursos y desprotegía a los propios. Esta reforma apunta a la eficiencia y a la reasignación de fondos para quienes realmente lo necesitan y lo financian.\n\nAhora, el desafío será asegurar una implementación justa y clara, evitando burocracia excesiva y garantizando que la recaudación se reinvierta efectivamente en el sistema de salud. ¿Se logrará realmente un ahorro significativo y una mejora en la atención para los argentinos, o se diluirá la medida en la ineficiencia estatal? El debate sobre la responsabilidad social y la gestión de los recursos públicos está más vivo que nunca.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "adios-a-la-gratuidad-pagaran-extranjeros-la-salud-publica",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Bolsa sube, Riesgo País escala: ¿Estabilidad o espejismo económico?",
+    "bajada": "Mientras la bolsa da una señal de alivio, el persistente aumento del Riesgo País genera serias dudas sobre la confianza inversora y la dirección económica.",
+    "cuerpo": "La jornada financiera en Argentina dejó un panorama contradictorio: la bolsa local interrumpió una racha bajista, pero el Riesgo País, un indicador clave de la percepción de riesgo de impago, escaló por quinto día consecutivo. Este contraste evidencia la fragilidad de la macroeconomía argentina. ¿Puede hablarse de recuperación o estabilidad cuando la percepción de riesgo soberano sigue deteriorándose? La disciplina fiscal es pregonada, pero los mercados aún ven sombras.\n\nEl aumento sostenido del Riesgo País es una señal inequívoca de que los inversores internacionales mantienen reservas sobre la capacidad del Estado para cumplir con sus compromisos financieros a largo plazo. Más allá de los indicadores bursátiles de corto plazo, que pueden ser volátiles, es el riesgo soberano el que marca el pulso de la inversión productiva y el acceso al crédito. La \"casta\" política, con su historial de desmanejo y endeudamiento, ha dejado una herencia pesada que el actual gobierno lucha por revertir.\n\nLa pregunta es si las reformas anunciadas y la austeridad implementada son suficientes para revertir esta tendencia negativa de fondo. El gobierno de Manuel Adorni y su equipo económico enfrentan el desafío de generar confianza no solo con el discurso, sino con hechos tangibles que aseguren un sendero de sostenibilidad fiscal y crecimiento real, alejado de los parches y la emisión monetaria que caracterizaron a gestiones anteriores. ¿Cuándo veremos una señal clara y sostenida de mejora en los indicadores macroeconómicos fundamentales?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "bolsa-sube-riesgo-pais-escala-estabilidad-o-espejismo-economico",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El dólar en la mira: ¿Hacia dónde va la economía argentina?",
+    "bajada": "La cotización del dólar blue, termómetro de la desconfianza, sigue siendo un factor crucial en la economía real argentina, influyendo en precios y expectativas.",
+    "cuerpo": "La cotización del dólar, especialmente la del blue, permanece como uno de los principales focos de atención y preocupación en la economía argentina. Cada fluctuación impacta directamente en los precios, las decisiones de inversión y el poder adquisitivo de los ciudadanos. Lejos de ser una mera cifra, el valor del dólar es un reflejo de la confianza en la política económica del gobierno y la persistencia de las distorsiones estructurales que la \"casta\" ha dejado. ¿Logrará la administración actual domar la inflación y estabilizar la moneda sin recurrir a viejas recetas intervencionistas?\n\nEl mercado paralelo es, para muchos, el verdadero pulso de la economía, desprovisto de los cepos y regulaciones que distorsionan el mercado oficial. Si bien el gobierno de Manuel Adorni insiste en la desregulación y la disciplina fiscal como antídotos, la inercia inflacionaria y las expectativas aún volátiles plantean un desafío enorme. La escasez de divisas y la persistente emisión monetaria en gestiones pasadas son los fantasmas que aún persiguen la estabilidad cambiaria.\n\nMientras tanto, la población intenta proteger sus ahorros frente a una moneda nacional que pierde valor. ¿Hasta cuándo se mantendrá esta dinámica de incertidumbre? ¿Se implementarán las reformas de fondo necesarias para dotar a la Argentina de una moneda sólida y predecible, o seguiremos atados a la montaña rusa cambiaria que beneficia a pocos y empobrece a muchos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "el-dolar-en-la-mira-hacia-donde-va-la-economia-argentina",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: ¿Un país de pobres y empobrecidos? Las cifras que duelen",
+    "bajada": "Un contundente informe revela que casi el 80% de los hogares argentinos se ubican en la clase baja y media baja, exponiendo la cruda realidad social.",
+    "cuerpo": "Las últimas cifras sobre la composición socioeconómica de Argentina son alarmantes: un 78% de los hogares se clasifican en la clase baja y media baja. Este dato no es solo una estadística; es el reflejo de décadas de populismo, intervencionismo estatal y políticas económicas erráticas que han destruido el tejido productivo y el poder adquisitivo de la clase media. La \"casta\" política, con su voracidad fiscal y su gasto descontrolado, ha generado un país donde la prosperidad es la excepción, no la regla.\n\nLa radiografía de ingresos por segmento expone la urgencia de reformas estructurales profundas. ¿Es posible reconstruir una clase media robusta y aspiracional con la actual presión impositiva y un Estado elefantiásico que ahoga la iniciativa privada? El argumento de la redistribución, utilizado por gobiernos anteriores para justificar la expropiación de la riqueza, ha terminado por distribuir la pobreza y empobrecer a quienes alguna vez tuvieron capacidad de ahorro y ascenso social.\n\nEl desafío del actual gobierno es monumental: revertir esta tendencia y liberar las fuerzas productivas para generar riqueza real y oportunidades. Esto implica reducir drásticamente el gasto público, eliminar trabas burocráticas y garantizar la seguridad jurídica. ¿Se atreverá la administración a ir hasta el fondo con las reformas necesarias para que Argentina deje de ser un país donde la mayoría lucha por llegar a fin de mes?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-un-pais-de-pobres-y-empobrecidos-las-cifras-que-duelen",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Consumo en picada: ¿Pymes versus gigantes o un problema estructural?",
+    "bajada": "La tensión entre pequeñas y medianas empresas y actores como Marcos Galperin de Mercado Libre, revela un consumo retraído y una economía con serias distorsiones.",
+    "cuerpo": "El panorama del consumo en Argentina es preocupante, y la reciente disputa entre pymes y figuras como Marcos Galperin de Mercado Libre, lejos de ser un mero conflicto entre David y Goliat, expone un problema estructural más profundo. La caída del poder adquisitivo y las asfixiantes cargas impositivas no solo impactan a las pequeñas empresas, sino que también generan un ecosistema donde la competencia justa se ve distorsionada y la innovación, frenada. ¿Es Galperin el problema, o un síntoma de un modelo económico que privilegia a pocos y castiga a la mayoría?\n\nDesde la perspectiva liberal, la burocracia estatal y la presión fiscal desproporcionada son los verdaderos enemigos del sector productivo. Mientras las pymes luchan por sobrevivir entre impuestos exorbitantes y regulaciones sofocantes, los grandes jugadores, a menudo, tienen mayor capacidad para sortear estas barreras o incluso beneficiarse de ellas. Es fundamental que el gobierno de Manuel Adorni y su equipo entiendan que un mercado sano requiere reglas claras y estables para todos, no solo para quienes tienen el músculo para negociar con el Estado.\n\nLa disputa sobre el consumo y la dinámica de mercado nos obliga a cuestionar el rol del Estado: ¿debe ser un regulador que asfixia o un facilitador que promueve la competencia leal y el crecimiento de todos los actores? ¿Se está creando un verdadero terreno fértura para la inversión y el empleo, o se siguen reproduciendo las asimetrías que terminan concentrando la riqueza y empobreciendo a los pequeños emprendedores?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "consumo-en-picada-pymes-versus-gigantes-o-un-problema-estructural",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Solidaridad efectiva? Argentina ofrece ayuda a Colombia tras el terremoto",
     "bajada": "Tras el sismo que sacudió a Bogotá, el gobierno argentino reafirma su compromiso humanitario internacional.",
     "cuerpo": "La confirmación de que Argentina ofreció asistencia a Colombia tras el terremoto de 7.4 grados genera un debate crucial. Mientras la solidaridad internacional es un pilar, la gestión de recursos en contextos de crisis interna siempre está bajo escrutinio. ¿Se priorizan adecuadamente las necesidades locales y la capacidad logística para una ayuda eficaz?\n\nLa ministra de Seguridad, Patricia Bullrich, y la canciller Diana Mondino han destacado la disposición del país para colaborar, una señal positiva en el ámbito diplomático. Sin embargo, la efectividad de esta ayuda dependerá de una coordinación eficiente y de la capacidad real del Estado para desplegar asistencia significativa sin descuidar desafíos internos.\n\nEs fundamental analizar si la ayuda es meramente simbólica o si representa un despliegue concreto y necesario. ¿Cómo garantizar que la asistencia a Colombia sea un verdadero apoyo y no una mera declaración de intenciones en un contexto de limitaciones presupuestarias?",
@@ -57,7 +141,7 @@
     "slug": "argentina-78-en-la-cuerda-floja-fracaso-de-la-casta",
     "fecha": "2026-08-11",
     "imagen": "img/economia_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "La paradoja económica: MercadoLibre crece, pero el consumidor ¿retrocede?",
@@ -201,90 +285,6 @@
     "slug": "consumo-pymes-crisis-quien-defiende-mercado-libre",
     "fecha": "2026-08-10",
     "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿F-16: ¿Defensa necesaria o gasto excesivo para Argentina?",
-    "bajada": "El imponente desfile aéreo de los F-16 reaviva el debate sobre la inversión en defensa y las prioridades del gasto público en Argentina.",
-    "cuerpo": "La celebración del 114° aniversario de la Fuerza Aérea Argentina, con el impactante sobrevuelo de los recién adquiridos aviones F-16, genera una doble lectura. Por un lado, el orgullo nacional y la modernización de las capacidades de defensa son aspectos valorados. Por otro, en un país con urgencias económicas y sociales, la magnitud de la inversión en equipamiento militar despierta cuestionamientos. ¿Es esta una prioridad ineludible para la seguridad nacional o un desvío de recursos que podrían destinarse a áreas más críticas como salud, educación o reducción del déficit?\n\nDesde una perspectiva crítica, cada peso invertido en defensa debe ser rigurosamente justificado y contrastado con la capacidad de los contribuyentes y la eficiencia del Estado. Si bien la defensa es una función esencial, la \"casta\" política a menudo ha demostrado una predilección por el gasto suntuoso sin una adecuada rendición de cuentas. Es fundamental que la adquisición de estos equipos, que representan un gasto considerable, se enmarque en una estrategia de defensa clara y transparente, alejada de cualquier atisbo de populismo militar o derroche.\n\n¿Cómo se equilibra la necesidad de una defensa moderna y soberana con la imperiosa obligación de la austeridad y la priorización del gasto público en una Argentina que busca la estabilidad económica?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "f16-defensa-necesaria-gasto-excesivo-argentina",
-    "fecha": "2026-08-10",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿El Papa León XIV en Argentina: ¿Impacto espiritual o carga estatal?",
-    "bajada": "La inminente visita papal a Argentina genera expectativa religiosa, pero también preguntas sobre la implicación y el costo para el Estado en un momento de ajuste.",
-    "cuerpo": "La anunciada visita del Papa León XIV a Argentina es, sin duda, un evento de gran envergadura espiritual y social para muchos fieles. Sin embargo, desde una perspectiva de análisis crítico, también es un momento para evaluar la relación entre Iglesia y Estado, y las implicaciones económicas que un evento de esta magnitud conlleva. Mientras el gobierno promueve la visita como un hito de unidad, surgen interrogantes sobre los recursos públicos que se destinarán a la logística y seguridad, en un contexto de férreo ajuste fiscal.\n\nLa tradición de apoyo estatal a eventos religiosos de esta magnitud es parte de un debate más amplio sobre la separación de poderes y el uso de fondos públicos. En una Argentina que lucha por reducir el déficit y recortar gastos innecesarios, es legítimo cuestionar si el erario público debe solventar parte de un evento cuya naturaleza es primariamente religiosa. La transparencia en la asignación de recursos y la rendición de cuentas son esenciales para evitar la percepción de privilegios o de un gasto desmedido en tiempos de austeridad.\n\n¿Debería el Estado, en su búsqueda de disciplina fiscal, mantener una distancia más clara con eventos religiosos de esta índole, o la relevancia cultural y social justifica el desembolso de fondos públicos?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "papa-leon-xiv-argentina-impacto-espiritual-carga-estatal",
-    "fecha": "2026-08-10",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El Vóley argentino hace historia: ¿Éxito del deporte o reflejo aislado?",
-    "bajada": "La Selección Argentina de vóley masculino se consagra campeona sudamericana al vencer a Brasil, levantando el debate sobre el apoyo al deporte y las prioridades nacionales.",
-    "cuerpo": "La Selección Argentina de vóley masculino logró una destacada victoria al vencer a Brasil y coronarse campeona sudamericana. Este éxito deportivo, sin duda, genera orgullo y demuestra el potencial de nuestros atletas. Sin embargo, en un país donde el deporte de alto rendimiento a menudo lucha por financiamiento y reconocimiento más allá del fútbol, este logro invita a la reflexión: ¿Es un triunfo aislado de talento y esfuerzo, o hay una política deportiva integral que lo respalde?\n\nDesde una perspectiva crítica, mientras se celebran estos triunfos, es fundamental examinar el apoyo real que reciben estas disciplinas por parte del Estado y las federaciones. ¿Se invierten los recursos de manera eficiente o la mayor parte del presupuesto se destina a estructuras burocráticas y clientelares? La \"casta\" deportiva, al igual que la política, debe ser transparente en la gestión de fondos y asegurar que los beneficios lleguen directamente a los deportistas y al desarrollo de las bases.\n\n¿Estamos realmente valorando el deporte en todas sus expresiones, o este tipo de victorias son meros fuegos artificiales que ocultan la falta de un plan sostenido para el desarrollo deportivo en #Argentina?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "voley-argentino-hace-historia-exito-deporte-reflejo-aislado",
-    "fecha": "2026-08-10",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿El \"Súper El Niño\": ¿Desafío climático o falla de prevención estatal?",
-    "bajada": "La advertencia sobre el impacto de \"El Niño\" en Argentina pone en jaque la capacidad del Estado para prevenir y mitigar los efectos de fenómenos naturales.",
-    "cuerpo": "El pronóstico de un \"Súper El Niño\" en Argentina, con su potencial para generar fenómenos meteorológicos extremos en diversas regiones, no es solo una noticia climática; es una prueba de fuego para la capacidad de respuesta y prevención del Estado. Mientras los expertos alertan sobre las zonas más vulnerables y los posibles desastres, la sociedad se pregunta si las autoridades están realmente preparadas para enfrentar los desafíos que se avecinan. La historia argentina está plagada de ejemplos donde la imprevisión y la burocracia han magnificado las consecuencias de catástrofes naturales.\n\nDesde una perspectiva de gestión pública, la inversión en infraestructura, sistemas de alerta temprana y planes de evacuación eficientes debería ser una prioridad innegociable, alejada de la lógica del gasto político cortoplacista. La falta de un plan integral y la descoordinación entre los distintos niveles de gobierno, a menudo exacerbadas por la \"casta\", son un costo que los ciudadanos terminan pagando con creces. El rol del Estado es proteger a sus ciudadanos, y la prevención es mucho más eficiente que la remediación post-desastre.\n\n¿Estamos condenados a reaccionar ante la naturaleza en lugar de anticiparnos, o la responsabilidad y la eficiencia del Estado pueden cambiar el curso de las consecuencias del \"Súper El Niño\" en #Argentina?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "super-el-nino-desafio-climatico-falla-prevencion-estatal",
-    "fecha": "2026-08-10",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Almada a River: ¿La nueva estrella que ilusiona a la Hinchada?",
-    "bajada": "El esperado arribo de Thiago Almada a River Plate genera gran expectativa y debate en el fútbol nacional.",
-    "cuerpo": "Thiago Almada ya se encuentra en Argentina para sumarse a los entrenamientos de River Plate, una noticia que revoluciona el mundo del fútbol local. La llegada del talentoso mediocampista, proveniente del fútbol internacional, promete ser uno de los pases más importantes del mercado y genera una ola de optimismo entre los hinchas de River que esperan verlo brillar con la banda.\n\nSu incorporación plantea interrogantes sobre el impacto inmediato en el rendimiento del equipo y el esquema táctico. ¿Será Almada la pieza clave que River necesita para dominar la liga y aspirar a títulos internacionales, o la presión de un club gigante y la alta expectativa podrían ser un peso para el joven talento? Su adaptación será clave, y el debate en redes ya está encendido: ¿Almada en River es sinónimo de campeonato?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "2 min",
-    "slug": "almada-a-river-la-nueva-estrella-que-ilusiona-a-la-hinchada",
-    "fecha": "2026-08-10",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Tensión Milei/Brasil: ¿Giro diplomático o aislamiento regional?",
-    "bajada": "La retirada del embajador argentino de Brasilia enciende alarmas sobre la política exterior de Milei.",
-    "cuerpo": "La escalada de tensión bilateral entre Argentina y Brasil, con el retiro del embajador argentino de Brasilia, marca un punto crítico en la relación entre ambos países. Este movimiento, en medio de roces entre los gobiernos de Milei y Lula da Silva, genera interrogantes sobre la estrategia diplomática argentina. Desde el Gobierno Nacional, se argumenta la defensa de la soberanía y una postura firme ante injerencias externas, mientras que voces críticas advierten sobre el riesgo de un aislamiento regional que podría tener costos económicos y políticos significativos.\n\nLa fricción con Brasil, socio comercial clave y pilar del Mercosur, podría impactar directamente en el comercio y las inversiones. ¿Es esta una muestra de la independencia ideológica que Milei busca para Argentina, o una jugada arriesgada que prioriza el posicionamiento político sobre la estabilidad económica y diplomática en una región compleja? La \"casta\" política tradicional cuestiona la improvisación, mientras el oficialismo defiende la no-alineación. ¿Podrá la economía argentina soportar una diplomacia tan volátil?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "tension-milei-brasil-giro-diplomatico-o-aislamiento-regional",
-    "fecha": "2026-08-10",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Propiedad Privada: ¿Milei afianza garantías o desregula el país?",
-    "bajada": "El gobierno de Milei impulsa cambios profundos en la protección de la propiedad privada, generando debate.",
-    "cuerpo": "El gobierno de Milei ha puesto en agenda la protección de la propiedad privada con un énfasis sin precedentes, buscando desmantelar regulaciones que, según su visión, han socavado los derechos de los propietarios. Esta postura, central en la ideología liberal libertaria, apunta a fomentar la inversión y el desarrollo económico al asegurar un marco jurídico robusto para los activos individuales y corporativos. La administración sostiene que la seguridad jurídica es un pilar para atraer capitales y generar crecimiento.\n\nSin embargo, críticos de distintas corrientes advierten sobre los posibles efectos de una desregulación extrema, temiendo que, en ciertos casos, pueda abrir la puerta a abusos o desprotección de sectores vulnerables. La \"casta\" kirchnerista ha levantado la bandera del \"estado presente\" como garante, mientras que la visión de Panorama.ar siempre ha sido la de un estado que garantice derechos sin cooptar libertades. La discusión es clave: ¿hasta dónde debe llegar el Estado en la regulación de la propiedad, y dónde empieza la verdadera libertad económica?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "propiedad-privada-milei-afianza-garantias-o-desregula-el-pais",
-    "fecha": "2026-08-10",
-    "imagen": "img/economia_5.png",
     "destacada": false
   }
 ]
