@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Riesgo sísmico en Argentina tras el terremoto de Colombia? La advertencia geológica.",
+    "bajada": "La preocupación se extiende por la región tras los recientes movimientos en Colombia, generando interrogantes sobre la preparación argentina.",
+    "cuerpo": "Tras el sismo que sacudió Colombia, un geólogo encendió las alarmas sobre el riesgo sísmico latente en Argentina. Aunque la mayor parte del país se considera de riesgo moderado a bajo, provincias como San Juan, Mendoza y Salta están en zonas de alta sismicidad. La pregunta clave es si nuestras infraestructuras y sistemas de emergencia están a la altura de lo que podría venir, o si dependemos de la suerte.\n\nExpertos señalan la importancia de la prevención y la educación sísmica. La construcción sismorresistente es fundamental, pero ¿se aplican rigurosamente las normativas? La preocupación no es solo por la magnitud de un posible evento, sino por la capacidad de respuesta y la concientización ciudadana. El debate está abierto: ¿estamos realmente preparados para enfrentar una catástrofe natural de esta índole o la burocracia nos vuelve vulnerables?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "riesgo-sismico-argentina-terremoto-colombia-advertencia-geologica",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Competitividad: ¿Por qué Argentina sigue siendo cara y pierde inversiones?",
+    "bajada": "La escalada de costos de insumos industriales revela una alarmante falta de competitividad que ahuyenta el capital productivo.",
+    "cuerpo": "Un reciente informe de Infobae desvela una cruda realidad: el 49% de los insumos industriales en Argentina son más caros que en el resto de la región. Esta cifra no solo evidencia una pérdida de competitividad abrumadora, sino que también señala la pesada mochila de costos laborales, fiscales y regulatorios que asfixian a la producción nacional. Mientras otros países atraen inversiones con reglas claras y baja presión, aquí el Estado parece jugar en contra del desarrollo.\n\nLa intervención estatal desmedida y una carga impositiva insostenible son, para muchos analistas liberales, los principales responsables de este estancamiento. ¿Cómo se espera que la industria crezca si sus cimientos son más caros que en cualquier otro lado? La contradicción entre el discurso de apoyo a la producción y las políticas que la encarecen es evidente. ¿Hasta cuándo tolerará el país esta autoimposición de costos que nos relega en el tablero económico global?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "competitividad-por-que-argentina-sigue-siendo-cara-pierde-inversiones",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Alerta por Súper Niño: ¿Está Argentina preparada para el impacto climático?",
+    "bajada": "El fenómeno climático \"Súper Niño\" amenaza con lluvias extremas y tormentas severas, poniendo a prueba la infraestructura del país.",
+    "cuerpo": "La llegada de un \"Súper Niño\" a Argentina augura un escenario de lluvias intensas y tormentas severas, con graves consecuencias para la agricultura, infraestructura y poblaciones vulnerables. Este fenómeno meteorológico exige una respuesta coordinada y eficiente de las autoridades, pero la historia reciente nos muestra la fragilidad de nuestros sistemas de prevención y mitigación ante catástrofes naturales. ¿Se han aprendido las lecciones del pasado o volveremos a lamentar la falta de planificación?\n\nLa inversión en infraestructura de drenaje, el mantenimiento de cauces y la implementación de sistemas de alerta temprana son cruciales. Sin embargo, la asignación de recursos y la ejecución de obras suelen ser lentas y, a menudo, opacas. Es fundamental que la \"casta\" política rinda cuentas sobre cómo se preparan los presupuestos y las acciones para proteger a los ciudadanos y la economía. ¿Será esta una oportunidad para demostrar gestión o para evidenciar, una vez más, la incapacidad estatal?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "alerta-super-nino-esta-argentina-preparada-impacto-climatico",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Pymes vs. gigantes: ¿Quién gana la batalla por el consumo en Argentina?",
+    "bajada": "La tensión crece entre pequeños comerciantes y grandes plataformas, reflejando un modelo económico que beneficia a pocos.",
+    "cuerpo": "La disputa entre las pymes y el gigante Mercado Libre, liderado por Marcos Galperin, pone en el centro del debate la estructura del consumo en Argentina. Mientras las pequeñas y medianas empresas luchan contra la carga impositiva y la inflación, las grandes plataformas digitales consolidan su poder, muchas veces en condiciones de ventaja. ¿Es un mercado realmente libre cuando la cancha no está nivelada o se fomenta un monopolio de facto en la distribución?\n\nLas pymes argumentan que las comisiones y condiciones de los grandes jugadores digitales ahogan su rentabilidad, mientras que los defensores de las plataformas resaltan la eficiencia y el alcance que ofrecen. No obstante, la cuestión de fondo es si el Estado fomenta un ecosistema donde todos puedan competir o si, con regulaciones laxas o beneficios selectivos, inclina la balanza. ¿Necesitamos una política económica que impulse la competencia real o seguirá triunfando la concentración, a expensas de la diversidad productiva?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "pymes-vs-gigantes-quien-gana-batalla-consumo-argentina",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Turismo regional: ¿Por qué Argentina pierde su liderazgo y oportunidades?",
+    "bajada": "Argentina, que solía ser un imán turístico, ve cómo la región la supera, señal de fallas estructurales y políticas desacertadas.",
+    "cuerpo": "Argentina ha dejado de ser el faro turístico de la región, un declive que va más allá de fluctuaciones coyunturales y apunta a problemas estructurales profundos. La alta presión impositiva, la inestabilidad macroeconómica y una infraestructura que no siempre acompaña el potencial natural, han convertido al país en un destino más caro y menos predecible. Mientras países vecinos invierten en promoción y desregulación, aquí las trabas y la burocracia sofocan la iniciativa privada.\n\nLa intervención estatal en sectores clave, sumado a la falta de visión a largo plazo, ha provocado que un sector con enorme potencial generador de divisas y empleo se desdibuje. No se trata solo de la falta de inversión privada, sino de un entorno que la desalienta. ¿Qué políticas necesita Argentina para recuperar el brillo perdido y volver a ser competitiva a nivel regional, o seguirá la \"casta\" dilapidando esta oportunidad de crecimiento?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "turismo-regional-por-que-argentina-pierde-liderazgo-oportunidades",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Radiografía salarial: ¿Qué significa ser clase media hoy en Argentina?",
+    "bajada": "Los ingresos necesarios para pertenecer a cada clase social revelan una creciente precarización y una movilidad social estancada.",
+    "cuerpo": "Un informe de iProfesional desglosa los ingresos que definen la pertenencia a la clase alta, media o media baja en Argentina, y los números son reveladores. Lejos de la promesa de progreso, la clase media se ve cada vez más exigida para mantener su estatus, con ingresos que apenas cubren una canasta básica ampliada, mientras la presión inflacionaria no da tregua. La precarización laboral y la dificultad para ahorrar son síntomas de una economía que ahoga el esfuerzo individual.\n\nEste panorama expone la urgencia de reformas estructurales que promuevan la inversión y generen empleo de calidad, en lugar de políticas asistencialistas que perpetúan la dependencia. La \"casta\" política parece más preocupada por los parches que por soluciones de fondo que permitan a los argentinos progresar por mérito propio. ¿Hasta cuándo se ignorará el llamado a la responsabilidad fiscal y la apertura económica para revertir esta decadencia social y económica?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "radiografia-salarial-que-significa-ser-clase-media-hoy-argentina",
+    "fecha": "2026-08-11",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La niñera argentina liberada en EE.UU.: ¿Justicia o burocracia tardía?",
+    "bajada": "El caso de la joven argentina detenida un mes en EE.UU. pone en relieve los complejos sistemas migratorios y la vulnerabilidad individual.",
+    "cuerpo": "La liberación de la niñera argentina detenida en EE.UU. tras un mes en prisión genera alivio, pero también interrogantes sobre la eficiencia y humanidad del sistema migratorio estadounidense. Su arresto, vinculado a un trámite migratorio complejo y su detención durante el Mundial, resalta la fragilidad de quienes buscan oportunidades fuera de su país y la opacidad de los procesos burocráticos. ¿Es este un sistema diseñado para la seguridad o para la complicación innecesaria?\n\nEste caso no es aislado y expone la doble vara con la que a menudo se juzgan las situaciones migratorias. Mientras la diplomacia y el apoyo mediático pueden acelerar ciertas liberaciones, miles de personas enfrentan procesos similares en silencio. La pregunta fundamental es si, más allá de la noticia puntual, se abrirá un debate serio sobre la defensa de los derechos de los argentinos en el exterior y la agilidad de los mecanismos consulares, o si todo quedará en una anécdota.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "niñera-argentina-liberada-eeuu-justicia-burocracia-tardia",
+    "fecha": "2026-08-11",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Solidaridad efectiva o gesto político? Milei y la ayuda a Colombia",
     "bajada": "La respuesta oficial argentina tras el sismo en el país vecino genera debate sobre prioridades y eficiencia estatal.",
     "cuerpo": "El gobierno de Milei ha formalizado su ofrecimiento de ayuda humanitaria a Colombia tras el reciente terremoto, con la confirmación de Quirno de que no hay víctimas argentinas. Mientras el gesto de solidaridad internacional es bienvenido, la oportunidad para reflexionar sobre la capacidad del Estado argentino para gestionar crisis externas e internas se vuelve ineludible. ¿Está Argentina realmente en posición de ofrecer asistencia significativa o se trata de una movida más orientada a la agenda exterior?\n\nLa administración actual se ha caracterizado por un discurso de austeridad y eficiencia. En este contexto, cada asignación de recursos, incluso para fines humanitarios, debe ser evaluada bajo la lupa de la disciplina fiscal. ¿Cómo se articula esta ayuda con las urgencias sociales y económicas que aún persisten a nivel nacional? Es crucial que la transparencia sobre los recursos destinados y los mecanismos de implementación acompañe este tipo de iniciativas, evitando desvíos o ineficiencias que la \"casta\" solía capitalizar.\n\nLa tragedia en Colombia nos interpela sobre la preparación ante catástrofes. Más allá de la ayuda externa, ¿qué se está haciendo para asegurar que Argentina misma tenga los protocolos y recursos para proteger a sus ciudadanos? ¿Estamos construyendo un Estado robusto o uno que solo reacciona con gestos frente a la crisis ajena, mientras las propias debilidades estructurales se postergan?",
@@ -9,7 +93,7 @@
     "slug": "solidaridad-efectiva-o-gesto-politico-milei-y-la-ayuda-a-colombia",
     "fecha": "2026-08-11",
     "imagen": "img/politica_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "¿Estamos preparados? Terremoto en Colombia enciende alarmas en Argentina",
@@ -201,90 +285,6 @@
     "slug": "copa-argentina-negocio-millonario-o-pasion-sangra",
     "fecha": "2026-08-11",
     "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Copa Argentina: Tello y la polémica, ¿fin de la 'casta' arbitral?",
-    "bajada": "El retorno de Facundo Tello a la Copa Argentina reabre el debate sobre la imparcialidad y la transparencia en el arbitraje argentino.",
-    "cuerpo": "Facundo Tello, árbitro de trayectoria internacional, volverá a dirigir en la Copa Argentina, y su regreso reaviva una discusión recurrente en el fútbol local: la calidad y la imparcialidad del arbitraje. En un deporte donde cada decisión puede definir un resultado y mover millones, la figura del referí es central y, a menudo, foco de controversias. ¿Son los árbitros parte de una 'casta' intocable, o la profesionalización y la transparencia están llegando? Desde la perspectiva de la autonomía y el rigor, es fundamental que el arbitraje se maneje con criterios meritocráticos y una fiscalización implacable, lejos de cualquier sospecha de favoritismo o presiones. Las recurrentes quejas de clubes como San Lorenzo o Independiente Santa Fe (en otras competencias) y de los aficionados reflejan una profunda desconfianza en el sistema, que socava la credibilidad del espectáculo. La tecnología, si bien ayuda, no reemplaza la necesidad de una gestión proba. ¿Qué medidas concretas se están tomando para garantizar un arbitraje transparente en la Copa Argentina y desterrar la sombra de la sospecha que tanto daña al fútbol argentino?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "copa-argentina-tello-polemica-fin-casta-arbitral",
-    "fecha": "2026-08-11",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vaca Muerta: ¿El motor energético que Metrogas y la 'casta' frenan?",
-    "bajada": "Los récords de Vaca Muerta demuestran un potencial exportador, pero la regulación y la ineficiencia estatal limitan su explosión.",
-    "cuerpo": "Vaca Muerta, el yacimiento de shale oil y gas, sigue batiendo récords de producción, acercando a Argentina al 1% del total mundial. Este dato es crucial y expone el inmenso potencial del sector energético para generar divisas y desarrollo. Sin embargo, el camino hacia la plena explotación está plagado de obstáculos burocráticos y una regulación estatal que, en lugar de facilitar, a menudo frena la inversión y la eficiencia. Empresas como Metrogas y otras distribuidoras también sufren las consecuencias de una matriz energética desorganizada. La visión liberal es clara: es indispensable desregular, eliminar la pesada mano del Estado sobre el sector y garantizar previsibilidad jurídica para atraer las inversiones necesarias. La 'casta' política, con su apego a subsidios distorsivos y controles de precios, ha impedido que Vaca Muerta alcance su verdadera magnitud, condenando al país a una dependencia energética evitable y postergando el crecimiento económico. La exportación de energía no debe ser un espejismo, sino una realidad palpable. ¿Será Vaca Muerta finalmente liberada de las ataduras estatales, o seguirá siendo un gigante dormido por la ineficiencia política y la falta de visión a largo plazo, impactando incluso a usuarios de servicios como Metrogas?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "vaca-muerta-motor-energetico-metrogas-casta-frenan",
-    "fecha": "2026-08-11",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Galperin vs. Pymes: El consumo, ¿un debate que Manuel Adorni debe liderar?",
-    "bajada": "La disputa entre Marcos Galperin y CAME por las cifras de consumo expone una grieta profunda en la economía real argentina.",
-    "cuerpo": "El cruce entre Marcos Galperin, CEO de Mercado Libre, y la CAME (Confederación Argentina de la Mediana Empresa) por las cifras de consumo es más que una simple discusión: revela las tensiones estructurales de la economía argentina. Mientras Galperin señala un crecimiento en el e-commerce, CAME subraya las dificultades de las pymes tradicionales. Esta divergencia no solo evidencia la transformación del mercado, sino también la fragilidad de un sector productivo agobiado por la presión impositiva y la incertidumbre. Desde una perspectiva de centro-derecha, es fundamental que el Estado intervenga lo menos posible, pero que garantice un marco de competencia justo y fomente la baja de impuestos y la desburocratización para que las pymes puedan prosperar. La voz del vocero presidencial, Manuel Adorni, debería ser contundente en la defensa de la libertad de mercado y en la crítica a las cargas que asfixian a los pequeños y medianos empresarios, muchas veces ignoradas por la 'casta' política. ¿Se reducirá esta disputa a un mero intercambio de comunicados, o el gobierno, a través de figuras como Manuel Adorni, tomará medidas concretas para aliviar la carga de las pymes y estimular un consumo más libre y dinámico?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "galperin-pymes-consumo-debate-adorni-liderar",
-    "fecha": "2026-08-11",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Papa León XIV: ¿Desafío político o distracción en la Argentina de Pagano?",
-    "bajada": "La inminente visita de León XIV a Argentina genera expectativas religiosas, pero también un profundo análisis sobre su impacto en la polarizada política local.",
-    "cuerpo": "La histórica visita del Papa León XIV a Argentina para noviembre se presenta como un evento de gran trascendencia religiosa y social. Sin embargo, en un país marcado por profundas divisiones políticas, su llegada inevitablemente se convierte en un 'desafío para la política', como lo plantea Infobae. Los discursos y gestos papales serán analizados bajo la lupa de la 'grieta', y la clase dirigente, desde figuras como Pagano hasta Colombo, buscará capitalizar o neutralizar su mensaje. Desde una visión liberal, la separación entre Iglesia y Estado debe ser clara, y la atención no debe desviarse de los problemas estructurales que aquejan a la sociedad. Es crucial evitar que el evento se transforme en un circo mediático o en una oportunidad para la 'casta' política de desviar la atención de la crisis económica y social, o para justificar un gasto público excesivo en su organización. La libertad de culto es un derecho, pero la instrumentalización política es un riesgo. ¿Logrará la visita de León XIV elevar el nivel del debate público o se convertirá en una oportunidad más para la polarización y la distracción de los problemas reales que la política, con figuras como Pagano, debe enfrentar con urgencia?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "papa-leon-xiv-desafio-politico-distraccion-pagano",
-    "fecha": "2026-08-11",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Renace la esperanza en River con la llegada de Almada?",
-    "bajada": "El esperado arribo de Thiago Almada a River genera debate: ¿inversión estratégica o gasto excesivo para un club con desafíos económicos?",
-    "cuerpo": "La llegada de Thiago Almada a River Plate ha encendido el entusiasmo de los hinchas y el debate en el ambiente futbolístico. Mientras la dirigencia lo presenta como una pieza clave para futuras glorias, voces críticas se preguntan si esta inversión millonaria es sostenible en el actual contexto económico del país y del propio club. ¿Estamos ante una apuesta audaz por el éxito deportivo o un movimiento que compromete la ya delicada salud financiera?\n\nLa danza de millones en el fútbol argentino a menudo contrasta con la realidad de otros sectores productivos que luchan por salir adelante. ¿Es el fútbol una burbuja inmune a la austeridad, o debería también reflejar la disciplina fiscal que se exige en otras áreas? El impacto en las finanzas de River será un termómetro para evaluar si este tipo de fichajes realmente rentabiliza a largo plazo, más allá del fervor inicial de la hinchada.\n\n¿Hasta qué punto el espectáculo deportivo justifica erogaciones que superan ampliamente las posibilidades de la economía real, distorsionando prioridades y generando debates sobre la asignación de recursos en un país con tantas necesidades?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "renace-esperanza-river-almada",
-    "fecha": "2026-08-10",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Advertencia para el rumbo económico? La caída de activos argentinos preocupa",
-    "bajada": "Los mercados envían una señal inequívoca sobre la confianza en la gestión económica, mientras el riesgo país se dispara. ¿Hay margen para la autocrítica?",
-    "cuerpo": "La reciente caída de bonos y acciones argentinas, que llevó el riesgo país a preocupantes 463 puntos básicos, no es un mero dato técnico; es un potente mensaje de los mercados sobre la percepción de la estabilidad económica y la dirección de las políticas gubernamentales. Pese a las declaraciones oficiales que buscan transmitir calma, la realidad de los números exige una lectura más profunda y un análisis crítico de las medidas implementadas hasta ahora. El costo del financiamiento para Argentina se encarece, impactando directamente en la capacidad de inversión y crecimiento.\n\nEsta situación plantea un interrogante fundamental sobre la efectividad de las reformas y la confianza que generan a nivel internacional. Si bien el gobierno, con voceros como Manuel Adorni, insiste en la necesidad de disciplina fiscal y ajuste, los resultados a corto plazo en los mercados sugieren que la hoja de ruta aún no convence del todo a los inversores. La presión recae sobre las autoridades para demostrar solidez y previsibilidad.\n\n¿Estamos presenciando las consecuencias inevitables de un ajuste necesario o es un indicio de que se requieren correcciones urgentes en el plan económico para evitar una mayor desconfianza y volatilidad?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "advertencia-rumbo-economico-caida-activos-argentinos",
-    "fecha": "2026-08-10",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Consumo y pymes en crisis: ¿Quién defiende el mercado libre?",
-    "bajada": "La tensión entre el consumo, las pymes y las grandes plataformas expone un debate crucial sobre la competencia y la intervención estatal en la economía.",
-    "cuerpo": "La disputa entre el sector de las Pymes y gigantes como Marcos Galperin de Mercado Libre, en el marco de una caída generalizada del consumo en Argentina, subraya las complejidades de un mercado en recesión. Mientras las pequeñas y medianas empresas claman por condiciones más equitativas y critican lo que perciben como prácticas monopolísticas, las grandes plataformas defienden su eficiencia y escala. Este escenario pone en evidencia la fragilidad del tejido productivo nacional y la necesidad de un marco que incentive la competencia sin asfixiar a los pequeños actores.\n\nDesde una perspectiva liberal, la solución no pasa por más intervención estatal o regulaciones que distorsionen el mercado, sino por asegurar reglas claras que promuevan la libre competencia y reduzcan la burocracia que tanto perjudica a las Pymes. La discusión debería centrarse en cómo el Estado puede facilitar un entorno donde todos los actores, grandes y chicos, puedan prosperar sin privilegios ni cargas excesivas. Los costos impositivos y la falta de previsibilidad son a menudo más dañinos que la competencia misma.\n\n¿Es el Estado un árbitro efectivo en esta contienda o sus intentos de regulación terminan por empeorar la situación, impidiendo el crecimiento y la innovación que tanto necesita la economía argentina?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "consumo-pymes-crisis-quien-defiende-mercado-libre",
-    "fecha": "2026-08-10",
-    "imagen": "img/economia_3.png",
     "destacada": false
   }
 ]
