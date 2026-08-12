@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Solidaridad real o gesto simbólico? Argentina y la crisis en Colombia",
+    "bajada": "Un gesto solidario desde Argentina, pero ¿cuál es el rol de un Estado en crisis frente a catástrofes regionales?",
+    "cuerpo": "La noticia destaca la cocina argentina en Cali para asistir a los afectados por el terremoto en Colombia, mostrando la buena voluntad de la comunidad. Es un acto noble que resalta la capacidad de la sociedad civil para organizarse y ayudar en momentos de necesidad extrema.Sin embargo, cabe preguntarse sobre el verdadero impacto y la sostenibilidad de estas iniciativas frente a la magnitud de una catástrofe. ¿Hasta qué punto la solidaridad individual puede suplir la ausencia de políticas estatales robustas, tanto en asistencia externa como en la propia gestión de riesgos en Argentina? La \"ayuda argentina\" es un bálsamo, pero no oculta la fragilidad estructural.¿Estamos priorizando gestos mediáticos sobre la construcción de una verdadera capacidad de respuesta y prevención, tanto a nivel nacional como regional?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "solidaridad-real-o-gesto-simbolico-argentina-y-la-crisis-en-colombia",
+    "fecha": "2026-08-12",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Precios dolarizados, salarios devaluados? El costo de vida se dispara",
+    "bajada": "La Argentina se encarece en dólares, con gastos clave que escalan hasta 53% desde 2023. ¿Quién paga la fiesta?",
+    "cuerpo": "El informe de Ámbito Financiero revela una cruda realidad: mientras se busca estabilizar la economía, el costo de vida en Argentina, medido en dólares, aumentó un 1% en mayo, y ciertos gastos esenciales crecieron hasta un impactante 53% desde el año pasado. Esto impacta directamente en el poder adquisitivo de los ciudadanos, especialmente aquellos con ingresos en pesos, generando una presión insostenible.Este fenómeno, lejos de reflejar una mejora económica, evidencia la persistencia de distorsiones estructurales y la dificultad para contener la inflación real. ¿Se trata de una inevitable \"sinceración\" de precios o de la incapacidad de la política económica para generar un alivio genuino para los argentinos? La casta política debe explicar por qué el ajuste lo sienten mayormente los de abajo.¿Es sostenible un modelo donde la Argentina se \"dolariza\" en precios, pero no en salarios y ahorros, ampliando la brecha y erosionando la clase media?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "precios-dolarizados-salarios-devaluados-el-costo-de-vida-se-dispara",
+    "fecha": "2026-08-12",
+    "imagen": "img/economia_1.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Argentina vs. la región: ¿Por qué producimos tan caro?",
+    "bajada": "El 49% de los insumos industriales argentinos son más caros que en países vecinos, frenando la competitividad.",
+    "cuerpo": "Un nuevo informe de Infobae revela que Argentina sigue perdiendo la batalla de la competitividad. El 49% de sus insumos industriales son más caros que los de sus vecinos, Brasil y Chile, a pesar de supuestas convergencias de precios. Esto se traduce en un costo de producción elevado que impide a las empresas locales competir en mercados internacionales y generar riqueza.La persistencia de esta desventaja competitiva, con el Estado como principal obstáculo a través de la presión impositiva y la burocracia, expone la urgente necesidad de reformas estructurales. Mientras la casta discute cuotas de poder, el sector productivo se ahoga. ¿Hasta cuándo se seguirá castigando a quienes invierten y generan empleo con una carga fiscal asfixiante y regulaciones absurdas?¿Es posible revertir esta tendencia sin un verdadero compromiso político para reducir el gasto público y eliminar las trabas que encarecen la producción y asfixian a la economía real?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-vs-la-region-por-que-producimos-tan-caro",
+    "fecha": "2026-08-12",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Adiós al turismo? Argentina pierde terreno frente a la región",
+    "bajada": "De liderazgo a la zaga: ¿Qué falló para que Argentina dejara de ser el destino turístico preferido?",
+    "cuerpo": "La Argentina ha perdido su histórico liderazgo turístico en la región, una caída que va más allá de fluctuaciones económicas. Si bien la devaluación podría haber sido una oportunidad, las barreras burocráticas, la infraestructura deficiente y la presión impositiva sobre el sector han ahuyentado inversiones y visitantes. Nuestros vecinos, con políticas más claras y menos intervencionistas, han sabido capitalizar mejor el potencial de la actividad.Este declive no es solo una cuestión de números, sino un síntoma de un problema más profundo: la incapacidad del Estado para fomentar un sector que podría ser un motor de desarrollo y generación de divisas. Mientras se discuten medidas que restringen la libertad económica, el potencial de atractivos naturales y culturales de lugares como Recoleta o Flores languidece.¿Es posible recuperar la competitividad turística sin un cambio radical en la política económica y una visión a largo plazo que priorice la inversión y la desburocratización?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "adios-al-turismo-argentina-pierde-terreno-frente-a-la-region",
+    "fecha": "2026-08-12",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Carne argentina bajo la lupa: ¿Falta de control estatal?",
+    "bajada": "Miles de kilos de carne argentina retirados en EE.UU. por falta de inspección. ¿Un golpe a nuestra reputación?",
+    "cuerpo": "Un escándalo afecta a la marca \"carne argentina\": casi 13.600 kilos fueron retirados del mercado en Estados Unidos, específicamente en Texas y Florida, por no haber pasado la reinspección obligatoria. Este incidente, detallado por Infobae y La Nación, no solo representa una pérdida económica, sino un serio golpe a la reputación de uno de los productos estrella de exportación del país.La situación pone en evidencia la necesidad de un control estatal riguroso y eficiente en toda la cadena de valor de las exportaciones. ¿Cómo es posible que carne sin la inspección adecuada haya llegado a un mercado tan exigente como el estadounidense? Esto genera dudas sobre la burocracia y la calidad de la supervisión que debería garantizar el Estado, dañando la confianza de los importadores y la industria nacional que sí cumple con los estándares.¿Es este un síntoma de un Estado que, lejos de facilitar, entorpece y perjudica la imagen de la producción argentina en el mundo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "carne-argentina-bajo-la-lupa-falta-de-control-estatal",
+    "fecha": "2026-08-12",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Jóvenes buscan futuro afuera: ¿Argentina los expulsa?",
+    "bajada": "Cami Maggi, una de las muchas jóvenes argentinas que emigran, comparte en redes los motivos para buscar un futuro en Australia.",
+    "cuerpo": "El caso de Cami Maggi, la joven argentina que emigró a Australia y se volvió referente en redes sociales compartiendo consejos, es un reflejo de una triste tendencia: cada vez más jóvenes deciden abandonar el país en busca de oportunidades. La falta de estabilidad económica, la presión impositiva y la incertidumbre política son factores que empujan a muchos a tomar esta drástica decisión, buscando en el exterior lo que Argentina no les puede dar.Mientras la \"casta\" política discute prebendas y privilegios, la juventud productiva, con ganas de crecer y desarrollarse, elige otros horizontes. Es una fuga de talentos silenciosa que tiene un costo enorme para el futuro de la nación. No son solo historias individuales, sino la expresión de un fracaso colectivo en la construcción de un país que retenga a sus mejores mentes y manos.¿Estamos condenando a una generación a buscar su destino lejos de casa por la ineficacia de nuestras políticas y la persistencia de un modelo que no genera oportunidades?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "jovenes-buscan-futuro-afuera-argentina-los-expulsa",
+    "fecha": "2026-08-12",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Libertad con polémica: ¿Estado ausente para sus ciudadanos?",
+    "bajada": "Tras un mes detenida en EE.UU., la niñera argentina fue liberada. ¿Actuó el Estado para protegerla o fue un abandono?",
+    "cuerpo": "La liberación de la niñera argentina en Estados Unidos, después de casi un mes detenida por ICE tras un arresto durante el Mundial, generó alivio, pero también una fuerte polémica. Su caso, cubierto por Clarín e Infobae, pone de manifiesto la vulnerabilidad de los ciudadanos argentinos en el exterior y plantea interrogantes sobre el rol de la diplomacia y el Estado en la protección y asistencia a sus compatriotas.Si bien se celebra su regreso, es crucial analizar si el Estado argentino actuó con la celeridad y la contundencia necesarias. ¿Se hizo todo lo posible para garantizar sus derechos y acelerar su liberación, o prevaleció la burocracia y la ineficiencia, dejando a una ciudadana a su suerte? La noticia del emotivo posteo de su novio destaca el apoyo personal, pero ¿dónde estuvo el respaldo institucional?¿Hasta qué punto un Estado que prioriza el gasto inútil en casa descuida a sus ciudadanos cuando se encuentran en situaciones críticas fuera de nuestras fronteras?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "libertad-con-polemica-estado-ausente-para-sus-ciudadanos",
+    "fecha": "2026-08-12",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Solidaridad o imagen? Argentina presente tras el terremoto en Colombia",
     "bajada": "Mientras el país enfrenta sus propias crisis, la ayuda humanitaria cruza fronteras con un gesto particular.",
     "cuerpo": "Un grupo de argentinos en Cali ha demostrado una encomiable solidaridad, brindando cocina y apoyo a los afectados por el reciente terremoto que sacudió la región. Este tipo de iniciativa privada, surgida desde la comunidad, resalta la capacidad de respuesta y empatía de los ciudadanos en momentos de crisis.\n\nSin embargo, la noticia nos lleva a reflexionar: ¿estos gestos humanitarios, aunque valiosos, opacan las urgencias domésticas? Con una Argentina sumergida en sus propias complejidades económicas y sociales, cabe preguntarse sobre las prioridades. Es un contraste marcado entre la capacidad de los ciudadanos de organizarse y la gestión estatal. ¿Es un reflejo de la solidaridad genuina o también de la necesidad de visibilizar la presencia argentina en el exterior?\n\nLa acción es digna de destacar, pero ¿qué dicen estos actos sobre la situación interna y externa de nuestro país? ¿Fomentamos la ayuda externa mientras descuidamos lo propio?",
@@ -45,7 +129,7 @@
     "slug": "competitividad-cero-insumos-industriales-65-mas-caros-que-region",
     "fecha": "2026-08-12",
     "imagen": "img/economia_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Clase media en extinción: el 78% de los hogares al borde de la pobreza",
@@ -201,90 +285,6 @@
     "slug": "alerta-super-nino-esta-argentina-preparada-impacto-climatico",
     "fecha": "2026-08-11",
     "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Pymes vs. gigantes: ¿Quién gana la batalla por el consumo en Argentina?",
-    "bajada": "La tensión crece entre pequeños comerciantes y grandes plataformas, reflejando un modelo económico que beneficia a pocos.",
-    "cuerpo": "La disputa entre las pymes y el gigante Mercado Libre, liderado por Marcos Galperin, pone en el centro del debate la estructura del consumo en Argentina. Mientras las pequeñas y medianas empresas luchan contra la carga impositiva y la inflación, las grandes plataformas digitales consolidan su poder, muchas veces en condiciones de ventaja. ¿Es un mercado realmente libre cuando la cancha no está nivelada o se fomenta un monopolio de facto en la distribución?\n\nLas pymes argumentan que las comisiones y condiciones de los grandes jugadores digitales ahogan su rentabilidad, mientras que los defensores de las plataformas resaltan la eficiencia y el alcance que ofrecen. No obstante, la cuestión de fondo es si el Estado fomenta un ecosistema donde todos puedan competir o si, con regulaciones laxas o beneficios selectivos, inclina la balanza. ¿Necesitamos una política económica que impulse la competencia real o seguirá triunfando la concentración, a expensas de la diversidad productiva?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "pymes-vs-gigantes-quien-gana-batalla-consumo-argentina",
-    "fecha": "2026-08-11",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Turismo regional: ¿Por qué Argentina pierde su liderazgo y oportunidades?",
-    "bajada": "Argentina, que solía ser un imán turístico, ve cómo la región la supera, señal de fallas estructurales y políticas desacertadas.",
-    "cuerpo": "Argentina ha dejado de ser el faro turístico de la región, un declive que va más allá de fluctuaciones coyunturales y apunta a problemas estructurales profundos. La alta presión impositiva, la inestabilidad macroeconómica y una infraestructura que no siempre acompaña el potencial natural, han convertido al país en un destino más caro y menos predecible. Mientras países vecinos invierten en promoción y desregulación, aquí las trabas y la burocracia sofocan la iniciativa privada.\n\nLa intervención estatal en sectores clave, sumado a la falta de visión a largo plazo, ha provocado que un sector con enorme potencial generador de divisas y empleo se desdibuje. No se trata solo de la falta de inversión privada, sino de un entorno que la desalienta. ¿Qué políticas necesita Argentina para recuperar el brillo perdido y volver a ser competitiva a nivel regional, o seguirá la \"casta\" dilapidando esta oportunidad de crecimiento?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "turismo-regional-por-que-argentina-pierde-liderazgo-oportunidades",
-    "fecha": "2026-08-11",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Radiografía salarial: ¿Qué significa ser clase media hoy en Argentina?",
-    "bajada": "Los ingresos necesarios para pertenecer a cada clase social revelan una creciente precarización y una movilidad social estancada.",
-    "cuerpo": "Un informe de iProfesional desglosa los ingresos que definen la pertenencia a la clase alta, media o media baja en Argentina, y los números son reveladores. Lejos de la promesa de progreso, la clase media se ve cada vez más exigida para mantener su estatus, con ingresos que apenas cubren una canasta básica ampliada, mientras la presión inflacionaria no da tregua. La precarización laboral y la dificultad para ahorrar son síntomas de una economía que ahoga el esfuerzo individual.\n\nEste panorama expone la urgencia de reformas estructurales que promuevan la inversión y generen empleo de calidad, en lugar de políticas asistencialistas que perpetúan la dependencia. La \"casta\" política parece más preocupada por los parches que por soluciones de fondo que permitan a los argentinos progresar por mérito propio. ¿Hasta cuándo se ignorará el llamado a la responsabilidad fiscal y la apertura económica para revertir esta decadencia social y económica?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "radiografia-salarial-que-significa-ser-clase-media-hoy-argentina",
-    "fecha": "2026-08-11",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La niñera argentina liberada en EE.UU.: ¿Justicia o burocracia tardía?",
-    "bajada": "El caso de la joven argentina detenida un mes en EE.UU. pone en relieve los complejos sistemas migratorios y la vulnerabilidad individual.",
-    "cuerpo": "La liberación de la niñera argentina detenida en EE.UU. tras un mes en prisión genera alivio, pero también interrogantes sobre la eficiencia y humanidad del sistema migratorio estadounidense. Su arresto, vinculado a un trámite migratorio complejo y su detención durante el Mundial, resalta la fragilidad de quienes buscan oportunidades fuera de su país y la opacidad de los procesos burocráticos. ¿Es este un sistema diseñado para la seguridad o para la complicación innecesaria?\n\nEste caso no es aislado y expone la doble vara con la que a menudo se juzgan las situaciones migratorias. Mientras la diplomacia y el apoyo mediático pueden acelerar ciertas liberaciones, miles de personas enfrentan procesos similares en silencio. La pregunta fundamental es si, más allá de la noticia puntual, se abrirá un debate serio sobre la defensa de los derechos de los argentinos en el exterior y la agilidad de los mecanismos consulares, o si todo quedará en una anécdota.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "niñera-argentina-liberada-eeuu-justicia-burocracia-tardia",
-    "fecha": "2026-08-11",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Solidaridad efectiva o gesto político? Milei y la ayuda a Colombia",
-    "bajada": "La respuesta oficial argentina tras el sismo en el país vecino genera debate sobre prioridades y eficiencia estatal.",
-    "cuerpo": "El gobierno de Milei ha formalizado su ofrecimiento de ayuda humanitaria a Colombia tras el reciente terremoto, con la confirmación de Quirno de que no hay víctimas argentinas. Mientras el gesto de solidaridad internacional es bienvenido, la oportunidad para reflexionar sobre la capacidad del Estado argentino para gestionar crisis externas e internas se vuelve ineludible. ¿Está Argentina realmente en posición de ofrecer asistencia significativa o se trata de una movida más orientada a la agenda exterior?\n\nLa administración actual se ha caracterizado por un discurso de austeridad y eficiencia. En este contexto, cada asignación de recursos, incluso para fines humanitarios, debe ser evaluada bajo la lupa de la disciplina fiscal. ¿Cómo se articula esta ayuda con las urgencias sociales y económicas que aún persisten a nivel nacional? Es crucial que la transparencia sobre los recursos destinados y los mecanismos de implementación acompañe este tipo de iniciativas, evitando desvíos o ineficiencias que la \"casta\" solía capitalizar.\n\nLa tragedia en Colombia nos interpela sobre la preparación ante catástrofes. Más allá de la ayuda externa, ¿qué se está haciendo para asegurar que Argentina misma tenga los protocolos y recursos para proteger a sus ciudadanos? ¿Estamos construyendo un Estado robusto o uno que solo reacciona con gestos frente a la crisis ajena, mientras las propias debilidades estructurales se postergan?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "solidaridad-efectiva-o-gesto-politico-milei-y-la-ayuda-a-colombia",
-    "fecha": "2026-08-11",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Estamos preparados? Terremoto en Colombia enciende alarmas en Argentina",
-    "bajada": "Expertos advierten sobre la posibilidad sísmica en el país, impulsando un debate urgente sobre prevención y respuesta estatal.",
-    "cuerpo": "El reciente y devastador terremoto en Colombia ha puesto en relieve la vulnerabilidad sísmica de varias regiones sudamericanas, incluida Argentina. Expertos locales están analizando la posibilidad de eventos similares en nuestro territorio, lo que debería generar una discusión seria sobre la preparación y las políticas públicas de prevención. Más allá del fatalismo, ¿qué medidas concretas está tomando el Estado para proteger a la población y la infraestructura crítica?\n\nHistóricamente, la inversión en infraestructura antisísmica y la educación en prevención han sido insuficientes en comparación con la magnitud del riesgo en ciertas provincias. En un contexto de austeridad, es vital discernir si los recursos se están destinando de manera eficiente a áreas realmente críticas, o si la \"casta\" política sigue priorizando gastos superflúos. La prevención de desastres no es un gasto, sino una inversión estratégica que evita costos mucho mayores en vidas humanas y reconstrucción.\n\nLa comparación con experiencias como la de Colombia y Venezuela debe servir como un llamado de atención. ¿Tenemos los protocolos de emergencia adecuados? ¿Hay suficiente inversión en sistemas de alerta temprana y en la capacitación de equipos de rescate? Es hora de un plan integral, lejos de la improvisación y la burocracia, para asegurar que la tragedia ajena no se replique en casa por falta de previsión.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "estamos-preparados-terremoto-en-colombia-enciende-alarmas-en-argentina",
-    "fecha": "2026-08-11",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Adiós a la gratuidad: ¿Pagarán extranjeros la salud pública?",
-    "bajada": "El Gobierno oficializa el cobro de la atención médica a no residentes, una medida que busca poner fin a la sangría de recursos estatales.",
-    "cuerpo": "La decisión del Gobierno de cobrar la atención médica a extranjeros no residentes en hospitales públicos marca un punto de inflexión. Esta medida, largamente reclamada por sectores que denuncian el uso abusivo de un sistema financiado por contribuyentes argentinos, busca restaurar la equidad y la sostenibilidad fiscal. La gratuidad universal, sin distinción de residencia, se ha convertido en una carga insostenible para un sistema de salud ya precarizado, desviando recursos que podrían destinarse a mejorar la calidad de vida de los ciudadanos que sí aportan al erario.\n\nLa polémica rodea la implementación, con críticas que apuntan a una supuesta falta de humanidad. Sin embargo, ¿es humano exigir a los ciudadanos que financien servicios para quienes no contribuyen al sistema? Los datos sobre el impacto fiscal de la atención a no residentes son contundentes y exigen una acción directa. La \"casta\" política anterior prefirió eludir este debate, perpetuando un modelo que agotaba los recursos y desprotegía a los propios. Esta reforma apunta a la eficiencia y a la reasignación de fondos para quienes realmente lo necesitan y lo financian.\n\nAhora, el desafío será asegurar una implementación justa y clara, evitando burocracia excesiva y garantizando que la recaudación se reinvierta efectivamente en el sistema de salud. ¿Se logrará realmente un ahorro significativo y una mejora en la atención para los argentinos, o se diluirá la medida en la ineficiencia estatal? El debate sobre la responsabilidad social y la gestión de los recursos públicos está más vivo que nunca.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "adios-a-la-gratuidad-pagaran-extranjeros-la-salud-publica",
-    "fecha": "2026-08-11",
-    "imagen": "img/sociedad_3.png",
     "destacada": false
   }
 ]
