@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Crisis en el Rey de Copas: ¿Fin de ciclo para Quinteros en Independiente?",
+    "bajada": "La eliminación temprana del club aviva el debate sobre la gestión deportiva y el rol de la dirigencia.",
+    "cuerpo": "La dura derrota de Independiente por 4-0 frente a Atlético Tucumán en la Copa Argentina no fue solo un resultado deportivo, sino un detonante para una crisis institucional que ya se venía gestando. La cúpula dirigencial del \"Rojo\" se encuentra en un cónclave urgente para decidir el futuro del director técnico, Quinteros. La afición, enardecida, exige respuestas inmediatas y un cambio de rumbo ante la decadencia futbolística del equipo. Este episodio subraya la fragilidad de proyectos a largo plazo y la constante presión en el fútbol argentino, donde los resultados mandan por encima de cualquier planificación.\n\nEl ciclo de Quinteros, que prometía una reconstrucción, parece llegar a su fin de forma abrupta. ¿Es la dirigencia capaz de asumir la autocrítica necesaria para encontrar soluciones de fondo, o se limitará a un nuevo cambio de entrenador, perpetuando un ciclo de inestabilidad que afecta al legendario club? La pregunta es crucial para el futuro de uno de los grandes.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "crisis-rey-de-copas-quinteros-independiente",
+    "fecha": "2026-08-13",
+    "imagen": "img/politica_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Argentina arrasada: es la reconstrucción una utopía o una necesidad?",
+    "bajada": "Luis Caputo remarcó el devastador legado de 25 años, pero ¿basta la retórica para revertir décadas de declive?",
+    "cuerpo": "El ministro de Economía, Luis Caputo, volvió a enfatizar una cruda realidad que muchos argentinos perciben a diario: \"Argentina ha sido arrasada en los últimos 25 años\". Esta declaración, lejos de ser una mera frase de campaña, resuena como un diagnóstico contundente de las políticas populistas y el intervencionismo estatal que, según el análisis liberal, desmantelaron la economía y el tejido social. La necesidad de \"reconstruir este país\" no es solo una consigna, sino un imperativo ante la fragilidad de las instituciones y la persistente crisis que atraviesa la nación. La crítica a un cuarto de siglo de gestión marca un claro contraste con la visión de un Estado más austero y un mercado más libre, pilares de la actual administración.\n\nSin embargo, la magnitud del desafío es inmensa. Si bien el diagnóstico de un país \"arrasado\" puede generar consenso en ciertos sectores, las soluciones propuestas por el oficialismo enfrentan resistencias significativas, especialmente desde aquellos que defienden un modelo de Estado presente. ¿Es posible reconstruir una nación tan profundamente marcada por el populismo sin un consenso político y social amplio, o la tarea demandará sacrificios aún mayores y una voluntad inquebrantable de reformar las estructuras que nos llevaron a este punto?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-arrasada-reconstruccion-utopia",
+    "fecha": "2026-08-13",
+    "imagen": "img/politica_5.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Competitividad: ¿Por qué la Argentina sigue siendo una isla cara?",
+    "bajada": "Casi la mitad de los insumos industriales son más costosos que en la región, un freno para la producción y la inversión.",
+    "cuerpo": "Un nuevo informe revela una alarmante realidad para la industria nacional: el 49% de los insumos industriales en Argentina son más caros que en países vecinos de la región. Esta cifra no solo evidencia la falta de competitividad crónica que padece el país, sino que también expone las consecuencias directas de décadas de políticas proteccionistas, una presión impositiva asfixiante y una burocracia estatal que encarece cualquier proceso productivo. Mientras el mundo busca la eficiencia y la apertura, Argentina se aferra a un modelo que eleva los costos y desincentiva la inversión, condenando a sus empresas a operar en desventaja.\n\nEl problema trasciende a los empresarios: afecta directamente la capacidad de generar empleo de calidad y de exportar productos con valor agregado. La crítica a este modelo es recurrente desde el sector productivo, que exige reglas de juego claras, menos injerencia estatal y una reforma fiscal que alivie la carga sobre quienes producen. ¿Hasta cuándo podrá la Argentina sostener una estructura de costos que la aleja del progreso regional y global, y qué medidas audaces se necesitan para romper con este ciclo de aislamiento económico?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "competitividad-argentina-isla-cara",
+    "fecha": "2026-08-13",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Educación: ¿Terminar la primaria no es aprender en la Argentina?",
+    "bajada": "Impactante dato: solo la mitad de los alumnos comprende lo esperado, evidenciando el fracaso del sistema educativo.",
+    "cuerpo": "Un nuevo estudio arroja luz sobre una de las crisis más profundas de la Argentina: su sistema educativo. A pesar de que casi la totalidad de los niños termina la escuela primaria en tiempo y forma, un escalofriante 50% no alcanza los niveles de aprendizaje esperados. Este dato desnuda una tragedia social que se arrastra por décadas: la educación pública, pilar fundamental de cualquier sociedad próspera, está fallando en su misión más básica. La mera \"terminalidad\" sin conocimientos reales es una métrica vacía que maquilla la cruda realidad de una generación a la que se le niegan las herramientas para el futuro.\n\nLa responsabilidad es compartida, pero el Estado, principal garante del derecho a la educación, debe asumir su rol con seriedad. La calidad educativa no es un lujo, sino una inversión esencial. La crítica a los modelos pedagógicos que priorizan la inclusión sobre la excelencia, sumado a la precarización docente y la falta de inversión estratégica, han creado un escenario donde la mitad de los estudiantes egresa con severas deficiencias. ¿Podemos aspirar a ser un país desarrollado si la mitad de nuestros niños no aprende lo básico en la escuela primaria, y qué medidas urgentes se necesitan para revertir esta debacle?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "educacion-primaria-aprender-argentina",
+    "fecha": "2026-08-13",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Escándalo global: ¿Falla Argentina en el control de calidad de su carne?",
+    "bajada": "Estados Unidos retiró 13 toneladas de carne vacuna por no cumplir con inspecciones, un golpe a la marca país.",
+    "cuerpo": "La noticia de que Estados Unidos retiró más de 13 toneladas de carne vacuna argentina por no pasar una reinspección sanitaria obligatoria es un golpe duro a la reputación de uno de los productos estrella del país. Este incidente no solo genera pérdidas económicas directas, sino que daña la imagen de \"marca Argentina\" en los mercados internacionales. Si bien las autoridades nacionales intentarán minimizar el hecho, la realidad es que un fallo en los controles sanitarios, o en la burocracia que los gestiona, tiene consecuencias serias en un sector tan competitivo como el de las exportaciones cárnicas.\n\nEste episodio plantea serios interrogantes sobre la eficiencia y el rigor de los organismos de control argentinos. ¿Qué tan robustos son nuestros sistemas de inspección si un lote tan significativo no cumple con estándares básicos en un mercado exigente como el estadounidense? La crítica debe apuntar a la necesidad de modernizar y transparentar los procesos, para evitar que la negligencia o la ineficacia burocrática comprometan la credibilidad de un sector vital para la economía. ¿Es este un incidente aislado o un síntoma de problemas estructurales que requieren una reforma profunda en los controles sanitarios y de calidad en Argentina?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "escandalo-global-carne-argentina",
+    "fecha": "2026-08-13",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Detenida por ICE: ¿Trato delincuencial a ciudadanos argentinos en EEUU?",
+    "bajada": "Una niñera argentina relató su calvario tras ser arrestada por ICE, denunciando un trato inhumano.",
+    "cuerpo": "El testimonio de la niñera argentina que pasó más de un mes detenida por el ICE en Estados Unidos es un relato desgarrador que pone en el foco el trato que reciben los ciudadanos extranjeros bajo el rigor de las políticas migratorias. \"Nos trataron como delincuentes\", afirmó, una declaración que resuena con la preocupación por los derechos humanos y la dignidad de las personas, incluso en el marco de procedimientos migratorios. Más allá de la legalidad de la detención, el tratamiento y las condiciones de encierro revelan una faceta dura y a menudo deshumanizada de los sistemas de control de fronteras.\n\nEste caso no solo es una historia personal de angustia, sino que también interpela la protección consular y el rol de nuestro propio Estado en la defensa de sus ciudadanos en el exterior. ¿Son los argentinos vulnerables a tratos que exceden lo razonable cuando están fuera de su país? La crítica a políticas migratorias draconianas no es exclusiva de un gobierno, pero cada caso individual como este nos obliga a reflexionar sobre los límites del poder estatal y la importancia de garantizar un trato digno a toda persona. ¿Cómo puede Argentina defender mejor a sus ciudadanos y qué mecanismos internacionales deberían reforzarse para evitar que se repitan estas experiencias?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "detenida-ice-trato-delincuencial-argentinos-eeuu",
+    "fecha": "2026-08-13",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Sueño australiano: ¿Argentina expulsa talento o Australia atrae prosperidad?",
+    "bajada": "La historia de Cami, quien compró una casa en un mes en Australia, expone la dura realidad económica local.",
+    "cuerpo": "La historia de Cami, una argentina que emigró a Australia hace siete años y logró comprar una casa \"con un mes de trabajo\", resuena fuerte en un país donde acceder a la vivienda propia es una quimera para la mayoría. Este testimonio no es solo un relato de éxito personal, sino un crudo espejo que refleja las profundas diferencias económicas y de oportunidades entre Argentina y naciones con economías más estables y reglas de juego claras. Mientras en Australia se premia el esfuerzo y se facilita la inversión, en Argentina la presión impositiva, la inflación galopante y la inestabilidad macroeconómica se han convertido en muros infranqueables para el progreso individual.\n\nLa crítica no apunta a la decisión individual de emigrar, sino a las condiciones estructurales que llevan a miles de jóvenes y profesionales a buscar un futuro fuera de su tierra. ¿Es Argentina capaz de ofrecer un horizonte de prosperidad que retenga a su talento, o la ausencia de disciplina fiscal y la constante injerencia estatal seguirán incentivando la diáspora? Este fenómeno, si bien doloroso, debe ser un llamado de atención urgente para los líderes políticos a repensar un modelo de país que hoy, para muchos, no ofrece más que frustración y desarraigo.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "sueno-australiano-argentina-talento-prosperidad",
+    "fecha": "2026-08-13",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
     "titulo": "Independiente, ¿otro fracaso? Goleada y crisis en el Rey de Copas",
     "bajada": "El 'Rojo' sufrió una humillante derrota que expone graves deficiencias estructurales y levanta interrogantes sobre su futuro deportivo y económico.",
     "cuerpo": "La reciente goleada que Atlético Tucumán le propinó a Independiente por la Copa Argentina es más que una simple caída deportiva; es el síntoma de una crisis profunda que atraviesa al club de Avellaneda. Este nuevo traspié no solo significa la eliminación de una competencia clave, sino que también pone en evidencia la falta de una dirección clara y la fragilidad institucional que ha caracterizado al \"Rey de Copas\" en los últimos años. Los hinchas exigen respuestas, y el club, lejos de encontrarlas, parece sumergirse cada vez más en un pozo sin fondo.\n\nEste fracaso deportivo tiene ramificaciones económicas y políticas innegables. La gestión actual se ve seriamente comprometida, y la falta de resultados impacta directamente en la moral de los socios y en la capacidad de generar ingresos genuinos. Mientras otros clubes se profesionalizan y sanan sus cuentas, Independiente sigue atado a viejas prácticas que lo alejan de la competitividad. ¿Es este el precio de la improvisación y la falta de visión a largo plazo en una institución tan gloriosa?",
@@ -45,7 +129,7 @@
     "slug": "caputo-argentina-arrasada-25-anos-casta",
     "fecha": "2026-08-13",
     "imagen": "img/economia_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Carne Argentina: ¿Otro golpe a la imagen del país por falta de control?",
@@ -201,90 +285,6 @@
     "slug": "escandalo-eeuu-carne-argentina-un-lujo-dudoso",
     "fecha": "2026-08-12",
     "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La Argentina del 78%: ¿el fracaso de una matriz productiva?",
-    "bajada": "Datos alarmantes revelan que la gran mayoría de los hogares argentinos se hunde en la clase baja y media baja.",
-    "cuerpo": "Infobae expone una cruda realidad: el 78% de los hogares argentinos se ubica en las clases baja y media baja, una cifra que debería resonar con fuerza en el debate público. Este dato no solo subraya el proceso de empobrecimiento generalizado de las últimas décadas, sino que pone en tela de juicio la efectividad de las políticas económicas aplicadas por gobiernos de distinto signo. La persistencia de la inflación, la presión impositiva asfixiante y la falta de inversión productiva son factores clave que impiden a las familias ascender socialmente, perpetuando un ciclo de estancamiento y precariedad.\n\nDesde una perspectiva liberal, la injerencia excesiva del Estado, el gasto público descontrolado y las regulaciones que ahogan la iniciativa privada han sido los principales motores de esta decadencia. Mientras se prometen soluciones mágicas, la realidad golpea con la pérdida del poder adquisitivo y la dificultad para generar riqueza. La falta de disciplina fiscal y la continua emisión monetaria, argumentos sostenidos por la casta política, son las causas estructurales que condenan a la mayoría a la vulnerabilidad económica.\n\n¿Hasta cuándo ignoraremos que el camino hacia la prosperidad no se construye con más Estado y burocracia, sino con libertad económica y un marco estable para la inversión y el crecimiento genuino?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "la-argentina-del-78-por-ciento-fracaso-matriz-productiva",
-    "fecha": "2026-08-12",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Insumos industriales: ¿Argentina, el país del costo alto?",
-    "bajada": "Pese a la convergencia de precios, producir en Argentina sigue siendo más caro que en sus vecinos, limitando la competitividad.",
-    "cuerpo": "La industria argentina enfrenta un dilema persistente: los insumos siguen siendo significativamente más caros que en Brasil y Chile, incluso con cierta convergencia en los precios de los productos finales. Este diferencial de costos es un lastre formidable para la competitividad y la capacidad de las empresas nacionales para expandirse y generar empleo genuino. TN destaca que factores como la alta presión impositiva, los costos laborales excesivos y una infraestructura deficiente contribuyen a esta distorsión, haciendo que producir en Argentina sea una odisea.\n\nLa visión liberal de Panorama.ar siempre ha señalado que la carga estatal es insostenible. La maraña de impuestos, las regulaciones laborales rígidas y la falta de inversión en logística y energía, son obstáculos sistémicos que el Estado no logra resolver, y a menudo, los genera. Mientras nuestros vecinos avanzan con políticas más amigables para el sector privado, Argentina sigue anclada en un modelo que castiga la producción y privilegia una burocracia ineficiente y una \"casta\" política que ignora las necesidades de los emprendedores y trabajadores.\n\n¿Hasta cuándo toleraremos que la intervención estatal y la falta de reformas estructurales sigan condenando a nuestra industria a una desventaja crónica frente a la región?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "insumos-industriales-argentina-pais-costo-alto",
-    "fecha": "2026-08-12",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Turismo: ¿por qué Argentina dejó de ser líder regional?",
-    "bajada": "Una mirada crítica a las políticas que empujaron a nuestro país a perder terreno en un sector clave.",
-    "cuerpo": "La Nación revela una realidad preocupante: Argentina ha perdido su liderazgo turístico en la región, cediendo terreno frente a destinos como Brasil y Chile. Este declive no es un fenómeno aislado, sino el resultado de años de políticas económicas erráticas y una falta de visión estratégica. Los altos costos internos, las distorsiones del tipo de cambio, la presión impositiva y una infraestructura que no acompaña las demandas modernas, han convertido a Argentina en un destino menos atractivo tanto para el turismo internacional como para el nacional.\n\nDesde Panorama.ar, se subraya que la intervención estatal excesiva y la inestabilidad macroeconómica son los principales culpables. Mientras los países vecinos ofrecen un marco más predecible y costos más competitivos, aquí se penaliza la inversión y el desarrollo del sector. Los empresarios del turismo, que deberían ser motores de crecimiento, se ven asfixiados por regulaciones y una \"casta\" política que no entiende la dinámica del mercado. La oportunidad de generar divisas y empleo genuino se desvanece por la incapacidad de establecer reglas claras y un entorno favorable.\n\n¿Es la pérdida de liderazgo turístico solo una consecuencia más de un modelo económico agotado que sigue priorizando el gasto ineficiente y la burocracia sobre la libertad y la inversión privada?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "turismo-por-que-argentina-dejo-ser-lider-regional",
-    "fecha": "2026-08-12",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Ciencia argentina: ¿recorte necesario o \"desguace libertario\"?",
-    "bajada": "La comunidad científica alerta sobre el impacto de las políticas fiscales en la investigación nacional.",
-    "cuerpo": "La denuncia de \"desguace libertario\" de la ciencia argentina por parte de investigadores es un llamado de atención que resuena en un contexto de profundos ajustes fiscales. Página|12 recoge el temor de la comunidad científica ante recortes que, argumentan, ponen en riesgo décadas de desarrollo e inversión en un sector estratégico. Si bien es innegable la necesidad de sanear las cuentas públicas y revisar la eficiencia del gasto en todas las áreas del Estado, la discusión pasa por identificar dónde radica el verdadero valor y la potencialidad de la ciencia nacional.\n\nDesde Panorama.ar, entendemos que la disciplina fiscal es irrenunciable. Sin embargo, también es crucial que el ajuste no se convierta en una destrucción indiscriminada que comprometa el futuro. La cuestión no es si se debe ajustar, sino cómo se ajusta y qué se protege. ¿Es toda la investigación igualmente relevante y eficiente? ¿O hay estructuras que se han vuelto obsoletas o burocráticas, generadoras de una \"casta\" científica con privilegios injustificados? La clave es discernir entre la inversión esencial para el progreso y el mantenimiento de gastos que no justifican su retorno social o económico, buscando una ciencia que sea motor de desarrollo real y no de dependencia estatal.\n\nEn este escenario de tensión, ¿es posible lograr un equilibrio entre la necesaria austeridad estatal y la protección de la ciencia estratégica, o estamos condenados a un debate polarizado que impide una visión de largo plazo para el desarrollo nacional?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "ciencia-argentina-recorte-necesario-o-desguace-libertario",
-    "fecha": "2026-08-12",
-    "imagen": "img/politica_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Solidaridad real o gesto simbólico? Argentina y la crisis en Colombia",
-    "bajada": "Un gesto solidario desde Argentina, pero ¿cuál es el rol de un Estado en crisis frente a catástrofes regionales?",
-    "cuerpo": "La noticia destaca la cocina argentina en Cali para asistir a los afectados por el terremoto en Colombia, mostrando la buena voluntad de la comunidad. Es un acto noble que resalta la capacidad de la sociedad civil para organizarse y ayudar en momentos de necesidad extrema.Sin embargo, cabe preguntarse sobre el verdadero impacto y la sostenibilidad de estas iniciativas frente a la magnitud de una catástrofe. ¿Hasta qué punto la solidaridad individual puede suplir la ausencia de políticas estatales robustas, tanto en asistencia externa como en la propia gestión de riesgos en Argentina? La \"ayuda argentina\" es un bálsamo, pero no oculta la fragilidad estructural.¿Estamos priorizando gestos mediáticos sobre la construcción de una verdadera capacidad de respuesta y prevención, tanto a nivel nacional como regional?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "solidaridad-real-o-gesto-simbolico-argentina-y-la-crisis-en-colombia",
-    "fecha": "2026-08-12",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Precios dolarizados, salarios devaluados? El costo de vida se dispara",
-    "bajada": "La Argentina se encarece en dólares, con gastos clave que escalan hasta 53% desde 2023. ¿Quién paga la fiesta?",
-    "cuerpo": "El informe de Ámbito Financiero revela una cruda realidad: mientras se busca estabilizar la economía, el costo de vida en Argentina, medido en dólares, aumentó un 1% en mayo, y ciertos gastos esenciales crecieron hasta un impactante 53% desde el año pasado. Esto impacta directamente en el poder adquisitivo de los ciudadanos, especialmente aquellos con ingresos en pesos, generando una presión insostenible.Este fenómeno, lejos de reflejar una mejora económica, evidencia la persistencia de distorsiones estructurales y la dificultad para contener la inflación real. ¿Se trata de una inevitable \"sinceración\" de precios o de la incapacidad de la política económica para generar un alivio genuino para los argentinos? La casta política debe explicar por qué el ajuste lo sienten mayormente los de abajo.¿Es sostenible un modelo donde la Argentina se \"dolariza\" en precios, pero no en salarios y ahorros, ampliando la brecha y erosionando la clase media?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "precios-dolarizados-salarios-devaluados-el-costo-de-vida-se-dispara",
-    "fecha": "2026-08-12",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina vs. la región: ¿Por qué producimos tan caro?",
-    "bajada": "El 49% de los insumos industriales argentinos son más caros que en países vecinos, frenando la competitividad.",
-    "cuerpo": "Un nuevo informe de Infobae revela que Argentina sigue perdiendo la batalla de la competitividad. El 49% de sus insumos industriales son más caros que los de sus vecinos, Brasil y Chile, a pesar de supuestas convergencias de precios. Esto se traduce en un costo de producción elevado que impide a las empresas locales competir en mercados internacionales y generar riqueza.La persistencia de esta desventaja competitiva, con el Estado como principal obstáculo a través de la presión impositiva y la burocracia, expone la urgente necesidad de reformas estructurales. Mientras la casta discute cuotas de poder, el sector productivo se ahoga. ¿Hasta cuándo se seguirá castigando a quienes invierten y generan empleo con una carga fiscal asfixiante y regulaciones absurdas?¿Es posible revertir esta tendencia sin un verdadero compromiso político para reducir el gasto público y eliminar las trabas que encarecen la producción y asfixian a la economía real?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-vs-la-region-por-que-producimos-tan-caro",
-    "fecha": "2026-08-12",
-    "imagen": "img/economia_3.png",
     "destacada": false
   }
 ]
