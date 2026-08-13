@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Otro fracaso de la casta? Independiente echó a Gustavo Quinteros",
+    "bajada": "La eliminación por goleada en Copa Argentina destapa una crisis que va más allá de un técnico.",
+    "cuerpo": "La salida de Gustavo Quinteros de Independiente tras la humillante derrota 4-0 ante Atlético Tucumán en la Copa Argentina es un síntoma de un problema más profundo en el fútbol argentino. Más allá del rendimiento deportivo, ¿hasta cuándo se seguirá gestionando al rojo como un apéndice de la política, con decisiones cortoplacistas y sin un plan serio a largo plazo? La improvisación parece ser la única constante.\n\nEl ciclo de Quinteros fue breve y estuvo marcado por la inestabilidad institucional que caracteriza a muchos clubes. La derrota contundente en un torneo clave expone la falta de una visión clara y la necesidad de una profesionalización urgente. Mientras tanto, los socios y los hinchas pagan los platos rotos de una dirigencia que no logra encauzar el rumbo.\n\n¿Es la expulsión de un técnico la solución real, o solo la punta del iceberg de un modelo de gestión que necesita ser refundado desde sus bases, con transparencia y mérito?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "otro-fracaso-casta-independiente-echo-gustavo-quinteros",
+    "fecha": "2026-08-13",
+    "imagen": "img/sociedad_2.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Inversiones y soberanía: EEUU advierte a Argentina por China",
+    "bajada": "El embajador estadounidense fue claro: \"Cocodrilo que se duerme es cartera\". ¿De qué lado está Argentina?",
+    "cuerpo": "La reciente y contundente advertencia del embajador de Estados Unidos en Argentina sobre la exclusión de Huawei y la influencia del Partido Comunista Chino pone en jaque la delicada balanza geopolítica del país. El mensaje es directo: la relación con Beijing puede obstaculizar la llegada de inversiones occidentales vitales para nuestra economía. Un dilema que exige una postura clara, más allá de la retórica.\n\nEl diplomático fue explícito al comparar la situación con un \"cocodrilo que se duerme es cartera\", una frase que subraya la urgencia de tomar decisiones estratégicas. Mientras algunos sectores ven una oportunidad en la inversión china, otros alertan sobre las implicancias a largo plazo para la soberanía tecnológica y la alineación con democracias liberales. La Argentina no puede permitirse el lujo de la ambigüedad en un tablero global cada vez más polarizado.\n\n¿Es la \"neutralidad\" una opción viable o es tiempo de definir socios estratégicos que realmente promuevan el crecimiento y la libertad, sin comprometer nuestra autonomía?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "inversiones-soberania-eeuu-advierte-argentina-china",
+    "fecha": "2026-08-13",
+    "imagen": "img/politica_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Copa Argentina: Boca y Vélez, un clásico de contrastes",
+    "bajada": "Confirmada la sede para el choque que paraliza a la mitad del país.",
+    "cuerpo": "La confirmación de la sede, día y horario para el esperado encuentro entre Boca Juniors y Vélez Sarsfield por la Copa Argentina vuelve a poner en el centro de la escena al negocio del fútbol. Más allá de la pasión que despierta este tipo de cruces, la organización de estos eventos genera enormes movimientos económicos y logísticos que no siempre son transparentes o eficientes. ¿Se prioriza al hincha o al espectáculo televisivo?\n\nLa Copa Argentina, pensada para federalizar el fútbol, a menudo se convierte en un laberinto de intereses donde los clubes más grandes siempre tienen la última palabra. La elección de la sede y los horarios responden a lógicas comerciales antes que a las de los verdaderos protagonistas: los jugadores y los miles de fanáticos que deben movilizarse. Mientras tanto, el debate sobre la seguridad y el acceso sigue siendo una cuenta pendiente.\n\n¿Este modelo de Copa Argentina realmente beneficia al fútbol nacional o solo replica las desigualdades y problemas estructurales que aquejan a nuestra liga?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "copa-argentina-boca-velez-clasico-contrastes",
+    "fecha": "2026-08-13",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: ¿Turismo en \"guerra\" por la ineficiencia estatal?",
+    "bajada": "El sector turístico nacional se desploma a niveles de conflicto, una alerta grave para la economía.",
+    "cuerpo": "El diagnóstico es alarmante: el turismo en Argentina se encuentra en \"caída libre\", comparando su desempeño con el de países en conflicto. Esta cruda realidad no es casualidad; es el resultado directo de una combinación letal de presión impositiva asfixiante, burocracia estatal ineficiente y una falta de políticas claras que fomenten la inversión y la competitividad. Lejos de ser un motor de desarrollo, el sector se ahoga en regulaciones.\n\nMientras naciones vecinas florecen con estrategias de promoción y desregulación, Argentina insiste en un modelo que castiga al emprendedor y al inversor. Los altos costos operativos, la imprevisibilidad económica y la falta de infraestructura adecuada terminan por espantar tanto al turista extranjero como al nacional. Esta situación no solo implica una pérdida de divisas, sino también de miles de empleos que dependen directamente de la actividad.\n\n¿Hasta cuándo se seguirá ignorando el potencial del turismo por aferrarse a un Estado sobredimensionado que solo logra destruir la capacidad productiva del país?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-turismo-guerra-ineficiencia-estatal",
+    "fecha": "2026-08-13",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Competitividad: ¿Por qué Argentina paga más por insumos industriales?",
+    "bajada": "El 49% de los insumos es más caro que en la región, un freno para la producción.",
+    "cuerpo": "La persistente brecha de precios en insumos industriales, con Argentina pagando hasta un 49% más que sus vecinos como Brasil y Chile, es un claro indicador de la falta de competitividad estructural de nuestra economía. Este desfasaje no solo encarece la producción local, sino que también desincentiva la inversión y frena la creación de empleo genuino. ¿Hasta cuándo se sostendrá un modelo que castiga a la industria?\n\nEl informe señala que, a pesar de cierta convergencia de precios en algunas áreas, la carga impositiva, los costos laborales no salariales y la maraña regulatoria continúan siendo barreras infranqueables. Mientras el Estado se muestra reacio a ceder privilegios y a desburocratizar, nuestras empresas operan en desventaja, perdiendo mercados y capacidad de expansión. La retórica de la \"industria nacional\" choca con una realidad económica brutal.\n\n¿Es realmente posible hablar de un futuro industrial próspero si no se abordan con seriedad las reformas estructurales que permitan a las empresas competir en igualdad de condiciones?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "competitividad-por-que-argentina-paga-mas-insumos-industriales",
+    "fecha": "2026-08-13",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Madre a los 62: ¿Un récord que redefine la familia argentina?",
+    "bajada": "Una mujer se convirtió en la madre de mayor edad en Argentina, abriendo un debate social.",
+    "cuerpo": "El caso de la mujer de 62 años que se convirtió en madre primeriza en San Nicolás ha captado la atención de la opinión pública, rompiendo un récord en Argentina y redefiniendo los límites de la maternidad. Si bien es un hecho de alegría personal, este suceso invita a reflexionar sobre los avances médicos, las estructuras familiares y los desafíos sociales y económicos que implica la crianza en edades avanzadas. ¿Estamos preparados como sociedad para estos nuevos paradigmas?\n\nLa noticia, que resalta el \"embarazo maravilloso\" vivido por la protagonista, también genera interrogantes sobre el rol del Estado y las políticas de apoyo a la familia. En un país con una demografía cambiante y presiones económicas constantes, la longevidad reproductiva plantea la necesidad de adaptar marcos legales y sociales, así como de garantizar el bienestar del menor.\n\n¿Qué implicancias tiene este tipo de hitos para la concepción tradicional de la familia y el futuro de las políticas de natalidad y apoyo a la crianza en Argentina?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "madre-62-record-redefine-familia-argentina",
+    "fecha": "2026-08-13",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Niñera argentina detenida por ICE: ¿Trato justo o abuso de poder?",
+    "bajada": "Después de un mes, la niñera argentina habla de su detención en EEUU. \"Nos trataron como criminales\".",
+    "cuerpo": "La conmovedora historia de la niñera argentina que relata haber sido \"tratada como criminal\" tras ser detenida por el ICE de Estados Unidos, pone en primer plano el debate sobre las políticas migratorias y el respeto a los derechos humanos. Más allá de la legalidad de la detención, el testimonio expone la dureza de los procedimientos y las implicancias psicológicas de enfrentar un sistema migratorio que puede parecer implacable.\n\nEl relato de la joven, ahora en libertad, reabre la discusión sobre la mano dura y sus límites. Si bien la defensa de la soberanía y las leyes migratorias son legítimas, la cuestión de la dignidad y el trato humano no puede quedar en un segundo plano. ¿Es el rigor burocrático un fin en sí mismo o debe estar al servicio de la justicia y el respeto por las personas, incluso en situaciones de irregularidad?\n\n¿Cómo debe Argentina posicionarse frente a estas situaciones que afectan a sus ciudadanos en el extranjero, exigiendo respeto por los derechos sin fomentar la informalidad migratoria?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "ninera-argentina-detenida-ice-trato-justo-abuso-poder",
+    "fecha": "2026-08-13",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
     "titulo": "Crisis en el Rey de Copas: ¿Fin de ciclo para Quinteros en Independiente?",
     "bajada": "La eliminación temprana del club aviva el debate sobre la gestión deportiva y el rol de la dirigencia.",
     "cuerpo": "La dura derrota de Independiente por 4-0 frente a Atlético Tucumán en la Copa Argentina no fue solo un resultado deportivo, sino un detonante para una crisis institucional que ya se venía gestando. La cúpula dirigencial del \"Rojo\" se encuentra en un cónclave urgente para decidir el futuro del director técnico, Quinteros. La afición, enardecida, exige respuestas inmediatas y un cambio de rumbo ante la decadencia futbolística del equipo. Este episodio subraya la fragilidad de proyectos a largo plazo y la constante presión en el fútbol argentino, donde los resultados mandan por encima de cualquier planificación.\n\nEl ciclo de Quinteros, que prometía una reconstrucción, parece llegar a su fin de forma abrupta. ¿Es la dirigencia capaz de asumir la autocrítica necesaria para encontrar soluciones de fondo, o se limitará a un nuevo cambio de entrenador, perpetuando un ciclo de inestabilidad que afecta al legendario club? La pregunta es crucial para el futuro de uno de los grandes.",
@@ -21,7 +105,7 @@
     "slug": "argentina-arrasada-reconstruccion-utopia",
     "fecha": "2026-08-13",
     "imagen": "img/politica_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Competitividad: ¿Por qué la Argentina sigue siendo una isla cara?",
@@ -201,90 +285,6 @@
     "slug": "hasta-cuando-se-defiende-a-milei-sin-sonrojarse-argentina",
     "fecha": "2026-08-13",
     "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Inflación en dólares ahoga a Argentina? Gastos subieron 53% desde 2023.",
-    "bajada": "A pesar de la contención de la inflación en pesos, el poder adquisitivo en dólares sigue deteriorándose, impactando a los ciudadanos.",
-    "cuerpo": "Los datos de Ambito son contundentes: la \"inflación en dólares\" encareció a Argentina un 1% en mayo, con gastos clave que se dispararon hasta un 53% desde 2023. Este fenómeno expone una cruda realidad: mientras el gobierno celebra la desaceleración de la inflación en moneda local, el costo de vida medido en la divisa estadounidense, parámetro fundamental para muchos, sigue escalando. Esto golpea directamente el bolsillo de la clase media y trabajadora, que ve cómo sus ingresos se licúan frente a productos y servicios dolarizados.\n\nLa devaluación inicial y la posterior apreciación del peso nominal en un contexto de alta inflación de bienes y servicios generan una trampa para el consumidor. ¿Cómo se explica que Argentina siga siendo \"cara en dólares\" mientras se busca estabilidad económica? La respuesta reside en una estructura de costos internos que no cede, sumada a una presión impositiva asfixiante y una falta de competencia que permite a ciertos sectores mantener precios elevados. ¿Será posible revertir esta tendencia sin afectar el tan ansiado superávit fiscal y las reformas de mercado?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "inflacion-dolares-ahoga-argentina-gastos-subieron-53-desde-2023",
-    "fecha": "2026-08-13",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Competitividad: ¿Por qué los insumos industriales ahogan a Argentina?",
-    "bajada": "El 49% de los insumos industriales son más caros que en países vecinos, un lastre para la producción y el desarrollo.",
-    "cuerpo": "El informe de Infobae es lapidario: \"Argentina no mejora su competitividad\", con el 49% de los insumos industriales más caros que en Brasil o Chile. Esta cruda realidad expone las falencias estructurales que impiden al país insertarse eficazmente en el comercio global. La alta carga impositiva, los costos laborales excesivos y una burocracia sofocante encarecen la producción local, dificultando la exportación y encareciendo los bienes de consumo interno.\n\nMientras el gobierno impulsa reformas para reducir el gasto público y desregular la economía, el sector industrial clama por medidas concretas que alivien la presión sobre sus costos. La \"convergencia de precios\" con la región no se traduce en menor costo para la industria, lo que mantiene a Argentina en una posición desventajosa. ¿Podrá el país superar este escollo sin una reforma tributaria profunda y una verdadera simplificación del entramado burocrático que asfixia a los productores?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "competitividad-por-que-insumos-industriales-ahogan-argentina",
-    "fecha": "2026-08-13",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Realmente se comprarán US$10.000 millones en reservas para 2027 en Argentina?",
-    "bajada": "El anuncio del gobierno sobre el futuro de las reservas del BCRA genera optimismo entre los inversores, pero también cautela.",
-    "cuerpo": "El gobierno ha anunciado su ambiciosa meta de comprar otros US$10.000 millones en reservas antes de las elecciones de 2027. Esta proyección, que busca consolidar la estabilidad macroeconómica y fortalecer la confianza de los mercados, es vista por los defensores de la política oficial como una señal de éxito en la disciplina fiscal y la acumulación de divisas. Un banco central robusto es, sin duda, una aspiración legítima para cualquier economía seria.\n\nSin embargo, la historia económica argentina está plagada de anuncios optimistas que chocaron con la realidad. ¿De dónde provendrán estos dólares sin recurrir a un mayor endeudamiento o a una profundización del cepo cambiario que asfixia a la producción? Los críticos advierten sobre la fragilidad de la economía real y la necesidad de sostener un superávit comercial genuino, no basado en la recesión. ¿Es esta una meta realista y sostenible a largo plazo, o una promesa electoral que podría generar expectativas desmedidas y un ajuste aún mayor para la sociedad?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "realmente-se-compraran-us10000-millones-reservas-para-2027-argentina",
-    "fecha": "2026-08-13",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Niñera argentina detenida: ¿Trato \"criminal\" o falla migratoria?",
-    "bajada": "La experiencia de una joven argentina arrestada por el ICE de Trump reabre el debate sobre derechos y soberanía en el exterior.",
-    "cuerpo": "La conmovedora historia de la niñera argentina detenida por el ICE en Estados Unidos y su posterior liberación, tal como relató Infobae, pone en el tapete la vulnerabilidad de nuestros ciudadanos en el exterior y las rigurosas políticas migratorias de otras naciones. La joven denunció haber sido tratada \"como criminal\", un testimonio que choca con la imagen de un país garante de derechos. Este caso reaviva la discusión sobre el rol del Estado argentino en la protección de sus connacionales y la eficacia de nuestra diplomacia.\n\nMientras la administración Trump implementó políticas de \"mano dura\" contra la inmigración, generando controversias a nivel global, surge la pregunta sobre la responsabilidad individual frente a la ley y la efectividad de los sistemas de asesoramiento legal en el extranjero. ¿Es suficiente la empatía o se requiere una postura más firme del gobierno argentino para defender a sus ciudadanos, evitando que historias como estas se repitan? ¿O es, por el contrario, una cuestión de estricto cumplimiento de las normas de cada país, más allá del drama humano que implique?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "niñera-argentina-detenida-trato-criminal-o-falla-migratoria",
-    "fecha": "2026-08-13",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Está Argentina preparada? Sismos y la lección de Colombia en la región.",
-    "bajada": "Los recientes temblores en la región encienden alarmas sobre la vulnerabilidad sísmica de nuestro país.",
-    "cuerpo": "La actividad sísmica reciente en países como Colombia y Venezuela ha puesto en relieve la fragilidad de las infraestructuras y la preparación ante catástrofes naturales. En Argentina, con zonas de alto riesgo sísmico concentradas en la Cordillera, la pregunta sobre la efectividad de las políticas de prevención y respuesta se vuelve crucial. La Gaceta destaca que provincias como San Juan, Mendoza y Salta son las más expuestas, requiriendo planes de contingencia robustos y constantes actualizaciones.\n\nLos expertos alertan sobre la necesidad de invertir en infraestructura antisísmica y en la concientización ciudadana. Mientras algunos funcionarios insisten en que los protocolos actuales son adecuados, la realidad de los eventos internacionales sugiere que la autocomplacencia no es una opción. La inversión en ciencia y tecnología para monitorear y predecir estos fenómenos es un pilar fundamental que no puede ser desatendido.\n\n¿Estamos realmente tomando en serio las advertencias, o la próxima tragedia nos encontrará, una vez más, lamentando la falta de previsión y el gasto ineficiente en áreas clave de prevención?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "esta-argentina-preparada-sismos-leccion-colombia-region",
-    "fecha": "2026-08-12",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Copa Argentina: pasión, ¿o distracción de la realidad?",
-    "bajada": "El choque entre Atlético Tucumán e Independiente expone la dicotomía de un país absorto en el fútbol.",
-    "cuerpo": "Mientras millones de argentinos sintonizan la Copa Argentina para ver el enfrentamiento entre Atlético Tucumán e Independiente, la efervescencia del fútbol a menudo eclipsa debates urgentes sobre la situación económica y social. Este evento, que genera expectativas y moviliza multitudes, representa una parte innegable de la identidad nacional, pero también plantea la pregunta sobre el lugar que ocupa en nuestra agenda colectiva. La inversión y la atención mediática en el deporte contrastan con las carencias en otros sectores vitales.\n\nLa organización de estos torneos, con sus presupuestos millonarios y despliegues logísticos, muestra una capacidad de gestión que pocas veces se ve en áreas críticas como la salud o la educación. Los clubes, a menudo dependientes de subsidios o manejos económicos cuestionables, son un reflejo de un sistema que prioriza lo inmediato y lo pasional sobre la planificación a largo plazo. Es un reflejo de la \"casta\" deportiva que a veces se beneficia de esta pasión nacional.\n\n¿Es la fiebre del fútbol una válvula de escape necesaria para la sociedad, o una cortina de humo que impide afrontar con seriedad los desafíos que nos apremian como nación?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "copa-argentina-pasion-o-distraccion-de-la-realidad",
-    "fecha": "2026-08-12",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Escándalo en EE.UU.: ¿carne argentina, un lujo dudoso?",
-    "bajada": "La retención de toneladas de carne por controles sanitarios fallidos expone la fragilidad de nuestra reputación exportadora.",
-    "cuerpo": "La reciente decisión de Estados Unidos de retirar del mercado 13 toneladas de carne vacuna argentina por no pasar una reinspección obligatoria es un golpe duro a la ya frágil imagen de nuestras exportaciones. Este incidente no solo implica pérdidas económicas directas para los productores, sino que siembra dudas sobre la calidad y el cumplimiento de los estándares sanitarios internacionales. En un mercado global cada vez más competitivo y exigente, errores de esta magnitud pueden tener consecuencias a largo plazo, afectando la confianza de otros compradores y la credibilidad de los organismos de control estatales.\n\nFuentes del sector señalan que, si bien puede tratarse de un incidente aislado, es imperativo revisar los procesos de inspección y la burocracia que a menudo obstaculiza la eficiencia y la transparencia. La laxitud o la falta de recursos en los controles oficiales pueden derivar en situaciones como esta, donde la incapacidad del Estado para garantizar la calidad final perjudica a toda una industria. Mientras Argentina busca desesperadamente dólares mediante exportaciones, no podemos permitirnos fallas que comprometan mercados clave.\n\n¿Estamos priorizando la burocracia y la ineficiencia sobre la calidad y el rigor que demanda la inserción en mercados premium, o es un síntoma más de la intervención estatal que termina por dañar la productividad?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "escandalo-eeuu-carne-argentina-un-lujo-dudoso",
-    "fecha": "2026-08-12",
-    "imagen": "img/economia_6.png",
     "destacada": false
   }
 ]
