@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Paliza histórica o reflejo de una crisis? Independiente y la Copa Argentina.",
+    "bajada": "La contundente victoria de Atlético Tucumán expone las profundas falencias de un gigante en apuros.",
+    "cuerpo": "La reciente goleada histórica de Atlético Tucumán sobre Independiente por la Copa Argentina no es un mero resultado deportivo; es un espejo de la profunda crisis que atraviesa uno de los clubes más grandes del país. La abultada derrota no solo humilla a sus hinchas, sino que pone en evidencia la falta de un proyecto deportivo sólido y una gestión que parece incapaz de revertir la situación.\n\nEl equipo, que alguna vez fue sinónimo de gloria, hoy es noticia por sus debacles. ¿Hasta cuándo se permitirá que la ineficacia deportiva y dirigencial siga arrastrando a una institución con tanta historia? La paciencia se agota, y el clamor por cambios estructurales se hace cada vez más fuerte. ¿Estamos viendo el ocaso de un coloso o el punto de inflexión para una necesaria refundación?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "paliza-historica-o-reflejo-de-crisis-independiente-copa-argentina",
+    "fecha": "2026-08-13",
+    "imagen": "img/sociedad_4.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Caputo y el RIGI: ¿Solución real o \"25 años arrasados\" de Argentina sin cambio?",
+    "bajada": "El ministro de Economía refuerza el discurso liberal mientras presenta una herramienta clave para la inversión, no sin polémica.",
+    "cuerpo": "El ministro de Economía, Luis Caputo, no titubeó al anunciar nuevas inversiones bajo el Régimen de Incentivo para Grandes Inversiones (RIGI), destacando una vez más que \"Argentina ha sido arrasada en los últimos 25 años\". Esta afirmación, que resuena con la narrativa del gobierno de turno, busca justificar la urgencia de medidas liberales y la apertura a grandes capitales para revertir décadas de estancamiento y populismo.\n\nSin embargo, la crítica no se hizo esperar. Sectores industriales y pymes advierten sobre los riesgos de una desprotección de la producción nacional, mientras que la oposición acusa al gobierno de facilitar la fuga de divisas sin garantías de desarrollo local. ¿Es el RIGI el faro de esperanza para la inversión que el país necesita desesperadamente, o una cesión de soberanía económica que podría profundizar desigualdades y liquidar la industria local, como advierten algunos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "caputo-rigi-solucion-real-o-25-anos-arrasados-argentina-sin-cambio",
+    "fecha": "2026-08-13",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Hasta cuándo se \"defiende a Milei sin sonrojarse\" en Argentina?",
+    "bajada": "La defensa acérrima del presidente genera tanto apoyo fervoroso como fuertes cuestionamientos sobre el pensamiento crítico.",
+    "cuerpo": "La nota de Página|12 sobre la defensa \"sin sonrojarse\" del presidente Milei pone el foco en un fenómeno clave de la política actual: la polarización y la lealtad incondicional. Mientras sus defensores argumentan que la firmeza es necesaria para llevar adelante reformas impopulares pero urgentes, sus críticos señalan una falta de autocrítica y un blindaje mediático que impide un debate sano y constructivo.\n\nEste escenario plantea interrogantes sobre la calidad democrática del discurso público. ¿Es posible debatir ideas y políticas cuando cualquier crítica es interpretada como un ataque personal o una conspiración de \"la casta\"? La libertad de expresión es fundamental, pero también lo es la capacidad de escuchar y ponderar argumentos diversos, incluso cuando provienen de sectores ideológicamente opuestos. ¿Estamos ante una nueva forma de política o un peligroso atrincheramiento ideológico?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "hasta-cuando-se-defiende-a-milei-sin-sonrojarse-argentina",
+    "fecha": "2026-08-13",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Inflación en dólares ahoga a Argentina? Gastos subieron 53% desde 2023.",
+    "bajada": "A pesar de la contención de la inflación en pesos, el poder adquisitivo en dólares sigue deteriorándose, impactando a los ciudadanos.",
+    "cuerpo": "Los datos de Ambito son contundentes: la \"inflación en dólares\" encareció a Argentina un 1% en mayo, con gastos clave que se dispararon hasta un 53% desde 2023. Este fenómeno expone una cruda realidad: mientras el gobierno celebra la desaceleración de la inflación en moneda local, el costo de vida medido en la divisa estadounidense, parámetro fundamental para muchos, sigue escalando. Esto golpea directamente el bolsillo de la clase media y trabajadora, que ve cómo sus ingresos se licúan frente a productos y servicios dolarizados.\n\nLa devaluación inicial y la posterior apreciación del peso nominal en un contexto de alta inflación de bienes y servicios generan una trampa para el consumidor. ¿Cómo se explica que Argentina siga siendo \"cara en dólares\" mientras se busca estabilidad económica? La respuesta reside en una estructura de costos internos que no cede, sumada a una presión impositiva asfixiante y una falta de competencia que permite a ciertos sectores mantener precios elevados. ¿Será posible revertir esta tendencia sin afectar el tan ansiado superávit fiscal y las reformas de mercado?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "inflacion-dolares-ahoga-argentina-gastos-subieron-53-desde-2023",
+    "fecha": "2026-08-13",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Competitividad: ¿Por qué los insumos industriales ahogan a Argentina?",
+    "bajada": "El 49% de los insumos industriales son más caros que en países vecinos, un lastre para la producción y el desarrollo.",
+    "cuerpo": "El informe de Infobae es lapidario: \"Argentina no mejora su competitividad\", con el 49% de los insumos industriales más caros que en Brasil o Chile. Esta cruda realidad expone las falencias estructurales que impiden al país insertarse eficazmente en el comercio global. La alta carga impositiva, los costos laborales excesivos y una burocracia sofocante encarecen la producción local, dificultando la exportación y encareciendo los bienes de consumo interno.\n\nMientras el gobierno impulsa reformas para reducir el gasto público y desregular la economía, el sector industrial clama por medidas concretas que alivien la presión sobre sus costos. La \"convergencia de precios\" con la región no se traduce en menor costo para la industria, lo que mantiene a Argentina en una posición desventajosa. ¿Podrá el país superar este escollo sin una reforma tributaria profunda y una verdadera simplificación del entramado burocrático que asfixia a los productores?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "competitividad-por-que-insumos-industriales-ahogan-argentina",
+    "fecha": "2026-08-13",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Realmente se comprarán US$10.000 millones en reservas para 2027 en Argentina?",
+    "bajada": "El anuncio del gobierno sobre el futuro de las reservas del BCRA genera optimismo entre los inversores, pero también cautela.",
+    "cuerpo": "El gobierno ha anunciado su ambiciosa meta de comprar otros US$10.000 millones en reservas antes de las elecciones de 2027. Esta proyección, que busca consolidar la estabilidad macroeconómica y fortalecer la confianza de los mercados, es vista por los defensores de la política oficial como una señal de éxito en la disciplina fiscal y la acumulación de divisas. Un banco central robusto es, sin duda, una aspiración legítima para cualquier economía seria.\n\nSin embargo, la historia económica argentina está plagada de anuncios optimistas que chocaron con la realidad. ¿De dónde provendrán estos dólares sin recurrir a un mayor endeudamiento o a una profundización del cepo cambiario que asfixia a la producción? Los críticos advierten sobre la fragilidad de la economía real y la necesidad de sostener un superávit comercial genuino, no basado en la recesión. ¿Es esta una meta realista y sostenible a largo plazo, o una promesa electoral que podría generar expectativas desmedidas y un ajuste aún mayor para la sociedad?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "realmente-se-compraran-us10000-millones-reservas-para-2027-argentina",
+    "fecha": "2026-08-13",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Niñera argentina detenida: ¿Trato \"criminal\" o falla migratoria?",
+    "bajada": "La experiencia de una joven argentina arrestada por el ICE de Trump reabre el debate sobre derechos y soberanía en el exterior.",
+    "cuerpo": "La conmovedora historia de la niñera argentina detenida por el ICE en Estados Unidos y su posterior liberación, tal como relató Infobae, pone en el tapete la vulnerabilidad de nuestros ciudadanos en el exterior y las rigurosas políticas migratorias de otras naciones. La joven denunció haber sido tratada \"como criminal\", un testimonio que choca con la imagen de un país garante de derechos. Este caso reaviva la discusión sobre el rol del Estado argentino en la protección de sus connacionales y la eficacia de nuestra diplomacia.\n\nMientras la administración Trump implementó políticas de \"mano dura\" contra la inmigración, generando controversias a nivel global, surge la pregunta sobre la responsabilidad individual frente a la ley y la efectividad de los sistemas de asesoramiento legal en el extranjero. ¿Es suficiente la empatía o se requiere una postura más firme del gobierno argentino para defender a sus ciudadanos, evitando que historias como estas se repitan? ¿O es, por el contrario, una cuestión de estricto cumplimiento de las normas de cada país, más allá del drama humano que implique?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "niñera-argentina-detenida-trato-criminal-o-falla-migratoria",
+    "fecha": "2026-08-13",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Está Argentina preparada? Sismos y la lección de Colombia en la región.",
     "bajada": "Los recientes temblores en la región encienden alarmas sobre la vulnerabilidad sísmica de nuestro país.",
     "cuerpo": "La actividad sísmica reciente en países como Colombia y Venezuela ha puesto en relieve la fragilidad de las infraestructuras y la preparación ante catástrofes naturales. En Argentina, con zonas de alto riesgo sísmico concentradas en la Cordillera, la pregunta sobre la efectividad de las políticas de prevención y respuesta se vuelve crucial. La Gaceta destaca que provincias como San Juan, Mendoza y Salta son las más expuestas, requiriendo planes de contingencia robustos y constantes actualizaciones.\n\nLos expertos alertan sobre la necesidad de invertir en infraestructura antisísmica y en la concientización ciudadana. Mientras algunos funcionarios insisten en que los protocolos actuales son adecuados, la realidad de los eventos internacionales sugiere que la autocomplacencia no es una opción. La inversión en ciencia y tecnología para monitorear y predecir estos fenómenos es un pilar fundamental que no puede ser desatendido.\n\n¿Estamos realmente tomando en serio las advertencias, o la próxima tragedia nos encontrará, una vez más, lamentando la falta de previsión y el gasto ineficiente en áreas clave de prevención?",
@@ -45,7 +129,7 @@
     "slug": "la-argentina-del-78-por-ciento-fracaso-matriz-productiva",
     "fecha": "2026-08-12",
     "imagen": "img/economia_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Insumos industriales: ¿Argentina, el país del costo alto?",
@@ -201,90 +285,6 @@
     "slug": "turismo-en-declive-por-que-argentina-pierde-su-brillo-regional",
     "fecha": "2026-08-12",
     "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Competitividad cero: Insumos industriales, 65% más caros que en la región",
-    "bajada": "La producción local, ahogada por una brecha de precios abismal con vecinos como Brasil y Chile.",
-    "cuerpo": "La industria argentina se encuentra en una situación crítica: producir en el país puede ser hasta un 65% más caro que en Brasil o Chile para insumos clave. Esta diferencia, que debería ser un llamado de atención urgente, se traduce en una pérdida brutal de competitividad y una fuga de inversiones que desangra al sector productivo. La presión impositiva desmedida, los costos laborales sobredimensionados por regulaciones anacrónicas y una infraestructura deficiente son solo algunos de los factores que explican este panorama desolador.\n\nMientras la 'casta' política discute nimiedades, miles de empresas luchan por subsistir. La falta de una política económica coherente que fomente la inversión, reduzca el gasto público improductivo y desregule la economía condena a la industria local a la irrelevancia. Los vecinos ofrecen estabilidad y costos más bajos, atrayendo capitales y generando empleo que aquí se pierden.\n\n¿Hasta cuándo se seguirá ignorando esta realidad lacerante? ¿Es sostenible un modelo que encarece la producción a tal punto que competir se vuelve una quimera? La industria demanda respuestas, no más excusas.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "competitividad-cero-insumos-industriales-65-mas-caros-que-region",
-    "fecha": "2026-08-12",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Clase media en extinción: el 78% de los hogares al borde de la pobreza",
-    "bajada": "Un retrato crudo de la Argentina actual: la movilidad social descendente se acelera y erosiona el tejido social.",
-    "cuerpo": "La nueva pirámide social argentina exhibe un dato alarmante: el 78% de los hogares se encuentra entre la clase media baja y la pobreza. Este no es un mero número; es la radiografía de un fracaso sistémico. La clase media, motor histórico del país, se desmorona a pasos agigantados, arrastrada por la inflación galopante, la asfixiante presión impositiva y la falta de oportunidades genuinas que impulsen el ascenso social. Lo que antes era un orgullo, hoy es un lujo para pocos.\n\nLas políticas intervencionistas y el gasto público descontrolado han pulverizado el poder adquisitivo de los trabajadores y emprendedores, empujándolos hacia una precarización cada vez mayor. El relato de la 'igualdad' esconde una realidad de empobrecimiento generalizado, donde solo una minoría vinculada al poder o a sectores protegidos logra mantenerse a flote. La promesa de un futuro mejor se disuelve ante la evidencia de una sociedad cada vez más polarizada y con menos esperanzas.\n\n¿Qué tipo de país estamos construyendo cuando la vasta mayoría lucha por no caer en la indigencia? ¿Hasta cuándo seguiremos aceptando este modelo que destruye el futuro de millones de argentinos?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "clase-media-en-extincion-el-78-por-ciento-hogares-al-borde-pobreza",
-    "fecha": "2026-08-12",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Liberada la niñera argentina: ¿La burocracia migratoria, un calvario sin fin?",
-    "bajada": "Un mes de incertidumbre en EE.UU. para Iliana Lick, un caso que expone las fallas del sistema y la vulnerabilidad del migrante.",
-    "cuerpo": "Iliana Lick, la niñera argentina que estuvo un mes detenida en Estados Unidos por problemas migratorios, finalmente fue liberada. Su caso es un espejo de las dificultades y el calvario burocrático que enfrentan miles de argentinos que, buscando un futuro mejor, se topan con sistemas migratorios complejos y a menudo inflexibles. La historia de Iliana, detenida tras el Mundial y separada de sus seres queridos, pone de manifiesto la dura realidad de quienes arriesgan todo por una oportunidad.\n\nEste tipo de situaciones no solo genera angustia personal, sino que también subraya la desesperación económica que lleva a muchos compatriotas a buscar horizontes fuera del país. Mientras la Argentina no logre ofrecer un entorno de estabilidad y prosperidad, la migración continuará siendo una válvula de escape, a menudo con costos humanos altísimos. La ineficiencia y la rigidez de ciertos procesos migratorios, sumadas a la precariedad de la situación de muchos migrantes, crean un caldo de cultivo para la vulnerabilidad.\n\n¿Es este el precio que deben pagar nuestros ciudadanos por buscar una vida digna? ¿Qué responsabilidad tenemos, como país, en la expulsión silenciosa de nuestra gente?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "liberada-ninera-argentina-burocracia-migratoria-calvario-sin-fin",
-    "fecha": "2026-08-12",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Copa Argentina: Arrancan los octavos, ¿más pasión o más polémica?",
-    "bajada": "El torneo más federal del fútbol argentino entra en su fase decisiva, con expectativas y tensiones crecientes.",
-    "cuerpo": "La Copa Argentina entra en la fase de octavos de final, prometiendo como siempre emoción y partidos de alto voltaje. Este torneo, que permite el cruce de equipos de distintas categorías y regiones, siempre genera un interés particular. Los fanáticos se preparan para disfrutar de encuentros que pueden sorprender, con la mística de la 'copa' y la ilusión de los más chicos enfrentando a los grandes.\n\nSin embargo, el fútbol argentino rara vez está exento de controversias. Las decisiones arbitrales, los calendarios apretados y las presiones institucionales suelen ser el telón de fondo de cada etapa decisiva. La pasión, a menudo desbordante, puede derivar en polémicas que desvían el foco de lo puramente deportivo. La gestión del fútbol en Argentina, con sus luces y sombras, siempre está bajo la lupa, y la Copa no es la excepción.\n\n¿Será esta edición de la Copa Argentina recordada por el buen fútbol y las sorpresas, o se sumará a la lista de torneos marcados por el escándalo y el debate extradeportivo? ¿Qué rol juega el espectáculo en un país tan ávido de victorias y épica?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "copa-argentina-arrancan-octavos-mas-pasion-o-mas-polemica",
-    "fecha": "2026-08-12",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Boca y el mercado: ¿La \"inflación\" de dólares afecta al talento?",
-    "bajada": "El interés de Boca por Romero enciende el debate sobre las transferencias millonarias y el futuro de la liga local.",
-    "cuerpo": "El fútbol argentino, constantemente bajo la lupa económica, vuelve a ser protagonista con el posible pase de David Romero. Un jugador que despierta el interés de Boca, pero que termina migrando al exterior por cifras millonarias, en este caso, 10 millones de dólares al Parma. Esta tendencia subraya la dificultad de los clubes locales para retener talentos ante la disparidad económica internacional.\n\nLa situación plantea una pregunta clave: ¿hasta qué punto la inestabilidad económica y la falta de un mercado interno robusto empujan a los jóvenes talentos a buscar fortuna afuera? Mientras los hinchas de Boca sueñan con refuerzos, la realidad es que el atractivo del dólar sigue siendo un imán imposible de resistir para muchos. ¿Es este un ciclo vicioso que empobrece la calidad de la liga y la competitividad de nuestros clubes?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "boca-mercado-inflacion-talento",
-    "fecha": "2026-08-12",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Competitividad: ¿Por qué Argentina no logra despegar?",
-    "bajada": "Casi la mitad de los insumos industriales son más caros que en la región, frenando el crecimiento.",
-    "cuerpo": "La alarmante cifra de que el 49% de los insumos industriales en Argentina son más costosos que en países vecinos revela una profunda crisis de competitividad que ahoga la producción local. Esta desventaja estructural se traduce en menores inversiones, menos empleo y productos más caros para el consumidor. La carga impositiva, la burocracia estatal y la inestabilidad macroeconómica son factores recurrentes señalados por expertos y empresarios como los principales culpables.\n\nMientras el sector productivo clama por reglas de juego claras y una reducción del peso del Estado, las políticas de subsidios o controles de precios a menudo distorsionan aún más el mercado, generando escasez o desincentivando la inversión. Es fundamental que Argentina aborde reformas estructurales que permitan a sus industrias competir en igualdad de condiciones. ¿Estamos dispuestos a liberar las fuerzas productivas o seguiremos condenados a la ineficiencia y el estancamiento?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "competitividad-argentina-despegar",
-    "fecha": "2026-08-12",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Consumo en Argentina: ¿Pymes versus gigantes del mercado?",
-    "bajada": "La tensión entre pequeñas y medianas empresas y el líder de Mercado Libre expone la dinámica del consumo.",
-    "cuerpo": "El panorama del consumo en Argentina muestra una polarización creciente, evidenciada en la disputa entre las Pymes y figuras como Marcos Galperin, CEO de Mercado Libre. Mientras el gigante tecnológico crece exponencialmente, las pequeñas y medianas empresas luchan por subsistir en un contexto de alta inflación y presión tributaria. Las Pymes denuncian prácticas desleales o el alto costo de operar en plataformas dominantes, mientras que estas defienden la eficiencia y escala que ofrecen.\n\nEsta situación refleja no solo un cambio en los hábitos de consumo, sino también la dificultad de un ecosistema productivo diverso para prosperar bajo el mismo marco regulatorio. El Estado, lejos de facilitar un terreno parejo, a menudo interviene con normativas que benefician o perjudican a uno u otro sector sin una visión de conjunto. ¿Es posible equilibrar el crecimiento de los grandes jugadores con la supervivencia y desarrollo de las Pymes, motor de empleo local, o estamos ante una concentración inevitable?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "consumo-argentina-pymes-gigantes",
-    "fecha": "2026-08-12",
-    "imagen": "img/economia_1.png",
     "destacada": false
   }
 ]
