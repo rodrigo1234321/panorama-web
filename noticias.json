@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Milei pierde la batalla contra la inflación? La casta observa.",
+    "bajada": "Los datos económicos recientes ponen en jaque el relato de la desaceleración y abren un nuevo frente de dudas.",
+    "cuerpo": "El gobierno de Milei enfrenta un desafío creciente: la ansiada consolidación de la baja inflacionaria parece estancarse. Tras meses de promesas y ajustes, la expectativa de una caída sostenida en los índices de precios no se materializa con la contundencia esperada, generando frustración en vastos sectores y reactivando críticas de quienes observan con recelo las políticas implementadas.\n\nLos números oficiales y las proyecciones privadas, aunque muestran una desaceleración respecto a los picos históricos, aún distan de una estabilidad que permita recuperar el poder adquisitivo de los ciudadanos. La presión tributaria y el gasto público, aunque contenidos, siguen siendo motores de una maquinaria que resiste los intentos de achicamiento. ¿Hasta cuándo podrá el Ejecutivo mantener el rumbo sin lograr un golpe de efecto definitivo contra la licuación de los salarios?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-pierde-batalla-contra-inflacion-casta-observa",
+    "fecha": "2026-08-14",
+    "imagen": "img/economia_5.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Vaca Muerta: ¿El RIGI desbloquea por fin la inversión de US$50.000 millones?",
+    "bajada": "Una inversión histórica en GNL promete cambiar el panorama energético, pero la burocracia estatal siempre acecha.",
+    "cuerpo": "YPF y el consorcio Argentina LNG anunciaron una inversión récord de más de US$50.000 millones para la producción y exportación de Gas Natural Licuado (GNL) desde Vaca Muerta. Este mega-proyecto, que podría transformar a Argentina en un actor global de peso, depende crucialmente de la aprobación plena y efectiva del Régimen de Incentivo para Grandes Inversiones (RIGI), una herramienta que busca dar estabilidad jurídica y fiscal a proyectos de esta magnitud.\n\nLa posibilidad de que esta iniciativa se concrete marca un quiebre para una economía históricamente rehén de regulaciones erráticas y una presión impositiva asfixiante. Mientras los defensores del RIGI celebran la potencial inyección de capital y creación de empleo, el desafío es claro: ¿está el Estado argentino preparado para dejar de ser un obstáculo y convertirse en un facilitador, garantizando las condiciones para que esta inversión no sea otra promesa frustrada?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "vaca-muerta-rigi-desbloquea-inversion-50000-millones",
+    "fecha": "2026-08-14",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Argentina en el banco de suplentes? Leyes \"soviéticas\" frenan exportaciones.",
+    "bajada": "Mientras Brasil avanza, el sector exportador denuncia que la legislación local frena su potencial y condena al país.",
+    "cuerpo": "La competitividad de Argentina sufre un nuevo golpe, según los exportadores. Mientras la región, especialmente Brasil, logra avances significativos en leyes que facilitan el comercio exterior, nuestro país se estanca con normativas que, según el sector, tienen un \"estilo soviético\", alejadas de las necesidades del mercado global. Esto se traduce en menos divisas, menos empleo y una persistente dificultad para integrar el país en cadenas de valor internacionales.\n\nLa crítica apunta a una intervención estatal excesiva y a una carga burocrática que ahuyenta inversiones y oportunidades. Los empresarios claman por un marco legal que impulse, en lugar de obstaculizar, la producción y la salida de bienes al mundo. ¿Seguiremos atados a un modelo que condena al país a la irrelevancia económica, o habrá un cambio de rumbo que priorice la libertad y la productividad?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-banco-suplentes-leyes-sovieticas-frenan-exportaciones",
+    "fecha": "2026-08-14",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Argentina entre dos fuegos? EEUU exige excluir a Huawei y China reacciona.",
+    "bajada": "El embajador de Estados Unidos presiona a las empresas argentinas, encendiendo el debate sobre la soberanía tecnológica y las alianzas geopolíticas.",
+    "cuerpo": "La tensión geopolítica entre Estados Unidos y China llega a Argentina. El embajador de EEUU fue categórico: empresas como Huawei, vinculadas al Partido Comunista Chino, deben ser excluidas de la infraestructura tecnológica local si el país busca atraer inversiones occidentales serias. Esta advertencia pone a Argentina en una encrucijada, obligando a definir su posición en un tablero global cada vez más polarizado.\n\nLa insistencia norteamericana, que apunta a la seguridad de la información y la protección de datos, choca con los intereses económicos de algunas empresas argentinas que ya operan con tecnología china. Más allá de la retórica, la decisión final tendrá consecuencias profundas para la conectividad, el comercio y la estrategia internacional del país. ¿Priorizará Argentina la soberanía tecnológica y el pragmatismo económico, o se inclinará por una alineación más fuerte con Occidente?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-entre-dos-fuegos-eeuu-exige-excluir-huawei-china-reacciona",
+    "fecha": "2026-08-14",
+    "imagen": "img/politica_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Copa Argentina: Boca vs. Vélez, un clásico que enciende la pasión.",
+    "bajada": "Se confirma el escenario y la fecha para un duelo crucial que paraliza a la mitad del país.",
+    "cuerpo": "El fútbol argentino se prepara para un nuevo capítulo de la Copa Argentina con la confirmación del choque entre Boca Juniors y Vélez Sarsfield. El partido, que promete emociones fuertes y una masiva convocatoria, ya tiene sede, día y horario, generando gran expectativa entre los hinchas de ambos equipos y los amantes del deporte.\n\nMás allá de la logística y la organización, este encuentro trasciende lo deportivo, movilizando pasiones y conversaciones en todo el país. Es un recordatorio de cómo el fútbol se entrelaza con la identidad nacional y genera debates constantes, desde el rendimiento de los jugadores hasta las decisiones arbitrales. ¿Cuál de los dos gigantes logrará imponerse en este cruce decisivo y seguir adelante en el camino hacia la gloria copera?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "copa-argentina-boca-vs-velez-clasico-enciende-pasion",
+    "fecha": "2026-08-14",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Turismo argentino: ¿En caída libre al nivel de \"países en guerra\"?",
+    "bajada": "Un informe alarmante revela el colapso del sector turístico, equiparando su situación a la de zonas de conflicto.",
+    "cuerpo": "El sector turístico argentino enfrenta una crisis sin precedentes, con una caída tan pronunciada que, según un reciente informe, su situación se compara a la de \"países en guerra\". Esta dramática analogía subraya la magnitud del derrumbe en una industria clave para la generación de divisas y empleo, poniendo en evidencia las severas consecuencias de la inestabilidad económica y la falta de políticas claras que la impulsen.\n\nLa paralización de la actividad, las altas tarifas para extranjeros que no se convalidan con la calidad de los servicios locales, y la imprevisibilidad económica ahuyentan a los visitantes, dejando miles de negocios al borde del abismo. Mientras otros destinos turísticos de la región experimentan repuntes, Argentina parece hundirse aún más. ¿Qué medidas urgentes se necesitan para rescatar una industria vital antes de que sea demasiado tarde?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "turismo-argentino-caida-libre-nivel-paises-guerra",
+    "fecha": "2026-08-14",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Límites de la vida? Argentina tiene una madre primeriza de 62 años.",
+    "bajada": "Un caso que rompe récords y abre el debate social sobre la maternidad y los avances científicos en la vejez.",
+    "cuerpo": "Argentina es noticia por un hecho que desafía las convenciones y los límites de la naturaleza: una mujer se convirtió en madre por primera vez a los 62 años, estableciendo un nuevo récord nacional. Este evento histórico no solo celebra la perseverancia y el deseo de la maternidad, sino que también enciende un profundo debate en la sociedad sobre la ética, los avances de la ciencia reproductiva y el concepto de familia en el siglo XXI.\n\nMientras la ciencia avanza, las preguntas se multiplican: ¿hasta dónde estamos dispuestos a ir para cumplir deseos personales? ¿Cuáles son las implicaciones sociales y biológicas de la maternidad en edades avanzadas? Este caso nos obliga a reflexionar sobre los roles de la mujer, las posibilidades que ofrece la medicina y los dilemas morales que surgen. ¿Debería la sociedad establecer marcos más claros o la libertad individual debe prevalecer en decisiones tan íntimas y personales?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "limites-vida-argentina-madre-primeriza-62-anos",
+    "fecha": "2026-08-14",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Otro fracaso de la casta? Independiente echó a Gustavo Quinteros",
     "bajada": "La eliminación por goleada en Copa Argentina destapa una crisis que va más allá de un técnico.",
     "cuerpo": "La salida de Gustavo Quinteros de Independiente tras la humillante derrota 4-0 ante Atlético Tucumán en la Copa Argentina es un síntoma de un problema más profundo en el fútbol argentino. Más allá del rendimiento deportivo, ¿hasta cuándo se seguirá gestionando al rojo como un apéndice de la política, con decisiones cortoplacistas y sin un plan serio a largo plazo? La improvisación parece ser la única constante.\n\nEl ciclo de Quinteros fue breve y estuvo marcado por la inestabilidad institucional que caracteriza a muchos clubes. La derrota contundente en un torneo clave expone la falta de una visión clara y la necesidad de una profesionalización urgente. Mientras tanto, los socios y los hinchas pagan los platos rotos de una dirigencia que no logra encauzar el rumbo.\n\n¿Es la expulsión de un técnico la solución real, o solo la punta del iceberg de un modelo de gestión que necesita ser refundado desde sus bases, con transparencia y mérito?",
@@ -9,7 +93,7 @@
     "slug": "otro-fracaso-casta-independiente-echo-gustavo-quinteros",
     "fecha": "2026-08-13",
     "imagen": "img/sociedad_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Inversiones y soberanía: EEUU advierte a Argentina por China",
@@ -201,90 +285,6 @@
     "slug": "el-eclipse-total-de-sol-un-evento-que-nos-obliga-a-mirar-hacia-arriba",
     "fecha": "2026-08-13",
     "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Caputo: ¿Una Argentina arrasada por 25 años de \"la casta\"?",
-    "bajada": "El ministro de Economía refuerza el discurso gubernamental, señalando la \"herencia\" de décadas de populismo como el principal obstáculo para la recuperación nacional.",
-    "cuerpo": "Las recientes declaraciones de Luis Caputo, ministro de Economía, afirmando que Argentina ha sido \"arrasada en los últimos 25 años\" y necesita ser reconstruida, consolidan el relato oficial sobre la magnitud de la crisis heredada. Este análisis, compartido por la administración actual, apunta directamente a las políticas intervencionistas y al gasto público descontrolado de gestiones anteriores, que generaron una pesada \"herencia\" para los ciudadanos. Desde Panorama.ar, esta visión crítica del pasado reciente es fundamental para entender el presente y los desafíos estructurales que enfrenta el país.\n\nEl ministro no solo describe un diagnóstico sombrío, sino que también subraya la urgencia de reformas profundas para revertir esta tendencia. La reconstrucción de Argentina implica, según esta perspectiva, abandonar el populismo fiscal y abrazar la disciplina económica, la apertura y la iniciativa privada. Si bien la crítica al pasado es incuestionable, la pregunta para el ciudadano sigue siendo: ¿cómo se logrará esta reconstrucción sin que el peso caiga, una vez más, sobre los sectores productivos y la gente de trabajo, mientras la \"casta\" sigue gozando de sus privilegios?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "caputo-argentina-arrasada-25-anos-casta",
-    "fecha": "2026-08-13",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Carne Argentina: ¿Otro golpe a la imagen del país por falta de control?",
-    "bajada": "La retirada de toneladas de carne vacuna argentina del mercado estadounidense por incumplimientos sanitarios genera preocupación y cuestiona la seriedad de nuestros controles exportadores.",
-    "cuerpo": "La reciente retirada de más de 13 toneladas de carne vacuna Argentina en Estados Unidos, debido a fallas en la reinspección sanitaria obligatoria, es un golpe directo a la imagen y credibilidad de nuestras exportaciones. Este incidente no solo implica una pérdida económica para los productores y el Estado, sino que también pone en tela de juicio la eficiencia y el rigor de los organismos de control argentinos. En un contexto global de alta competencia, cualquier falencia en los estándares de calidad y sanidad puede tener consecuencias devastadoras para un sector clave de nuestra economía.\n\nDesde una perspectiva crítica, este tipo de situaciones evidencia cómo la falta de profesionalismo y la burocracia excesiva pueden socavar el potencial exportador de Argentina. Mientras el mundo exige transparencia y estándares rigurosos, Argentina parece tropezar con problemas básicos que otros países ya han resuelto. La pregunta es si se trata de un incidente aislado o de un síntoma de problemas más profundos en la cadena de valor y en la gestión estatal de nuestras exportaciones. ¿Estamos, como país, priorizando la calidad y la competitividad internacional, o seguimos atados a prácticas que nos aíslan del mercado global?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "carne-argentina-golpe-a-la-imagen-por-falta-de-control",
-    "fecha": "2026-08-13",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Niñera Argentina detenida por ICE: ¿Trato delincuencial o control necesario?",
-    "bajada": "Una niñera argentina relata su experiencia tras ser arrestada por el ICE en Estados Unidos, denunciando un trato inhumano que reabre el debate sobre la política migratoria.",
-    "cuerpo": "El testimonio de la niñera Argentina que fue arrestada por el ICE en Estados Unidos, denunciando haber sido tratada \"como delincuente\", pone de manifiesto la dureza de las políticas migratorias y las posibles extralimitaciones de los organismos de control. Si bien la soberanía de cada país para proteger sus fronteras es innegable, la dignidad humana y el respeto por los derechos individuales no deberían ser negociables. La experiencia de esta compatriota nos obliga a reflexionar sobre el delicado equilibrio entre seguridad nacional y humanidad en el trato con los extranjeros.\n\nDesde una perspectiva liberal, el control migratorio debe ser eficiente y legal, pero siempre respetando las garantías básicas. Este caso, ocurrido bajo la administración de Trump, resalta la importancia de un marco legal claro y un escrutinio constante sobre la acción estatal. La niñera argentina, como cualquier individuo, merece un trato justo, independientemente de su estatus migratorio. ¿Estamos como sociedad dispuestos a aceptar que, en nombre de la seguridad, se justifiquen tratos que rozan lo inhumano, o es momento de exigir mayor transparencia y respeto por los derechos en todas las fronteras?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "ninera-argentina-detenida-ice-trato-delincuencial-o-control-necesario",
-    "fecha": "2026-08-13",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Insumos industriales: ¿Argentina condenada a ser la más cara de la región?",
-    "bajada": "Un estudio revela que casi la mitad de los insumos industriales en Argentina son más costosos que en países vecinos, evidenciando un grave problema de competitividad.",
-    "cuerpo": "El reciente informe que destaca cómo el 49% de los insumos industriales en Argentina son más caros que en el resto de la región es una señal de alarma que no puede ser ignorada. Esta falta de competitividad no solo encarece la producción nacional, sino que también desalienta la inversión y la generación de empleo genuino. Mientras países como Brasil y Chile avanzan con políticas que facilitan la producción, Argentina parece atrapada en una espiral de costos altos, impuestos excesivos y una burocracia que frena cualquier intento de crecimiento.\n\nDesde la óptica de Panorama.ar, esta situación es el resultado directo de décadas de políticas equivocadas que priorizaron la protección artificial sobre la eficiencia y la apertura. La presión impositiva, la inestabilidad macroeconómica y las regulaciones desmedidas actúan como barreras infranqueables para la industria Argentina. Reconstruir la competitividad no es solo un objetivo económico, sino una necesidad imperante para sacar al país del estancamiento. ¿Hasta cuándo se seguirá ignorando el impacto negativo de un Estado sobredimensionado y regulador en la capacidad de producir y competir, condenando a la industria local a la obsolescencia?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "insumos-industriales-argentina-condenada-a-ser-la-mas-cara-de-la-region",
-    "fecha": "2026-08-13",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Paliza histórica o reflejo de una crisis? Independiente y la Copa Argentina.",
-    "bajada": "La contundente victoria de Atlético Tucumán expone las profundas falencias de un gigante en apuros.",
-    "cuerpo": "La reciente goleada histórica de Atlético Tucumán sobre Independiente por la Copa Argentina no es un mero resultado deportivo; es un espejo de la profunda crisis que atraviesa uno de los clubes más grandes del país. La abultada derrota no solo humilla a sus hinchas, sino que pone en evidencia la falta de un proyecto deportivo sólido y una gestión que parece incapaz de revertir la situación.\n\nEl equipo, que alguna vez fue sinónimo de gloria, hoy es noticia por sus debacles. ¿Hasta cuándo se permitirá que la ineficacia deportiva y dirigencial siga arrastrando a una institución con tanta historia? La paciencia se agota, y el clamor por cambios estructurales se hace cada vez más fuerte. ¿Estamos viendo el ocaso de un coloso o el punto de inflexión para una necesaria refundación?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "paliza-historica-o-reflejo-de-crisis-independiente-copa-argentina",
-    "fecha": "2026-08-13",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Caputo y el RIGI: ¿Solución real o \"25 años arrasados\" de Argentina sin cambio?",
-    "bajada": "El ministro de Economía refuerza el discurso liberal mientras presenta una herramienta clave para la inversión, no sin polémica.",
-    "cuerpo": "El ministro de Economía, Luis Caputo, no titubeó al anunciar nuevas inversiones bajo el Régimen de Incentivo para Grandes Inversiones (RIGI), destacando una vez más que \"Argentina ha sido arrasada en los últimos 25 años\". Esta afirmación, que resuena con la narrativa del gobierno de turno, busca justificar la urgencia de medidas liberales y la apertura a grandes capitales para revertir décadas de estancamiento y populismo.\n\nSin embargo, la crítica no se hizo esperar. Sectores industriales y pymes advierten sobre los riesgos de una desprotección de la producción nacional, mientras que la oposición acusa al gobierno de facilitar la fuga de divisas sin garantías de desarrollo local. ¿Es el RIGI el faro de esperanza para la inversión que el país necesita desesperadamente, o una cesión de soberanía económica que podría profundizar desigualdades y liquidar la industria local, como advierten algunos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "caputo-rigi-solucion-real-o-25-anos-arrasados-argentina-sin-cambio",
-    "fecha": "2026-08-13",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Hasta cuándo se \"defiende a Milei sin sonrojarse\" en Argentina?",
-    "bajada": "La defensa acérrima del presidente genera tanto apoyo fervoroso como fuertes cuestionamientos sobre el pensamiento crítico.",
-    "cuerpo": "La nota de Página|12 sobre la defensa \"sin sonrojarse\" del presidente Milei pone el foco en un fenómeno clave de la política actual: la polarización y la lealtad incondicional. Mientras sus defensores argumentan que la firmeza es necesaria para llevar adelante reformas impopulares pero urgentes, sus críticos señalan una falta de autocrítica y un blindaje mediático que impide un debate sano y constructivo.\n\nEste escenario plantea interrogantes sobre la calidad democrática del discurso público. ¿Es posible debatir ideas y políticas cuando cualquier crítica es interpretada como un ataque personal o una conspiración de \"la casta\"? La libertad de expresión es fundamental, pero también lo es la capacidad de escuchar y ponderar argumentos diversos, incluso cuando provienen de sectores ideológicamente opuestos. ¿Estamos ante una nueva forma de política o un peligroso atrincheramiento ideológico?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "hasta-cuando-se-defiende-a-milei-sin-sonrojarse-argentina",
-    "fecha": "2026-08-13",
-    "imagen": "img/politica_4.png",
     "destacada": false
   }
 ]
