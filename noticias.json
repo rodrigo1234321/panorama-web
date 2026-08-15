@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Milei tropieza con la inflación? La dura realidad económica",
+    "bajada": "El gobierno enfrenta un desafío persistente en su promesa de estabilización, con datos que alertan sobre la efectividad de las medidas actuales.",
+    "cuerpo": "La administración de Milei ha puesto la reducción de la inflación como pilar central de su gestión. Sin embargo, los últimos reportes de julio muestran que el proceso de desaceleración se estancó, generando preocupación entre analistas y la ciudadanía. Este escenario revive el debate sobre la sustentabilidad del ajuste y si las políticas implementadas son suficientes para domar una economía históricamente volátil. Algunos sectores advierten que la presión sobre los precios responde a factores estructurales que van más allá del recorte del gasto, señalando la necesidad de reformas más profundas y una mayor confianza inversora.\n\nLa \"motosierra\" del presidente, ¿es suficiente para resolver la patología inflacionaria o es hora de repensar la estrategia económica?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "milei-tropieza-inflacion-dura-realidad-economica",
+    "fecha": "2026-08-15",
+    "imagen": "img/economia_5.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Dolarizar: ¿solución definitiva o quimera para Argentina?",
+    "bajada": "La propuesta de dolarización vuelve al centro del debate, presentada como una vía ineludible para ordenar la economía.",
+    "cuerpo": "La persistente inestabilidad económica y la galopante inflación reavivan la discusión sobre la dolarización como estrategia monetaria. Quienes la impulsan, argumentan que no es una mera \"porfía\" ideológica, sino un entendimiento pragmático de la realidad argentina, donde la moneda local ha perdido sistemáticamente su valor y la confianza. Sostienen que solo una dolarización plena podría imponer la disciplina fiscal y monetaria necesaria, eliminando la capacidad de los políticos de financiar el déficit con emisión.\n\nSin embargo, los críticos advierten sobre la pérdida de soberanía monetaria y la incapacidad de aplicar políticas contracíclicas, dejando al país a merced de shocks externos. ¿Es la dolarización la única salida posible para Argentina o existen alternativas viables que preserven herramientas estatales?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "dolarizar-solucion-definitiva-quimera-argentina",
+    "fecha": "2026-08-15",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: 30.000 empresas menos, ¿quién asume el costo?",
+    "bajada": "Un panorama desolador en el sector privado argentino, con miles de emprendimientos que bajaron la persiana en poco tiempo.",
+    "cuerpo": "El informe que revela el cierre de más de 30.000 empresas en Argentina en los últimos dos años y medio enciende una luz de alarma sobre el futuro del empleo y la inversión productiva. Este drástico número no solo representa la pérdida de fuentes de trabajo, sino también la erosión del tejido productivo y la confianza empresarial. Expertos señalan la combinación de alta presión impositiva, burocracia estatal y la inestabilidad macroeconómica como los principales verdugos del sector privado.\n\nMientras algunos culpan a las políticas de los gobiernos precedentes por un modelo extractivo, otros apuntan a la falta de reformas estructurales que liberen el potencial de los emprendedores. ¿Podrá Argentina revertir esta tendencia y crear un entorno favorable para que las empresas vuelvan a generar riqueza y empleo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-30000-empresas-menos-quien-asume-costo",
+    "fecha": "2026-08-15",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina al tope: ¿nos empata la inflación venezolana?",
+    "bajada": "La Argentina sigue a la cabeza de la inflación en la región, compartiendo podio con Venezuela y encendiendo alarmas.",
+    "cuerpo": "La noticia de que Argentina y Venezuela lideraron la inflación en América Latina durante julio es un golpe para cualquier expectativa de estabilización. Compartir este vergonzoso podio con un país en colapso económico es un indicador preocupante del estado de nuestra macroeconomía. Esta realidad desafía las narrativas de recuperación y exige una mirada autocrítica sobre las políticas implementadas.\n\nMientras algunos argumentan que se trata de la herencia de décadas de desmanejo fiscal y emisión monetaria, otros señalan la lentitud en la implementación de ajustes y reformas estructurales. La persistencia de la alta inflación no solo golpea el bolsillo de los ciudadanos, sino que también ahuyenta inversiones y condena al país a la postergación. ¿Qué medidas urgentes se necesitan para desvincular a Argentina de este club inflacionario y recuperar la estabilidad económica?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-al-tope-nos-empata-inflacion-venezolana",
+    "fecha": "2026-08-15",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "EE.UU. vs. China: Argentina en la encrucijada geopolítica",
+    "bajada": "La advertencia de EE.UU. sobre la relación con China pone a Argentina en una delicada posición respecto a futuras inversiones.",
+    "cuerpo": "La reciente advertencia de Estados Unidos a Argentina respecto a su relación con China, que sugiere un impacto negativo en las inversiones, subraya la complejidad de la política exterior argentina. En un escenario global de creciente polarización, la Casa Blanca dejó en claro que la cercanía con Pekín podría obstaculizar la llegada de capitales tan necesarios para el desarrollo nacional. Esta situación obliga a Argentina a balancear cuidadosamente sus alianzas, priorizando sus intereses económicos sin alienar a socios clave.\n\nMientras algunos defienden la autonomía y la búsqueda de oportunidades en múltiples frentes, otros abogan por una alineación estratégica que garantice estabilidad y confianza para los inversores occidentales. ¿Puede Argentina realmente mantener una política de \"tercera vía\" sin sufrir las consecuencias en un mundo dividido?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "eeuu-vs-china-argentina-encrucijada-geopolitica",
+    "fecha": "2026-08-15",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Niñera argentina detenida en EE.UU.: ¿Hasta dónde la desprotección?",
+    "bajada": "El dramático relato de una joven argentina detenida en EE.UU. expone las vulnerabilidades de nuestros ciudadanos en el exterior.",
+    "cuerpo": "El impactante testimonio de la niñera argentina, que denunció haber sido \"atada con cadenas\" y sometida a duras condiciones durante su detención en EE.UU., reabre el debate sobre la protección consular y los derechos humanos de nuestros compatriotas en el exterior. Su caso, que ocurrió en el contexto del Mundial, resalta la fragilidad de los individuos frente a sistemas migratorios extranjeros, especialmente cuando no cuentan con recursos o información adecuada.\n\nMientras el gobierno argentino suele destacar sus esfuerzos en defensa de los derechos humanos, este tipo de situaciones pone a prueba la efectividad real de esas declaraciones en la práctica. La falta de claridad sobre el accionar de nuestras autoridades ante casos tan sensibles genera preguntas sobre la prioridad que se le da a la seguridad y bienestar de los argentinos fuera de nuestras fronteras. ¿Qué lecciones debería aprender el Estado argentino de este dramático caso para garantizar la protección de sus ciudadanos en cualquier parte del mundo?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "ninera-argentina-detenida-eeuu-hasta-donde-desproteccion",
+    "fecha": "2026-08-15",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La Selección Argentina: Un año de gloria, ¿futuro incierto?",
+    "bajada": "A un mes de la victoria ante Inglaterra en el Mundial, la Selección Argentina revive la pasión, pero el panorama futbolístico nacional genera dudas.",
+    "cuerpo": "A un mes de aquella inolvidable victoria de la Selección Argentina frente a Inglaterra en el Mundial, la AFA y los hinchas celebran con videos emotivos que reviven la epopeya. La gesta mundialista unió al país y despertó un fervor que aún perdura, destacando figuras como Cuti Romero y otros talentos que hoy brillan en Europa. Sin embargo, más allá de la gloria pasada, el fútbol argentino a nivel local sigue enfrentando desafíos estructurales.\n\nLos debates sobre la organización de los torneos, la gestión de los clubes y la formación de juveniles persisten, generando interrogantes sobre la sostenibilidad del éxito a largo plazo. La euforia mundialista no debe opacar la necesidad de reformas profundas para asegurar que la grandeza de la Selección se refleje también en un sistema futbolístico nacional robusto y transparente. ¿Es el entusiasmo por la Selección una cortina de humo para los problemas de fondo en nuestro fútbol?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "seleccion-argentina-un-ano-gloria-futuro-incierto",
+    "fecha": "2026-08-15",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Soberanía en Venta? La Tensión China-EEUU Pone a Argentina en la Mira",
     "bajada": "El pulso global de las potencias se juega en nuestro territorio, con advertencias directas que exponen las complejidades de elegir socios.",
     "cuerpo": "Argentina se encuentra en el epicentro de una creciente fricción geopolítica entre China y Estados Unidos, un escenario que pone en jaque la autonomía nacional. Washington, a través de su embajador, ha elevado el tono, advirtiendo que la profundización de lazos con Beijing, especialmente en áreas estratégicas como la red de fibra óptica gestionada por Huawei, podría obstaculizar futuras inversiones occidentales. Esta presión diplomática no es casual; refleja el interés de EE.UU. en proteger su influencia regional y contener la expansión tecnológica china.\n\nLa disputa por la infraestructura tecnológica, clave para la comunicación y la seguridad nacional, desnuda la fragilidad de un país que busca desesperadamente inversiones sin ceder soberanía. Mientras algunos sectores defienden la libertad de Argentina para comerciar con quien desee, otros alertan sobre los riesgos de quedar atrapado en una guerra fría tecnológica, con consecuencias directas sobre el flujo de capitales y la confianza internacional. ¿Está el país priorizando la ideología o el pragmatismo económico al definir sus alianzas?\n\nLa retórica es clara: el embajador Peter Lamelas afirmó que \"no va a ayudar a que lleguen las inversiones\" si Argentina sigue por el camino chino en fibra óptica. Este tipo de declaraciones genera un debate crucial: ¿hasta qué punto las decisiones económicas y tecnológicas de Argentina pueden ser verdaderamente independientes en un mundo polarizado? ¿Estamos preparados para las implicaciones de estas advertencias?",
@@ -9,7 +93,7 @@
     "slug": "soberania-en-venta-tension-china-eeuu-argentina",
     "fecha": "2026-08-15",
     "imagen": "img/politica_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Inflación: ¿El Freno de Mano de Milei Sigue Puesto?",
@@ -201,90 +285,6 @@
     "slug": "rigi-ypf-despegue-real-espejismo-inversion",
     "fecha": "2026-08-15",
     "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Inflación: ¿El plan de Milei se estanca o el problema es estructural?",
-    "bajada": "A pesar de los esfuerzos, el gobierno no logra consolidar la baja de la inflación, desafiando la narrativa oficial.",
-    "cuerpo": "La Argentina enfrenta un escenario donde el gobierno de Milei no logra consolidar la esperada reducción de la inflación, generando preocupación en vastos sectores. Los datos recientes, que muestran un rebote en el Índice de Precios al Consumidor (IPC), contradicen la promesa de una rápida estabilización económica y ponen en jaque la credibilidad de las políticas implementadas.  Desde una perspectiva crítica, el problema inflacionario argentino va más allá de medidas coyunturales y se ancla en desequilibrios fiscales crónicos y una excesiva emisión monetaria, prácticas que este medio ha criticado consistentemente. La pregunta es si las herramientas actuales son suficientes para desmantelar un problema tan arraigado o si se requieren reformas más profundas que aún no se han abordado, más allá del ajuste fiscal.  Frente a la persistencia de la alta inflación, ¿estamos viendo un estancamiento del plan de gobierno, o la realidad argentina es más compleja y exige un abordaje menos dogmático?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "inflacion-plan-milei-estanca-problema-estructural",
-    "fecha": "2026-08-15",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Dolarización: ¿Solución definitiva o espejismo populista?",
-    "bajada": "Un análisis provocador reabre el debate sobre la dolarización como única salida para la economía argentina.",
-    "cuerpo": "El planteo de que \"dolarizar no es porfía, es entender la realidad Argentina\" vuelve a encender la discusión sobre una de las medidas más radicales para estabilizar la economía. Para los defensores de esta postura, solo la eliminación de la moneda local puede frenar la inflación crónica y devolver la previsibilidad al sistema, liberando al país de las manipulaciones políticas sobre el Banco Central.  Sin embargo, los críticos advierten sobre los riesgos inherentes: la pérdida total de herramientas de política monetaria, la imposibilidad de devaluar frente a shocks externos y la dificultad de competir con salarios y costos dolarizados. Para muchos, una dolarización sin un saneamiento fiscal previo y una profunda reforma estructural sería solo un parche superficial con consecuencias impredecibles para la producción y el empleo.  En este contexto de encrucijada económica, ¿es la dolarización la panacea que la Argentina necesita, o caeremos en una solución fácil que oculte problemas más profundos y complejos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "dolarizacion-solucion-definitiva-espejismo-populista",
-    "fecha": "2026-08-15",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina, “nodo de riesgo” entre EEUU y China: ¿Cómplice o víctima?",
-    "bajada": "Estados Unidos señala a la Argentina en una red de triangulación ilegal, un duro golpe a la reputación y a futuras inversiones.",
-    "cuerpo": "Estados Unidos ha identificado a la Argentina como un \"nodo de riesgo\" en una red global de triangulación ilegal de mercancías chinas, una acusación que plantea serias dudas sobre la transparencia y el control en el comercio exterior del país. Esta situación no solo genera un conflicto diplomático, sino que también amenaza con desalentar futuras inversiones legítimas, afectando directamente la credibilidad internacional de la Argentina.  Desde la perspectiva editorial de Panorama.ar, esta situación es un reflejo de la falta de un Estado robusto y transparente, vulnerable a prácticas ilícitas que se aprovechan de la debilidad institucional. La inacción o complicidad ante estas redes no solo afecta la economía formal y la recaudación, sino que también socava los esfuerzos por atraer capitales genuinos y posicionar a la Argentina como un socio confiable en el comercio global.  Ante esta grave advertencia, ¿la Argentina asumirá la responsabilidad de sanear sus controles y relaciones internacionales, o permitirá que su imagen quede aún más comprometida en el tablero geopolítico entre EEUU y China?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-nodo-riesgo-eeuu-china-complice-victima",
-    "fecha": "2026-08-15",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "“Estilo soviético”: ¿Una ley condena a Argentina al banco de suplentes exportador?",
-    "bajada": "Mientras Brasil avanza, una normativa argentina frena a los exportadores, ¿el Estado nuevamente limita la producción?",
-    "cuerpo": "El sector exportador argentino denuncia que una reciente ley ha dejado al país \"en el banco de suplentes\", en contraste con el importante avance de Brasil. La crítica es contundente: el \"estilo soviético\" de regulación y control excesivo por parte del Estado estaría sofocando la capacidad productiva y la competitividad internacional de la Argentina, impidiendo el ingreso de divisas tan necesarias.  Desde la visión de Panorama.ar, la historia económica argentina está plagada de ejemplos donde la intervención estatal excesiva, bajo la excusa de proteger, termina por asfixiar a los motores productivos. Las trabas burocráticas, los impuestos distorsivos y la falta de reglas claras alejan las inversiones y penalizan a quienes generan empleo y riqueza, llevando al país a un estancamiento recurrente que favorece la \"casta\" política en detrimento del pueblo trabajador.  Ante este nuevo freno, ¿seguirá la Argentina anclada en políticas que ahuyentan el capital y el progreso, o es momento de desregular y liberar el verdadero potencial de sus exportadores para salir del estancamiento?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "estilo-sovietico-ley-condena-argentina-exportador",
-    "fecha": "2026-08-15",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Fracasa el plan de Milei? La inflación, un fantasma persistente",
-    "bajada": "El gobierno lucha por mostrar resultados mientras los precios siguen golpeando el bolsillo argentino.",
-    "cuerpo": "A pesar de los esfuerzos y las promesas de un cambio radical, el gobierno de Milei enfrenta un desafío formidable con la inflación. Los últimos datos reflejan que la consolidación del proceso de reducción de precios aún no llega, generando incertidumbre y desconfianza en vastos sectores de la población. La tan anhelada desaceleración económica no se traduce en un alivio concreto para el ciudadano de a pie, que ve cómo su poder adquisitivo continúa erosionándose día a día.\n\nDesde Panorama.ar hemos advertido sobre la complejidad de un ajuste que prioriza la motosierra sin un claro plan de crecimiento productivo. Si bien la disciplina fiscal es fundamental, la mera contención del gasto no garantiza por sí sola la estabilidad de precios a largo plazo si no se acompaña de reformas estructurales profundas que liberen las fuerzas del mercado. ¿Es suficiente la retórica anticasta o se necesitan medidas más audaces que impacten directamente en la oferta y demanda para domar este flagelo?\n\nLa pregunta que resuena en cada hogar y comercio es hasta cuándo la paciencia social resistirá un ajuste que parece no dar los frutos esperados en el corto plazo. ¿Está la estrategia de Milei realmente diseñada para una solución duradera o solo patea el problema hacia adelante con un costo social elevado?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fracasa-plan-milei-inflacion-fantasma-persistente",
-    "fecha": "2026-08-14",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Inflación de julio: ¿señal de alerta o traspié momentáneo para la gestión?",
-    "bajada": "El último reporte del Indec muestra un repunte en los precios, desafiando las proyecciones más optimistas.",
-    "cuerpo": "El Indec confirmó lo que muchos temían: la inflación de julio rebotó, mostrando que la batalla contra la suba de precios está lejos de ser ganada. Este dato genera una fuerte preocupación, especialmente en un contexto donde el gobierno ha apostado todas sus fichas a la estabilidad macroeconómica como pilar de su gestión. La cifra del Índice de Precios al Consumidor (IPC) es un llamado de atención sobre la fragilidad de la situación y la necesidad de profundizar las reformas.\n\nPara Panorama.ar, este rebote no puede interpretarse como un simple tropiezo. Es una evidencia de que la presión inflacionaria tiene raíces más profundas que el mero desequilibrio fiscal. La persistencia de regulaciones, la burocracia estatal y una presión impositiva asfixiante continúan distorsionando los mercados y encareciendo la vida de los argentinos. Mientras no se ataque la raíz de la intervención excesiva del Estado en la economía, la inflación seguirá siendo un problema recurrente, más allá de la coyuntura.\n\n¿Estamos frente a un fenómeno estructural que requiere de un shock de libertad económica o seguiremos aplicando parches que solo postergan el problema? La pregunta clave es si el rebote inflacionario de julio es un punto de inflexión que obliga a revisar la estrategia económica del país.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "inflacion-julio-senal-alerta-traspie-momentaneo",
-    "fecha": "2026-08-14",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Dolarización o pragmatismo? La eterna disputa por la moneda argentina",
-    "bajada": "El debate sobre dolarizar la economía vuelve al centro de la escena, ¿es la solución definitiva o una quimera?",
-    "cuerpo": "La discusión sobre la dolarización resurge con fuerza en Argentina, no como una mera excentricidad, sino como una propuesta para \"entender la realidad\" de un país azotado por la inestabilidad monetaria. Desde la perspectiva de Panorama.ar, esta visión tiene un componente de pragmatismo innegable: frente a décadas de inflación descontrolada y depreciación del peso, dolarizar implica renunciar a la potestad de emitir y, con ello, a la tentación de financiar el gasto público irresponsablemente.\n\nSin embargo, la dolarización presenta desafíos complejos que van más allá de la mera voluntad política. Requiere un respaldo de divisas considerable y una profunda reforma de la banca, además de enfrentar la crítica de quienes argumentan que se pierde una herramienta clave de política monetaria. Es crucial evaluar si los beneficios de la estabilidad prometida superan los costos de resignar la soberanía monetaria y la capacidad de amortiguar shocks externos con la devaluación.\n\nLa pregunta que el liberalismo debe plantearse es si la dolarización es la única vía para lograr la disciplina fiscal y la estabilidad, o si existen otras reformas que, atacando el gasto público y la intervención estatal, puedan devolver la confianza en el peso. ¿Realmente dolarizar es la única forma de \"entender la realidad argentina\" o hay otras formas de abordarla con mayor gradualidad y menor riesgo?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "dolarizacion-pragmatismo-disputa-moneda-argentina",
-    "fecha": "2026-08-14",
-    "imagen": "img/economia_1.png",
     "destacada": false
   }
 ]
