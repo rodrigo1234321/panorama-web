@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Agostina Hein, la argentina que rompe récords: ¿Un nuevo faro para el deporte nacional?",
+    "bajada": "Una joven nadadora redefine la excelencia en el Pan Pacific Championships, ¿qué significa para el futuro deportivo?",
+    "cuerpo": "La Argentina celebra la histórica actuación de Agostina Hein, quien no solo obtuvo una medalla sino que también batió un récord sudamericano en el Pan Pacific Championships. Este logro, que resuena con orgullo nacional, destaca la capacidad de superación individual en un contexto donde el apoyo al deporte de alto rendimiento es a menudo cuestionado.  El desempeño de Hein plantea una pregunta crucial: ¿Estamos invirtiendo lo suficiente en nuestras promesas deportivas? La excelencia individual no puede maquillar las falencias estructurales. Mientras celebramos a nuestros talentos, es imperativo reflexionar sobre las políticas públicas y el respaldo financiero que requieren estos atletas para alcanzar su máximo potencial a nivel internacional.  ¿Será este hito un catalizador para repensar el rol del Estado y el sector privado en el desarrollo de futuras figuras, o quedará como una proeza aislada en la memoria colectiva?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "agostina-hein-argentina-rompe-records-faro-deporte",
+    "fecha": "2026-08-15",
+    "imagen": "img/sociedad_2.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Selección Argentina 2030: ¿Renovación o nostalgia? El futuro del equipo",
+    "bajada": "Años clave para los campeones mundiales: ¿quiénes seguirán defendiendo la albiceleste en el próximo gran desafío?",
+    "cuerpo": "Con la mirada puesta en el Mundial 2030, la incertidumbre sobre la conformación de la Selección Argentina de fútbol genera un intenso debate. Mientras se proyecta la edad de figuras consagradas, la pregunta se impone: ¿logrará Argentina mantener su nivel competitivo sin una renovación profunda?  La transición generacional es un desafío ineludible. ¿Se priorizará la experiencia de los actuales campeones, o se apostará por el talento emergente que garantice la continuidad del éxito? La planificación a largo plazo es fundamental para evitar caer en el facilismo y asegurar que el fútbol argentino siga siendo protagonista a nivel global.  Ante este panorama, ¿estamos preparados para construir una nueva era dorada, o nos aferraremos a los héroes del pasado sin pensar en el inevitable recambio?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "seleccion-argentina-2030-renovacion-o-nostalgia",
+    "fecha": "2026-08-15",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "RIGI y YPF: ¿Despegue real o espejismo de inversión?",
+    "bajada": "La propuesta de YPF para una inversión histórica en Vaca Muerta bajo el RIGI promete dólares, ¿pero a qué costo?",
+    "cuerpo": "YPF ha solicitado la adhesión al Régimen de Incentivo para Grandes Inversiones (RIGI) para un proyecto de gas natural licuado (LNG) que podría significar una inversión de 51.000 millones de dólares, la mayor de la historia argentina. Esta noticia, presentada como un hito para la exportación de gas de Vaca Muerta, genera expectativas sobre un potencial despegue económico.  Sin embargo, la implementación del RIGI no está exenta de críticas. Mientras el gobierno lo presenta como la única vía para atraer capital, sectores opositores y analistas advierten sobre los riesgos de entregar beneficios excesivos a grandes empresas, afectando la recaudación y la soberanía. La discusión se centra en si estos incentivos son realmente un motor de desarrollo o una cesión de recursos con escaso impacto en el empleo local y la cadena de valor nacional.  En este contexto, ¿logrará la Argentina equilibrar la necesidad de inversiones con la defensa de sus intereses, o las condiciones del RIGI convertirán este despegue en un mero espejismo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "rigi-ypf-despegue-real-espejismo-inversion",
+    "fecha": "2026-08-15",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Inflación: ¿El plan de Milei se estanca o el problema es estructural?",
+    "bajada": "A pesar de los esfuerzos, el gobierno no logra consolidar la baja de la inflación, desafiando la narrativa oficial.",
+    "cuerpo": "La Argentina enfrenta un escenario donde el gobierno de Milei no logra consolidar la esperada reducción de la inflación, generando preocupación en vastos sectores. Los datos recientes, que muestran un rebote en el Índice de Precios al Consumidor (IPC), contradicen la promesa de una rápida estabilización económica y ponen en jaque la credibilidad de las políticas implementadas.  Desde una perspectiva crítica, el problema inflacionario argentino va más allá de medidas coyunturales y se ancla en desequilibrios fiscales crónicos y una excesiva emisión monetaria, prácticas que este medio ha criticado consistentemente. La pregunta es si las herramientas actuales son suficientes para desmantelar un problema tan arraigado o si se requieren reformas más profundas que aún no se han abordado, más allá del ajuste fiscal.  Frente a la persistencia de la alta inflación, ¿estamos viendo un estancamiento del plan de gobierno, o la realidad argentina es más compleja y exige un abordaje menos dogmático?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "inflacion-plan-milei-estanca-problema-estructural",
+    "fecha": "2026-08-15",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Dolarización: ¿Solución definitiva o espejismo populista?",
+    "bajada": "Un análisis provocador reabre el debate sobre la dolarización como única salida para la economía argentina.",
+    "cuerpo": "El planteo de que \"dolarizar no es porfía, es entender la realidad Argentina\" vuelve a encender la discusión sobre una de las medidas más radicales para estabilizar la economía. Para los defensores de esta postura, solo la eliminación de la moneda local puede frenar la inflación crónica y devolver la previsibilidad al sistema, liberando al país de las manipulaciones políticas sobre el Banco Central.  Sin embargo, los críticos advierten sobre los riesgos inherentes: la pérdida total de herramientas de política monetaria, la imposibilidad de devaluar frente a shocks externos y la dificultad de competir con salarios y costos dolarizados. Para muchos, una dolarización sin un saneamiento fiscal previo y una profunda reforma estructural sería solo un parche superficial con consecuencias impredecibles para la producción y el empleo.  En este contexto de encrucijada económica, ¿es la dolarización la panacea que la Argentina necesita, o caeremos en una solución fácil que oculte problemas más profundos y complejos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "dolarizacion-solucion-definitiva-espejismo-populista",
+    "fecha": "2026-08-15",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina, “nodo de riesgo” entre EEUU y China: ¿Cómplice o víctima?",
+    "bajada": "Estados Unidos señala a la Argentina en una red de triangulación ilegal, un duro golpe a la reputación y a futuras inversiones.",
+    "cuerpo": "Estados Unidos ha identificado a la Argentina como un \"nodo de riesgo\" en una red global de triangulación ilegal de mercancías chinas, una acusación que plantea serias dudas sobre la transparencia y el control en el comercio exterior del país. Esta situación no solo genera un conflicto diplomático, sino que también amenaza con desalentar futuras inversiones legítimas, afectando directamente la credibilidad internacional de la Argentina.  Desde la perspectiva editorial de Panorama.ar, esta situación es un reflejo de la falta de un Estado robusto y transparente, vulnerable a prácticas ilícitas que se aprovechan de la debilidad institucional. La inacción o complicidad ante estas redes no solo afecta la economía formal y la recaudación, sino que también socava los esfuerzos por atraer capitales genuinos y posicionar a la Argentina como un socio confiable en el comercio global.  Ante esta grave advertencia, ¿la Argentina asumirá la responsabilidad de sanear sus controles y relaciones internacionales, o permitirá que su imagen quede aún más comprometida en el tablero geopolítico entre EEUU y China?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-nodo-riesgo-eeuu-china-complice-victima",
+    "fecha": "2026-08-15",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "“Estilo soviético”: ¿Una ley condena a Argentina al banco de suplentes exportador?",
+    "bajada": "Mientras Brasil avanza, una normativa argentina frena a los exportadores, ¿el Estado nuevamente limita la producción?",
+    "cuerpo": "El sector exportador argentino denuncia que una reciente ley ha dejado al país \"en el banco de suplentes\", en contraste con el importante avance de Brasil. La crítica es contundente: el \"estilo soviético\" de regulación y control excesivo por parte del Estado estaría sofocando la capacidad productiva y la competitividad internacional de la Argentina, impidiendo el ingreso de divisas tan necesarias.  Desde la visión de Panorama.ar, la historia económica argentina está plagada de ejemplos donde la intervención estatal excesiva, bajo la excusa de proteger, termina por asfixiar a los motores productivos. Las trabas burocráticas, los impuestos distorsivos y la falta de reglas claras alejan las inversiones y penalizan a quienes generan empleo y riqueza, llevando al país a un estancamiento recurrente que favorece la \"casta\" política en detrimento del pueblo trabajador.  Ante este nuevo freno, ¿seguirá la Argentina anclada en políticas que ahuyentan el capital y el progreso, o es momento de desregular y liberar el verdadero potencial de sus exportadores para salir del estancamiento?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "estilo-sovietico-ley-condena-argentina-exportador",
+    "fecha": "2026-08-15",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Fracasa el plan de Milei? La inflación, un fantasma persistente",
     "bajada": "El gobierno lucha por mostrar resultados mientras los precios siguen golpeando el bolsillo argentino.",
     "cuerpo": "A pesar de los esfuerzos y las promesas de un cambio radical, el gobierno de Milei enfrenta un desafío formidable con la inflación. Los últimos datos reflejan que la consolidación del proceso de reducción de precios aún no llega, generando incertidumbre y desconfianza en vastos sectores de la población. La tan anhelada desaceleración económica no se traduce en un alivio concreto para el ciudadano de a pie, que ve cómo su poder adquisitivo continúa erosionándose día a día.\n\nDesde Panorama.ar hemos advertido sobre la complejidad de un ajuste que prioriza la motosierra sin un claro plan de crecimiento productivo. Si bien la disciplina fiscal es fundamental, la mera contención del gasto no garantiza por sí sola la estabilidad de precios a largo plazo si no se acompaña de reformas estructurales profundas que liberen las fuerzas del mercado. ¿Es suficiente la retórica anticasta o se necesitan medidas más audaces que impacten directamente en la oferta y demanda para domar este flagelo?\n\nLa pregunta que resuena en cada hogar y comercio es hasta cuándo la paciencia social resistirá un ajuste que parece no dar los frutos esperados en el corto plazo. ¿Está la estrategia de Milei realmente diseñada para una solución duradera o solo patea el problema hacia adelante con un costo social elevado?",
@@ -9,7 +93,7 @@
     "slug": "fracasa-plan-milei-inflacion-fantasma-persistente",
     "fecha": "2026-08-14",
     "imagen": "img/economia_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Inflación de julio: ¿señal de alerta o traspié momentáneo para la gestión?",
@@ -201,90 +285,6 @@
     "slug": "copa-argentina-boca-velez-clasico-contrastes",
     "fecha": "2026-08-13",
     "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina: ¿Turismo en \"guerra\" por la ineficiencia estatal?",
-    "bajada": "El sector turístico nacional se desploma a niveles de conflicto, una alerta grave para la economía.",
-    "cuerpo": "El diagnóstico es alarmante: el turismo en Argentina se encuentra en \"caída libre\", comparando su desempeño con el de países en conflicto. Esta cruda realidad no es casualidad; es el resultado directo de una combinación letal de presión impositiva asfixiante, burocracia estatal ineficiente y una falta de políticas claras que fomenten la inversión y la competitividad. Lejos de ser un motor de desarrollo, el sector se ahoga en regulaciones.\n\nMientras naciones vecinas florecen con estrategias de promoción y desregulación, Argentina insiste en un modelo que castiga al emprendedor y al inversor. Los altos costos operativos, la imprevisibilidad económica y la falta de infraestructura adecuada terminan por espantar tanto al turista extranjero como al nacional. Esta situación no solo implica una pérdida de divisas, sino también de miles de empleos que dependen directamente de la actividad.\n\n¿Hasta cuándo se seguirá ignorando el potencial del turismo por aferrarse a un Estado sobredimensionado que solo logra destruir la capacidad productiva del país?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-turismo-guerra-ineficiencia-estatal",
-    "fecha": "2026-08-13",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Competitividad: ¿Por qué Argentina paga más por insumos industriales?",
-    "bajada": "El 49% de los insumos es más caro que en la región, un freno para la producción.",
-    "cuerpo": "La persistente brecha de precios en insumos industriales, con Argentina pagando hasta un 49% más que sus vecinos como Brasil y Chile, es un claro indicador de la falta de competitividad estructural de nuestra economía. Este desfasaje no solo encarece la producción local, sino que también desincentiva la inversión y frena la creación de empleo genuino. ¿Hasta cuándo se sostendrá un modelo que castiga a la industria?\n\nEl informe señala que, a pesar de cierta convergencia de precios en algunas áreas, la carga impositiva, los costos laborales no salariales y la maraña regulatoria continúan siendo barreras infranqueables. Mientras el Estado se muestra reacio a ceder privilegios y a desburocratizar, nuestras empresas operan en desventaja, perdiendo mercados y capacidad de expansión. La retórica de la \"industria nacional\" choca con una realidad económica brutal.\n\n¿Es realmente posible hablar de un futuro industrial próspero si no se abordan con seriedad las reformas estructurales que permitan a las empresas competir en igualdad de condiciones?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "competitividad-por-que-argentina-paga-mas-insumos-industriales",
-    "fecha": "2026-08-13",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Madre a los 62: ¿Un récord que redefine la familia argentina?",
-    "bajada": "Una mujer se convirtió en la madre de mayor edad en Argentina, abriendo un debate social.",
-    "cuerpo": "El caso de la mujer de 62 años que se convirtió en madre primeriza en San Nicolás ha captado la atención de la opinión pública, rompiendo un récord en Argentina y redefiniendo los límites de la maternidad. Si bien es un hecho de alegría personal, este suceso invita a reflexionar sobre los avances médicos, las estructuras familiares y los desafíos sociales y económicos que implica la crianza en edades avanzadas. ¿Estamos preparados como sociedad para estos nuevos paradigmas?\n\nLa noticia, que resalta el \"embarazo maravilloso\" vivido por la protagonista, también genera interrogantes sobre el rol del Estado y las políticas de apoyo a la familia. En un país con una demografía cambiante y presiones económicas constantes, la longevidad reproductiva plantea la necesidad de adaptar marcos legales y sociales, así como de garantizar el bienestar del menor.\n\n¿Qué implicancias tiene este tipo de hitos para la concepción tradicional de la familia y el futuro de las políticas de natalidad y apoyo a la crianza en Argentina?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "madre-62-record-redefine-familia-argentina",
-    "fecha": "2026-08-13",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Niñera argentina detenida por ICE: ¿Trato justo o abuso de poder?",
-    "bajada": "Después de un mes, la niñera argentina habla de su detención en EEUU. \"Nos trataron como criminales\".",
-    "cuerpo": "La conmovedora historia de la niñera argentina que relata haber sido \"tratada como criminal\" tras ser detenida por el ICE de Estados Unidos, pone en primer plano el debate sobre las políticas migratorias y el respeto a los derechos humanos. Más allá de la legalidad de la detención, el testimonio expone la dureza de los procedimientos y las implicancias psicológicas de enfrentar un sistema migratorio que puede parecer implacable.\n\nEl relato de la joven, ahora en libertad, reabre la discusión sobre la mano dura y sus límites. Si bien la defensa de la soberanía y las leyes migratorias son legítimas, la cuestión de la dignidad y el trato humano no puede quedar en un segundo plano. ¿Es el rigor burocrático un fin en sí mismo o debe estar al servicio de la justicia y el respeto por las personas, incluso en situaciones de irregularidad?\n\n¿Cómo debe Argentina posicionarse frente a estas situaciones que afectan a sus ciudadanos en el extranjero, exigiendo respeto por los derechos sin fomentar la informalidad migratoria?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "ninera-argentina-detenida-ice-trato-justo-abuso-poder",
-    "fecha": "2026-08-13",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Crisis en el Rey de Copas: ¿Fin de ciclo para Quinteros en Independiente?",
-    "bajada": "La eliminación temprana del club aviva el debate sobre la gestión deportiva y el rol de la dirigencia.",
-    "cuerpo": "La dura derrota de Independiente por 4-0 frente a Atlético Tucumán en la Copa Argentina no fue solo un resultado deportivo, sino un detonante para una crisis institucional que ya se venía gestando. La cúpula dirigencial del \"Rojo\" se encuentra en un cónclave urgente para decidir el futuro del director técnico, Quinteros. La afición, enardecida, exige respuestas inmediatas y un cambio de rumbo ante la decadencia futbolística del equipo. Este episodio subraya la fragilidad de proyectos a largo plazo y la constante presión en el fútbol argentino, donde los resultados mandan por encima de cualquier planificación.\n\nEl ciclo de Quinteros, que prometía una reconstrucción, parece llegar a su fin de forma abrupta. ¿Es la dirigencia capaz de asumir la autocrítica necesaria para encontrar soluciones de fondo, o se limitará a un nuevo cambio de entrenador, perpetuando un ciclo de inestabilidad que afecta al legendario club? La pregunta es crucial para el futuro de uno de los grandes.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "crisis-rey-de-copas-quinteros-independiente",
-    "fecha": "2026-08-13",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Argentina arrasada: es la reconstrucción una utopía o una necesidad?",
-    "bajada": "Luis Caputo remarcó el devastador legado de 25 años, pero ¿basta la retórica para revertir décadas de declive?",
-    "cuerpo": "El ministro de Economía, Luis Caputo, volvió a enfatizar una cruda realidad que muchos argentinos perciben a diario: \"Argentina ha sido arrasada en los últimos 25 años\". Esta declaración, lejos de ser una mera frase de campaña, resuena como un diagnóstico contundente de las políticas populistas y el intervencionismo estatal que, según el análisis liberal, desmantelaron la economía y el tejido social. La necesidad de \"reconstruir este país\" no es solo una consigna, sino un imperativo ante la fragilidad de las instituciones y la persistente crisis que atraviesa la nación. La crítica a un cuarto de siglo de gestión marca un claro contraste con la visión de un Estado más austero y un mercado más libre, pilares de la actual administración.\n\nSin embargo, la magnitud del desafío es inmensa. Si bien el diagnóstico de un país \"arrasado\" puede generar consenso en ciertos sectores, las soluciones propuestas por el oficialismo enfrentan resistencias significativas, especialmente desde aquellos que defienden un modelo de Estado presente. ¿Es posible reconstruir una nación tan profundamente marcada por el populismo sin un consenso político y social amplio, o la tarea demandará sacrificios aún mayores y una voluntad inquebrantable de reformar las estructuras que nos llevaron a este punto?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-arrasada-reconstruccion-utopia",
-    "fecha": "2026-08-13",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Competitividad: ¿Por qué la Argentina sigue siendo una isla cara?",
-    "bajada": "Casi la mitad de los insumos industriales son más costosos que en la región, un freno para la producción y la inversión.",
-    "cuerpo": "Un nuevo informe revela una alarmante realidad para la industria nacional: el 49% de los insumos industriales en Argentina son más caros que en países vecinos de la región. Esta cifra no solo evidencia la falta de competitividad crónica que padece el país, sino que también expone las consecuencias directas de décadas de políticas proteccionistas, una presión impositiva asfixiante y una burocracia estatal que encarece cualquier proceso productivo. Mientras el mundo busca la eficiencia y la apertura, Argentina se aferra a un modelo que eleva los costos y desincentiva la inversión, condenando a sus empresas a operar en desventaja.\n\nEl problema trasciende a los empresarios: afecta directamente la capacidad de generar empleo de calidad y de exportar productos con valor agregado. La crítica a este modelo es recurrente desde el sector productivo, que exige reglas de juego claras, menos injerencia estatal y una reforma fiscal que alivie la carga sobre quienes producen. ¿Hasta cuándo podrá la Argentina sostener una estructura de costos que la aleja del progreso regional y global, y qué medidas audaces se necesitan para romper con este ciclo de aislamiento económico?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "competitividad-argentina-isla-cara",
-    "fecha": "2026-08-13",
-    "imagen": "img/economia_5.png",
     "destacada": false
   }
 ]
