@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Soberanía en Venta? La Tensión China-EEUU Pone a Argentina en la Mira",
+    "bajada": "El pulso global de las potencias se juega en nuestro territorio, con advertencias directas que exponen las complejidades de elegir socios.",
+    "cuerpo": "Argentina se encuentra en el epicentro de una creciente fricción geopolítica entre China y Estados Unidos, un escenario que pone en jaque la autonomía nacional. Washington, a través de su embajador, ha elevado el tono, advirtiendo que la profundización de lazos con Beijing, especialmente en áreas estratégicas como la red de fibra óptica gestionada por Huawei, podría obstaculizar futuras inversiones occidentales. Esta presión diplomática no es casual; refleja el interés de EE.UU. en proteger su influencia regional y contener la expansión tecnológica china.\n\nLa disputa por la infraestructura tecnológica, clave para la comunicación y la seguridad nacional, desnuda la fragilidad de un país que busca desesperadamente inversiones sin ceder soberanía. Mientras algunos sectores defienden la libertad de Argentina para comerciar con quien desee, otros alertan sobre los riesgos de quedar atrapado en una guerra fría tecnológica, con consecuencias directas sobre el flujo de capitales y la confianza internacional. ¿Está el país priorizando la ideología o el pragmatismo económico al definir sus alianzas?\n\nLa retórica es clara: el embajador Peter Lamelas afirmó que \"no va a ayudar a que lleguen las inversiones\" si Argentina sigue por el camino chino en fibra óptica. Este tipo de declaraciones genera un debate crucial: ¿hasta qué punto las decisiones económicas y tecnológicas de Argentina pueden ser verdaderamente independientes en un mundo polarizado? ¿Estamos preparados para las implicaciones de estas advertencias?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "soberania-en-venta-tension-china-eeuu-argentina",
+    "fecha": "2026-08-15",
+    "imagen": "img/politica_6.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Inflación: ¿El Freno de Mano de Milei Sigue Puesto?",
+    "bajada": "A pesar de los esfuerzos, la batalla contra la inflación muestra un terreno más complejo de lo esperado, afectando la estabilidad del bolsillo.",
+    "cuerpo": "La tan ansiada desaceleración inflacionaria, bandera del gobierno de turno, enfrenta un escenario desafiante. A pesar de la retórica y las medidas iniciales, los datos sugieren que el proceso de reducción de la inflación no logra consolidarse con la rapidez y contundencia prometidas. Esto genera inquietud entre los ciudadanos y plantea interrogantes sobre la efectividad de las herramientas aplicadas hasta el momento. La rigidez estructural de la economía argentina y las expectativas arraigadas dificultan una salida ágil.\n\nDesde una perspectiva liberal, la persistencia inflacionaria a pesar de un ajuste fiscal significativo invita a revisar si las intervenciones estatales y las regulaciones aún distorsionan los precios, o si hay factores más profundos que el gobierno no logra abordar. ¿Es suficiente el recorte del gasto público si el cepo cambiario y otras restricciones siguen operando? Los defensores del modelo actual argumentan que el camino es largo y los resultados se verán, pero la paciencia social tiene un límite.\n\nLa falta de consolidación en la baja de precios tiene un impacto directo en el poder adquisitivo y la planificación a largo plazo. ¿Hasta dónde puede estirarse la credibilidad de las políticas económicas si los resultados en la calle tardan en llegar o se estancan? ¿Qué otras reformas son necesarias para desarmar la madeja inflacionaria que ahoga a los argentinos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "inflacion-el-freno-de-mano-de-milei",
+    "fecha": "2026-08-15",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina Vacía: La Baja Natalidad, ¿Crisis O Elección?",
+    "bajada": "El país enfrenta un descenso histórico en nacimientos, con profundas consecuencias para el futuro económico y social.",
+    "cuerpo": "Argentina registra una preocupante y sostenida caída en su tasa de natalidad, un fenómeno que los especialistas analizan como una compleja intersección de factores económicos, culturales y sociales. Lejos de garantizar el reemplazo poblacional, el país se encamina hacia un envejecimiento demográfico que plantea serios desafíos para el sistema de seguridad social, el mercado laboral y la innovación. Las parejas deciden tener menos hijos, o postergar la maternidad/paternidad, impactadas por la incertidumbre económica y la búsqueda de desarrollo personal.\n\nDesde una perspectiva de centro-derecha, este fenómeno requiere un análisis crítico sobre cómo las políticas públicas y la presión impositiva pueden influir en las decisiones familiares. ¿Facilita el Estado un entorno propicio para la formación de familias numerosas o las cargas fiscales y la inestabilidad desincentivan esa elección? Es fundamental comprender si la baja natalidad es una consecuencia de la libertad individual para priorizar otros proyectos de vida o una respuesta forzada a un contexto desfavorable.\n\nEsta encrucijada reproductiva nos obliga a reflexionar sobre el rol del Estado, la sostenibilidad de las jubilaciones y el dinamismo de nuestra sociedad. ¿Estamos ante una crisis silenciosa con efectos a largo plazo que nadie está debatiendo seriamente? ¿Qué medidas, más allá de la mera injerencia, podrían fomentar un ambiente donde las familias prosperen si así lo desean?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-vacia-la-baja-natalidad-crisis-o-eleccion",
+    "fecha": "2026-08-15",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Niñera Argentina en EEUU: ¿Desamparo Estatal ante el Horror?",
+    "bajada": "El desgarrador testimonio de una argentina detenida en EE.UU. expone un sistema brutal y la posible falta de protección consular.",
+    "cuerpo": "El calvario vivido por Iliana Lick, la niñera argentina detenida y encadenada en cuatro cárceles de Estados Unidos, desnuda una realidad cruda: la vulnerabilidad de nuestros ciudadanos en el extranjero y la eficacia de la protección estatal. Su testimonio sobre \"cadenas en las muñecas, alrededor del cuerpo y en los pies\" y ser tratada \"como una delincuente\" es una alerta sobre el rigor de sistemas judiciales ajenos y el aparente desamparo que enfrentó. Este caso genera indignación y exige una revisión de los protocolos.\n\nDesde la perspectiva de Panorama.ar, un Estado eficiente debe garantizar la seguridad y los derechos de sus ciudadanos, estén donde estén. Más allá de la presunción de inocencia o culpabilidad en un proceso extranjero, el trato inhumano reportado y la duración de la detención sin un apoyo visible plantean serias dudas. ¿Se actuó con la celeridad y contundencia necesarias para asistir a una ciudadana argentina en una situación tan extrema? Los defensores de la diplomacia cauta argumentan que las injerencias deben ser limitadas, pero la dignidad humana no negocia.\n\nLa historia de Iliana Lick es un recordatorio de que la \"casta\" política, que muchas veces se olvida de los problemas reales, debe asegurar la efectividad de sus representaciones consulares. ¿Qué medidas se tomarán para que ningún argentino vuelva a pasar por una situación similar sin el respaldo adecuado de su país? ¿Se exigirán explicaciones a las autoridades extranjeras?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "ninera-argentina-eeuu-desamparo-estatal",
+    "fecha": "2026-08-15",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Suicidios Récord: ¿Una Tragedia Ignorada en Argentina?",
+    "bajada": "Cifras alarmantes exponen una crisis de salud mental que exige atención urgente y políticas públicas efectivas.",
+    "cuerpo": "Argentina enfrenta una escalofriante cifra de suicidios, superando las 5.200 muertes en 2025, un récord que grita la magnitud de una tragedia social y de salud pública largamente ignorada. Estos números, más allá de la estadística, representan vidas perdidas, familias devastadas y una sociedad que no logra abordar de manera integral el sufrimiento mental. La falta de acceso a tratamientos, el estigma y la precariedad socioeconómica son factores que contribuyen a este sombrío panorama.\n\nDesde nuestra perspectiva, la ineficiencia y la burocracia estatal en la implementación de políticas de salud mental son inadmisibles. Mientras la \"casta\" política se enreda en debates estériles, miles de argentinos luchan en silencio. ¿Es suficiente el presupuesto destinado a la salud mental? ¿Están funcionando los programas de prevención y contención? La respuesta, a la luz de estas cifras, parece ser un rotundo no. Se necesitan acciones concretas, desburocratizadas y orientadas a resultados, no meros anuncios.\n\nEste flagelo demanda una reflexión profunda y un compromiso real de todos los estamentos del Estado y la sociedad civil. ¿Hasta cuándo se permitirá que la salud mental sea la cenicienta del sistema de salud? ¿Qué estamos haciendo, o dejando de hacer, como sociedad para evitar que esta tragedia silenciosa siga cobrándose vidas?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "suicidios-record-tragedia-ignorada",
+    "fecha": "2026-08-15",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Talento Argentino en la FIFA: ¿Un Gol al Statu Quo?",
+    "bajada": "Una firma nacional, elegida por la FIFA, demuestra el potencial innovador que emerge fuera de la órbita estatal.",
+    "cuerpo": "En un ámbito donde a menudo priman las grandes corporaciones internacionales, una firma argentina ha logrado un reconocimiento mayúsculo: fue seleccionada por la FIFA para desarrollar \"nuevas experiencias para los fanáticos\". Este hito no solo representa un espaldarazo al talento y la capacidad de innovación local, sino que también subraya la vitalidad del sector privado cuando se le permite competir y crecer sin las ataduras burocráticas o la injerencia excesiva del Estado. Es un ejemplo de cómo la creatividad y el ingenio pueden trascender fronteras.\n\nDesde Panorama.ar, celebramos estos logros que demuestran la calidad y el potencial exportador de nuestra industria creativa y tecnológica. Mientras algunos se aferran a modelos de dependencia estatal, empresas como esta demuestran que la verdadera prosperidad surge de la iniciativa individual y la capacidad de generar valor. Este éxito contrasta con la narrativa de un país en constante crisis, mostrando que hay una Argentina pujante que genera oportunidades.\n\nEste \"gol\" empresarial en la órbita de la FIFA debería inspirar una reflexión profunda sobre cómo el Estado puede dejar de ser un obstáculo y convertirse en un facilitador para que más empresas argentinas conquisten el mercado global. ¿Estamos brindando el marco adecuado para que la innovación prospere, o seguimos ahogando el espíritu emprendedor con cargas y regulaciones excesivas?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "talento-argentino-fifa-gol-statu-quo",
+    "fecha": "2026-08-15",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Éxito Lácteo: ¿La Paulina Vence al Mercantilismo Estatal?",
+    "bajada": "Saputo, a través de La Paulina, se posiciona líder, evidenciando la fuerza de la inversión y gestión privada en el mercado local.",
+    "cuerpo": "La consolidación de Saputo, fabricante de marcas como La Paulina, como líder en el ranking de empresas lácteas en Argentina, es un claro ejemplo de la capacidad de la inversión y la gestión privada para generar valor y eficiencia en mercados competitivos. Este logro, en un sector históricamente sensible a la intervención estatal y las distorsiones, demuestra que la libre competencia y las decisiones empresariales acertadas son claves para el crecimiento y la oferta de calidad a los consumidores.\n\nDesde una perspectiva liberal, el éxito de Saputo con La Paulina subraya la importancia de permitir que las empresas operen con reglas claras y menos injerencia gubernamental. Mientras algunos claman por más control estatal en la economía, este caso demuestra que la eficiencia y el liderazgo de mercado se alcanzan con inversión, innovación y una gestión que responda a las demandas de los consumidores. Es un modelo a seguir en contraste con el de empresas deficitarias sostenidas por el erario público.\n\nEste liderazgo en la industria láctea argentina es una oportunidad para debatir: ¿hasta qué punto el Estado debe intervenir en la economía y en la vida de empresas clave para el consumo masivo? ¿Qué lecciones podemos extraer del éxito de compañías como Saputo para fomentar un crecimiento económico más robusto y sostenible en Argentina?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "exito-lacteo-la-paulina-vence-mercantilismo-estatal",
+    "fecha": "2026-08-15",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
     "titulo": "Inflación y el plan de Milei: ¿Estancamiento o estrategia?",
     "bajada": "La batalla contra la suba de precios muestra signos de desaceleración, pero los costos sociales son cada vez más evidentes.",
     "cuerpo": "El optimismo inicial sobre la desinflación del gobierno de Javier Milei enfrenta un nuevo desafío: los datos sugieren que el proceso de desaceleración se estanca. Si bien se celebra la baja de los índices en los primeros meses, la persistencia de una inflación elevada genera preocupación y cuestionamientos sobre la eficacia a largo plazo de las medidas implementadas. La rigidez estructural de la economía argentina y la inercia inflacionaria requieren más que ajustes monetarios, exigiendo reformas profundas que todavía no se consolidan.\n\nEl gobierno argumenta que el ajuste fiscal y la disciplina monetaria son el único camino, señalando una reducción drástica del gasto público como pilar fundamental. Sin embargo, los críticos advierten sobre el impacto en la actividad económica y el bienestar social, con una caída del consumo y un aumento de la pobreza. ¿Es sostenible este modelo? La cuestión es si la administración está dispuesta a recalibrar su enfoque para evitar una recesión prolongada o si mantendrá el rumbo a ultranza, esperando un milagro que muchos economistas aún no ven. La confianza de los mercados es un activo, pero la paciencia social es un pasivo que se agota rápidamente.\n\n¿Hasta cuándo podrá el gobierno mantener el pulso económico sin una reactivación genuina que alivie la carga sobre los ciudadanos?",
@@ -9,7 +93,7 @@
     "slug": "inflacion-plan-milei-estancamiento-estrategia",
     "fecha": "2026-08-15",
     "imagen": "img/economia_1.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Vaca Muerta: ¿Son estas #Torres energéticas el futuro de Argentina?",
@@ -201,90 +285,6 @@
     "slug": "dolarizacion-pragmatismo-disputa-moneda-argentina",
     "fecha": "2026-08-14",
     "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Guerra fría por inversiones? EEUU advierte a Argentina sobre China",
-    "bajada": "Washington presiona para que Buenos Aires se aleje de Beijing, ¿cuáles son los costos de esta elección?",
-    "cuerpo": "La advertencia de Estados Unidos a Argentina sobre su relación con China ha escalado, con la clara señal de que una cercanía excesiva con Beijing podría ahuyentar inversiones occidentales. Desde Panorama.ar, observamos con preocupación cómo la polarización geopolítica impacta directamente en las oportunidades de desarrollo del país. La elección entre las dos potencias no es trivial y tiene implicaciones económicas y estratégicas de largo alcance.\n\nLa postura estadounidense, expresada sin tapujos, pone a la Argentina en una encrucijada. Si bien China es un socio comercial clave y un inversor en infraestructura, los dichos de Washington sugieren que la calidad y el origen de las inversiones son tan importantes como su volumen. Para una nación que busca desesperadamente capital extranjero, ignorar estas advertencias podría significar perder el acceso a mercados y tecnologías occidentales, lo cual limitaría su potencial de crecimiento a largo plazo. Es imperativo evaluar el verdadero beneficio neto de cada alianza.\n\n¿Puede Argentina permitirse el lujo de no alinearse con las potencias occidentales que defienden los principios de mercado? ¿O es hora de reconsiderar la estrategia de \"equilibrio\" y optar por socios que garanticen un marco de seguridad jurídica y transparencia que las inversiones genuinas requieren?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "guerra-fria-inversiones-eeuu-advierte-argentina-china",
-    "fecha": "2026-08-14",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Fibra óptica: ¿soberanía o dependencia? La tensión EEUU-Huawei en Argentina",
-    "bajada": "La infraestructura digital del país, en el centro de la disputa tecnológica global entre las potencias.",
-    "cuerpo": "El interés de Estados Unidos por la red de fibra óptica de Argentina y la implícita \"pelea\" con Huawei no es un tema menor; es una cuestión de soberanía tecnológica y de seguridad nacional. Desde Panorama.ar, siempre hemos defendido la importancia de una infraestructura robusta y segura, libre de influencias que puedan comprometer la privacidad y el flujo de información estratégico. La elección de proveedores en tecnología crítica tiene consecuencias a largo plazo, y la Argentina debe actuar con la máxima prudencia.\n\nMientras algunos defienden la conveniencia económica de trabajar con empresas chinas como Huawei, la preocupación de Washington radica en el potencial espionaje y la vulnerabilidad de datos que estas empresas, supeditadas a los intereses del gobierno chino, podrían representar. El argumento es que si Argentina aspira a atraer inversiones de alta calidad y a integrarse plenamente en el ecosistema digital global, debe garantizar la transparencia y seguridad de su infraestructura crítica, algo que para EEUU, Huawei no puede ofrecer.\n\n¿Debe Argentina priorizar la celeridad de implementación o la seguridad estratégica de su infraestructura digital? ¿Estamos dispuestos a asumir los riesgos de una dependencia tecnológica que podría comprometer nuestra autonomía en el futuro? La \"neutralidad\" en estos asuntos es una ilusión que puede salir muy cara.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "fibra-optica-soberania-o-dependencia-eeuu-huawei-argentina",
-    "fecha": "2026-08-14",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vaca Muerta: ¿El fin del estatismo? YPF apuesta a la inversión privada",
-    "bajada": "La mayor inversión privada de la historia para exportar gas, ¿señal de un cambio de paradigma?",
-    "cuerpo": "La ambiciosa apuesta de YPF por la mayor inversión privada en la historia argentina para explotar y exportar gas de Vaca Muerta es, para Panorama.ar, una noticia que debería celebrarse con cautela y análisis crítico. Si bien la llegada de capitales privados es fundamental para el desarrollo de un sector estratégico, es crucial que este proceso se enmarque en un contexto de desregulación y de reglas claras que garanticen la seguridad jurídica y no perpetúen viejas prácticas de intervención estatal.\n\nLa magnitud de este proyecto (51.000 millones de dólares) es un testimonio del inmenso potencial que tiene Argentina cuando se permite que el capital y la iniciativa privada actúen. Sin embargo, la historia nos enseña que el intervencionismo estatal, incluso en empresas con participación pública como YPF, puede distorsionar los mercados y ahuyentar a los inversores. Para que esta inversión sea verdaderamente transformadora, el Estado debe limitarse a su rol de facilitador, garantizando marcos estables y predecibles.\n\n¿Será esta mega-inversión el punto de inflexión que ponga fin a la tentación estatista en el sector energético, o corre el riesgo de convertirse en otro capítulo de la saga donde el sector público se apropia de los éxitos del capital privado? El futuro de Vaca Muerta, y con ello, de las divisas que tanto necesita el país, dependerá de la verdadera voluntad de desregular y confiar en el mercado.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "vaca-muerta-fin-estatismo-ypf-inversion-privada",
-    "fecha": "2026-08-14",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "RIGI: ¿El camino a la prosperidad o nueva concesión al extractivismo estatal?",
-    "bajada": "El megaproyecto de YPF para GNL, ¿garantía de inversión o un marco regulatorio con letra chica?",
-    "cuerpo": "La presentación del Régimen de Incentivo para Grandes Inversiones (RIGI) más grande para el proyecto de Argentina LNG de YPF, con u$s51.000 millones, es una señal de que el gobierno busca atraer capitales a toda costa. Desde Panorama.ar, la sola magnitud de la cifra invita al optimismo, pero también a la cautela. Si bien el RIGI es una herramienta diseñada para destrabar proyectos de gran escala, su éxito dependerá de que realmente genere un marco de libertad y previsibilidad, y no sea una herramienta para el amiguismo o la discrecionalidad estatal.\n\nUn régimen de incentivos debe ser transparente y equitativo, sin crear privilegios para unos pocos. La inversión en GNL es estratégica para Argentina, ya que puede transformar al país en un exportador global de energía. No obstante, la historia reciente está plagada de \"incentivos\" que terminaron siendo subsidios encubiertos o favores políticos, distorsionando la competencia y afectando al resto de la economía. El verdadero éxito del RIGI se medirá en la multiplicación de inversiones y la generación de valor agregado para todos los argentinos.\n\n¿Será el RIGI una verdadera herramienta de fomento a la iniciativa privada y la exportación, o una nueva forma de intervención estatal que, bajo el manto de los incentivos, solo busque controlar sectores estratégicos? ¿Estamos garantizando un entorno de libre mercado o diseñando un traje a medida para determinados jugadores, con el riesgo de replicar el viejo \"capitalismo de amigos\"?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "rigi-camino-prosperidad-nueva-concesion-extractivismo",
-    "fecha": "2026-08-14",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Milei pierde la batalla contra la inflación? La casta observa.",
-    "bajada": "Los datos económicos recientes ponen en jaque el relato de la desaceleración y abren un nuevo frente de dudas.",
-    "cuerpo": "El gobierno de Milei enfrenta un desafío creciente: la ansiada consolidación de la baja inflacionaria parece estancarse. Tras meses de promesas y ajustes, la expectativa de una caída sostenida en los índices de precios no se materializa con la contundencia esperada, generando frustración en vastos sectores y reactivando críticas de quienes observan con recelo las políticas implementadas.\n\nLos números oficiales y las proyecciones privadas, aunque muestran una desaceleración respecto a los picos históricos, aún distan de una estabilidad que permita recuperar el poder adquisitivo de los ciudadanos. La presión tributaria y el gasto público, aunque contenidos, siguen siendo motores de una maquinaria que resiste los intentos de achicamiento. ¿Hasta cuándo podrá el Ejecutivo mantener el rumbo sin lograr un golpe de efecto definitivo contra la licuación de los salarios?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-pierde-batalla-contra-inflacion-casta-observa",
-    "fecha": "2026-08-14",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vaca Muerta: ¿El RIGI desbloquea por fin la inversión de US$50.000 millones?",
-    "bajada": "Una inversión histórica en GNL promete cambiar el panorama energético, pero la burocracia estatal siempre acecha.",
-    "cuerpo": "YPF y el consorcio Argentina LNG anunciaron una inversión récord de más de US$50.000 millones para la producción y exportación de Gas Natural Licuado (GNL) desde Vaca Muerta. Este mega-proyecto, que podría transformar a Argentina en un actor global de peso, depende crucialmente de la aprobación plena y efectiva del Régimen de Incentivo para Grandes Inversiones (RIGI), una herramienta que busca dar estabilidad jurídica y fiscal a proyectos de esta magnitud.\n\nLa posibilidad de que esta iniciativa se concrete marca un quiebre para una economía históricamente rehén de regulaciones erráticas y una presión impositiva asfixiante. Mientras los defensores del RIGI celebran la potencial inyección de capital y creación de empleo, el desafío es claro: ¿está el Estado argentino preparado para dejar de ser un obstáculo y convertirse en un facilitador, garantizando las condiciones para que esta inversión no sea otra promesa frustrada?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "vaca-muerta-rigi-desbloquea-inversion-50000-millones",
-    "fecha": "2026-08-14",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Argentina en el banco de suplentes? Leyes \"soviéticas\" frenan exportaciones.",
-    "bajada": "Mientras Brasil avanza, el sector exportador denuncia que la legislación local frena su potencial y condena al país.",
-    "cuerpo": "La competitividad de Argentina sufre un nuevo golpe, según los exportadores. Mientras la región, especialmente Brasil, logra avances significativos en leyes que facilitan el comercio exterior, nuestro país se estanca con normativas que, según el sector, tienen un \"estilo soviético\", alejadas de las necesidades del mercado global. Esto se traduce en menos divisas, menos empleo y una persistente dificultad para integrar el país en cadenas de valor internacionales.\n\nLa crítica apunta a una intervención estatal excesiva y a una carga burocrática que ahuyenta inversiones y oportunidades. Los empresarios claman por un marco legal que impulse, en lugar de obstaculizar, la producción y la salida de bienes al mundo. ¿Seguiremos atados a un modelo que condena al país a la irrelevancia económica, o habrá un cambio de rumbo que priorice la libertad y la productividad?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-banco-suplentes-leyes-sovieticas-frenan-exportaciones",
-    "fecha": "2026-08-14",
-    "imagen": "img/economia_2.png",
     "destacada": false
   }
 ]
