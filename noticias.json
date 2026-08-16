@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Inflación récord: ¿Otro mes de castigo al bolsillo argentino?",
+    "bajada": "Argentina y Venezuela lideran un ranking que avergüenza, mientras la sociedad busca respuestas a un flagelo recurrente.",
+    "cuerpo": "Los datos no mienten: Argentina vuelve a encabezar, junto a Venezuela, el vergonzoso ranking de inflación en América Latina. Esta recurrente escalada de precios, lejos de ser un fenómeno aislado, es el resultado directo de políticas fiscales expansivas y una intervención estatal que no cede. El continuo gasto público descontrolado y la emisión monetaria actúan como un impuesto encubierto, erosionando el poder adquisitivo de salarios y ahorros.\n\nMientras el sector productivo lucha por sobrevivir en un contexto de costos impredecibles, el Estado parece seguir la misma senda que nos llevó a esta crisis crónica. La presión impositiva asfixia a quienes generan empleo y riqueza, dejando a millones de argentinos en la incertidumbre.\n\n¿Hasta cuándo soportará la ciudadanía esta espiral inflacionaria que parece no tener fin, y qué medidas concretas se esperan para revertir un modelo que castiga el esfuerzo y premia la inacción?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "inflacion-record-otro-mes-de-castigo-al-bolsillo-argentino",
+    "fecha": "2026-08-16",
+    "imagen": "img/economia_1.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Más de 30.000 empresas cierran: ¿El costo real de un Estado elefante?",
+    "bajada": "En dos años y medio, el tejido productivo argentino se desgarra con la desaparición de miles de pymes, un síntoma de un modelo inviable.",
+    "cuerpo": "La alarmante cifra de más de 30.000 empresas cerradas en apenas dos años y medio expone una realidad brutal: el sector privado, motor de la economía y generador de empleo, está siendo estrangulado. Este escenario de retracción empresarial es la consecuencia directa de una presión impositiva insostenible, la burocracia sofocante y la falta de un horizonte económico claro que estimule la inversión y el crecimiento.\n\nMientras el discurso oficial a menudo se enfoca en la protección del empleo, la realidad es que miles de puestos de trabajo se pierden con cada persiana que baja. Los emprendedores y pequeños empresarios, pilares de cualquier economía sana, se ven obligados a abandonar sus proyectos ante la imposibilidad de competir y subsistir bajo un esquema que parece penalizar la iniciativa.\n\n¿Qué futuro le espera a un país que sistemáticamente expulsa a quienes se atreven a producir y arriesgar, y cuándo se tomarán medidas para un verdadero alivio fiscal y regulatorio?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mas-de-30000-empresas-cierran-el-costo-real-de-un-estado-elefante",
+    "fecha": "2026-08-16",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El calvario de Tamara: Cadenas y derechos, ¿dónde está el límite?",
+    "bajada": "Una niñera argentina relata el horror de su detención en EEUU, exponiendo un sistema que prioriza la seguridad sobre la dignidad.",
+    "cuerpo": "La conmovedora historia de Tamara, la niñera argentina detenida en Estados Unidos, ha encendido el debate sobre los límites de la autoridad y el respeto a los derechos humanos. Su testimonio sobre 'cadenas en el estómago y los pies' durante su encarcelamiento, lejos de ser un caso aislado, pone en evidencia las duras condiciones a las que pueden ser sometidos los individuos en sistemas judiciales extranjeros, incluso antes de ser juzgados.\n\nLa búsqueda de la verdad y la justicia no puede, bajo ninguna circunstancia, justificar tratos que atenten contra la integridad y la dignidad de las personas. Mientras se aguardan detalles sobre el proceso legal que llevó a esta situación, es imperativo reflexionar sobre los protocolos de detención y el acompañamiento consular para ciudadanos argentinos en el exterior.\n\n¿Estamos como sociedad dispuestos a aceptar estos métodos en nombre de la seguridad, o debemos exigir un estándar más alto de respeto a los derechos fundamentales, aquí y en el mundo?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "el-calvario-de-tamara-cadenas-y-derechos-donde-esta-el-limite",
+    "fecha": "2026-08-16",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Tráfico de drogas en Japón: ¿El precio de las decisiones extremas?",
+    "bajada": "Una mujer argentina detenida en Tokio con un kilo de cocaína en su cuerpo expone el lado oscuro de la desesperación y el crimen organizado.",
+    "cuerpo": "La noticia de una ciudadana argentina detenida en Tokio con casi un kilo de cocaína, ingerido en 101 cápsulas, vuelve a poner en el centro del debate las complejas redes del narcotráfico y las trágicas historias individuales detrás de ellas. Este caso, que seguramente tendrá severas consecuencias bajo la estricta justicia japonesa, subraya la desesperación o la coacción que puede llevar a personas a arriesgarlo todo por sumas ínfimas.\n\nMientras algunos critican la falta de oportunidades o las condiciones que empujan a estas acciones, es crucial recordar la responsabilidad individual. Cada decisión tiene un costo, y la elección de involucrarse en actividades criminales tiene un impacto devastador no solo en la vida del involucrado, sino también en la imagen del país y en la lucha global contra el narcotráfico.\n\n¿Es posible desmantelar estas redes criminales sin abordar las causas profundas que reclutan a estas 'mulas', y hasta dónde llega la responsabilidad individual en un contexto de vulnerabilidad?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "trafico-de-drogas-en-japon-el-precio-de-las-decisiones-extremas",
+    "fecha": "2026-08-16",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Pasaporte al día o no hay ingreso: ¿El Estado contra el ciudadano?",
+    "bajada": "Argentina y Brasil endurecen controles migratorios, elevando la burocracia a una barrera infranqueable para miles.",
+    "cuerpo": "La medida conjunta de Argentina y Brasil de prohibir el ingreso a quienes no tengan el pasaporte al día genera un profundo debate sobre la potestad del Estado y los derechos de los ciudadanos. Si bien la renovación documental es una obligación, la rigidez en la aplicación y el impacto potencial en la movilidad de miles de personas, incluso por olvidos o demoras burocráticas, levanta serios interrogantes.\n\nEsta decisión, que podría interpretarse como una forma de ordenar el flujo migratorio o de seguridad, también expone una excesiva burocratización que termina por perjudicar a los propios ciudadanos. En un contexto donde la administración pública a menudo presenta demoras, exigir una perfección absoluta bajo amenaza de expulsión es, cuanto menos, problemático y desproporcionado.\n\n¿Es la mano dura burocrática la solución para el orden o un nuevo obstáculo que el Estado impone a la libertad individual y a la interacción regional?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "pasaporte-al-dia-o-no-hay-ingreso-el-estado-contra-el-ciudadano",
+    "fecha": "2026-08-16",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "AFA y el 'partido más argentino': ¿Nostalgia o uso político de Palermo?",
+    "bajada": "La AFA revivió un momento icónico, pero ¿es un genuino tributo o una herramienta para consolidar su narrativa?",
+    "cuerpo": "La AFA ha vuelto a apelar a la fibra sensible de los argentinos con un video celebrando el 'partido más argentino', evocando la victoria mundialista. Si bien el fútbol es una pasión que une, no podemos ignorar cómo las instituciones deportivas utilizan estos momentos de gloria para fortalecer su propia imagen y narrativa, desviando quizás la atención de otras cuestiones. La figura de Palermo, un ícono popular, se inserta en este relato de épica nacional.\n\nEs importante distinguir entre la celebración genuina de un logro deportivo y el uso instrumental que se le puede dar. La AFA, como organismo rector, tiene responsabilidades que van más allá de la gestión de la pasión, incluyendo la transparencia y el desarrollo del deporte en todas sus facetas.\n\n¿Hasta qué punto el fervor futbolístico se convierte en un instrumento de control narrativo, y es esto beneficioso para el debate público o simplemente una distracción?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "afa-y-el-partido-mas-argentino-nostalgia-o-uso-politico-de-palermo",
+    "fecha": "2026-08-16",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Gaston, referente argentino: ¿Talento importado o identidad en crisis?",
+    "bajada": "Un deportista nacido en EEUU, pero con el corazón en Argentina, despierta la reflexión sobre la identidad nacional y el apoyo al talento local.",
+    "cuerpo": "La historia de Gaston, el deportista nacido en Estados Unidos que se ha convertido en 'referente de Argentina' a pesar de su lucha inicial con el idioma, es un poderoso testimonio de la identidad que trasciende fronteras. Su contundente afirmación de 'no quisiera usar otra camiseta' resalta un sentido de pertenencia que muchos argentinos valoran profundamente, especialmente en el ámbito deportivo.\n\nSin embargo, esta narrativa también nos invita a reflexionar: ¿qué ocurre con el talento que nace y se forma íntegramente en Argentina? ¿Estamos creando las condiciones necesarias para que estos talentos florezcan y no tengan que mirar hacia afuera? Es fundamental que el país no solo celebre a quienes eligen representarlo, sino que también invierta y apoye a sus propias bases deportivas y culturales para nutrir futuras generaciones de referentes.\n\n¿Es la 'argentinidad' una cuestión de nacimiento o de elección, y cómo podemos fortalecer ambos pilares para construir un futuro más próspero en el deporte y más allá?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "gaston-referente-argentino-talento-importado-o-identidad-en-crisis",
+    "fecha": "2026-08-16",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "Inflación: ¿Por qué Argentina sigue en el podio regional del desmanejo?",
     "bajada": "Los datos de julio confirman que la estabilidad económica aún es una quimera.",
     "cuerpo": "Los recientes datos de inflación de julio posicionan a Argentina, una vez más, en el deshonroso segundo lugar del ranking regional, solo superada por Venezuela. Con un 2,1% mensual, este registro, aunque menor al del país caribeño, sigue siendo una carga insostenible para el bolsillo de los ciudadanos y un freno para cualquier intento de crecimiento sostenible. La persistencia de estos niveles demuestra la urgencia de abandonar las políticas intervencionistas que distorsionan los precios y aniquilan la capacidad de ahorro.\n\nLa comparación con el resto de América Latina es un espejo incómodo: mientras muchos países consolidan su estabilidad, Argentina se aferra a un modelo que privilegia el gasto público descontrolado y la emisión monetaria por sobre la disciplina fiscal. ¿Hasta cuándo toleraremos que el Estado sea el principal motor de la depreciación de nuestra moneda y de la pobreza de nuestros compatriotas? Es imperativo un cambio de rumbo que priorice el equilibrio macroeconómico y la confianza en el mercado.",
@@ -9,7 +93,7 @@
     "slug": "inflacion-por-que-argentina-en-podio-regional",
     "fecha": "2026-08-16",
     "imagen": "img/economia_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Crisis pyme: 30.000 empresas menos, ¿quién asume la responsabilidad?",
@@ -201,90 +285,6 @@
     "slug": "argentina-vacia-la-baja-natalidad-crisis-o-eleccion",
     "fecha": "2026-08-15",
     "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Niñera Argentina en EEUU: ¿Desamparo Estatal ante el Horror?",
-    "bajada": "El desgarrador testimonio de una argentina detenida en EE.UU. expone un sistema brutal y la posible falta de protección consular.",
-    "cuerpo": "El calvario vivido por Iliana Lick, la niñera argentina detenida y encadenada en cuatro cárceles de Estados Unidos, desnuda una realidad cruda: la vulnerabilidad de nuestros ciudadanos en el extranjero y la eficacia de la protección estatal. Su testimonio sobre \"cadenas en las muñecas, alrededor del cuerpo y en los pies\" y ser tratada \"como una delincuente\" es una alerta sobre el rigor de sistemas judiciales ajenos y el aparente desamparo que enfrentó. Este caso genera indignación y exige una revisión de los protocolos.\n\nDesde la perspectiva de Panorama.ar, un Estado eficiente debe garantizar la seguridad y los derechos de sus ciudadanos, estén donde estén. Más allá de la presunción de inocencia o culpabilidad en un proceso extranjero, el trato inhumano reportado y la duración de la detención sin un apoyo visible plantean serias dudas. ¿Se actuó con la celeridad y contundencia necesarias para asistir a una ciudadana argentina en una situación tan extrema? Los defensores de la diplomacia cauta argumentan que las injerencias deben ser limitadas, pero la dignidad humana no negocia.\n\nLa historia de Iliana Lick es un recordatorio de que la \"casta\" política, que muchas veces se olvida de los problemas reales, debe asegurar la efectividad de sus representaciones consulares. ¿Qué medidas se tomarán para que ningún argentino vuelva a pasar por una situación similar sin el respaldo adecuado de su país? ¿Se exigirán explicaciones a las autoridades extranjeras?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "ninera-argentina-eeuu-desamparo-estatal",
-    "fecha": "2026-08-15",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Suicidios Récord: ¿Una Tragedia Ignorada en Argentina?",
-    "bajada": "Cifras alarmantes exponen una crisis de salud mental que exige atención urgente y políticas públicas efectivas.",
-    "cuerpo": "Argentina enfrenta una escalofriante cifra de suicidios, superando las 5.200 muertes en 2025, un récord que grita la magnitud de una tragedia social y de salud pública largamente ignorada. Estos números, más allá de la estadística, representan vidas perdidas, familias devastadas y una sociedad que no logra abordar de manera integral el sufrimiento mental. La falta de acceso a tratamientos, el estigma y la precariedad socioeconómica son factores que contribuyen a este sombrío panorama.\n\nDesde nuestra perspectiva, la ineficiencia y la burocracia estatal en la implementación de políticas de salud mental son inadmisibles. Mientras la \"casta\" política se enreda en debates estériles, miles de argentinos luchan en silencio. ¿Es suficiente el presupuesto destinado a la salud mental? ¿Están funcionando los programas de prevención y contención? La respuesta, a la luz de estas cifras, parece ser un rotundo no. Se necesitan acciones concretas, desburocratizadas y orientadas a resultados, no meros anuncios.\n\nEste flagelo demanda una reflexión profunda y un compromiso real de todos los estamentos del Estado y la sociedad civil. ¿Hasta cuándo se permitirá que la salud mental sea la cenicienta del sistema de salud? ¿Qué estamos haciendo, o dejando de hacer, como sociedad para evitar que esta tragedia silenciosa siga cobrándose vidas?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "suicidios-record-tragedia-ignorada",
-    "fecha": "2026-08-15",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Talento Argentino en la FIFA: ¿Un Gol al Statu Quo?",
-    "bajada": "Una firma nacional, elegida por la FIFA, demuestra el potencial innovador que emerge fuera de la órbita estatal.",
-    "cuerpo": "En un ámbito donde a menudo priman las grandes corporaciones internacionales, una firma argentina ha logrado un reconocimiento mayúsculo: fue seleccionada por la FIFA para desarrollar \"nuevas experiencias para los fanáticos\". Este hito no solo representa un espaldarazo al talento y la capacidad de innovación local, sino que también subraya la vitalidad del sector privado cuando se le permite competir y crecer sin las ataduras burocráticas o la injerencia excesiva del Estado. Es un ejemplo de cómo la creatividad y el ingenio pueden trascender fronteras.\n\nDesde Panorama.ar, celebramos estos logros que demuestran la calidad y el potencial exportador de nuestra industria creativa y tecnológica. Mientras algunos se aferran a modelos de dependencia estatal, empresas como esta demuestran que la verdadera prosperidad surge de la iniciativa individual y la capacidad de generar valor. Este éxito contrasta con la narrativa de un país en constante crisis, mostrando que hay una Argentina pujante que genera oportunidades.\n\nEste \"gol\" empresarial en la órbita de la FIFA debería inspirar una reflexión profunda sobre cómo el Estado puede dejar de ser un obstáculo y convertirse en un facilitador para que más empresas argentinas conquisten el mercado global. ¿Estamos brindando el marco adecuado para que la innovación prospere, o seguimos ahogando el espíritu emprendedor con cargas y regulaciones excesivas?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "talento-argentino-fifa-gol-statu-quo",
-    "fecha": "2026-08-15",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Éxito Lácteo: ¿La Paulina Vence al Mercantilismo Estatal?",
-    "bajada": "Saputo, a través de La Paulina, se posiciona líder, evidenciando la fuerza de la inversión y gestión privada en el mercado local.",
-    "cuerpo": "La consolidación de Saputo, fabricante de marcas como La Paulina, como líder en el ranking de empresas lácteas en Argentina, es un claro ejemplo de la capacidad de la inversión y la gestión privada para generar valor y eficiencia en mercados competitivos. Este logro, en un sector históricamente sensible a la intervención estatal y las distorsiones, demuestra que la libre competencia y las decisiones empresariales acertadas son claves para el crecimiento y la oferta de calidad a los consumidores.\n\nDesde una perspectiva liberal, el éxito de Saputo con La Paulina subraya la importancia de permitir que las empresas operen con reglas claras y menos injerencia gubernamental. Mientras algunos claman por más control estatal en la economía, este caso demuestra que la eficiencia y el liderazgo de mercado se alcanzan con inversión, innovación y una gestión que responda a las demandas de los consumidores. Es un modelo a seguir en contraste con el de empresas deficitarias sostenidas por el erario público.\n\nEste liderazgo en la industria láctea argentina es una oportunidad para debatir: ¿hasta qué punto el Estado debe intervenir en la economía y en la vida de empresas clave para el consumo masivo? ¿Qué lecciones podemos extraer del éxito de compañías como Saputo para fomentar un crecimiento económico más robusto y sostenible en Argentina?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "exito-lacteo-la-paulina-vence-mercantilismo-estatal",
-    "fecha": "2026-08-15",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Inflación y el plan de Milei: ¿Estancamiento o estrategia?",
-    "bajada": "La batalla contra la suba de precios muestra signos de desaceleración, pero los costos sociales son cada vez más evidentes.",
-    "cuerpo": "El optimismo inicial sobre la desinflación del gobierno de Javier Milei enfrenta un nuevo desafío: los datos sugieren que el proceso de desaceleración se estanca. Si bien se celebra la baja de los índices en los primeros meses, la persistencia de una inflación elevada genera preocupación y cuestionamientos sobre la eficacia a largo plazo de las medidas implementadas. La rigidez estructural de la economía argentina y la inercia inflacionaria requieren más que ajustes monetarios, exigiendo reformas profundas que todavía no se consolidan.\n\nEl gobierno argumenta que el ajuste fiscal y la disciplina monetaria son el único camino, señalando una reducción drástica del gasto público como pilar fundamental. Sin embargo, los críticos advierten sobre el impacto en la actividad económica y el bienestar social, con una caída del consumo y un aumento de la pobreza. ¿Es sostenible este modelo? La cuestión es si la administración está dispuesta a recalibrar su enfoque para evitar una recesión prolongada o si mantendrá el rumbo a ultranza, esperando un milagro que muchos economistas aún no ven. La confianza de los mercados es un activo, pero la paciencia social es un pasivo que se agota rápidamente.\n\n¿Hasta cuándo podrá el gobierno mantener el pulso económico sin una reactivación genuina que alivie la carga sobre los ciudadanos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "inflacion-plan-milei-estancamiento-estrategia",
-    "fecha": "2026-08-15",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vaca Muerta: ¿Son estas #Torres energéticas el futuro de Argentina?",
-    "bajada": "YPF proyecta exportaciones masivas de GNL, pero el camino a la riqueza energética está plagado de desafíos.",
-    "cuerpo": "El anuncio de YPF sobre una inversión de US$ 51.000 millones para exportar GNL desde Vaca Muerta, con proyecciones de USD 10.000 millones anuales para 2031, genera una mezcla de entusiasmo y escepticismo. Horacio Marín, presidente de la petrolera, pinta un futuro promisorio donde Argentina se consolida como potencia energética. Sin embargo, la historia reciente del país está marcada por promesas incumplidas y una burocracia estatal que suele ahuyentar las inversiones de largo plazo. ¿Está garantizado que este monumental proyecto no se diluya en la inestabilidad política y regulatoria?\n\nLa adhesión al RIGI es un paso en la dirección correcta para generar certidumbre, pero la experiencia argentina dicta cautela. La 'casta' política, con su voracidad fiscal y su tendencia a la intervención, podría ver en este boom una nueva caja a expoliar, poniendo en riesgo la sustentabilidad de la inversión privada que tanto se necesita. Los críticos recuerdan la pesada carga impositiva y la falta de previsibilidad que históricamente han frenado el desarrollo. El desafío no es solo técnico, sino profundamente político y cultural.\n\n¿Logrará el gobierno actual blindar este proyecto de las tentaciones populistas y asegurar un marco estable para que estas 'torres' de energía se concreten y beneficien a todos los argentinos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "vaca-muerta-torres-energeticas-futuro-argentina",
-    "fecha": "2026-08-15",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Argentina, \"nodo de riesgo\"? La sombra de #Doom sobre nuestro comercio.",
-    "bajada": "Estados Unidos alerta sobre triangulación ilegal de productos chinos, exponiendo la vulnerabilidad argentina.",
-    "cuerpo": "La preocupación de Estados Unidos sobre la posición de Argentina como 'nodo de riesgo' en una red global de triangulación de mercancías chinas no es menor. Esta acusación, que vincula al país con prácticas comerciales ilegales, tiene implicaciones geopolíticas y económicas serias. Si bien el gobierno argentino busca diversificar sus socios comerciales, especialmente con China, la señal de alarma desde Washington es un llamado de atención sobre la necesidad de transparencia y rigor en las operaciones internacionales. ¿Está Argentina, de forma consciente o ingenua, facilitando un esquema que podría traer consecuencias severas?\n\nLa 'guerra comercial' entre las grandes potencias expone la fragilidad de países como el nuestro, que a menudo quedan atrapados en el fuego cruzado. Las administraciones pasadas, con su política exterior errática y su escasa capacidad de negociación, sentaron las bases para que estas situaciones se repitan. Es imperativo que el actual gobierno demuestre una postura firme y una voluntad real de limpiar cualquier vestigio de irregularidad, defendiendo la soberanía económica y la reputación internacional del país. La alternativa podría ser un endurecimiento de las relaciones con socios clave y un perjuicio irreparable a la confianza.\n\n¿Es la Argentina una víctima ingenua de las tensiones globales o existe una complicidad estructural que nos condena a ser un eslabón débil en la cadena comercial internacional?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-nodo-riesgo-sombra-doom-comercio",
-    "fecha": "2026-08-15",
-    "imagen": "img/politica_2.png",
     "destacada": false
   }
 ]
