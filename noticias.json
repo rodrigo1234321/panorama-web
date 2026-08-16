@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Inflación: ¿Por qué Argentina sigue en el podio regional del desmanejo?",
+    "bajada": "Los datos de julio confirman que la estabilidad económica aún es una quimera.",
+    "cuerpo": "Los recientes datos de inflación de julio posicionan a Argentina, una vez más, en el deshonroso segundo lugar del ranking regional, solo superada por Venezuela. Con un 2,1% mensual, este registro, aunque menor al del país caribeño, sigue siendo una carga insostenible para el bolsillo de los ciudadanos y un freno para cualquier intento de crecimiento sostenible. La persistencia de estos niveles demuestra la urgencia de abandonar las políticas intervencionistas que distorsionan los precios y aniquilan la capacidad de ahorro.\n\nLa comparación con el resto de América Latina es un espejo incómodo: mientras muchos países consolidan su estabilidad, Argentina se aferra a un modelo que privilegia el gasto público descontrolado y la emisión monetaria por sobre la disciplina fiscal. ¿Hasta cuándo toleraremos que el Estado sea el principal motor de la depreciación de nuestra moneda y de la pobreza de nuestros compatriotas? Es imperativo un cambio de rumbo que priorice el equilibrio macroeconómico y la confianza en el mercado.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "inflacion-por-que-argentina-en-podio-regional",
+    "fecha": "2026-08-16",
+    "imagen": "img/economia_2.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Crisis pyme: 30.000 empresas menos, ¿quién asume la responsabilidad?",
+    "bajada": "La sangría del sector productivo pone en jaque el futuro del empleo y la inversión.",
+    "cuerpo": "Los datos son alarmantes: más de 30.000 empresas cerraron sus puertas en Argentina en los últimos dos años y medio. Esta cifra no es un mero número; representa miles de proyectos destruidos, empleos perdidos y familias desamparadas. La asfixiante presión impositiva, la burocracia estatal y la inestabilidad macroeconómica se han convertido en una trampa mortal para quienes deciden invertir y generar riqueza en el país. El Estado, lejos de ser un facilitador, parece ser el principal obstáculo.\n\nMientras el sector público no para de crecer en gasto y privilegios, el sector privado, motor de la economía real, se desangra. ¿Es esta la Argentina que queremos construir, donde emprender es una misión casi imposible y la incertidumbre es la única constante? Es hora de revisar un modelo que ahoga la iniciativa privada y condena a miles de argentinos a la informalidad o al desempleo.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "crisis-pyme-30000-empresas-menos-quien-asume-la-responsabilidad",
+    "fecha": "2026-08-16",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Vaca Muerta atrae capital: ¿señal de cambio o excepción a la regla?",
+    "bajada": "La llegada de inversores de peso reactiva la esperanza en un sector clave.",
+    "cuerpo": "La incursión de Peter Thiel, una figura de talla mundial en el ámbito de las inversiones, en Vaca Muerta, representa una bocanada de aire fresco en el opaco panorama económico argentino. Su apuesta por una petrolera local es un voto de confianza en el potencial energético del país, y un recordatorio de que, con reglas claras y previsibilidad, el capital extranjero está dispuesto a asumir riesgos y generar valor. Esta noticia contrasta fuertemente con la constante huida de inversiones que sufre el país.\n\nVaca Muerta tiene la capacidad de ser un motor de desarrollo sin precedentes, pero para ello requiere un marco de estabilidad y respeto por la propiedad privada. La pregunta que surge es si esta inversión es el inicio de una tendencia o una excepción a la regla, fruto de esfuerzos individuales en un contexto adverso. ¿Podrá Argentina capitalizar su potencial o seguirá espantando a los inversores con su volatilidad y constante cambio de reglas?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "vaca-muerta-atrae-capital-senal-de-cambio-o-excepcion-a-la-regla",
+    "fecha": "2026-08-16",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Futsal: ¿Argentina puede contra Brasil en la final Sub17? El futuro del fútbol nacional.",
+    "bajada": "Una nueva batalla futbolística clásica define el futuro de las jóvenes promesas.",
+    "cuerpo": "Argentina se enfrenta a Brasil en la gran final de la CONMEBOL Sub17 Futsal 2026, reeditando un clásico que siempre paraliza al continente. Más allá del resultado, este encuentro es una vidriera para las futuras estrellas de nuestro fútbol, un termómetro del trabajo en las categorías formativas y una muestra del potencial que tenemos en esta disciplina. La rivalidad entre ambas naciones no solo se juega en la cancha grande, sino también en las variantes que capturan la pasión popular.\n\nLa final no solo es un partido, es una oportunidad de consolidar una generación. El desarrollo de estas categorías es crucial para asegurar que el talento argentino siga brillando en el escenario global. ¿Lograrán los jóvenes talentos argentinos imponerse a la maquinaria brasileña y traer la copa a casa, demostrando el semillero de nuestro país?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "futsal-argentina-puede-contra-brasil-en-la-final-sub17",
+    "fecha": "2026-08-16",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La Ref Cam revela el detrás de escena: ¿cómo vivió Messi la final con Vincic?",
+    "bajada": "Una perspectiva inédita de los momentos de tensión y diálogo en el campo de juego.",
+    "cuerpo": "La publicación de la Ref Cam de la final entre Argentina y España ofrece una mirada sin precedentes al corazón del partido. Los diálogos entre el árbitro Vincic y Messi, junto a otras interacciones de los jugadores, permiten al público entender la presión y la estrategia que se viven en esos momentos cumbre. Esta tecnología no solo entretiene, sino que humaniza la experiencia deportiva, acercando a los ídolos a sus seguidores de una manera única. Es un ejercicio de transparencia que enriquece el debate sobre el arbitraje y la dinámica de juego.\n\nVer a los protagonistas en su máxima expresión, sus reacciones y la gestión de la adrenalina, añade una capa de profundidad al análisis post-partido. ¿Debería esta herramienta ser obligatoria en todas las grandes finales para ofrecer una visión completa y desmitificar ciertos encuentros, o es mejor mantener la mística del campo de juego inalterada?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "la-ref-cam-revela-el-detras-de-escena-como-vivio-messi-la-final",
+    "fecha": "2026-08-16",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Romero en el Atlético: ¿el orgullo nacional cruza fronteras con el fútbol argentino?",
+    "bajada": "El Cuti Romero y la bandera argentina: un gesto que enciende la pasión de los hinchas.",
+    "cuerpo": "El posteo del Atlético de Madrid con el Cuti Romero y la bandera argentina es más que una simple imagen; es un recordatorio del talento y la pasión que el fútbol argentino exporta al mundo. Ver a nuestros jugadores triunfar en las grandes ligas europeas, manteniendo viva su conexión con el país, genera un sentimiento de orgullo nacional innegable. Este tipo de gestos no solo fortalece el vínculo entre los clubes y sus figuras, sino también entre los hinchas y sus representantes en el exterior.\n\nLa presencia de Romero y otros talentos argentinos en la élite mundial no solo realza su trayectoria personal, sino que también pone en valor la calidad de la formación deportiva en nuestro país. ¿Qué significan estos símbolos de identidad nacional en un deporte cada vez más globalizado, y cómo impacta en la cohesión de los hinchas más allá de las camisetas de los clubes?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "romero-en-el-atletico-el-orgullo-nacional-cruza-fronteras",
+    "fecha": "2026-08-16",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "AFA y la memoria: ¿Qué representa la victoria ante Inglaterra para el fútbol argentino?",
+    "bajada": "Un video emotivo de la AFA revive un momento que trasciende lo deportivo.",
+    "cuerpo": "A un mes de la histórica victoria de la Selección Argentina frente a Inglaterra, el video publicado por la AFA es un ejercicio de memoria y un tributo a un momento que marcó un antes y un después en el fútbol nacional. Este partido no fue solo un triunfo deportivo; fue una reivindicación, un desahogo y un símbolo de resiliencia para todo un país. El impacto emocional de estas gestas se extiende mucho más allá de las canchas, anclándose en la identidad colectiva.\n\nLa capacidad de la AFA para evocar estos sentimientos a través de contenidos multimedia demuestra la profunda conexión que existe entre la Selección y la sociedad argentina. ¿Son estos recordatorios de victorias pasadas una fuente de inspiración y unión para enfrentar los desafíos actuales, o deberíamos enfocarnos más en los retos futuros del deporte y del país?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "afa-y-la-memoria-que-representa-la-victoria-ante-inglaterra",
+    "fecha": "2026-08-16",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Milei tropieza con la inflación? La dura realidad económica",
     "bajada": "El gobierno enfrenta un desafío persistente en su promesa de estabilización, con datos que alertan sobre la efectividad de las medidas actuales.",
     "cuerpo": "La administración de Milei ha puesto la reducción de la inflación como pilar central de su gestión. Sin embargo, los últimos reportes de julio muestran que el proceso de desaceleración se estancó, generando preocupación entre analistas y la ciudadanía. Este escenario revive el debate sobre la sustentabilidad del ajuste y si las políticas implementadas son suficientes para domar una economía históricamente volátil. Algunos sectores advierten que la presión sobre los precios responde a factores estructurales que van más allá del recorte del gasto, señalando la necesidad de reformas más profundas y una mayor confianza inversora.\n\nLa \"motosierra\" del presidente, ¿es suficiente para resolver la patología inflacionaria o es hora de repensar la estrategia económica?",
@@ -9,7 +93,7 @@
     "slug": "milei-tropieza-inflacion-dura-realidad-economica",
     "fecha": "2026-08-15",
     "imagen": "img/economia_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Dolarizar: ¿solución definitiva o quimera para Argentina?",
@@ -201,90 +285,6 @@
     "slug": "argentina-nodo-riesgo-sombra-doom-comercio",
     "fecha": "2026-08-15",
     "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Fin del cepo encubierto? Dólares para empresas, ¿riesgo o alivio?",
-    "bajada": "El gobierno flexibiliza el acceso a préstamos en dólares, una medida con potencial doble filo para la economía.",
-    "cuerpo": "La decisión del gobierno de flexibilizar el acceso a préstamos bancarios en dólares para empresas, incluso aquellas con ingresos en pesos, representa un giro importante en la política financiera. Por un lado, se busca inyectar liquidez y fomentar la inversión, reconociendo la necesidad de capital para un sector productivo asfixiado. Es un intento de normalizar el mercado de crédito, históricamente distorsionado por el intervencionismo estatal. La medida podría ser un soplo de aire fresco para empresas que operan con insumos dolarizados y necesitan previsibilidad.\n\nSin embargo, la historia argentina está repleta de flexibilizaciones que terminaron en crisis cambiarias y deudas impagables. Los críticos advierten sobre el riesgo de un descalce de moneda, donde empresas con ingresos en pesos asumen compromisos en dólares, exponiéndose a la volatilidad del tipo de cambio. ¿Es el mercado local lo suficientemente robusto para asimilar esta medida sin generar nuevas burbujas o presiones sobre el dólar? La prudencia financiera es una virtud que, en Argentina, se ha sacrificado repetidamente en el altar de la coyuntura política.\n\n¿Es esta flexibilización un paso genuino hacia la desregulación y la confianza, o una apuesta arriesgada que podría terminar engrosando la deuda dolarizada y el riesgo de default en el sector privado?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fin-cepo-dolares-empresas-riesgo-alivio",
-    "fecha": "2026-08-15",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Morgan Stanley: ¿Argentina rumbo a la cima de las #Torres financieras?",
-    "bajada": "Un gigante de Wall Street pronostica un alza del 26% para el país, pero ¿es real el optimismo inversor?",
-    "cuerpo": "El reciente informe de Morgan Stanley, que proyecta un crecimiento del 26% para Argentina y destaca una acción favorita, inyecta un notable optimismo en un contexto de incertidumbre. Este tipo de análisis, proveniente de una de las 'torres' financieras de Wall Street, es un voto de confianza que el gobierno celebra, atribuyéndolo a las reformas de mercado y la disciplina fiscal. Se argumenta que la estabilidad macroeconómica, aunque precaria, está empezando a generar expectativas positivas entre los grandes jugadores internacionales. Sin embargo, la brecha entre el entusiasmo inversor y la realidad diaria del ciudadano común sigue siendo abismal.\n\nLos escépticos señalan que estas proyecciones suelen basarse en supuestos ideales que no siempre se cumplen en la volátil realidad argentina. La sostenibilidad de cualquier 'rally' financiero depende de reformas estructurales profundas y de una estabilidad política que aún no se consolida plenamente. ¿Es este optimismo un reflejo genuino de una recuperación sólida o una burbuja especulativa impulsada por la esperanza de un cambio radical? El historial de Argentina con las promesas de 'vuelo' económico es, por decir lo menos, irregular.\n\n¿Podrá el gobierno capitalizar este voto de confianza para atraer inversiones productivas reales, o el pronóstico de Morgan Stanley quedará en el anecdotario de las oportunidades perdidas por la política?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "morgan-stanley-argentina-rumbo-cimas-torres-financieras",
-    "fecha": "2026-08-15",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Visita papal: ¿Megaoperativo de seguridad o gasto excesivo?",
-    "bajada": "La llegada del Papa León XIV moviliza un despliegue sin precedentes, generando debate sobre prioridades estatales.",
-    "cuerpo": "La inminente visita del Papa León XIV a Argentina ha desatado la planificación de un megaoperativo de seguridad, con recursos y personal desplegados a una escala considerable. Si bien la protección de un dignatario de esta talla es fundamental, surge la pregunta sobre la proporcionalidad de la inversión en un país con tantas urgencias sociales y económicas. ¿Es este despliegue un ejemplo de eficiencia estatal y previsión, o una manifestación del gasto público descontrolado que tanto se critica desde nuestra línea editorial?\n\nLos defensores del operativo argumentan la importancia simbólica y la necesidad de garantizar la paz y el orden. Sin embargo, los críticos señalan que la 'casta' política suele priorizar eventos mediáticos sobre necesidades básicas. La magnitud del despliegue contrasta con la escasez de recursos en otras áreas sensibles, como la seguridad ciudadana diaria o la infraestructura básica. ¿Se está priorizando la imagen por sobre la gestión efectiva de los problemas reales que aquejan a los argentinos, o hay un equilibrio justificado en este caso?\n\n¿Es la visita papal una oportunidad para la reflexión espiritual o un recordatorio de cómo los fondos públicos se gestionan con prioridades que a menudo se alejan de las demandas de la sociedad?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "visita-papal-megaoperativo-seguridad-gasto-excesivo",
-    "fecha": "2026-08-15",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Agostina Hein: Una #Rogue en el agua, ¿modelo a seguir?",
-    "bajada": "Agostina Hein brilla con récord y medalla, demostrando el potencial argentino más allá del apoyo estatal.",
-    "cuerpo": "Agostina Hein, la joven nadadora argentina, ha logrado una hazaña histórica en el Pan Pacific Championships, obteniendo una medalla y batiendo un récord sudamericano. Este logro es un testimonio del talento individual y la perseverancia de una atleta que, como muchos en Argentina, forja su camino en un contexto de escaso apoyo estatal al deporte de alto rendimiento. Es un recordatorio de que, a pesar de las dificultades, el espíritu de superación argentino puede trascender las barreras y alcanzar la excelencia, incluso cuando el sistema no acompaña.\n\nMientras celebramos a estas 'rogues' del deporte, que emergen a fuerza de voluntad y sacrificio personal y familiar, no podemos dejar de lado la pregunta sobre la deuda pendiente del Estado. ¿Cuántos talentos se pierden por la falta de infraestructura, financiamiento adecuado y programas de desarrollo coherentes? Los recursos públicos suelen destinarse a estructuras burocráticas o disciplinas con mayor visibilidad, dejando a atletas como Hein a la deriva, dependiendo de esfuerzos privados y familiares. La ausencia de una política deportiva integral es una constante que condena a muchos a la mediocridad, o al esfuerzo sobrehumano para escapar de ella.\n\n¿Hasta cuándo el deporte argentino dependerá de héroes individuales, y cuándo tendremos una política de Estado que potencie sistemáticamente el talento de nuestros jóvenes, dejando de lado la improvisación y la falta de inversión?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "agostina-hein-rogue-agua-modelo-seguir",
-    "fecha": "2026-08-15",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Agostina Hein, la argentina que rompe récords: ¿Un nuevo faro para el deporte nacional?",
-    "bajada": "Una joven nadadora redefine la excelencia en el Pan Pacific Championships, ¿qué significa para el futuro deportivo?",
-    "cuerpo": "La Argentina celebra la histórica actuación de Agostina Hein, quien no solo obtuvo una medalla sino que también batió un récord sudamericano en el Pan Pacific Championships. Este logro, que resuena con orgullo nacional, destaca la capacidad de superación individual en un contexto donde el apoyo al deporte de alto rendimiento es a menudo cuestionado.  El desempeño de Hein plantea una pregunta crucial: ¿Estamos invirtiendo lo suficiente en nuestras promesas deportivas? La excelencia individual no puede maquillar las falencias estructurales. Mientras celebramos a nuestros talentos, es imperativo reflexionar sobre las políticas públicas y el respaldo financiero que requieren estos atletas para alcanzar su máximo potencial a nivel internacional.  ¿Será este hito un catalizador para repensar el rol del Estado y el sector privado en el desarrollo de futuras figuras, o quedará como una proeza aislada en la memoria colectiva?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "agostina-hein-argentina-rompe-records-faro-deporte",
-    "fecha": "2026-08-15",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Selección Argentina 2030: ¿Renovación o nostalgia? El futuro del equipo",
-    "bajada": "Años clave para los campeones mundiales: ¿quiénes seguirán defendiendo la albiceleste en el próximo gran desafío?",
-    "cuerpo": "Con la mirada puesta en el Mundial 2030, la incertidumbre sobre la conformación de la Selección Argentina de fútbol genera un intenso debate. Mientras se proyecta la edad de figuras consagradas, la pregunta se impone: ¿logrará Argentina mantener su nivel competitivo sin una renovación profunda?  La transición generacional es un desafío ineludible. ¿Se priorizará la experiencia de los actuales campeones, o se apostará por el talento emergente que garantice la continuidad del éxito? La planificación a largo plazo es fundamental para evitar caer en el facilismo y asegurar que el fútbol argentino siga siendo protagonista a nivel global.  Ante este panorama, ¿estamos preparados para construir una nueva era dorada, o nos aferraremos a los héroes del pasado sin pensar en el inevitable recambio?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "seleccion-argentina-2030-renovacion-o-nostalgia",
-    "fecha": "2026-08-15",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "RIGI y YPF: ¿Despegue real o espejismo de inversión?",
-    "bajada": "La propuesta de YPF para una inversión histórica en Vaca Muerta bajo el RIGI promete dólares, ¿pero a qué costo?",
-    "cuerpo": "YPF ha solicitado la adhesión al Régimen de Incentivo para Grandes Inversiones (RIGI) para un proyecto de gas natural licuado (LNG) que podría significar una inversión de 51.000 millones de dólares, la mayor de la historia argentina. Esta noticia, presentada como un hito para la exportación de gas de Vaca Muerta, genera expectativas sobre un potencial despegue económico.  Sin embargo, la implementación del RIGI no está exenta de críticas. Mientras el gobierno lo presenta como la única vía para atraer capital, sectores opositores y analistas advierten sobre los riesgos de entregar beneficios excesivos a grandes empresas, afectando la recaudación y la soberanía. La discusión se centra en si estos incentivos son realmente un motor de desarrollo o una cesión de recursos con escaso impacto en el empleo local y la cadena de valor nacional.  En este contexto, ¿logrará la Argentina equilibrar la necesidad de inversiones con la defensa de sus intereses, o las condiciones del RIGI convertirán este despegue en un mero espejismo?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "rigi-ypf-despegue-real-espejismo-inversion",
-    "fecha": "2026-08-15",
-    "imagen": "img/economia_4.png",
     "destacada": false
   }
 ]
