@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "San Martín y la Patria: ¿Cómo 22 años en España forjaron al Libertador?",
+    "bajada": "Un análisis de la formación militar del Padre de la Patria antes de su crucial regreso.",
+    "cuerpo": "José de San Martín, el Libertador de la Patria, dedicó más de dos décadas al Ejército español antes de su gesta americana. Este período, a menudo soslayado, es fundamental para comprender la rigurosidad y estrategia que luego aplicaría en la campaña por la independencia. Su experiencia en Europa no solo le proveyó de conocimientos tácticos, sino que también moldeó su visión de la disciplina y el orden, valores esenciales para cualquier nación que aspire a la grandeza.¿Fue esta formación ajena la clave para su éxito en la lucha por nuestra soberanía? El rigor y la visión estratégica adquiridos lejos de estas tierras fueron, paradójicamente, las herramientas con las que luego desmantelaría el poder colonial. Es una paradoja que invita a reflexionar sobre la importancia de la experiencia y la preparación más allá de las fronteras para el liderazgo de una nación.¿Qué papel juega la preparación internacional en la forja de los líderes que Argentina necesita hoy para defender su Patria?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "san-martin-patria-22-anos-espana-libertador",
+    "fecha": "2026-08-17",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El Libertador regresa a la Patria: El último viaje de San Martín",
+    "bajada": "El retorno de los restos del General San Martín a Argentina, un símbolo de su legado eterno.",
+    "cuerpo": "El postrero viaje del General José de San Martín, el Libertador de América, simboliza la conexión inquebrantable con la Patria que ayudó a forjar. Sus restos, traídos desde Boulogne-sur-Mer, Francia, en 1880, representan el cierre de un ciclo vital y el afianzamiento de su figura como pilar de la identidad nacional argentina. Este acontecimiento no fue meramente un acto protocolar, sino una reafirmación del valor de la soberanía y la independencia que tanto defendió.La repatriación de San Martín nos obliga a meditar sobre la memoria histórica y cómo mantenemos vivos los principios que guiaron a nuestros héroes. En un momento donde la identidad nacional se debate, ¿qué significa hoy el regreso simbólico del Libertador para la visión de nuestra Patria? Es fundamental recordar que la libertad no es gratuita y requiere de compromiso y sacrificio constante.¿Estamos honrando verdaderamente el legado de San Martín en la Argentina actual, o su figura se ha vuelto un mero ícono sin trascendencia práctica en la defensa de nuestros valores?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "libertador-regresa-patria-ultimo-viaje-san-martin",
+    "fecha": "2026-08-17",
+    "imagen": "img/politica_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Morosidad récord: la no intervención de Milei funciona para la economía?",
+    "bajada": "Familias asfixiadas por deudas: el gobierno prioriza la no intervención estatal ante el drama.",
+    "cuerpo": "La morosidad de las familias argentinas se ha cuadruplicado en un año, una cifra alarmante que expone la delicada situación económica de miles de hogares. Frente a este panorama, el presidente ha sostenido que es \"un problema entre privados\", reafirmando su postura de no intervención estatal en los asuntos contractuales individuales. Este enfoque, si bien coherente con la filosofía liberal, genera un intenso debate sobre el rol del Estado en tiempos de crisis social.Desde una perspectiva de mercado, la no intervención busca evitar distorsiones y fomentar la responsabilidad individual, argumentando que cualquier auxilio público podría sentar precedentes perniciosos o trasladar la carga a los contribuyentes. Sin embargo, los críticos señalan que una situación de esta magnitud exige al menos algún tipo de mediación o esquema de alivio, especialmente cuando se afectan sectores vulnerables. La tensión entre la libertad contractual y la protección social es evidente.Con una morosidad que crece a pasos agigantados, ¿hasta dónde es sostenible la postura de \"problema entre privados\" sin generar una fractura social aún mayor? ¿Dónde termina la libertad individual y comienza la responsabilidad del Estado en una crisis de esta escala?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "morosidad-record-no-intervencion-milei-economia",
+    "fecha": "2026-08-17",
+    "imagen": "img/economia_7.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Malvinas y la Patria: ¿Es la 'neutralidad' de EE.UU. una traición silenciosa?",
+    "bajada": "La postura estadounidense sobre Malvinas, bajo la lupa: ¿respaldo tácito o pragmatismo geopolítico?",
+    "cuerpo": "La reciente ratificación de \"neutralidad\" por parte de Peter Lamelas, representante de EE.UU., respecto a la soberanía de Malvinas, reaviva un debate espinoso para la Patria. Si bien la administración estadounidense sostiene que su posición no ha cambiado, para muchos en Argentina, esta \"neutralidad\" se percibe como un respaldo tácito a la ocupación británica, especialmente en un contexto de estrechamiento de lazos bilaterales con Washington. La cuestión Malvinas trasciende cualquier acuerdo puntual y toca una fibra íntima de la identidad nacional.Desde nuestra perspectiva, la diplomacia internacional no puede ignorar reclamos históricos legítimos. La \"neutralidad\", en este caso, es una forma de mantener el statu quo, lo que perpetúa una injusticia histórica para Argentina. Es un recordatorio de que los intereses geopolíticos a menudo prevalecen sobre los derechos soberanos de las naciones, y que la construcción de la Patria es una lucha constante. ¿Es compatible esta \"neutralidad\" con una alianza estratégica que busca el gobierno?¿Debería Argentina exigir una definición más contundente de sus aliados, o el pragmatismo actual justifica esta ambigüedad ante la cuestión de las Malvinas?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "malvinas-patria-neutralidad-eeuu-traicion",
+    "fecha": "2026-08-17",
+    "imagen": "img/politica_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Techo propio: Argentina, entre los peores del mundo ¿falla el mercado o el Estado?",
+    "bajada": "El sueño de la vivienda propia se aleja cada vez más para los argentinos, con consecuencias sociales profundas.",
+    "cuerpo": "Un nuevo ranking global ubica a Argentina entre los países donde más difícil es acceder a una vivienda, con la capacidad de compra reducida a niveles alarmantes. Este dato no solo es una estadística, sino el reflejo de una profunda crisis social y económica que impacta directamente en la calidad de vida de las familias. La dificultad para obtener un techo propio es un síntoma de distorsiones estructurales que persisten más allá de los ciclos económicos.La incapacidad de gran parte de la población para acceder a créditos hipotecarios o ahorrar para la compra de una propiedad apunta a una combinación de factores: alta inflación, salarios deprimidos y una excesiva presión fiscal sobre la construcción y la propiedad que encarece el sector. Mientras algunos abogan por mayor intervención estatal para subsidiar el acceso, nuestra línea editorial sugiere que son las regulaciones y la inestabilidad macroeconómica, producto de la injerencia política, las que ahogan el mercado y lo hacen inaccesible.¿Hasta cuándo seguirá siendo el techo propio un lujo inalcanzable en Argentina? ¿Es el mercado ineficiente o las políticas erráticas del Estado las que condenan a la mayoría a alquilar de por vida?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "techo-propio-argentina-peores-mundo-mercado-estado",
+    "fecha": "2026-08-17",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Mercosur-UE: ¿Oportunidad económica o burocracia con sabor a Alemania?",
+    "bajada": "Un acuerdo clave que promete trascender las tensiones regionales, pero enfrenta obstáculos burocráticos.",
+    "cuerpo": "El acuerdo entre Mercosur y la Unión Europea, que busca cimentar un bloque económico estratégico, se presenta como una oportunidad trascendental para la apertura y el comercio de Argentina. A pesar de las tensiones recientes entre Brasil y Argentina, este pacto subraya la necesidad de una visión de largo plazo que priorice la integración de mercado por encima de las fricciones políticas internas. Es una señal de que, a pesar de las dificultades, hay una apuesta por el libre comercio y la inserción internacional.Sin embargo, las demoras y las exigencias de países clave de la UE, como Alemania y Francia, respecto a cuestiones ambientales y agrícolas, plantean interrogantes sobre la verdadera agilidad del acuerdo. La complejidad burocrática europea, a menudo impulsada por intereses proteccionistas internos, podría diluir el potencial de este pacto. Para que funcione, la visión liberal que propiciaría un mayor intercambio debe superar las barreras ideológicas y las presiones de ciertos lobbies.¿Podrá este acuerdo sortear la burocracia europea y los intereses proteccionistas para brindar la anhelada expansión comercial, o se convertirá en otra promesa incumplida por la lentitud de la Alemania del norte?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mercosur-ue-oportunidad-economica-burocracia-alemania",
+    "fecha": "2026-08-17",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Natalidad en caída: ¿Argentina frente a una crisis demográfica silenciosa?",
+    "bajada": "La tasa de natalidad se reduce a la mitad en una década, reflejando profundas causas económicas y sociales.",
+    "cuerpo": "Argentina enfrenta una preocupante reducción de su tasa de natalidad, disminuida a la mitad en apenas una década. Este fenómeno no es un mero dato estadístico, sino un indicador de cambios estructurales profundos en la sociedad, con serias consecuencias a largo plazo para la demografía, el sistema previsional y la composición de la fuerza laboral. Las causas son complejas e incluyen factores económicos, como la inestabilidad y el costo de vida, y culturales, como el cambio en las prioridades de las nuevas generaciones.Desde una perspectiva liberal, la decisión de tener hijos es profundamente personal, pero el Estado no puede ignorar las implicancias de esta tendencia. La falta de políticas que fomenten la estabilidad económica y reduzcan la presión fiscal sobre las familias puede ser un factor determinante. Un país con menos nacimientos enfrenta el envejecimiento de su población y una potencial escasez de mano de obra, lo que genera una carga insostenible sobre los sistemas de seguridad social.¿Estamos preparados para las consecuencias de esta crisis demográfica silenciosa? ¿Es esta caída de la natalidad un reflejo del fracaso de las políticas públicas para generar un entorno propicio para la planificación familiar y el futuro de la Patria?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "natalidad-caida-argentina-crisis-demografica-silenciosa",
+    "fecha": "2026-08-17",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Intervención o libertad? El debate Milei frente a la morosidad",
     "bajada": "Mientras las deudas familiares se disparan, el Gobierno ratifica su postura de no injerencia. ¿Es suficiente?",
     "cuerpo": "La morosidad de las familias argentinas se ha cuadruplicado, un dato que enciende las alarmas en un contexto de incertidumbre económica. Ante esta cruda realidad, la administración del presidente Milei ha sido categórica: “Es un problema entre privados”, señalando una firme convicción en la no intervención estatal en asuntos que considera parte del libre mercado. Esta postura, coherente con el ideario liberal del gobierno, propone que las soluciones deben surgir de acuerdos y responsabilidades individuales, sin la tutela o el rescate del Estado.\n\nSin embargo, críticos de esta política argumentan que la escala del problema podría ameritar alguna forma de mediación o alivio, advirtiendo sobre el impacto social de una creciente masa de deudores. Señalan que la falta de intervención podría profundizar la crisis de consumo y afectar la estabilidad de un sector significativo de la población. Para el oficialismo, cualquier intervención sería un parche que distorsionaría el mercado y crearía precedentes dañinos, priorizando la disciplina fiscal y la responsabilidad individual por encima de paliativos cortoplacistas.\n\n¿Hasta dónde debe llegar la libertad de mercado cuando se trata de la subsistencia de las familias? ¿Es la no intervención la receta para una economía más sana o una receta para el ahogo de los más vulnerables en #Argentina?",
@@ -9,7 +93,7 @@
     "slug": "intervencion-o-libertad-milei-morosidad",
     "fecha": "2026-08-17",
     "imagen": "img/economia_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Dólar: ¿Qué pronostica la \"estrella\" de EE.UU. para la economía argentina?",
@@ -201,90 +285,6 @@
     "slug": "contrabando-con-argentina-por-que-no-se-detiene",
     "fecha": "2026-08-17",
     "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vaca Muerta: ¿ARGENTINA es un campo de batalla geopolítico?",
-    "bajada": "Los intereses de Washington y Beijing chocan en los yacimientos de Vaca Muerta, revelando la debilidad estratégica argentina.",
-    "cuerpo": "Los yacimientos de Vaca Muerta, lejos de ser solo un bastión energético para Argentina, se han transformado en un tablero donde Washington y Beijing miden fuerzas. La pugna por el control o la influencia sobre estos recursos estratégicos pone de manifiesto la incapacidad argentina para consolidar una política exterior soberana y proteger sus intereses nacionales. ¿Es el país un mero espectador o un actor pasivo en su propio territorio ante los apetitos de las grandes potencias?\n\nMientras ambos gigantes globales maniobran para asegurar su acceso a la energía y materias primas, la dirigencia política argentina parece más preocupada por el cortoplacismo que por establecer una estrategia de largo plazo que resguarde nuestros activos. Se habla de desarrollo y progreso, pero en la práctica, se abre la puerta a influencias externas sin un plan claro que beneficie primariamente a los argentinos. La \"casta\" política, una vez más, muestra su tibieza.\n\nEs imperativo que Argentina defina su posición en el ajedrez geopolítico, defendiendo su soberanía y negociando con altura para maximizar el beneficio propio. ¿Hasta cuándo permitiremos que otros decidan el futuro de nuestros recursos, relegando al país a un rol secundario en su propio destino energético y económico?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "vaca-muerta-argentina-campo-batalla-geopolitico",
-    "fecha": "2026-08-17",
-    "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Techo propio en ARGENTINA? Un sueño cada vez más lejano",
-    "bajada": "Argentina se posiciona entre los países más difíciles para acceder a una vivienda, reflejando décadas de políticas erradas y distorsiones económicas.",
-    "cuerpo": "El sueño del techo propio se desvanece para muchos argentinos, con el país figurando entre los peores a nivel global en cuanto a la dificultad para acceder a una vivienda. Esta cruda realidad es el resultado directo de años de inflación descontrolada, inestabilidad económica y una excesiva intervención estatal que ha distorsionado el mercado inmobiliario, encareciendo el crédito y limitando la oferta. Comprar una casa no debería ser un privilegio, sino una meta alcanzable para quienes se esfuerzan.\n\nEl informe destaca cómo la combinación de altos precios, salarios devaluados y la casi inexistencia de crédito hipotecario accesible condena a las familias a la precariedad habitacional. Las políticas populistas, que prometen soluciones mágicas pero destruyen el valor de la moneda y la capacidad de ahorro, son las verdaderas responsables de esta crisis. El Estado, en su afán por \"proteger\", terminó por asfixiar al mercado y a los ciudadanos.\n\n¿Hasta cuándo se seguirá negando la realidad económica y sus devastadoras consecuencias en la vida cotidiana de las personas? Es momento de liberar el mercado, fomentar la inversión privada y garantizar la estabilidad económica para que el mérito y el trabajo vuelvan a ser el motor del progreso. ¿Podrá la #Argentina romper con el ciclo de intervencionismo que nos dejó sin futuro habitacional?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "techo-propio-argentina-sueno-lejano",
-    "fecha": "2026-08-17",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Malvinas y Doctrina Monroe: ¿Dependencia o soberanía en ARGENTINA?",
-    "bajada": "Las declaraciones de Lamelas sobre la neutralidad de EE.UU. en Malvinas y la reaparición de la Doctrina Monroe generan debate sobre la postura de Argentina.",
-    "cuerpo": "Las recientes declaraciones de Peter Lamelas sobre la \"neutralidad\" de Estados Unidos en la cuestión Malvinas y la alusión a la Doctrina Monroe en relación a conflictos como el de Neuquén, ponen en evidencia una preocupante debilidad en la política exterior argentina. ¿Realmente podemos hablar de soberanía plena cuando potencias extranjeras dictan las reglas o mantienen posturas ambiguas sobre nuestros reclamos históricos y nuestros recursos estratégicos?\n\nLa línea editorial de \"Panorama.ar\" siempre ha sostenido que la defensa de los intereses nacionales requiere una postura firme y sin fisuras. La \"neutralidad\" de EE.UU. en un tema tan sensible como Malvinas es, en los hechos, un aval tácito a la ocupación británica. Asimismo, la resurgencia de la Doctrina Monroe, aunque sea en un contexto regional, sugiere una mirada paternalista que relega a Argentina a un rol de patio trasero, socavando cualquier intento de autonomía genuina. La \"casta\" parece no aprender.\n\nEs fundamental que el gobierno argentino defina una política exterior clara, que priorice los intereses de la nación por encima de cualquier alineamiento ideológico o conveniencia coyuntural. ¿Hasta cuándo permitiremos que otros tracen los límites de nuestra soberanía, en lugar de defenderla con convicción y estrategia?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "malvinas-doctrina-monroe-dependencia-o-soberania-argentina",
-    "fecha": "2026-08-17",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Día del Niño en ARGENTINA: ¿Hay algo que celebrar?",
-    "bajada": "Una fecha para reflexionar sobre la infancia en el país, sus derechos, y las deudas pendientes de la sociedad y el Estado.",
-    "cuerpo": "Mientras se celebra el Día del Niño en Argentina, es ineludible preguntarse qué tenemos realmente para celebrar. Más allá de los regalos y los festejos, la realidad de muchos \"más chiquitos\" en nuestro país dista mucho de ser ideal. La brecha social, la pobreza y la falta de oportunidades siguen siendo flagelos que condenan a gran parte de la infancia a un futuro incierto, a pesar de las constantes promesas de \"derechos\" que rara vez se traducen en realidades concretas.\n\nLas cifras de pobreza infantil son un recordatorio constante de las deudas pendientes de la \"casta\" política y de un modelo que ha fracasado en garantizar condiciones de vida dignas para todos. Hablar de \"derechos del niño\" suena vacío cuando miles crecen sin acceso a educación de calidad, a salud adecuada o a un entorno seguro. El rol del Estado no debería ser solo el de generar efemérides, sino el de construir un marco de desarrollo real y sostenible.\n\nEste día debe ser una llamado de atención para la clase dirigente: la infancia no es una mera estadística, sino el futuro de la Nación. ¿Estamos realmente comprometidos con un cambio estructural que mejore la vida de nuestros niños, o nos conformamos con el simbolismo de una fecha sin abordar los problemas de raíz? La #Argentina del mañana depende de las decisiones que tomemos hoy.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "dia-del-nino-argentina-hay-algo-que-celebrar",
-    "fecha": "2026-08-17",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Feliz Día del Niño: ¿Qué celebramos mientras la Argentina enfrenta desafíos?",
-    "bajada": "Más allá de los regalos, la realidad social impone una reflexión profunda sobre los derechos y el futuro de nuestra infancia.",
-    "cuerpo": "El 16 de agosto celebramos el #FelizDíadelNiño, una jornada dedicada a los más pequeños. Sin embargo, para Panorama.ar, esta fecha debe ser un llamado a la acción y a la reflexión crítica sobre la situación real de la infancia en Argentina. Más allá de la alegría superficial, ¿estamos realmente garantizando los derechos de cada niño en un contexto de persistentes dificultades económicas y sociales?\n\nLa celebración, centrada en los derechos del niño, obliga a mirar más allá de la coyuntura. Mientras se habla de festejos, la agenda pública debería poner el foco en cómo el Estado y la sociedad aseguran oportunidades reales, educación de calidad y un ambiente seguro. ¿Es suficiente con una jornada de juegos cuando miles de chicos crecen en la pobreza, con acceso limitado a servicios básicos y expuestos a la inseguridad que azota a nuestros barrios?\n\nEs fundamental que esta fecha nos impulse a exigir políticas públicas eficientes y a fiscalizar el uso de los recursos, para que el bienestar infantil no sea solo una aspiración, sino una realidad palpable. ¿Estamos listos como sociedad para afrontar estas deudas pendientes con quienes son el futuro de la Nación?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "feliz-dia-del-nino-desafios-argentina",
-    "fecha": "2026-08-16",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Wall Street se aleja: ¿Fracasa la confianza en Argentina?",
-    "bajada": "La reducción de la exposición de inversores revela una profunda preocupación por el rumbo económico y el respaldo político al gobierno.",
-    "cuerpo": "La disminución de la confianza de Wall Street y la reducción de la exposición en Argentina son una señal de alarma que no puede ignorarse. Lejos de la retórica oficial, los mercados internacionales, termómetro implacable de la estabilidad, están enviando un mensaje claro: la Argentina no logra consolidar la previsibilidad necesaria para atraer capitales. Esta tendencia es un reflejo directo de la incertidumbre sobre el apoyo al Gobierno y su capacidad de implementar reformas estructurales.\n\nDesde Panorama.ar, siempre hemos defendido la disciplina fiscal y la transparencia como pilares de la recuperación económica. La merma en el respaldo al Gobierno no solo impacta en la inversión extranjera, sino que ahonda la desconfianza interna y frena cualquier intento de crecimiento sostenible. Los fondos de inversión buscan reglas claras y seguridad jurídica, elementos que nuestra clase política, a menudo, parece incapaz de garantizar.\n\n¿Hasta cuándo podremos sostener una economía que ahuyenta a quienes podrían generar empleo y riqueza? La casta política debe entender que sin un mensaje unificado y reformas profundas, el país seguirá condenado a la inestabilidad. ¿Estamos viendo el principio del fin de un intento de cambio, o solo un ajuste necesario en las expectativas?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "wall-street-se-aleja-fracasa-confianza-argentina",
-    "fecha": "2026-08-16",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Techo propio: ¿Un sueño imposible por la intervención estatal?",
-    "bajada": "Argentina se hunde en el ranking global de accesibilidad a la vivienda, una consecuencia directa de la distorsión económica y la burocracia.",
-    "cuerpo": "El \"lejano sueño del techo propio\" se convierte en pesadilla para millones de argentinos. El pésimo posicionamiento de Argentina en un ranking mundial de accesibilidad a la vivienda no es casualidad, sino el resultado de décadas de políticas erradas que han distorsionado el mercado inmobiliario, asfixiado la inversión y condenado a las familias a un alquiler perpetuo o a la informalidad.\n\nDesde nuestra visión liberal, la intervención estatal excesiva, la presión impositiva asfixiante y la inflación descontrolada son los principales enemigos de un mercado de vivienda sano. Las regulaciones que supuestamente \"protegen\" a los inquilinos, en realidad, terminan expulsando a la oferta y haciendo que los precios suban de forma exponencial. ¿Es justo que el Estado, con sus políticas, termine empobreciendo a quienes busca \"ayudar\"?\n\nEs hora de replantearse un modelo que priorice la libertad de mercado, la seguridad jurídica y la estabilidad económica. Solo así se podrá reactivar la construcción, generar oferta y bajar los costos para que el acceso a la vivienda deje de ser un privilegio y se convierta en una posibilidad real. ¿Seguiremos con recetas que solo perpetúan la crisis, o daremos un giro hacia soluciones de mercado?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "techo-propio-sueno-imposible-intervencion-estatal",
-    "fecha": "2026-08-16",
-    "imagen": "img/sociedad_4.png",
     "destacada": false
   }
 ]
