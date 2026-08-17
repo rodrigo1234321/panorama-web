@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Morosidad se dispara: ¿Hasta cuándo la inacción estatal?",
+    "bajada": "Mientras las deudas de las familias se multiplican, el gobierno mantiene una postura de no intervención, desatando un debate crucial sobre el rol del Estado.",
+    "cuerpo": "Los datos son alarmantes: la morosidad de las familias argentinas se cuadruplicó, sumergiendo a miles en una espiral de endeudamiento que parece no tener fin. Ante esta crisis silenciosa, la respuesta del gobierno, en voz de su presidente, es clara: \"Es un problema entre privados\". Esta postura, si bien coherente con una filosofía de libre mercado, genera profunda inquietud sobre los límites de la intervención estatal y la protección de los ciudadanos más vulnerables.\n\nLa visión liberal, que promueve la responsabilidad individual y la mínima intromisión del Estado en las relaciones económicas, choca con la cruda realidad de familias que, ahogadas por la inflación y la falta de ingresos reales, no logran saldar sus compromisos. ¿Es la inacción estatal la única vía posible, o debería existir algún mecanismo que, sin distorsionar el mercado, ofrezca un respiro a quienes caen en desgracia por factores macroeconómicos que los exceden? El debate está abierto: ¿dónde trazar la línea entre la libertad económica y la protección social?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "morosidad-se-dispara-hasta-cuando-inaccion-estatal",
+    "fecha": "2026-08-17",
+    "imagen": "img/economia_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Wall Street reduce apuestas: ¿Se agota la paciencia con Argentina?",
+    "bajada": "La confianza de los inversores internacionales disminuye y la exposición en Argentina baja, encendiendo alarmas sobre el futuro económico del país.",
+    "cuerpo": "La cautela se instaló en Wall Street. Los grandes fondos de inversión están reduciendo su exposición en la Argentina, una señal inequívoca de que la paciencia con las reformas y la estabilidad macroeconómica empieza a agotarse. Esta retirada, aunque gradual, es un mensaje potente para el gobierno y para el mercado local: sin resultados concretos y sostenibles, el capital se fuga, buscando refugios más seguros y rentables.\n\nLa baja en el apoyo al gobierno, tal como lo indican algunos analistas financieros, se convierte en un factor de riesgo adicional. Un ejecutivo de un banco de inversión señaló: \"Necesitamos ver señales claras de sostenibilidad fiscal y política. La incertidumbre desalienta cualquier inversión a largo plazo\". La promesa de un país atractivo para la inversión privada se desvanece si la confianza no se consolida, poniendo en jaque el tan anhelado despegue económico. ¿Es esta retracción un toque de atención para acelerar el ajuste o un síntoma de un problema más profundo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "wall-street-reduce-apuestas-argentina",
+    "fecha": "2026-08-17",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Futsal Sub 17: Argentina tricampeón, ¿y la AFA de Tapia?",
+    "bajada": "La Selección Argentina Sub 17 de Futsal se corona tricampeona sudamericana, reafirmando el talento nacional en un deporte en ascenso, ¿pero qué pasa con el apoyo institucional?",
+    "cuerpo": "Una vez más, el talento argentino brilla en las canchas: la Selección Sub 17 de Futsal se alzó con su tercer título sudamericano consecutivo tras vencer a Brasil en un vibrante alargue. Esta victoria no solo es motivo de orgullo nacional, sino que pone de manifiesto el potencial de una disciplina que, a pesar de no gozar del mismo protagonismo que el fútbol de campo, cosecha éxitos a nivel continental.\n\nSin embargo, cabe preguntarse sobre el rol y el apoyo de la AFA, encabezada por Claudio Tapia, a estas categorías. ¿Reciben el reconocimiento y la inversión que merecen para seguir formando campeones? Mientras las cámaras apuntan a la gloria del fútbol \"grande\", es fundamental que las estructuras institucionales no descuiden ni subestimen la importancia de estas divisiones menores, que son el semillero del futuro deportivo argentino. ¿Se capitalizará este triunfo para un mayor desarrollo del futsal o quedará solo como una anécdota gloriosa?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "futsal-sub-17-argentina-tricampeon-afa-tapia",
+    "fecha": "2026-08-17",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Mulas de cocaína: ¿Drama social o crimen sin justificación?",
+    "bajada": "La historia de una argentina detenida en Japón con un kilo de cocaína en su estómago reabre el debate sobre el narcotráfico y la responsabilidad individual.",
+    "cuerpo": "La detención de una mujer argentina en Japón, con 101 cápsulas de cocaína ingeridas, pone en evidencia el cruel entramado del narcotráfico internacional. La noticia revela un trasfondo de vida complejo: madre a los 15 años y con una condena previa por contrabando de drogas. Este perfil reaviva la discusión sobre si estas \"mulas\" son meras víctimas de un sistema o cómplices conscientes de un delito grave que destruye vidas.\n\nDesde una perspectiva de mano dura, la ley debe aplicarse con todo su peso, sin atenuantes. El tráfico de drogas no solo alimenta la violencia sino que socava el tejido social, y quienes participan en él deben asumir las consecuencias, más aún con antecedentes penales. Sin embargo, no se puede ignorar el factor socioeconómico que empuja a muchos a caer en estas redes. ¿Hasta qué punto la desesperación justifica el crimen, y cómo abordamos esta problemática desde la justicia y las políticas sociales sin caer en un garantismo irresponsable?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mulas-cocaina-drama-social-o-crimen",
+    "fecha": "2026-08-17",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Techo propio: ¿Un sueño inalcanzable en la Argentina liberal?",
+    "bajada": "Argentina se ubica entre los peores países del mundo para acceder a una vivienda, con un informe demoledor que exige casi 23 años de ingresos para el techo propio.",
+    "cuerpo": "El sueño de la casa propia se ha convertido en una quimera para la mayoría de los argentinos. Un ranking mundial reciente ubica a nuestro país entre los más inaccesibles para la compra de vivienda, una estadística que resuena con la frustración de miles de familias. Para acceder a una propiedad, se requieren en promedio casi 23 años de ingresos, una cifra que expone la profunda distorsión económica y la precarización que afecta a la clase media y trabajadora.\n\nEsta dificultad es un síntoma de un problema estructural, donde la inflación galopante, la ausencia de crédito hipotecario estable y la alta presión impositiva sobre la construcción y la propiedad conspiran contra la inversión y el desarrollo. La retórica de un mercado libre que resuelve las necesidades de vivienda choca con una realidad donde el estado, lejos de facilitar, a menudo complica. ¿Es momento de revisar las políticas habitacionales y fiscales para que el \"techo propio\" no sea solo un eslogan de campaña, o la solución vendrá exclusivamente del libre juego de la oferta y la demanda, a un costo social altísimo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "techo-propio-sueno-inalcanzable-argentina",
+    "fecha": "2026-08-17",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Doctrina Monroe en Argentina: ¿Fin de la soberanía o pragmatismo?",
+    "bajada": "La mención de la Doctrina Monroe en el contexto del conflicto de Neuquén desata un fuerte debate sobre la influencia de EE.UU. en la política exterior argentina y la soberanía nacional.",
+    "cuerpo": "La alusión a la Doctrina Monroe, históricamente asociada a la influencia de Estados Unidos sobre las naciones de América Latina, en el contexto del conflicto de Neuquén, ha encendido las alarmas en círculos políticos y diplomáticos. Peter Lamelas, figura relevante en la política exterior, ha puesto en discusión la autonomía de Argentina frente a las potencias globales. Para algunos, este concepto evoca una era de intervencionismo indeseable, donde los intereses nacionales quedaban subordinados a los de Washington.\n\nDesde una perspectiva de centro-derecha, la soberanía es un pilar fundamental, pero también lo es el pragmatismo en las relaciones internacionales. ¿Es la \"Doctrina Monroe\" una amenaza velada o una descripción sincera de una realidad geopolítica ineludible en un mundo polarizado? El dilema radica en cómo Argentina puede defender sus intereses estratégicos, como los yacimientos de Vaca Muerta, sin caer en alineamientos que comprometan su independencia. ¿Estamos ante un retorno a viejas lógicas de dominación o simplemente se blanquea la necesidad de alianzas estratégicas en un contexto global complejo?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "doctrina-monroe-argentina-fin-soberania-pragmatismo",
+    "fecha": "2026-08-17",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Papa León XIV en Argentina: ¿Fe o cálculo político de la casta?",
+    "bajada": "Karina Milei coordina la llegada del Papa León XIV, una visita que genera expectativas y también el inevitable cuestionamiento sobre el costo y el trasfondo político.",
+    "cuerpo": "La inminente visita del Papa León XIV a la Argentina, con la coordinación a cargo de Karina Milei, ha puesto en marcha una maquinaria organizativa de gran envergadura. Si bien la presencia del Sumo Pontífice siempre genera un clima de fervor y esperanza, también despierta un agudo debate sobre la naturaleza y el costo de tales eventos en un país con urgencias económicas. ¿Es esta una visita pastoral pura o hay un trasfondo de cálculo político por parte de la \"casta\" que busca capitalizar la imagen del Papa?\n\nLa pregunta sobre la financiación y el uso de recursos públicos para la visita es ineludible. En tiempos de ajuste fiscal y austeridad, cada partida presupuestaria se examina con lupa. ¿Está el Estado destinando fondos que podrían aliviar necesidades más urgentes, o la trascendencia del evento justifica la inversión? Piqueteros ya han manifestado su deseo de que el Papa visite villas, lo que añade una capa de complejidad social y política a la agenda. ¿Cómo se equilibrarán los intereses religiosos, políticos y sociales en esta controvertida visita?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "papa-leon-xiv-argentina-fe-o-calculo-politico",
+    "fecha": "2026-08-17",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
     "titulo": "ARGENTINA Campeón: ¿Éxito deportivo oculta crisis de fondo?",
     "bajada": "La Selección Sub-17 de Futsal se consagró tricampeón sudamericano, venciendo a Brasil en el alargue. Un triunfo que ilusiona, pero ¿qué hay más allá del festejo?",
     "cuerpo": "El combinado nacional de Futsal Sub-17 demostró su jerarquía al imponerse 2-1 a Brasil en un vibrante alargue, logrando el tricampeonato sudamericano. Esta victoria, celebrada con euforia, es un recordatorio del talento deportivo argentino y de la capacidad de nuestros jóvenes para alcanzar la excelencia. El torneo en Paraguay vio a un equipo invicto que culminó su performance de manera magistral, dejando en claro el buen trabajo en las formativas.\n\nSin embargo, mientras las redes sociales estallan en alegría por el logro deportivo, la pregunta de fondo persiste: ¿puede el éxito en el deporte servir como un velo que opaque debates urgentes sobre el futuro de estos mismos jóvenes? La pasión por el fútbol es innegable, pero no debe desviar la atención de las deficiencias estructurales que enfrentan las nuevas generaciones en materia de educación, empleo y desarrollo.\n\nEste triunfo nos invita a celebrar, sí, pero también a reflexionar sobre la responsabilidad de construir un país donde la oportunidad y el mérito no sean solo patrimonio de unos pocos talentos excepcionales. ¿Estamos invirtiendo lo suficiente en el desarrollo integral de nuestros chicos para que puedan replicar estos éxitos en todos los ámbitos, o solo nos conformamos con el \"Pan y Circo\" deportivo?",
@@ -9,7 +93,7 @@
     "slug": "argentina-campeon-exito-deportivo-oculta-crisis",
     "fecha": "2026-08-17",
     "imagen": "img/sociedad_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Wall Street duda de ARGENTINA: ¿Alerta roja para la economía?",
@@ -201,90 +285,6 @@
     "slug": "afa-video-partido-mas-argentino-crisis",
     "fecha": "2026-08-16",
     "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Niñera Argentina en EEUU: ¿Un revés para la imagen nacional post-Mundial?",
-    "bajada": "El dramático testimonio de una joven detenida en Estados Unidos durante el Mundial pone en relieve la vulnerabilidad de muchos argentinos en el exterior.",
-    "cuerpo": "El relato de la niñera argentina detenida en EE.UU. durante el reciente Mundial, donde denuncia condiciones inhumanas y el uso de cadenas, es un llamado de atención. Más allá de la situación individual, este caso reabre el debate sobre la protección de los ciudadanos argentinos en el exterior y las condiciones de los centros de detención extranjeros. ¿Qué mensaje envía esto sobre la imagen de Argentina y sus ciudadanos en el mundo, especialmente después del fervor mundialista?\n\nDesde Panorama.ar, insistimos en la necesidad de una diplomacia más activa y firme en la defensa de los derechos de nuestros connacionales. Este episodio, que contrasta con el orgullo nacional generado por el fútbol, nos obliga a reflexionar sobre las políticas migratorias y la asistencia consular. La justicia y el respeto por los derechos humanos no deberían ser moneda de cambio. ¿Hasta cuándo permitiremos que la vulnerabilidad de nuestros ciudadanos en el exterior sea una constante?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "niñera-argentina-eeuu-imagen-nacional-mundial",
-    "fecha": "2026-08-16",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Identidad o marketing? Una referente \"argentina\" y el peso de la camiseta",
-    "bajada": "El testimonio de una figura que, nacida en EE.UU., se declara \"argentina\" y reniega de otra camiseta, abre el debate sobre la identidad nacional en el deporte y más allá.",
-    "cuerpo": "En un país donde la pasión por la \"camiseta\" es casi un dogma, la historia de una referente nacida en Estados Unidos que abraza la identidad argentina y se niega a vestir otros colores, resuena profundamente. Si bien es inspirador ver cómo figuras eligen representar a nuestra nación, la pregunta es si este fervor se construye sobre una identidad genuina o si también es, en parte, una estrategia de marketing en un mercado que valora la pertenencia.\n\nDesde Panorama.ar, celebramos la diversidad y el apego a los colores nacionales. Sin embargo, instamos a reflexionar sobre qué significa verdaderamente ser \"argentino\" y cómo se promueven estos valores más allá de la euforia deportiva. Es crucial que la identidad se construya sobre bases sólidas y no solo sobre el éxito mediático o deportivo. ¿Qué representa hoy la \"camiseta\" argentina más allá del folklore?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "identidad-marketing-referente-argentina-camiseta",
-    "fecha": "2026-08-16",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Tráfico internacional: Argentina y el escándalo de la droga en Japón",
-    "bajada": "La detención de una ciudadana argentina en el aeropuerto de Japón por tráfico de drogas expone una vez más la debilidad de los controles y la grave penetración del narcotráfico.",
-    "cuerpo": "La noticia de una argentina detenida en un aeropuerto de Japón con casi un kilo de cocaína oculto en su cuerpo es un golpe a la imagen internacional del país y una cruda muestra de la expansión del narcotráfico. Este incidente, que resuena con otros casos de argentinos involucrados en redes criminales internacionales, nos obliga a cuestionar la efectividad de las políticas de seguridad y control en nuestras fronteras y aeropuertos.\n\nPanorama.ar denuncia la creciente audacia de las organizaciones criminales y la necesidad imperiosa de una política de \"mano dura\" contra el narcotráfico. La complacencia o la ineficiencia solo alimentan estas redes, que no solo manchan el nombre de Argentina, sino que también corrompen el tejido social. Este no es un incidente aislado; es un síntoma de un problema mucho más profundo. ¿Cuándo asumiremos la verdadera magnitud de esta guerra contra el crimen organizado?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "trafico-internacional-argentina-droga-japon",
-    "fecha": "2026-08-16",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Techint: ¿Tres Argentinas o una nación rehén de la visión empresarial?",
-    "bajada": "La lectura de Techint sobre el futuro del país y su advertencia contra China, abre el debate sobre el rol de las grandes corporaciones en la dirección económica nacional.",
-    "cuerpo": "El análisis de Techint sobre las \"tres Argentinas\" y su enfático pedido por defender la industria nacional frente a la influencia China, pone en el centro de la discusión el modelo de desarrollo que el país debe seguir. Si bien la defensa de la industria local es vital, es crucial analizar si estas posturas no reflejan también intereses corporativos específicos, que a veces colisionan con la necesidad de abrir mercados y promover la competitividad.\n\nDesde Panorama.ar, apoyamos una economía de mercado fuerte y la desregulación, pero también creemos que el debate debe ser transparente. Es necesario examinar críticamente si las advertencias sobre \"invasiones\" económicas son genuinas o si también buscan mantener privilegios sectoriales que impiden una mayor eficiencia y un menor costo para el consumidor. ¿Estamos defendiendo la industria o ciertos lobbies? El gobierno debe fomentar la competencia real.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "techint-tres-argentinas-vision-empresarial",
-    "fecha": "2026-08-16",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Inflación récord: ¿Otro mes de castigo al bolsillo argentino?",
-    "bajada": "Argentina y Venezuela lideran un ranking que avergüenza, mientras la sociedad busca respuestas a un flagelo recurrente.",
-    "cuerpo": "Los datos no mienten: Argentina vuelve a encabezar, junto a Venezuela, el vergonzoso ranking de inflación en América Latina. Esta recurrente escalada de precios, lejos de ser un fenómeno aislado, es el resultado directo de políticas fiscales expansivas y una intervención estatal que no cede. El continuo gasto público descontrolado y la emisión monetaria actúan como un impuesto encubierto, erosionando el poder adquisitivo de salarios y ahorros.\n\nMientras el sector productivo lucha por sobrevivir en un contexto de costos impredecibles, el Estado parece seguir la misma senda que nos llevó a esta crisis crónica. La presión impositiva asfixia a quienes generan empleo y riqueza, dejando a millones de argentinos en la incertidumbre.\n\n¿Hasta cuándo soportará la ciudadanía esta espiral inflacionaria que parece no tener fin, y qué medidas concretas se esperan para revertir un modelo que castiga el esfuerzo y premia la inacción?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "inflacion-record-otro-mes-de-castigo-al-bolsillo-argentino",
-    "fecha": "2026-08-16",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Más de 30.000 empresas cierran: ¿El costo real de un Estado elefante?",
-    "bajada": "En dos años y medio, el tejido productivo argentino se desgarra con la desaparición de miles de pymes, un síntoma de un modelo inviable.",
-    "cuerpo": "La alarmante cifra de más de 30.000 empresas cerradas en apenas dos años y medio expone una realidad brutal: el sector privado, motor de la economía y generador de empleo, está siendo estrangulado. Este escenario de retracción empresarial es la consecuencia directa de una presión impositiva insostenible, la burocracia sofocante y la falta de un horizonte económico claro que estimule la inversión y el crecimiento.\n\nMientras el discurso oficial a menudo se enfoca en la protección del empleo, la realidad es que miles de puestos de trabajo se pierden con cada persiana que baja. Los emprendedores y pequeños empresarios, pilares de cualquier economía sana, se ven obligados a abandonar sus proyectos ante la imposibilidad de competir y subsistir bajo un esquema que parece penalizar la iniciativa.\n\n¿Qué futuro le espera a un país que sistemáticamente expulsa a quienes se atreven a producir y arriesgar, y cuándo se tomarán medidas para un verdadero alivio fiscal y regulatorio?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mas-de-30000-empresas-cierran-el-costo-real-de-un-estado-elefante",
-    "fecha": "2026-08-16",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El calvario de Tamara: Cadenas y derechos, ¿dónde está el límite?",
-    "bajada": "Una niñera argentina relata el horror de su detención en EEUU, exponiendo un sistema que prioriza la seguridad sobre la dignidad.",
-    "cuerpo": "La conmovedora historia de Tamara, la niñera argentina detenida en Estados Unidos, ha encendido el debate sobre los límites de la autoridad y el respeto a los derechos humanos. Su testimonio sobre 'cadenas en el estómago y los pies' durante su encarcelamiento, lejos de ser un caso aislado, pone en evidencia las duras condiciones a las que pueden ser sometidos los individuos en sistemas judiciales extranjeros, incluso antes de ser juzgados.\n\nLa búsqueda de la verdad y la justicia no puede, bajo ninguna circunstancia, justificar tratos que atenten contra la integridad y la dignidad de las personas. Mientras se aguardan detalles sobre el proceso legal que llevó a esta situación, es imperativo reflexionar sobre los protocolos de detención y el acompañamiento consular para ciudadanos argentinos en el exterior.\n\n¿Estamos como sociedad dispuestos a aceptar estos métodos en nombre de la seguridad, o debemos exigir un estándar más alto de respeto a los derechos fundamentales, aquí y en el mundo?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "el-calvario-de-tamara-cadenas-y-derechos-donde-esta-el-limite",
-    "fecha": "2026-08-16",
-    "imagen": "img/sociedad_3.png",
     "destacada": false
   }
 ]
