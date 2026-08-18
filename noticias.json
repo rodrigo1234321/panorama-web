@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Es San Martín el \"norte\" o solo un eslogan político?",
+    "bajada": "La vicepresidenta Villarruel revive la figura del Libertador, pero ¿su legado se aplica al presente?",
+    "cuerpo": "La figura del General José de San Martín vuelve al centro del debate político de la mano de la vicepresidenta Victoria Villarruel, quien lo presentó como el \"norte para los argentinos que no se arrodillan y defienden la soberanía nacional\". Este discurso, cargado de simbolismo, busca resonar con un electorado que valora los ideales patrios y la firmeza frente a intereses externos o internos que perciben como perjudiciales.\n\nSin embargo, la pregunta inevitable es si la invocación de figuras históricas de tal magnitud se traduce en acciones concretas o si, por el contrario, corre el riesgo de convertirse en un mero eslogan. En un contexto donde la soberanía económica y la independencia política son constantemente puestas a prueba por la presión del gasto público y la injerencia burocrática, ¿cómo se materializa ese \"norte\" sanmartiniano más allá de las palabras? ¿La defensa de la soberanía nacional que propone la vicepresidenta implica una revisión profunda de las estructuras estatales que asfixian la iniciativa privada y la libertad individual, o se limita a una retórica sin eco en las políticas de fondo?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "es-san-martin-norte-o-eslogan-politico",
+    "fecha": "2026-08-18",
+    "imagen": "img/politica_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "San Martín: Lecciones de disciplina para una Argentina a la deriva",
+    "bajada": "Antes de la independencia, el Libertador forjó su carácter en el Ejército español. ¿Qué podemos aprender hoy?",
+    "cuerpo": "La trayectoria de José de San Martín, marcada por 22 años de servicio en el Ejército español antes de su regreso a la Argentina para liderar la independencia, ofrece valiosas lecciones sobre disciplina, estrategia y pragmatismo. Este período de formación militar en Europa fue crucial para forjar al líder que luego concretaría la gesta emancipadora, demostrando una capacidad de planificación y ejecución que contrasta fuertemente con la improvisación y el cortoplacismo que a menudo caracterizan la gestión pública actual.\n\nEn un país que busca un rumbo claro y reformas estructurales, la figura de San Martín nos interpela: ¿dónde están hoy los líderes con la visión y la fortaleza para encarar procesos complejos y de largo aliento, sin ceder a las presiones populistas o a la inmediatez electoral? La burocracia estatal y la incesante presión fiscal, ¿nos impiden emular la capacidad de San Martín para construir y movilizar recursos con un propósito superior?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "san-martin-lecciones-disciplina-argentina-deriva",
+    "fecha": "2026-08-18",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Se honra a San Martín o se lo usa? 176 años después, la deuda pendiente.",
+    "bajada": "Los homenajes se suceden, pero ¿se aplican sus principios de austeridad y visión de Estado en la gestión actual?",
+    "cuerpo": "A 176 años de su fallecimiento, el General José de San Martín sigue siendo objeto de diversos homenajes oficiales. Sin embargo, más allá de los actos protocolares y los discursos emotivos, es imperativo preguntarse si la clase política actual realmente honra el legado del Libertador o si lo utiliza como una figura retórica desprovista de contenido práctico. San Martín fue un estratega, un estadista que entendió la necesidad de la austeridad y la independencia financiera para la libertad real.\n\nLa Argentina actual, asfixiada por un gasto público desmedido y una presión impositiva que ahoga la producción, ¿refleja los principios de un líder que priorizó la solvencia económica y la eficiencia en la administración de recursos? Los homenajes son valiosos, pero solo si inspiran una autocrítica profunda sobre cómo la \"casta\" gestiona los destinos de la nación. ¿Estamos a la altura del desafío que planteó San Martín o nos conformamos con el bronce y las palabras vacías?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "se-honra-san-martin-o-se-lo-usa-deuda-pendiente",
+    "fecha": "2026-08-18",
+    "imagen": "img/politica_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Futsal Sub-17: Argentina tricampeón, ¿ejemplo de meritocracia?",
+    "bajada": "La Selección de futsal venció a Brasil y revalidó su título. Un triunfo que celebra la garra argentina.",
+    "cuerpo": "La Selección Argentina Sub-17 de Futsal se consagró tricampeona del Sudamericano al imponerse a Brasil, un logro que celebra la garra y el talento de nuestros jóvenes deportistas. En un contexto donde la meritocracia y el esfuerzo individual son valores en declive en otros ámbitos de la vida nacional, el deporte nos recuerda la importancia de la disciplina y el trabajo en equipo para alcanzar la excelencia. Estos jóvenes, sin los reflectores de las grandes ligas, demuestran que con preparación y compromiso se pueden superar los desafíos más grandes.\n\nMientras figuras como Millan o Salvio suelen acaparar titulares, el esfuerzo de estos chicos en el futsal demuestra que hay un semillero deportivo vital más allá de la atención mediática. Este triunfo es un recordatorio de que Argentina tiene el potencial para ser líder cuando se invierte en talento y se fomenta una cultura de superación. ¿Seremos capaces de aplicar estas lecciones de éxito deportivo a otros desafíos nacionales donde la ineficiencia y la falta de visión parecen ser la norma?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "futsal-sub-17-argentina-tricampeon-meritocracia",
+    "fecha": "2026-08-18",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Debut agridulce en Guadalajara: ¿Falta de visión o solo un traspié?",
+    "bajada": "Argentina cayó ante Nueva Zelanda en su primer partido, levantando interrogantes sobre la preparación y el enfoque.",
+    "cuerpo": "El debut de la selección argentina en Guadalajara, con una derrota ante Nueva Zelanda, generó un agridulce sabor y levantó interrogantes sobre la preparación y la estrategia de nuestros equipos. Si bien un traspié inicial puede ocurrir, la performance expone la necesidad de un análisis más profundo sobre la inversión y el desarrollo deportivo en disciplinas que no son el fútbol de élite, donde nombres como Lanús o All Boys suelen tener mayores reflectores.\n\nLa cultura del éxito rápido y la falta de planificación a largo plazo a menudo se reflejan en resultados inconsistentes. ¿Estamos destinando los recursos de manera eficiente para que nuestros deportistas puedan competir al máximo nivel internacional en todas las disciplinas, o seguimos improvisando y lamentando los resultados? El rendimiento en el campo es un espejo de la gestión detrás: ¿se privilegia el esfuerzo y la estrategia o se espera que el talento individual resuelva las deficiencias estructurales?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "2 min",
+    "slug": "debut-agridulce-guadalajara-falta-vision-traspie",
+    "fecha": "2026-08-18",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Morosidad en alza: ¿Acertado rechazo de Milei a la intervención estatal?",
+    "bajada": "La deuda familiar se dispara, pero el Presidente insiste en que es un asunto de privados. ¿Es esta la vía correcta?",
+    "cuerpo": "La morosidad de las familias argentinas se ha cuadruplicado, una cifra alarmante que expone la delicada situación económica de muchos hogares. Ante este panorama, el presidente Javier Milei ha sido categórico en su postura: \"Es un problema entre privados\", rechazando cualquier intervención estatal. Esta visión, alineada con los principios de un mercado libre y la responsabilidad individual, contrasta con décadas de intervencionismo que, lejos de resolver los problemas, a menudo los agravaron y generaron distorsiones en la economía.\n\nDesde la perspectiva liberal de Panorama.ar, la no injerencia del Estado en contratos entre particulares es fundamental para sentar las bases de una economía sana. Si bien la situación es compleja y genera angustia, la intromisión gubernamental con parches o subsidios distorsiona los precios, incentiva la irresponsabilidad y termina siendo pagada por el contribuyente honesto. ¿Es el momento de permitir que el mercado se ajuste, asumiendo los costos de años de políticas equivocadas, o el costo social es demasiado alto para una política de shock tan pura?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "morosidad-alza-rechazo-milei-intervencion-estatal",
+    "fecha": "2026-08-18",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Malvinas: ¿Traición al relato nacional desde la propia Secretaría?",
+    "bajada": "La secretaria de Malvinas, acusada de favorecer la narrativa británica, genera una fuerte controversia.",
+    "cuerpo": "Una polémica grave sacude la discusión sobre la soberanía de las Islas Malvinas. Se denuncia que la actual secretaria de Malvinas estaría colaborando, directa o indirectamente, en la construcción de un \"relato inglés\" sobre las islas, socavando la histórica posición argentina. Esta acusación, de ser cierta, representa un hecho de extrema gravedad, ya que implicaría una traición a la memoria de nuestros caídos y a un consenso nacional que trasciende cualquier bandera política.\n\nEn un tema tan sensible como Malvinas, donde la soberanía es irrenunciable, la coherencia y la firmeza en la defensa de los intereses nacionales son innegociables. Mientras la \"casta\" política a menudo se muestra tibia en la defensa de principios fundamentales, estas revelaciones exigen una explicación inmediata y contundente. ¿Es posible que funcionarios argentinos trabajen para legitimar una ocupación ilegítima, o estamos ante una interpretación errónea de sus funciones? ¿Cómo se puede defender la soberanía si desde el propio Estado se debilita el reclamo histórico?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "malvinas-traicion-relato-nacional-secretaria",
+    "fecha": "2026-08-18",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
     "titulo": "San Martín y la Patria: ¿Cómo 22 años en España forjaron al Libertador?",
     "bajada": "Un análisis de la formación militar del Padre de la Patria antes de su crucial regreso.",
     "cuerpo": "José de San Martín, el Libertador de la Patria, dedicó más de dos décadas al Ejército español antes de su gesta americana. Este período, a menudo soslayado, es fundamental para comprender la rigurosidad y estrategia que luego aplicaría en la campaña por la independencia. Su experiencia en Europa no solo le proveyó de conocimientos tácticos, sino que también moldeó su visión de la disciplina y el orden, valores esenciales para cualquier nación que aspire a la grandeza.¿Fue esta formación ajena la clave para su éxito en la lucha por nuestra soberanía? El rigor y la visión estratégica adquiridos lejos de estas tierras fueron, paradójicamente, las herramientas con las que luego desmantelaría el poder colonial. Es una paradoja que invita a reflexionar sobre la importancia de la experiencia y la preparación más allá de las fronteras para el liderazgo de una nación.¿Qué papel juega la preparación internacional en la forja de los líderes que Argentina necesita hoy para defender su Patria?",
@@ -33,7 +117,7 @@
     "slug": "morosidad-record-no-intervencion-milei-economia",
     "fecha": "2026-08-17",
     "imagen": "img/economia_7.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Malvinas y la Patria: ¿Es la 'neutralidad' de EE.UU. una traición silenciosa?",
@@ -201,90 +285,6 @@
     "slug": "futsal-sub-17-argentina-tricampeon-afa-tapia",
     "fecha": "2026-08-17",
     "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Mulas de cocaína: ¿Drama social o crimen sin justificación?",
-    "bajada": "La historia de una argentina detenida en Japón con un kilo de cocaína en su estómago reabre el debate sobre el narcotráfico y la responsabilidad individual.",
-    "cuerpo": "La detención de una mujer argentina en Japón, con 101 cápsulas de cocaína ingeridas, pone en evidencia el cruel entramado del narcotráfico internacional. La noticia revela un trasfondo de vida complejo: madre a los 15 años y con una condena previa por contrabando de drogas. Este perfil reaviva la discusión sobre si estas \"mulas\" son meras víctimas de un sistema o cómplices conscientes de un delito grave que destruye vidas.\n\nDesde una perspectiva de mano dura, la ley debe aplicarse con todo su peso, sin atenuantes. El tráfico de drogas no solo alimenta la violencia sino que socava el tejido social, y quienes participan en él deben asumir las consecuencias, más aún con antecedentes penales. Sin embargo, no se puede ignorar el factor socioeconómico que empuja a muchos a caer en estas redes. ¿Hasta qué punto la desesperación justifica el crimen, y cómo abordamos esta problemática desde la justicia y las políticas sociales sin caer en un garantismo irresponsable?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mulas-cocaina-drama-social-o-crimen",
-    "fecha": "2026-08-17",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Techo propio: ¿Un sueño inalcanzable en la Argentina liberal?",
-    "bajada": "Argentina se ubica entre los peores países del mundo para acceder a una vivienda, con un informe demoledor que exige casi 23 años de ingresos para el techo propio.",
-    "cuerpo": "El sueño de la casa propia se ha convertido en una quimera para la mayoría de los argentinos. Un ranking mundial reciente ubica a nuestro país entre los más inaccesibles para la compra de vivienda, una estadística que resuena con la frustración de miles de familias. Para acceder a una propiedad, se requieren en promedio casi 23 años de ingresos, una cifra que expone la profunda distorsión económica y la precarización que afecta a la clase media y trabajadora.\n\nEsta dificultad es un síntoma de un problema estructural, donde la inflación galopante, la ausencia de crédito hipotecario estable y la alta presión impositiva sobre la construcción y la propiedad conspiran contra la inversión y el desarrollo. La retórica de un mercado libre que resuelve las necesidades de vivienda choca con una realidad donde el estado, lejos de facilitar, a menudo complica. ¿Es momento de revisar las políticas habitacionales y fiscales para que el \"techo propio\" no sea solo un eslogan de campaña, o la solución vendrá exclusivamente del libre juego de la oferta y la demanda, a un costo social altísimo?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "techo-propio-sueno-inalcanzable-argentina",
-    "fecha": "2026-08-17",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Doctrina Monroe en Argentina: ¿Fin de la soberanía o pragmatismo?",
-    "bajada": "La mención de la Doctrina Monroe en el contexto del conflicto de Neuquén desata un fuerte debate sobre la influencia de EE.UU. en la política exterior argentina y la soberanía nacional.",
-    "cuerpo": "La alusión a la Doctrina Monroe, históricamente asociada a la influencia de Estados Unidos sobre las naciones de América Latina, en el contexto del conflicto de Neuquén, ha encendido las alarmas en círculos políticos y diplomáticos. Peter Lamelas, figura relevante en la política exterior, ha puesto en discusión la autonomía de Argentina frente a las potencias globales. Para algunos, este concepto evoca una era de intervencionismo indeseable, donde los intereses nacionales quedaban subordinados a los de Washington.\n\nDesde una perspectiva de centro-derecha, la soberanía es un pilar fundamental, pero también lo es el pragmatismo en las relaciones internacionales. ¿Es la \"Doctrina Monroe\" una amenaza velada o una descripción sincera de una realidad geopolítica ineludible en un mundo polarizado? El dilema radica en cómo Argentina puede defender sus intereses estratégicos, como los yacimientos de Vaca Muerta, sin caer en alineamientos que comprometan su independencia. ¿Estamos ante un retorno a viejas lógicas de dominación o simplemente se blanquea la necesidad de alianzas estratégicas en un contexto global complejo?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "doctrina-monroe-argentina-fin-soberania-pragmatismo",
-    "fecha": "2026-08-17",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Papa León XIV en Argentina: ¿Fe o cálculo político de la casta?",
-    "bajada": "Karina Milei coordina la llegada del Papa León XIV, una visita que genera expectativas y también el inevitable cuestionamiento sobre el costo y el trasfondo político.",
-    "cuerpo": "La inminente visita del Papa León XIV a la Argentina, con la coordinación a cargo de Karina Milei, ha puesto en marcha una maquinaria organizativa de gran envergadura. Si bien la presencia del Sumo Pontífice siempre genera un clima de fervor y esperanza, también despierta un agudo debate sobre la naturaleza y el costo de tales eventos en un país con urgencias económicas. ¿Es esta una visita pastoral pura o hay un trasfondo de cálculo político por parte de la \"casta\" que busca capitalizar la imagen del Papa?\n\nLa pregunta sobre la financiación y el uso de recursos públicos para la visita es ineludible. En tiempos de ajuste fiscal y austeridad, cada partida presupuestaria se examina con lupa. ¿Está el Estado destinando fondos que podrían aliviar necesidades más urgentes, o la trascendencia del evento justifica la inversión? Piqueteros ya han manifestado su deseo de que el Papa visite villas, lo que añade una capa de complejidad social y política a la agenda. ¿Cómo se equilibrarán los intereses religiosos, políticos y sociales en esta controvertida visita?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "papa-leon-xiv-argentina-fe-o-calculo-politico",
-    "fecha": "2026-08-17",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "ARGENTINA Campeón: ¿Éxito deportivo oculta crisis de fondo?",
-    "bajada": "La Selección Sub-17 de Futsal se consagró tricampeón sudamericano, venciendo a Brasil en el alargue. Un triunfo que ilusiona, pero ¿qué hay más allá del festejo?",
-    "cuerpo": "El combinado nacional de Futsal Sub-17 demostró su jerarquía al imponerse 2-1 a Brasil en un vibrante alargue, logrando el tricampeonato sudamericano. Esta victoria, celebrada con euforia, es un recordatorio del talento deportivo argentino y de la capacidad de nuestros jóvenes para alcanzar la excelencia. El torneo en Paraguay vio a un equipo invicto que culminó su performance de manera magistral, dejando en claro el buen trabajo en las formativas.\n\nSin embargo, mientras las redes sociales estallan en alegría por el logro deportivo, la pregunta de fondo persiste: ¿puede el éxito en el deporte servir como un velo que opaque debates urgentes sobre el futuro de estos mismos jóvenes? La pasión por el fútbol es innegable, pero no debe desviar la atención de las deficiencias estructurales que enfrentan las nuevas generaciones en materia de educación, empleo y desarrollo.\n\nEste triunfo nos invita a celebrar, sí, pero también a reflexionar sobre la responsabilidad de construir un país donde la oportunidad y el mérito no sean solo patrimonio de unos pocos talentos excepcionales. ¿Estamos invirtiendo lo suficiente en el desarrollo integral de nuestros chicos para que puedan replicar estos éxitos en todos los ámbitos, o solo nos conformamos con el \"Pan y Circo\" deportivo?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-campeon-exito-deportivo-oculta-crisis",
-    "fecha": "2026-08-17",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Wall Street duda de ARGENTINA: ¿Alerta roja para la economía?",
-    "bajada": "La reducción de la exposición inversora en el país y la caída en el apoyo al Gobierno prenden luces de alarma sobre el rumbo económico.",
-    "cuerpo": "Los principales fondos de inversión en Wall Street han comenzado a reducir su exposición en Argentina, una señal inequívoca de la creciente desconfianza del mercado internacional. Esta retracción se fundamenta en la percepción de una baja en el apoyo político al Gobierno, lo que genera incertidumbre sobre la capacidad de implementar reformas profundas y sostener la disciplina fiscal tan esperada. La estabilidad macroeconómica es el pilar para atraer capitales, y sin un respaldo político sólido, el inversor externo opta por la cautela.\n\nExpertos financieros advierten que esta fuga de confianza no es un dato menor. La Argentina, urgida de inversiones para estabilizar su economía, ve cómo las puertas de financiamiento se entreabren con recelo. La promesa de un ajuste riguroso y una desregulación efectiva parece no convencer del todo cuando se traduce en vaivenes políticos y dificultades para la gestión. El costo de esta desconfianza se paga con mayores tasas de interés y una menor disponibilidad de capital para el desarrollo productivo.\n\n¿Puede el país permitirse el lujo de espantar a quienes podrían motorizar la recuperación económica? La \"casta\" política debería tomar nota: la imprevisibilidad y la falta de consenso a largo plazo son veneno para la prosperidad. ¿Hasta cuándo se seguirá priorizando la coyuntura política sobre la estabilidad y el crecimiento genuino de los argentinos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "wall-street-duda-de-argentina-alerta-roja-economia",
-    "fecha": "2026-08-17",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Contrabando con \"ARGENTINA\": ¿Por qué no se detiene?",
-    "bajada": "Una mujer con antecedentes por narcotráfico fue nuevamente detenida, esta vez en Tokio, con casi un kilo de cocaína. Un caso que expone las falencias de nuestro sistema judicial.",
-    "cuerpo": "La detención de una mujer con nacionalidad argentina en Tokio, con 101 cápsulas de cocaína ingeridas (casi un kilo), vuelve a poner en el centro del debate la eficacia de los controles y la mano dura contra el narcotráfico. Lo más alarmante es que la mujer ya contaba con condenas previas por contrabando en nuestro país, un claro indicio de que el sistema no logra reinsertar ni disuadir a quienes eligen el camino del crimen.\n\nEste incidente, que genera vergüenza para la imagen de Argentina en el exterior, subraya la necesidad de revisar a fondo nuestras políticas de seguridad y justicia. ¿Cómo es posible que una persona con antecedentes por delitos similares pueda reincidir y operar a nivel internacional? La permisividad o la ineficacia de ciertas facetas del sistema judicial argentino son un caldo de cultivo para la criminalidad organizada, que aprovecha cada grieta para expandir sus operaciones.\n\nLa \"mano dura\" no es un eslogan, sino una necesidad imperiosa para proteger a la sociedad. Es hora de dejar de lado el garantismo que solo beneficia a los delincuentes y garantizar que quienes cometen estos delitos enfrenten las consecuencias reales. ¿Estamos dispuestos a endurecer las penas y los controles, o seguiremos lamentando casos como este sin tomar medidas concretas?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "contrabando-con-argentina-por-que-no-se-detiene",
-    "fecha": "2026-08-17",
-    "imagen": "img/sociedad_5.png",
     "destacada": false
   }
 ]
