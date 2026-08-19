@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Negocios de Cerimedo: ¿Crecimiento exponencial al calor del poder?",
+    "bajada": "La expansión empresarial de Fernando Cerimedo despierta interrogantes sobre sus conexiones políticas y el rol del Estado.",
+    "cuerpo": "La Nación revela cómo los negocios de Fernando Cerimedo, figura clave del ecosistema digital libertario, experimentaron un notable crecimiento y diversificación en Argentina. Este fenómeno, que coincide con el ascenso del gobierno actual, obliga a un análisis profundo sobre la relación entre el poder político y el éxito empresarial. ¿Es la meritocracia o la cercanía al Ejecutivo lo que impulsa estas expansiones?\n\nEl informe destaca un patrón de crecimiento en áreas diversas, desde medios digitales hasta consultorías. Si bien el espíritu emprendedor es digno de elogio en un contexto de libre mercado, la magnitud y rapidez de esta expansión, especialmente en sectores que interactúan directamente con la esfera pública o la comunicación oficial, merecen una supervisión rigurosa. ¿Hasta qué punto la influencia política garantiza una ventaja competitiva desleal? El desafío es asegurar la transparencia y evitar cualquier sombra de favoritismo que distorsione el mercado.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "negocios-cerimedo-crecimiento-exponencial-calor-poder",
+    "fecha": "2026-08-19",
+    "imagen": "img/politica_2.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Superávit récord, pero Riesgo País en alza: ¿confianza perdida?",
+    "bajada": "A pesar del esfuerzo fiscal, los mercados internacionales mantienen la desconfianza hacia la economía argentina.",
+    "cuerpo": "La paradoja económica argentina se profundiza: mientras el gobierno celebra un superávit fiscal contundente, el riesgo país vuelve a escalar por encima de los 500 puntos. Clarín.com señala la persistente desconfianza de los mercados, que no parecen convalidar del todo la narrativa oficial. ¿Es suficiente la disciplina fiscal si no se acompaña de un plan de reformas estructurales creíble a largo plazo? La mera contención del gasto, sin una visión de crecimiento robusto, genera dudas.\n\nLos analistas advierten que la incertidumbre electoral y la falta de un horizonte claro para el equilibrio fiscal estructural son factores clave. No basta con ajustar las cuentas a corto plazo; el mercado demanda previsibilidad y un compromiso firme con la reducción de la presión impositiva y la desregulación, elementos esenciales para atraer inversiones genuinas. La política económica debe ir más allá de los números coyunturales y ofrecer un marco de estabilidad y libertad económica. ¿Hasta cuándo podrá Argentina sostener esta dicotomía sin resentir la inversión y el empleo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "superavit-record-riesgo-pais-alza-confianza-perdida",
+    "fecha": "2026-08-19",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Desempleo creciente: ¿Jaquea la estabilidad del gobierno?",
+    "bajada": "El aumento del desempleo se consolida como el principal desafío para la administración actual, generando preocupación.",
+    "cuerpo": "Infobae advierte que el creciente desempleo se está convirtiendo en la amenaza política más significativa para el gobierno en Argentina. Aunque la disciplina fiscal es un pilar de la política económica actual, la falta de creación de puestos de trabajo genuinos erosiona el apoyo social y genera una profunda preocupación. ¿Es sostenible un ajuste macroeconómico sin una estrategia clara para la reactivación productiva y la generación de empleo privado?\n\nLa realidad del mercado laboral pone en jaque la promesa de una recuperación rápida. Si bien se argumenta que el ajuste es necesario para sentar las bases de un crecimiento futuro, el costo social de la desocupación es inmenso y no puede ser ignorado. Es crucial que el gobierno articule medidas que fomenten la inversión y la desburocratización para que el sector privado sea el motor de la creación de empleo, en lugar de depender exclusivamente de la reducción del gasto público. ¿Podrá el oficialismo revertir esta tendencia antes de que el descontento social se torne inmanejable?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "desempleo-creciente-jaquea-estabilidad-gobierno",
+    "fecha": "2026-08-19",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "San Martín y la libertad: ¿Un mensaje olvidado por Argentina?",
+    "bajada": "El reciente discurso en el homenaje a San Martín reaviva el debate sobre los valores fundacionales de la nación.",
+    "cuerpo": "Durante el homenaje al General San Martín, el presidente expresó que 'Argentina olvidó la demanda de la libertad', un concepto que resuena con la línea editorial de Panorama.ar. Esta afirmación, publicada por El Cronista, invita a reflexionar sobre si el país ha desviado su rumbo de los principios liberales y de independencia que forjaron la nación. ¿Es la intervención estatal excesiva y la carga impositiva las cadenas que hoy impiden el desarrollo de la verdadera libertad?\n\nLa retórica presidencial subraya la necesidad de recuperar esos valores fundacionales, contrastándolos con décadas de políticas que, a su juicio, coartaron la iniciativa individual y la prosperidad. Sin embargo, algunos críticos argumentarían que la libertad no solo se define por la ausencia de coerción estatal, sino también por la existencia de condiciones sociales y económicas básicas que permitan a todos ejercerla. La discusión es pertinente: ¿cómo se equilibra la búsqueda de la libertad individual con la construcción de una sociedad justa y próspera para todos, sin caer en la trampa del populismo o la demagogia?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "san-martin-libertad-mensaje-olvidado-argentina",
+    "fecha": "2026-08-19",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "AFA denuncia \"campaña miserable\": ¿Victimismo o ataque real?",
+    "bajada": "La cúpula de la AFA denuncia ataques coordinados tras el Mundial, polarizando la opinión pública.",
+    "cuerpo": "La Asociación del Fútbol Argentino (AFA) ha lanzado una contundente denuncia, afirmando la existencia de una \"campaña miserable\" contra Argentina tras la final del Mundial. Infobae reporta que la institución considera que ciertos sectores buscaron desprestigiar el triunfo nacional. Esta acusación, que genera un fuerte debate en redes y medios, nos obliga a preguntarnos si se trata de un victimismo institucional ante la crítica o de un ataque genuino con intenciones ocultas.\n\nDesde Panorama.ar, siempre defendemos la transparencia y el debate abierto. Si bien es innegable que hubo críticas internacionales, algunas de ellas infundadas, la respuesta de la AFA debería ser la autocrítica y la mejora, no la victimización. ¿Es este tipo de retórica la mejor forma de defender la imagen del fútbol argentino, o desvía la atención de posibles fallas internas y responsabilidades? El verdadero liderazgo se mide en la capacidad de enfrentar las objeciones con argumentos y propuestas, no con acusaciones de conspiración. ¿Qué intereses se ocultan detrás de esta polarización?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "afa-denuncia-campana-miserable-victimismo-ataque-real",
+    "fecha": "2026-08-19",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Copa Argentina: ¿El fútbol sigue siendo distracción o negocio?",
+    "bajada": "Racing y Belgrano se enfrentan en la Copa Argentina, un evento que genera fervor pero también interrogantes.",
+    "cuerpo": "El fútbol argentino vive una nueva jornada de pasión con el cruce entre Racing y Belgrano por la Copa Argentina 2026, como destaca Olé. Millones de fanáticos se preparan para seguir el partido, pero en Panorama.ar nos preguntamos: ¿es el fútbol, en su máxima expresión popular, una válvula de escape para las tensiones sociales o una maquinaria que distrae de los problemas de fondo? La pasión es innegable, pero la industria que lo rodea merece un análisis crítico.\n\nMás allá del resultado deportivo, la Copa Argentina representa un enorme movimiento de dinero, intereses y expectativas. Las inversiones en derechos de transmisión, patrocinios y la gestión de los clubes son parte de un entramado que a menudo se aleja de la transparencia. Mientras el pueblo sufre ajustes económicos, el negocio del fútbol sigue moviendo cifras exorbitantes. ¿Hasta qué punto este espectáculo masivo contribuye al desarrollo social genuino, o simplemente enmascara las verdaderas urgencias de la ciudadanía?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "copa-argentina-futbol-distraccion-o-negocio",
+    "fecha": "2026-08-19",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Ayuda a Colombia: ¿Solidaridad o estrategia regional?",
+    "bajada": "Argentina envía un contingente humanitario a Colombia tras el terremoto, generando un debate sobre las prioridades.",
+    "cuerpo": "Tras el devastador terremoto en Colombia, Argentina ha respondido enviando un contingente de 32 efectivos y equipamiento para asistencia humanitaria, según MinutoUno. Este gesto de solidaridad, si bien es loable, invita a reflexionar sobre el equilibrio entre la ayuda internacional y las necesidades internas de un país que también enfrenta serios desafíos económicos y sociales. ¿Es esta una prioridad bien calibrada en un contexto de recursos escasos?\n\nDesde una perspectiva de centro-derecha, la asistencia humanitaria puede ser vista como parte de una política exterior activa y de liderazgo regional, reforzando lazos y la imagen del país. Sin embargo, no se puede obviar el costo fiscal de tales misiones. Es fundamental que cada erogación estatal sea evaluada bajo una lupa de eficiencia y justificación clara, evitando el gasto superfluo o la grandilocuencia diplomática. ¿Se están asignando los recursos de la manera más efectiva, tanto en el ámbito externo como en la atención de las urgencias nacionales?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "ayuda-colombia-solidaridad-estrategia-regional",
+    "fecha": "2026-08-19",
+    "imagen": "img/politica_7.png",
+    "destacada": false
+  },
+  {
     "titulo": "¡Batacazo en la #CopaArgentina! ¿\"Gigantes\" o clubes con gerencia?",
     "bajada": "La eliminación de Gimnasia ante Riestra no es solo un resultado deportivo, sino un espejo de la gestión.",
     "cuerpo": "La #CopaArgentina vuelve a dar que hablar con la sorpresiva eliminación de #Gimnasia a manos de #Riestra. Este batacazo, más allá de lo futbolístico, pone de manifiesto una vez más la dicotomía en el fútbol argentino: ¿son los grandes clubes los únicos que importan, o la eficiencia y el orden pueden llevar a equipos \"chicos\" a instancias decisivas? La frustración de los hinchas de Gimnasia es palpable, pero la pregunta es si el problema está en el campo o en las decisiones administrativas. Los datos muestran que Riestra, con un presupuesto mucho menor, ha sabido capitalizar sus recursos y estructura para competir. El \"Lobo\" de La Plata, en cambio, con una historia y masa social imponente, vuelve a quedarse en el camino en un torneo clave.\n\n¿Es tiempo de revisar prioridades y modelos de gestión en el fútbol argentino, o seguiremos viendo cómo la tradición no alcanza ante la planificación? ¿Hasta cuándo los clubes con mayor historia arrastrarán déficits deportivos y financieros, mientras otros demuestran que con orden se puede soñar en grande?",
@@ -45,7 +129,7 @@
     "slug": "riesgo-pais-a-511-donde-esta-la-confianza",
     "fecha": "2026-08-19",
     "imagen": "img/economia_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Medicamentos: ¿Precio justo o cartelización?",
@@ -201,90 +285,6 @@
     "slug": "contrabando-militar-contralmirante-mexico-combustible-robado",
     "fecha": "2026-08-18",
     "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Techo Propio: ¿Argentina condena a sus jóvenes al alquiler eterno?",
-    "bajada": "Un ranking mundial expone la cruda realidad del acceso a la vivienda en el país.",
-    "cuerpo": "La posición de Argentina en el ranking mundial de acceso a la vivienda es un baldazo de agua fría, revelando la cruda dificultad de miles de argentinos para alcanzar el \"techo propio\". Este no es un problema menor; es una condena al empobrecimiento y la inestabilidad para la clase media y trabajadora. Las políticas públicas del pasado, muchas veces intervencionistas y distorsivas, junto con una inflación descontrolada, han pulverizado la capacidad de ahorro y acceso al crédito hipotecario, dejando a gran parte de la población en una carrera sin fin contra los alquileres.\n\nDesde Panorama.ar, sostenemos que el problema de la vivienda es un reflejo directo de la inestabilidad económica y la falta de reglas claras. La intervención estatal en el mercado de alquileres y la constante presión impositiva sobre la construcción desalientan la inversión y reducen la oferta, encareciendo aún más el acceso. Es imperativo liberar el mercado, fomentar el ahorro genuino y generar condiciones de estabilidad económica que permitan el desarrollo de un crédito hipotecario sostenible, sin la injerencia política que tanto daño ha causado.\n\n¿Qué medidas reales se tomarán para que el \"techo propio\" deje de ser una utopía y se convierta en una posibilidad concreta para los argentinos?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "techo-propio-argentina-condena-jovenes-alquiler-eterno",
-    "fecha": "2026-08-18",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Sueño Europeo vs. Realidad Argentina? El costo de emigrar hoy.",
-    "bajada": "Una pareja argentina en España revela que, si bien hay trabajo, la inflación y alquileres ahogan.",
-    "cuerpo": "La experiencia de una pareja argentina en España resuena con la realidad de miles que buscaron un futuro fuera del país. La facilidad para conseguir trabajo contrasta con la cruda verdad del 'costo de vida y los alquileres se llevan todo'. Este testimonio es un espejo de cómo la inflación y la presión sobre el salario no son un fenómeno exclusivo de Argentina, sino un desafío global que, sin embargo, se siente más agudo en naciones con economías menos robustas y salarios devaluados. Para Panorama.ar, el relato subraya que, aunque la emigración puede ofrecer oportunidades laborales, no siempre garantiza una mejora sustancial en la calidad de vida si no se acompaña de una sólida planificación financiera y un contexto económico estable.\n\nEl Estado argentino, a menudo, ignora o subestima las razones detrás de la creciente ola migratoria de sus jóvenes y profesionales. En lugar de generar las condiciones para que el talento permanezca, se enfoca en discursos que no resuelven la ecuación económica personal. Mientras la \"casta\" discute de grandes números, los ciudadanos de a pie evalúan constantemente si es mejor 'pobre en Argentina o pobre en Europa', buscando una estabilidad que en casa parece inalcanzable. Es fundamental que las reformas apunten a que la Argentina sea atractiva para sus propios ciudadanos, no solo para la inversión extranjera.\n\n¿Es la emigración una solución genuina a los problemas económicos o solo un cambio de escenario para las mismas batallas?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "sueno-europeo-vs-realidad-argentina-costo-emigrar-hoy",
-    "fecha": "2026-08-18",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Wall Street al 500%: ¿Inversión \"Peter Thiel\" o espejismo local?",
-    "bajada": "Mientras afuera se multiplican las fortunas, Argentina intenta operar migajas con cautela.",
-    "cuerpo": "En un mundo donde la innovación y el capital fluyen con la promesa de retornos del 500% en Wall Street, con figuras como \"Peter Thiel\" marcando el rumbo, Argentina se aferra a la posibilidad de operar estas \"acciones estrella\" desde su bolsa local. Esta disparidad plantea una pregunta fundamental: ¿Por qué, mientras el mundo genera riqueza exponencial en el sector privado y tecnológico, Argentina lucha por ofrecer un entorno atractivo y estable para inversiones genuinas a gran escala? La capacidad de acceder a estos mercados internacionales es una oportunidad, pero también un recordatorio de las limitaciones de un sistema local anclado en la volatilidad y la desconfianza.\n\nDesde Panorama.ar, criticamos la persistente intervención estatal y la presión impositiva que ahuyentan a los capitales productivos, forzando a los ahorristas a buscar refugio en el exterior o en instrumentos que solo replican la inestabilidad. Mientras la \"casta\" política discute cómo redistribuir una torta cada vez más chica, el mundo se expande a velocidades impensables. Fomentar la inversión privada, reducir la burocracia y garantizar la seguridad jurídica son pasos esenciales para que Argentina no sea solo una espectadora de la prosperidad global, sino una participante activa.\n\n¿Puede Argentina sumarse al tren de la riqueza global o seguirá condenada a verla pasar de lejos, con parches y limitaciones?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "wall-street-500-inversion-peter-thiel-espejismo-local",
-    "fecha": "2026-08-18",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Alerta Sismica en Argentina: ¿Estamos preparados para un 7.5?",
-    "bajada": "Expertos advierten sobre un posible terremoto de gran magnitud en el corto plazo.",
-    "cuerpo": "La advertencia sobre un posible terremoto de 7,5 en Argentina en el corto plazo es un llamado de atención urgente que el Estado no puede desoír. Aunque la naturaleza es impredecible, la preparación y la prevención son responsabilidad ineludible de las autoridades. La historia reciente del país muestra una tendencia a reaccionar ante las catástrofes en lugar de anticiparse, generando costos humanos y materiales evitables. Desde Panorama.ar, instamos a que se tomen medidas concretas y transparentes para garantizar la seguridad de la población, más allá de los anuncios mediáticos.\n\nEs fundamental que el gobierno no caiga en la retórica de la \"casta\" que promete soluciones mágicas o minimiza riesgos. Se necesita inversión real en infraestructura antisísmica, protocolos de emergencia claros y campañas de concientización efectivas. La burocracia y la ineficiencia, características lamentablemente arraigadas en el Estado, no pueden ser un obstáculo cuando la vida de las personas está en juego. La transparencia en la asignación de recursos y la rendición de cuentas son esenciales para asegurar que la preparación sea real y no solo un simulacro.\n\n¿Está Argentina realmente equipada para enfrentar una catástrofe de esta magnitud o prioriza otros gastos superfluos por encima de la vida?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "alerta-sismica-argentina-estamos-preparados-7-5",
-    "fecha": "2026-08-18",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Qué Significa Ser Argentino Hoy, Según Villarruel y San Martín?",
-    "bajada": "La vicepresidenta reaviva el debate sobre la identidad nacional en el Día del Padre de la Patria. Un mensaje directo para quienes no se \"arrodillan\".",
-    "cuerpo": "En un día crucial para la memoria nacional, la vicepresidenta Victoria Villarruel utilizó la figura del General José de San Martín para enviar un mensaje contundente sobre la soberanía y la identidad argentina. Afirmó que San Martín \"es el norte para los argentinos que no se arrodillan y defienden la soberanía nacional\", una declaración que resuena con la línea dura de su gobierno y que busca movilizar a un sector del electorado. Este discurso se contrapone a narrativas que, según sectores liberales y de centro-derecha, han erosionado el valor de los símbolos patrios y la defensa irrestricta de los intereses nacionales.\n\nEl mensaje de Villarruel busca retomar una visión histórica que valora la fortaleza, la independencia y el liderazgo militar, atributos centrales en la gesta sanmartiniana. La frase \"no se arrodillan\" no es casual: apunta a un sentimiento de resistencia frente a presiones externas e internas que, desde la perspectiva de su espacio, intentan doblegar la voluntad nacional. La reinterpretación de los legados históricos siempre genera debate: ¿es esta una apropiación legítima de los héroes nacionales o una instrumentalización política para el presente? ¿Cómo se vincula hoy el espíritu de San Martín con los desafíos de una Argentina que busca su rumbo?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "que-significa-ser-argentino-hoy-segun-villarruel-y-san-martin",
-    "fecha": "2026-08-18",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿El Gobierno Anuncia Visita del Papa León XIV? Un Error que Revela Más.",
-    "bajada": "Karina Milei busca coordinar la llegada de un Papa que no existe, mientras el Gobierno prepara la visita de Francisco. ¿Falta de rigor o un mensaje oculto?",
-    "cuerpo": "La Secretaria General de la Presidencia, Karina Milei, convocó a la Conferencia Episcopal Argentina para coordinar los preparativos de la \"visita del papa León XIV\" al país, según comunicó oficialmente. Un detalle no menor: León XIV fue un pontífice del siglo XIX y no es el actual líder de la Iglesia Católica, el Papa Francisco. Este error, reproducido en varios medios, levanta serias preguntas sobre el rigor en la comunicación oficial y la preparación de un evento de tal magnitud.\n\nDesde Panorama.ar, observamos cómo un desliz de esta naturaleza, en un contexto de alta expectativa por la posible llegada de Francisco, puede generar confusión y alimentar la crítica sobre la profesionalidad de ciertos sectores de la administración. Más allá de la anécdota, el hecho subraya la importancia de la precisión en los asuntos de Estado, especialmente cuando involucran a figuras de relevancia global y a instituciones como la Iglesia. ¿Se trata de un simple error administrativo, una confusión histórica o hay una lectura más profunda detrás de la mención de un Papa tan distante en el tiempo? ¿Este tipo de fallos afecta la credibilidad del Gobierno o es una nimiedad que pasará desapercibida?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "el-gobierno-anuncia-visita-del-papa-leon-xiv-un-error-que-revela-mas",
-    "fecha": "2026-08-18",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Argentina Líder en Superávit con el Peor Riesgo País? La Paradoja Económica.",
-    "bajada": "A pesar del ajuste fiscal, los mercados desconfían. ¿Qué impide que Argentina recupere la confianza inversora?",
-    "cuerpo": "Argentina se encuentra en una situación económica paradójica: celebra un superávit fiscal significativo, fruto de un brutal ajuste del gasto público, pero al mismo tiempo ostenta uno de los riesgos país más altos del mundo. Este escenario plantea un dilema para el gobierno y los analistas: ¿por qué los mercados financieros internacionales siguen desconfiando de la capacidad del país para honrar sus compromisos a futuro, a pesar de las señales de disciplina fiscal?\n\nExpertos señalan que, si bien el superávit es un paso fundamental, la desconfianza se arraiga en la historia de defaults, la volatilidad política y la falta de reformas estructurales profundas que garanticen la sostenibilidad a largo plazo. La persistencia de controles cambiarios, la incertidumbre sobre la agenda legislativa y la dificultad para acumular reservas de forma genuina son factores que mantienen cautos a los inversores. ¿Es suficiente la motosierra fiscal para revertir décadas de populismo y mala gestión? ¿O los mercados exigen garantías más profundas, como una reforma laboral y una apertura comercial sin precedentes, antes de apostar decididamente por Argentina?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-lider-en-superavit-con-el-peor-riesgo-pais-la-paradoja-economica",
-    "fecha": "2026-08-18",
-    "imagen": "img/economia_7.png",
     "destacada": false
   }
 ]
