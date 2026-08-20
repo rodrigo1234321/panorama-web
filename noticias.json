@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Desempleo: ¿La verdadera amenaza política para Milei? La visión de Cerimedo.",
+    "bajada": "Mientras el Gobierno celebra la disciplina fiscal, el fantasma del desempleo emerge como el mayor desafío para la estabilidad del oficialismo.",
+    "cuerpo": "La situación del mercado laboral se consolida como un punto crítico para la administración actual. Informes recientes sugieren que, más allá de los logros macroeconómicos, la falta de creación de empleo genuino podría minar el apoyo popular, incluso entre quienes inicialmente respaldaron las reformas. La visión de analistas como Cerimedo, cercano a la órbita liberal, resalta la tensión entre los objetivos de ajuste y la realidad social de la población.\n\nEl desafío radica en cómo el Gobierno, que ha priorizado el equilibrio fiscal y la desregulación, abordará esta creciente preocupación sin ceder a las presiones de un gasto público que tanto critica. La 'casta' política, por su parte, observa atenta, buscando capitalizar cualquier señal de debilidad. ¿Podrá el oficialismo sortear este escollo sin comprometer sus principios o el costo social será demasiado alto?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "desempleo-verdadera-amenaza-politica-milei-vision-cerimedo",
+    "fecha": "2026-08-20",
+    "imagen": "img/politica_7.png",
+    "destacada": true
+  },
+  {
+    "titulo": "DEA elogia lucha narco: ¿Fin del garantismo o retórica vacía? El debate con Cerimedo.",
+    "bajada": "El jefe de la DEA aplaude la estrategia antinarco argentina, pero la pregunta es si esto se traducirá en acciones concretas contra el crimen organizado.",
+    "cuerpo": "La visita del jefe de la DEA y sus elogios a la Argentina por su renovado compromiso en la lucha contra el narcotráfico reavivan el debate sobre la seguridad y el rol del Estado. Mientras el Gobierno se muestra firme, la crítica de quienes, como Cerimedo, exigen mano dura y eficiencia, sigue resonando. La ministra Monteoliva no descartó incluso perseguir carteles brasileños, una señal de una política más activa y menos pasiva.\n\nSin embargo, la historia reciente demuestra que los anuncios suelen chocar con una realidad compleja y un sistema judicial que, según voces críticas, a menudo ha sido permeable al garantismo. ¿Será esta vez diferente, o los elogios de la DEA son solo un gesto protocolar que no cambiará la matriz de la inseguridad y el narcotráfico en la región, especialmente con la creciente presencia del crimen organizado transnacional que afecta a #Bolivia y otros países limítrofes?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "dea-elogia-lucha-narco-fin-garantismo-retorica-vacia-debate-cerimedo",
+    "fecha": "2026-08-20",
+    "imagen": "img/politica_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "F-16 y Secreto Militar: ¿Defensa o opacidad estatal? La visión de Cerimedo.",
+    "bajada": "La compra de F-16 viene acompañada de una ampliación del secreto militar, levantando interrogantes sobre la transparencia y el uso de fondos públicos.",
+    "cuerpo": "La adquisición de aviones F-16 y la decisión de ampliar el secreto militar sobre aspectos de esta operación genera un intenso debate. Para algunos, es una medida estratégica necesaria para la defensa nacional y la seguridad, especialmente con el apoyo reforzado de EE.UU. a través del Programa Peace Condor. Sin embargo, para voces críticas como la de Cerimedo, la opacidad es un caldo de cultivo para la corrupción y una afrenta a la transparencia que tanto se exige al Estado.\n\nEl gasto en defensa, vital para cualquier nación, debe ser sometido al escrutinio público para asegurar que los recursos se utilicen de manera eficiente y sin irregularidades. Ampliar el secreto militar, en un contexto donde se pide mayor rendición de cuentas, plantea una contradicción. ¿Es esta una prioridad real para la defensa o una excusa para mantener el control de información sensible lejos de la mirada ciudadana, como muchos analistas, incluido #Cerimedo, sugieren?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "f16-secreto-militar-defensa-opacidad-estatal-vision-cerimedo",
+    "fecha": "2026-08-20",
+    "imagen": "img/politica_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Copa Argentina: Racing venció a Belgrano, ¿y ahora qué para Lodico y Ortegoza?",
+    "bajada": "La Academia avanzó en la Copa Argentina, dejando a Belgrano con un sabor amargo. El futuro de figuras como Lodico y Ortegoza está en el centro de la escena.",
+    "cuerpo": "Racing Club se impuso a Belgrano en un ajustado encuentro de la Copa Argentina, consolidando su camino en el torneo mientras el 'Pirata' lamenta otra eliminación. El desempeño de jugadores clave como Lodico y Ortegoza, pilares en el esquema de Belgrano, ahora se pone bajo la lupa. ¿Fue suficiente su aporte? ¿Qué rumbo tomarán sus carreras tras este tropiezo?\n\nEl fútbol argentino, más allá de los resultados, vive de las expectativas y las transferencias. La derrota siempre implica una reevaluación. En un contexto de alta presión y especulaciones, la afición y la prensa deportiva ya se preguntan cómo este resultado impactará en la estrategia del club y en el futuro individual de sus figuras. ¿Será esta una oportunidad para crecer o una señal de que se necesitan cambios profundos en el equipo de #Lodico y #Ortegoza?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "copa-argentina-racing-vencio-belgrano-que-para-lodico-ortegoza",
+    "fecha": "2026-08-20",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "A un mes del Mundial: El recuerdo agridulce de Julián y Simeone.",
+    "bajada": "Un mes después de la euforia mundialista, la Selección Argentina celebra su hito, pero las realidades actuales traen una reflexión agridulce sobre el fútbol.",
+    "cuerpo": "La conmemoración de la final del Mundial, a solo un mes de distancia, revive la épica y la alegría que unió a todo un país. La Selección Argentina, con figuras como Julián Álvarez y otros talentos, se grabó en la memoria colectiva. Sin embargo, más allá de la nostalgia, el fútbol actual presenta desafíos y realidades que contrastan con aquella gesta heroica. Jugadores como Simeone, y la nueva camada de talentos, enfrentan ligas exigentes y un calendario apretado.\n\nEs fácil caer en la trampa del pasado glorioso y olvidar las complejidades del presente. Mientras se celebra, la reflexión obliga a mirar las estructuras del fútbol nacional, las promesas no cumplidas y la presión sobre los jóvenes talentos. ¿Es el recuerdo del Mundial un motor para el futuro o una cortina de humo que oculta los problemas actuales del deporte que tanto apasiona a los argentinos, especialmente cuando pensamos en el impacto de figuras como #Julián y #Simeone?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "a-un-mes-mundial-recuerdo-agridulce-julian-simeone",
+    "fecha": "2026-08-20",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Fan de la Selección presa en EEUU: ¿Un costo oculto de la pasión?",
+    "bajada": "La historia de una argentina detenida 17 días en Estados Unidos por un viaje a ver a la Selección expone los riesgos y la burocracia internacional.",
+    "cuerpo": "Una historia que conmociona: una fanática de la Selección Argentina viajó a Estados Unidos para alentar a su equipo y terminó presa durante 17 días, viviendo 'un infierno'. Este caso, que parece de película, pone de manifiesto no solo la pasión desmedida por el fútbol, sino también la rigidez burocrática y los desafíos de los viajes internacionales, donde la libertad individual puede quedar a merced de interpretaciones migratorias severas.\n\n¿Hasta dónde llega la responsabilidad individual y dónde comienza la falla del sistema? La anécdota, aunque particular, invita a reflexionar sobre la vulnerabilidad de los ciudadanos frente a los procedimientos migratorios de otros países y la falta de garantías en ciertos contextos. ¿Es este el precio de la pasión desenfrenada o hay fallas en la asistencia consular que merecen una revisión profunda, especialmente en la protección de los ciudadanos argentinos en el exterior?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "fan-seleccion-presa-eeuu-costo-oculto-pasion",
+    "fecha": "2026-08-20",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Alquileres: ¿Hay alivio real o solo espejismos de mercado?",
+    "bajada": "Un estudio revela cuál es la ciudad con los alquileres más baratos, pero la pregunta es si esto refleja una tendencia general o excepciones a la regla.",
+    "cuerpo": "En un contexto de constante preocupación por el costo de vida, la noticia de que una ciudad argentina ofrece los alquileres más baratos de la nación podría sonar a alivio. Sin embargo, la perspectiva de Panorama.ar insta a la cautela. ¿Es un dato aislado o una señal de un cambio estructural en el mercado inmobiliario, que ha sufrido distorsiones por regulaciones y la presión impositiva?\n\nEs fundamental analizar si estas 'gangas' son sostenibles o si se trata de casos excepcionales que no impactan la realidad de la mayoría de los argentinos. La intervención estatal en el mercado de alquileres ha demostrado, históricamente, generar más problemas que soluciones. ¿Hay realmente un alivio para el bolsillo o son solo espejismos que desvían la atención de la necesidad de políticas económicas estables y sin intromisiones que permitan un desarrollo genuino y predecible del mercado inmobiliario?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "alquileres-alivio-real-espejismos-mercado",
+    "fecha": "2026-08-20",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
     "titulo": "Negocios de Cerimedo: ¿Crecimiento exponencial al calor del poder?",
     "bajada": "La expansión empresarial de Fernando Cerimedo despierta interrogantes sobre sus conexiones políticas y el rol del Estado.",
     "cuerpo": "La Nación revela cómo los negocios de Fernando Cerimedo, figura clave del ecosistema digital libertario, experimentaron un notable crecimiento y diversificación en Argentina. Este fenómeno, que coincide con el ascenso del gobierno actual, obliga a un análisis profundo sobre la relación entre el poder político y el éxito empresarial. ¿Es la meritocracia o la cercanía al Ejecutivo lo que impulsa estas expansiones?\n\nEl informe destaca un patrón de crecimiento en áreas diversas, desde medios digitales hasta consultorías. Si bien el espíritu emprendedor es digno de elogio en un contexto de libre mercado, la magnitud y rapidez de esta expansión, especialmente en sectores que interactúan directamente con la esfera pública o la comunicación oficial, merecen una supervisión rigurosa. ¿Hasta qué punto la influencia política garantiza una ventaja competitiva desleal? El desafío es asegurar la transparencia y evitar cualquier sombra de favoritismo que distorsione el mercado.",
@@ -9,7 +93,7 @@
     "slug": "negocios-cerimedo-crecimiento-exponencial-calor-poder",
     "fecha": "2026-08-19",
     "imagen": "img/politica_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Superávit récord, pero Riesgo País en alza: ¿confianza perdida?",
@@ -201,90 +285,6 @@
     "slug": "salarios-reales-la-argentina-de-los-pobres-y-la-casta",
     "fecha": "2026-08-19",
     "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Emigrar a España: ¿Sueño o nueva frustración argentina?",
-    "bajada": "Una pareja argentina en España cuenta su experiencia: el trabajo es rápido, pero el costo de vida y los alquileres devoran los ingresos. ¿Es la \"fuga de cerebros\" hacia Europa una solución o un camino con nuevas trampas?",
-    "cuerpo": "La historia de una pareja argentina en España, compartida por Clarin.com, refleja una realidad que muchos compatriotas buscan: facilidad para conseguir empleo. Sin embargo, también advierten sobre la cara B: el alto costo de vida y los alquileres que \"se llevan todo\". Este testimonio es un espejo de la constante búsqueda de oportunidades fuera de un país que no logra retener a su talento ni ofrecer estabilidad económica. La promesa de progreso choca con las complejidades de la vida en el exterior.\n\nEste fenómeno de emigración masiva, que lleva a miles a dejar sus raíces buscando un futuro mejor, es un síntoma de las profundas fallas económicas y estructurales de Argentina. La presión impositiva, la inflación galopante y la falta de previsibilidad desalientan la inversión y la creación de empleo de calidad, empujando a los jóvenes y profesionales a buscar horizontes en mercados más estables. La constante comparación con la vida en barrios como #Recoleta en Argentina, donde la brecha es abismal, es inevitable.\n\n¿Hasta cuándo Argentina seguirá exportando su capital humano más valioso, incapaz de ofrecer un entorno que compense la nostalgia y el desarraigo?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "emigrar-a-espana-sueno-o-nueva-frustracion-argentina",
-    "fecha": "2026-08-19",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Asueto por el Papa: ¿Feriado ideológico o costo para el contribuyente?",
-    "bajada": "El Gobierno evalúa decretar asueto durante la visita del Papa León XIV. Una decisión que genera polémica: ¿es un gesto de fe o una nueva carga para una economía ya asfixiada por la improductividad?",
-    "cuerpo": "La posible declaración de asueto nacional con motivo de la visita del Papa León XIV a la Argentina, según Clarin.com, ha encendido el debate. Mientras para algunos es un gesto de respeto y fe, para otros representa un nuevo freno a la productividad y una carga económica innecesaria para el contribuyente y el sector privado. En un país que clama por reactivación, ¿es el momento de sumar más días no laborables?\n\nDesde nuestra perspectiva, la \"casta\" política a menudo olvida que cada día no trabajado impacta en la economía real, en la producción y en los ingresos de quienes generan riqueza. Si bien la visita papal es un evento significativo, la responsabilidad de un gobierno liberal es priorizar la eficiencia y el crecimiento económico, buscando alternativas para conmemorar el evento sin penalizar la actividad productiva. Los costos asociados a un asueto, sumados a la logística de \"actos masivos en Buenos Aires, Luján y Córdoba\", representan un gasto considerable.\n\n¿Es la declaración de un asueto por la visita papal una muestra de compromiso religioso o una decisión populista que ignora las urgencias económicas de la nación?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "asueto-por-el-papa-feriado-ideologico-o-costo-para-el-contribuyente",
-    "fecha": "2026-08-19",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Súper El Niño: ¿Respuesta efectiva o marketing estatal?",
-    "bajada": "Ante la amenaza del Súper El Niño, el Gobierno anuncia despliegue de monitoreo y hospital móvil. ¿Son estas medidas una respuesta adecuada o un parche ante la falta de planificación a largo plazo?",
-    "cuerpo": "El anuncio del Gobierno, difundido por Perfil, sobre el despliegue de un sistema de monitoreo y un hospital móvil para enfrentar el \"Súper El Niño\" genera interrogantes. Si bien es fundamental la preparación ante fenómenos climáticos extremos, la pregunta es si estas acciones son parte de una estrategia integral y eficiente o meras respuestas paliativas y de alto impacto mediático. La historia argentina está llena de intervenciones de emergencia que no resuelven problemas estructurales.\n\nDesde una mirada crítica, es imperativo que el Estado invierta en infraestructura preventiva, gestione de forma transparente los recursos y evite la burocratización excesiva que suele demorar las soluciones reales. La atención debe centrarse en obras hídricas, planificación urbana y protocolos claros que minimicen el impacto en la población y la economía. ¿Se están asignando los recursos de forma eficiente o se priorizan acciones más visibles que resuelvan la inmediatez pero no el futuro?\n\n¿Estamos realmente preparados para las consecuencias del Súper El Niño, o estas medidas son solo un reflejo de la improvisación recurrente en la gestión de crisis en Argentina?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "super-el-nino-respuesta-efectiva-o-marketing-estatal",
-    "fecha": "2026-08-19",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Copa Argentina: ¿Fracaso o batacazo? Gimnasia eliminado",
-    "bajada": "La caída de Gimnasia ante Riestra en la Copa Argentina reaviva el debate sobre el rendimiento de los \"grandes\" y la sorpresa de los equipos más chicos.",
-    "cuerpo": "La Copa Argentina volvió a ser escenario de un resultado inesperado con la eliminación de Gimnasia a manos de Riestra. Este batacazo, donde Auzmendi y Colazo fallaron momentos clave, genera preguntas sobre la planificación de los equipos con mayor presupuesto frente a la garra y estrategia de los menos favoritos. ¿Es solo un mal día para los \"grandes\" o un síntoma de un fútbol argentino más competitivo e impredecible donde la \"casta\" futbolística también sufre?\n\nEste tipo de resultados son los que alimentan la mística de la Copa, pero también exponen las debilidades de planteles que, a priori, deberían imponerse con mayor facilidad. Para la hinchada de Gimnasia, la decepción es enorme, mientras que en Riestra celebran una hazaña. El fútbol, una vez más, nos recuerda que el esfuerzo y la sorpresa pueden más que la jerarquía nominal.\n\n¿Este tipo de caídas inesperadas son producto de errores puntuales o revelan un problema de fondo en la estructura y el nivel de algunos clubes de primera división?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "copa-argentina-fracaso-o-batacazo-gimnasia-eliminado",
-    "fecha": "2026-08-19",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Inflación Argentina: ¿El \"orden fiscal\" frena el bolsillo o lo libera?",
-    "bajada": "Mientras el gobierno celebra el superávit, la vida diaria sigue siendo un desafío.",
-    "cuerpo": "La inflación en Argentina, aunque muestra signos de desaceleración, sigue siendo una preocupación central para los ciudadanos. Con un gobierno que prioriza la disciplina fiscal y el recorte de gastos, la discusión se centra en si estas medidas, si bien necesarias a largo plazo, brindan alivio inmediato a la economía familiar. Los datos oficiales contrastan con la percepción cotidiana del aumento de precios, generando un debate sobre la efectividad y el impacto social de la política económica actual.\n\nDesde Panorama.ar, observamos que la contención del gasto público es fundamental para estabilizar la moneda, pero la presión sobre el sector privado y el consumo sigue siendo un desafío. Es crucial que las reformas de mercado se traduzcan rápidamente en una mejora concreta del poder adquisitivo. La \"casta\" política suele ignorar el impacto real en el ciudadano de a pie, enfocándose solo en las cifras macroeconómicas.\n\n¿Hasta qué punto el ajuste fiscal puede convivir con la urgencia social por precios más razonables y salarios que permitan vivir dignamente?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "inflacion-argentina-orden-fiscal-bolsillo-libera",
-    "fecha": "2026-08-18",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Superávit fiscal, pero Riesgo País en 500: ¿Confianza o espejismo?",
-    "bajada": "El gobierno celebra el equilibrio fiscal, pero los mercados aún dudan del futuro.",
-    "cuerpo": "Argentina se jacta de un superávit fiscal histórico, una señal de disciplina que la línea editorial de Panorama.ar siempre ha defendido. Sin embargo, este logro no se traduce en una caída contundente del Riesgo País, que se mantiene cercano a los 500 puntos. Esta paradoja genera un interrogante clave: ¿Por qué los mercados internacionales, tan sensibles a la estabilidad macroeconómica, no acompañan con más vehemencia este aparente giro virtuoso? La respuesta sugiere que, más allá de los números de corto plazo, persiste una desconfianza estructural en la capacidad del país para sostener las reformas y evitar los vicios populistas del pasado.\n\nLa \"casta\" política, acostumbrada a la fiesta del gasto, aún observa con recelo un modelo que busca limitar su capacidad de intervención. La falta de reformas estructurales más profundas y la percepción de una fragilidad institucional heredada podrían ser los factores que impiden una normalización completa. Los inversores no solo miran el presente, sino la sostenibilidad de los cambios. La promesa de un estado más chico y eficiente debe ser visible en el tiempo, no solo en un semestre.\n\n¿Es el superávit un punto de inflexión real o una tregua precaria en la eterna danza argentina con la inestabilidad económica?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "superavit-fiscal-riesgo-pais-confianza-espejismo",
-    "fecha": "2026-08-18",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Contrabando Militar: ¿Un contralmirante en México por combustible robado?",
-    "bajada": "La Justicia busca a Fernando Farías Laguna en un escándalo que salpica a las Fuerzas Armadas.",
-    "cuerpo": "La noticia del posible traslado del contralmirante Fernando Farías Laguna de Argentina a México para enfrentar cargos por contrabando de combustible es un golpe duro para la credibilidad de las Fuerzas Armadas y, por extensión, para el Estado. Este tipo de escándalos pone en evidencia las profundas grietas de corrupción que aún persisten en las instituciones, dilapidando recursos públicos y minando la confianza ciudadana. La línea editorial de Panorama.ar siempre ha sido contundente contra la impunidad y la malversación, especialmente cuando involucra a quienes deberían custodiar los intereses nacionales.\n\nEl caso no solo es grave por el acto de contrabando en sí, sino por la implicancia de un alto mando militar. Esto subraya la urgente necesidad de una purga y una reforma estructural dentro de las instituciones para erradicar las viejas prácticas de la \"casta\" que usufructúa el Estado para beneficio propio. La justicia debe actuar con celeridad y sin contemplaciones, enviando un mensaje claro de que nadie está por encima de la ley. Es fundamental investigar cómo estos esquemas operaron y quiénes más estuvieron implicados.\n\n¿Hasta cuándo la corrupción interna seguirá siendo una sangría para el presupuesto y la moral de una nación que necesita reconstruirse con integridad?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "contrabando-militar-contralmirante-mexico-combustible-robado",
-    "fecha": "2026-08-18",
-    "imagen": "img/politica_3.png",
     "destacada": false
   }
 ]
