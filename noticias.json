@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Éxodo albiceleste: ¿La última danza de Di Maria y los cambios en la Selección?",
+    "bajada": "La reconfiguración de planteles en Europa impacta directamente en el futuro de nuestros talentos, generando incertidumbre y nuevas oportunidades.",
+    "cuerpo": "La reciente ventana de transferencias ha agitado el mercado europeo, y la Selección Argentina no es ajena a esta danza de cambios. Figuras consagradas como Ángel Di María, o jóvenes promesas, han modificado sus destinos, lo que plantea interrogantes sobre la cohesión y el rendimiento futuro del equipo nacional. Cada movimiento, desde un pase a un gigante de Europa hasta un regreso a casa, trae consigo expectativas y desafíos para el cuerpo técnico.\n\nEstos traspasos no solo afectan la adaptación individual de los jugadores, sino que también pueden influir en la dinámica del grupo. La continuidad en un club, la competencia por un puesto o la necesidad de adaptarse a un nuevo esquema táctico son factores cruciales que repercuten en el nivel con el que los futbolistas llegan a las convocatorias. ¿Cómo impactará este recambio en la búsqueda de nuevos éxitos para la Argentina?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "exodo-albiceleste-ultima-danza-di-maria-cambios-seleccion",
+    "fecha": "2026-08-21",
+    "imagen": "img/sociedad_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Talento dividido: ¿Quién ganará la puja por Carlos Díez, ¿Argentina o España?",
+    "bajada": "Un joven prodigio del Real Madrid con raíces argentinas enfrenta la difícil decisión de representar a su país de origen o el de su formación futbolística.",
+    "cuerpo": "El caso de Carlos Díez, el 'europibe' que brilla en las divisiones inferiores del Real Madrid, ha encendido el debate sobre la captación de talentos y la identidad nacional en el fútbol. Con la posibilidad de elegir entre la albiceleste y la selección española, su decisión podría marcar un precedente y reavivar la discusión sobre cuántos talentos nacidos o criados en el extranjero se pierden o se ganan para el fútbol argentino. No es un fenómeno nuevo, pero cada caso individual genera pasiones encontradas.\n\nLa FIFA permite esta elección dual, y las federaciones luchan por convencer a estos jóvenes. Mientras España ofrece una estructura sólida y el 'sueño europeo', Argentina apela al sentido de pertenencia y la gloria de la camiseta nacional. ¿Es el caso de Díez un reflejo de la dificultad de Argentina para retener a sus promesas, o una oportunidad para destacar la riqueza de nuestra diáspora futbolística?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "talento-dividido-quien-ganara-puja-carlos-diez",
+    "fecha": "2026-08-21",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Gloria Femenina: ¿Quién fue la figura histórica que humilló a Inglaterra con cuatro goles?",
+    "bajada": "Un hito olvidado en la historia del fútbol femenino argentino que sentó las bases para el crecimiento actual de la disciplina y el orgullo nacional.",
+    "cuerpo": "En un país donde el fútbol masculino acapara los titulares, la historia de la jugadora argentina que anotó cuatro goles a Inglaterra merece ser rescatada y celebrada. Este hecho, ocurrido en un contexto donde el fútbol femenino luchaba por visibilidad y reconocimiento, no fue solo una hazaña deportiva, sino un acto de afirmación. Demostró el talento y la garra de nuestras deportistas mucho antes de que la profesionalización empezara a ser una realidad.\n\nLa memoria de estas pioneras es fundamental para comprender el camino recorrido y los desafíos aún pendientes. Su gesta contra una potencia futbolística no solo llenó de orgullo a quienes la presenciaron, sino que inspiró a generaciones futuras. ¿Reconoce la sociedad argentina el verdadero valor de estas figuras que, a pura resiliencia, abrieron las puertas a un deporte que hoy busca su lugar de pleno derecho?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "gloria-femenina-quien-humillo-inglaterra-cuatro-goles",
+    "fecha": "2026-08-21",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Escándalo en París: ¿La Casa Argentina, refugio de la 'casta' o foco de gestión dudosa?",
+    "bajada": "Polémicos manejos en la representación argentina en la capital francesa encienden las alarmas, revelando posibles irregularidades y falta de transparencia.",
+    "cuerpo": "La solicitud de la Alcaldía de París para investigar los manejos de la Casa Argentina en esa ciudad es una señal preocupante. Este tipo de denuncias no solo empaña la imagen de nuestro país en el exterior, sino que reaviva la crítica recurrente sobre el uso y destino de los fondos públicos por parte de nuestras representaciones. ¿Son estas instituciones un engranaje más de la 'casta' política que opera sin rendir cuentas, o hay explicaciones lógicas detrás de las 'polémicas'?\n\nLa falta de claridad en la administración de recursos, especialmente en sedes diplomáticas, es un tema sensible para la opinión pública. Mientras el país exige austeridad y transparencia, cada indicio de gestión dudosa fuera de nuestras fronteras genera indignación. Es imperativo que el canciller de Francia, y las autoridades argentinas, actúen con celeridad para esclarecer estas acusaciones y asegurar que los recursos de todos los argentinos se utilicen con la máxima probidad. ¿Hasta cuándo toleraremos estos manejos que deterioran nuestra reputación internacional?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "5 min",
+    "slug": "escandalo-paris-casa-argentina-refugio-casta-gestion-dudosa",
+    "fecha": "2026-08-21",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Milei en París: ¿Más inversión o solo una postal diplomática para la 'casta' europea?",
+    "bajada": "El presidente busca atraer inversiones en la 'Argentina Week' en París, mientras los mercados observan si hay resultados concretos más allá de los encuentros protocolares.",
+    "cuerpo": "La 'Argentina Week' en París presenta la agenda del presidente Milei con empresarios y Emmanuel Macron, una oportunidad crucial para la imagen internacional del país y la atracción de capitales. Sin embargo, la pregunta subyacente es si estos encuentros se traducirán en inversiones reales o quedarán en meras declaraciones de buenas intenciones. Para un gobierno que promete desregular y abrir la economía, estos viajes son vitales, pero deben ir acompañados de señales claras y tangibles para los inversores.\n\nEl desafío es doble: convencer a los capitales extranjeros de que Argentina es un destino seguro y, al mismo tiempo, justificar el gasto y la logística de estas giras frente a una ciudadanía que demanda austeridad. Mientras algunos ven una oportunidad histórica para reposicionar al país, otros critican la 'diplomacia de la alfombra roja' si no genera beneficios concretos. ¿Logrará el gobierno transformar la buena voluntad en dólares y empleo genuino, o solo reforzará la imagen de una política que prioriza el show sobre la eficiencia?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "5 min",
+    "slug": "milei-paris-mas-inversion-o-postal-diplomatica",
+    "fecha": "2026-08-21",
+    "imagen": "img/politica_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Daza en Council of the Americas: ¿'La Argentina ya cambió' o es solo retórica optimista?",
+    "bajada": "El mensaje de José Luis Daza en un evento clave resuena con la promesa de un nuevo rumbo económico, pero la dura realidad de los indicadores aún espera su transformación.",
+    "cuerpo": "La intervención de José Luis Daza en el Council of the Americas, reemplazando a un ausente Caputo, llevó un mensaje contundente: 'La Argentina ya cambió'. Esta afirmación, pilar del discurso del actual gobierno, busca inyectar confianza en los mercados y actores económicos internacionales. Desde la perspectiva de Panorama.ar, esta visión optimista, si bien necesaria para generar expectativas, debe ser contrastada con la implementación de reformas estructurales profundas y una disciplina fiscal inquebrantable, que son las únicas garantías de un cambio sostenible.\n\nLa narrativa de un 'cambio' ya en marcha es poderosa, pero la credibilidad se construye con datos y hechos. Mientras el oficialismo destaca los primeros pasos hacia la reducción del gasto público y la desregulación, los desafíos como la inflación, la presión impositiva y el riesgo país persisten. ¿Es este mensaje una proyección ambiciosa o una lectura prematura de una transformación que aún debe consolidarse en la vida de los argentinos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "daza-council-americas-argentina-ya-cambio-o-retorica",
+    "fecha": "2026-08-21",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Riesgo País: ¿La prueba del 'cambio' o el fantasma de la incertidumbre económica?",
+    "bajada": "El alarmante repunte del riesgo país en agosto profundiza la preocupación sobre la sustentabilidad de la deuda y el costo de financiamiento para Argentina.",
+    "cuerpo": "El brusco aumento del riesgo país en agosto, con un trepida del 20%, es una señal inequívoca de la desconfianza de los mercados y un recordatorio de la fragilidad económica argentina. Desde la perspectiva liberal, este indicador no es un mero número, sino el reflejo de la percepción inversora sobre la capacidad del país para honrar sus compromisos, y su disparada encarece brutalmente el acceso al crédito, tanto para el Estado como para el sector privado. Este escenario complica cualquier plan de crecimiento basado en la inversión externa.\n\nMientras el gobierno insiste en el saneamiento de las cuentas públicas, la realidad del mercado muestra que la paciencia de los inversores tiene un límite. La caída de los bonos y el encarecimiento de la deuda son consecuencias directas de políticas económicas previas y de la incertidumbre actual. ¿Se logrará revertir esta tendencia sin una clara hoja de ruta de estabilidad fiscal y reformas de mercado profundas, o seguiremos atrapados en el círculo vicioso de la volatilidad y la desconfianza?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "riesgo-pais-prueba-cambio-fantasma-incertidumbre-economica",
+    "fecha": "2026-08-21",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "Milei celebra la inflación: ¿Fin de la casta o nuevo show para distraer?",
     "bajada": "El Presidente promete otro \"recital\" por la baja de precios, mientras la economía real sigue con desafíos.",
     "cuerpo": "Javier Milei volvió a la carga con su estilo confrontativo, celebrando la desaceleración de la inflación y criticando duramente a los colectivos feministas, a quienes calificó de \"pañuelitos verdes\". Este anuncio, que llega tras meses de ajuste brutal y una caída del consumo, busca consolidar la narrativa oficial de un gobierno que \"derrota\" al flagelo inflacionario, una promesa central de su campaña. Sin embargo, la celebración en un contexto de recesión profunda y aumento de la pobreza plantea serios interrogantes sobre la verdadera salud económica del país y la sostenibilidad de esta \"victoria\".\n\nLa gestión del presidente Milei ha priorizado un shock fiscal sin precedentes, logrando reducir el ritmo de aumento de precios a costa de un parate productivo y un desplome del poder adquisitivo. Mientras el Gobierno se jacta de haber desarticulado la \"maquinaria de emisión\", críticos señalan que la baja de la inflación es un subproducto inevitable de una economía en caída libre, donde la gente simplemente no tiene dinero para gastar. El debate entre estabilidad macroeconómica y bienestar social sigue abierto, con el oficialismo enfocado en mostrar resultados en las grandes variables mientras la \"calle\" exige respuestas concretas.\n\n¿Es la desaceleración de la inflación un verdadero logro estructural o el síntoma de una economía anestesiada que aún no ve el tan ansiado despegue? ¿Qué costo social estamos dispuestos a pagar por la estabilidad nominal?",
@@ -9,7 +93,7 @@
     "slug": "milei-celebra-inflacion-fin-de-la-casta-o-nuevo-show",
     "fecha": "2026-08-21",
     "imagen": "img/politica_5.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Messi en la final del Mundial 2026: ¿Victoria contra la “campaña anti-Argentina”?",
@@ -201,90 +285,6 @@
     "slug": "cerimedo-poder-sombras-nueva-derecha-latinoamericana",
     "fecha": "2026-08-20",
     "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Fondos globales desertan de Argentina: ¿el costo de la incertidumbre económica?",
-    "bajada": "El riesgo país escalando y la salida de inversiones reflejan una falta de confianza que urge revertir para estabilizar la economía.",
-    "cuerpo": "La fuga de fondos globales de Argentina y un riesgo país que roza los 520 puntos son síntomas alarmantes de la persistente desconfianza en la economía local. El Cronista destaca esta tendencia, señalando que la incertidumbre macroeconómica y la falta de un rumbo claro en el pasado reciente han ahuyentado a inversores que buscan estabilidad y previsibilidad. Esta retirada tiene consecuencias directas: encarece el financiamiento para el Estado y las empresas, limita el acceso a crédito y frena el potencial de crecimiento, consolidando un ciclo de estancamiento que es vital romper.\n\nLos analistas señalan que, si bien el actual gobierno ha iniciado un camino de ajuste fiscal, las expectativas de mercado aún son frágiles. La herencia de un Estado sobredimensionado, un gasto público incontrolable y una presión tributaria asfixiante han creado un caldo de cultivo para la inestabilidad. Los inversores exigen señales más contundentes de sostenibilidad fiscal y reformas estructurales profundas que garanticen el respeto a la propiedad y reglas de juego claras. La política monetaria y fiscal debe ser coherente para reconstruir la credibilidad perdida durante años de intervencionismo y populismo económico.\n\n¿Podrá Argentina atraer nuevamente el capital global sin una transformación radical de su estructura económica y un compromiso inquebrantable con la libertad de mercado, o estamos condenados a la constante fuga de capitales?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "fondos-globales-desertan-argentina-costo-incertidumbre-economica",
-    "fecha": "2026-08-20",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "El \"campeón\" oculto de la economía argentina: ¿por qué lo ignora el Estado?",
-    "bajada": "The Economist revela un sector inesperadamente competitivo, planteando dudas sobre las prioridades de inversión y promoción estatal.",
-    "cuerpo": "Mientras el debate público se centra en Vaca Muerta, el agro o la minería, The Economist señala a un sector de la economía argentina como el más competitivo del país. Este dato, aunque sorprendente, pone en evidencia la potencialidad de áreas menos visibilizadas que, a pesar de las trabas burocráticas y la constante presión impositiva, logran destacarse a nivel global. El artículo de Infobae resalta la importancia de identificar y potenciar estas actividades, que operan con menor injerencia estatal y demuestran la resiliencia del sector privado cuando se le permite desarrollarse.\n\nLa revelación invita a una reflexión crítica sobre la política económica argentina: ¿por qué los gobiernos insisten en subsidiar y promover sectores \"estratégicos\" con alto intervencionismo, mientras otros, más eficientes y competitivos, luchan por sobrevivir sin apoyo y, peor aún, con obstáculos? La mirada liberal sugiere que el Estado debería reducir su rol de \"planificador\" y concentrarse en generar un marco de estabilidad macroeconómica y seguridad jurídica, permitiendo que la libre competencia y la iniciativa privada sean los verdaderos motores del desarrollo. La sobrecarga fiscal y regulatoria a menudo sofoca justamente aquellos brotes de eficiencia que podrían diversificar y fortalecer la matriz productiva.\n\n¿Es hora de que Argentina deje de apostar por los \"campeones\" elegidos por la política y permita que el mercado libre revele y potencie sus verdaderos sectores competitivos, o seguiremos insistiendo en modelos que ahogan la productividad?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "campeon-oculto-economia-argentina-por-que-lo-ignora-estado",
-    "fecha": "2026-08-20",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Carne vacuna: ¿reflejo de un ajuste salvaje o cambio cultural imparable?",
-    "bajada": "El consumo de carne cae a mínimos históricos, encendiendo alarmas sobre el poder adquisitivo y el futuro de una tradición argentina.",
-    "cuerpo": "El consumo de carne vacuna en Argentina ha caído a un mínimo histórico, con una reducción de 4,8 kilos por persona en un año, según Infobae. Este dato no solo golpea una de las tradiciones más arraigadas del país, sino que también es un crudo indicador del deterioro del poder adquisitivo de los argentinos. La carne, antes un alimento básico y accesible, se convierte para muchos en un lujo en un contexto de inflación y ajuste. Esta tendencia refleja las consecuencias directas de la inestabilidad económica y la erosión del salario real, afectando profundamente la mesa familiar.\n\nDesde una perspectiva de análisis, esta caída puede interpretarse como un efecto combinado de la política económica actual, que busca la estabilización a través de un ajuste fiscal severo, y cambios en los hábitos de consumo. Sin embargo, la magnitud de la baja sugiere que el factor principal es la capacidad de compra. Mientras el gobierno argumenta que el ajuste es necesario para sentar bases de crecimiento futuro, el impacto en la vida cotidiana de los ciudadanos es innegable. La industria ganadera, por su parte, se ve afectada por una demanda interna deprimida, lo que genera incertidumbre en toda la cadena de valor y pone en jaque un pilar de la economía nacional.\n\n¿Es esta caída del consumo un doloroso pero necesario efecto del sinceramiento económico, o una señal de que el ajuste está llevando a los argentinos a sacrificar incluso lo más elemental de su identidad y dieta?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "carne-vacuna-reflejo-ajuste-salvaje-cambio-cultural-imparable",
-    "fecha": "2026-08-20",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Suicidios: Argentina, en un podio incómodo que el Estado no puede ignorar.",
-    "bajada": "El país ocupa un alarmante puesto regional en suicidios, una crisis de salud mental que exige una respuesta urgente y efectiva.",
-    "cuerpo": "Argentina se encuentra en un \"incómodo puesto\" regional en cuanto a tasas de suicidio, un dato alarmante que La Nación pone en relieve. Este fenómeno, lejos de ser un tema tabú, debe ser abordado con la urgencia que merece una crisis de salud pública. Los suicidios son el resultado de múltiples factores, incluyendo problemas económicos, aislamiento social y falta de acceso a servicios de salud mental adecuados. Es una tragedia que exige una profunda reflexión sobre el rol del Estado y la sociedad en la prevención y el apoyo a quienes atraviesan situaciones de vulnerabilidad extrema.\n\nPara una mirada crítica, la persistencia de estas cifras elevadas pone en cuestión la eficacia de las políticas públicas en salud mental. Más allá de las campañas de concientización, es fundamental invertir en infraestructura, profesionales capacitados y programas de prevención que lleguen a todos los rincones del país, especialmente en el interior bonaerense donde las cifras son particularmente alarmantes. La tendencia liberal subraya que el Estado debe ser eficiente en la provisión de servicios esenciales y garantizar el acceso a una salud mental de calidad, en lugar de enfocarse en áreas donde su intervención es menos eficiente o incluso perjudicial. Ignorar esta crisis es una falla moral y de gestión.\n\nAnte este alarmante panorama, ¿está el Estado argentino a la altura de las circunstancias para abordar la crisis de salud mental, o se sigue priorizando el gasto en áreas menos urgentes mientras la sociedad padece en silencio?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "suicidios-argentina-podio-incomodo-estado-no-puede-ignorar",
-    "fecha": "2026-08-20",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Escándalo político: ¿Nadia Beller expone la 'corrupción' de Cerimedo?",
-    "bajada": "Las revelaciones de la exasesora sacuden el tablero y ponen en jaque el discurso oficial.",
-    "cuerpo": "La escena política argentina se ve sacudida por las declaraciones de Nadia Beller, exasesora que apunta directamente a un supuesto operador del gobierno, Cerimedo. Según Beller, el individuo afirmaba que \"el Gobierno de Milei se iba a caer, que estaba demasiado corrupto\". Estas acusaciones, publicadas por Página|12, generan un terremoto en un ecosistema que prometía transparencia y un quiebre con las viejas prácticas de la \"casta\".\n\nLa gravedad de estos dichos radica en que provienen de alguien con acceso directo, sugiriendo un conocimiento interno de irregularidades. Para un gobierno que enarbola la bandera de la lucha contra la corrupción, estas afirmaciones, aunque negadas o desmentidas, representan un desafío serio a su credibilidad. ¿Es esto un mero revuelo mediático o el indicio de un problema más profundo en las estructuras de poder que se dicen nuevas?\n\nEl análisis crítico de \"Panorama.ar\" exige una investigación a fondo. ¿Quién dice la verdad en este entramado de denuncias y desmentidas? ¿Estamos frente a una operación política o la punta del iceberg de una red de complicidades que el electorado creyó haber desterrado? La sociedad merece respuestas claras para discernir entre la verdad y la mera especulación, especialmente cuando se habla de la estabilidad y la integridad de la administración pública.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "escandalo-politico-nadia-beller-expone-corrupcion-cerimedo",
-    "fecha": "2026-08-20",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Desempleo: ¿la verdadera amenaza al cambio en Argentina?",
-    "bajada": "El aumento del desempleo pone en jaque la estabilidad del gobierno y la paciencia social.",
-    "cuerpo": "El informe de Infobae advierte que el creciente desempleo se consolida como la amenaza política más seria para la administración de turno en Argentina. Mientras las reformas buscan reestructurar la economía, la realidad en las calles muestra un panorama de incertidumbre laboral que erosiona el apoyo social. Para un gobierno que prioriza la disciplina fiscal y la reducción del gasto público, el impacto social del ajuste es un factor ineludible.\n\nLa tensión es evidente: la búsqueda de estabilidad macroeconómica choca con la urgente necesidad de generar puestos de trabajo. Las cifras de desocupación no son solo estadísticas; representan familias enteras enfrentando dificultades. Si bien la \"casta\" política tradicional suele usar estos datos para criticar, es fundamental un análisis riguroso: ¿Es el desempleo una consecuencia inevitable de la reestructuración necesaria o una señal de que las políticas actuales no están generando las condiciones para la inversión y el crecimiento que prometen?\n\nPanorama.ar subraya la importancia de una mirada crítica sobre cómo se gestiona esta transición. Los ciudadanos esperan resultados tangibles en su calidad de vida, más allá de los indicadores macroeconómicos. ¿Cómo se equilibrará la urgencia de contener el gasto público con la imperiosa necesidad de activar el mercado laboral y brindar oportunidades reales a los argentinos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "desempleo-verdadera-amenaza-cambio-argentina",
-    "fecha": "2026-08-20",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Copa Argentina: ¿Racing desafiará el poderío de Boca o Vélez?",
-    "bajada": "La Academia se prepara para un duelo clave que definirá su futuro en el torneo federal.",
-    "cuerpo": "Racing Club logró su pase a cuartos de final de la Copa Argentina, un logro que lo coloca frente a un dilema de titanes: enfrentará al ganador entre Boca Juniors y Vélez Sarsfield. La expectativa es máxima para un equipo que, bajo la dirección técnica, busca consolidarse y dar un golpe sobre la mesa en un torneo históricamente impredecible. La afición de la Academia, acostumbrada a la pasión, ya palpita un posible cruce con gigantes del fútbol argentino.\n\nEste tipo de encuentros, más allá de lo deportivo, ponen a prueba la gestión de los clubes, la estrategia de los entrenadores y la solidez institucional. Mientras algunos critican el \"negocio del fútbol\" o las decisiones arbitrales polémicas que a veces empañan estos torneos, la realidad es que movilizan a millones y generan un debate constante. ¿Es la Copa Argentina una verdadera oportunidad para los equipos \"sin chapa\" o los grandes siempre terminan imponiéndose por peso propio y poderío económico?\n\nDesde \"Panorama.ar\" observamos cómo el fútbol, más que un deporte, es un termómetro social. La Copa Argentina, con su formato de eliminación directa, ofrece historias de resurgimiento y caídas inesperadas. ¿Qué desafíos estructurales enfrentan los clubes más allá del campo de juego para sostener un proyecto deportivo ambicioso y competir con los poderosos de siempre?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "copa-argentina-racing-desafiara-poderio-boca-velez",
-    "fecha": "2026-08-20",
-    "imagen": "img/sociedad_4.png",
     "destacada": false
   }
 ]
