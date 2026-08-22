@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Escándalo FIFA: Sanciones a Molina y Malvinas ¿castigo al orgullo nacional?",
+    "bajada": "La decisión de la FIFA de castigar a la Selección Argentina por incidentes post-Mundial reaviva el debate sobre la soberanía y la intromisión deportiva.",
+    "cuerpo": "La reciente batería de sanciones de la FIFA contra la Selección Argentina, que incluye multas y la suspensión de jugadores como Nahuel Molina por su rol en los festejos post-Mundial, generó un fuerte repudio. Particularmente controversial es la penalización por la exhibición de la bandera con la leyenda \"Las Malvinas son Argentinas\" ante Inglaterra, un gesto que para muchos es una afirmación innegociable de soberanía y no una provocación sancionable por el ámbito deportivo. ¿Es la FIFA un organismo autónomo o un instrumento de agendas geopolíticas?\n\nEsta intromisión en un símbolo patrio, especialmente en el contexto de una disputa histórica, plantea serios interrogantes sobre los límites de la autoridad deportiva. Mientras la FIFA alega motivos de \"conducta inapropiada\", la ciudadanía argentina percibe un ataque a un sentimiento nacional profundo y legítimo. La reacción oficial, más allá de la aceptación de la multa, debe ser contundente en la defensa de los símbolos nacionales, evitando que el deporte se convierta en una arena para silenciar reclamos históricos. ¿Estamos normalizando la censura de la identidad nacional bajo el paraguas de regulaciones deportivas?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "escandalo-fifa-sanciones-molina-malvinas-castigo-orgullo-nacional",
+    "fecha": "2026-08-22",
+    "imagen": "img/politica_1.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Suicidios en Argentina: una crisis silenciosa que exige debate urgente.",
+    "bajada": "Alarmantes cifras posicionan a Argentina con un crecimiento crítico en las tasas de suicidio, evidenciando una falla estructural en salud mental.",
+    "cuerpo": "Los recientes informes que destacan un crecimiento crítico en las tasas de suicidio en Argentina, ubicando al país en un preocupante podio regional, revelan una crisis de salud pública que no puede ser ignorada. Especialistas en salud mental advierten sobre la necesidad de un abordaje integral, que trascienda la mera reacción ante las tragedias para enfocarse en la prevención y el acceso universal a tratamientos. La fragmentación del sistema de salud y la falta de recursos específicos para la salud mental son factores que, históricamente, han contribuido a esta situación alarmante.\n\nEsta tendencia ascendente no es solo un indicador de sufrimiento individual, sino un síntoma de problemas sociales más profundos: presiones económicas, aislamiento, y una percepción de falta de futuro, especialmente entre los jóvenes. La ausencia de políticas públicas robustas y la insuficiente inversión en programas de prevención de suicidio exponen una negligencia estatal. Es imperativo cuestionar qué estamos haciendo mal como sociedad y como Estado, y dónde están las prioridades en el presupuesto público. ¿Estamos dispuestos a enfrentar esta realidad o seguiremos escondiendo la cabeza ante una tragedia silenciosa?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "suicidios-argentina-crisis-silenciosa-debate-urgente",
+    "fecha": "2026-08-22",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Defensa: Argentina avanza en compra de 235 Stryker. ¿Inversión necesaria o gasto sin rumbo?",
+    "bajada": "La adquisición de vehículos blindados Stryker a EE.UU. genera debate sobre la prioridad de la inversión en defensa y su impacto fiscal.",
+    "cuerpo": "La firma de la carta de aceptación para la compra de 235 vehículos blindados Stryker a Estados Unidos marca un hito en la modernización de las Fuerzas Armadas argentinas. Esta adquisición, largamente postergada, busca saldar déficits de equipamiento que comprometen la capacidad de defensa nacional. Para sus defensores, es una inversión estratégica imprescindible para garantizar la soberanía y la capacidad de respuesta ante amenazas. Sin embargo, la decisión también abre el interrogante sobre el costo total de la operación y el cronograma de pagos, en un contexto de persistente presión sobre las finanzas públicas.\n\nDesde nuestra perspectiva, la seguridad y la defensa nacional son pilares innegociables de un Estado serio. No obstante, es crucial que este tipo de erogaciones se realicen con máxima transparencia y eficiencia, justificando cada peso del contribuyente. La \"casta\" política tiene un largo historial de gastos discrecionales y prioridades distorsionadas. ¿Está esta compra inserta en una planificación estratégica a largo plazo que optimice los recursos, o es una respuesta coyuntural que ignora otras urgencias presupuestarias que hoy afectan a la sociedad civil?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "defensa-argentina-avanza-compra-235-stryker-inversion-necesaria-gasto-sin-rumbo",
+    "fecha": "2026-08-22",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Salarios y empleo: ¿el fracaso de la gestión Massa se consolida en la preocupación ciudadana?",
+    "bajada": "Sondeos revelan que los salarios y el empleo superan a la inflación como principal desvelo de los argentinos.",
+    "cuerpo": "Los últimos sondeos de opinión pública son contundentes: la preocupación por los salarios y el empleo ha desplazado a la inflación como principal desvelo de los argentinos. Este giro no es menor y expone el deterioro de la calidad de vida, incluso para quienes mantienen su puesto de trabajo. La pérdida de poder adquisitivo y la dificultad para encontrar nuevas oportunidades laborales o mejoras salariales, evidencian el estancamiento de una economía asfixiada por la intervención estatal y la presión impositiva.\n\nEste escenario crítico es un claro reflejo de la ineficacia de las políticas económicas recientes, muchas de ellas impulsadas bajo la órbita de Massa y su equipo. La promesa de estabilidad y crecimiento se diluye frente a una realidad donde los ciudadanos luchan por llegar a fin de mes. Mientras el discurso oficial se centra en números macroeconómicos, la gente percibe una economía que no genera riqueza ni oportunidades. ¿Hasta cuándo se ignorará el clamor popular por una economía más libre y menos regulada, que genere verdadero empleo y salarios dignos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "salarios-empleo-fracaso-gestion-massa-consolidado-preocupacion-ciudadana",
+    "fecha": "2026-08-22",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "CEPAL pronostica crecimiento, ¿pero a qué costo? Las distorsiones de la economía argentina.",
+    "bajada": "Un informe de la Cepal proyecta un crecimiento del 3,3% para Argentina, pero advierte sobre un \"elemento clave\" que nos diferencia.",
+    "cuerpo": "El reciente informe de la Cepal pronostica un crecimiento del 3,3% para la economía argentina este año, un dato que a primera vista podría parecer alentador. Sin embargo, el mismo organismo advierte sobre un \"elemento clave\" que diferencia a Argentina de otros países de la región: la profunda inestabilidad macroeconómica y las distorsiones estructurales. Este \"crecimiento\" se da en un contexto de alta inflación, fuerte presión impositiva y una intervención estatal que ahoga la inversión privada, impidiendo un desarrollo sostenible y genuino.\n\nDesde nuestra mirada, un crecimiento basado en la manipulación de variables o en el aumento del gasto público no es un signo de fortaleza, sino de fragilidad. La \"casta\" política, incluyendo figuras como Massa en la gestión económica, ha recurrido históricamente a parches en lugar de reformas estructurales que promuevan la disciplina fiscal y la libertad de mercado. ¿De qué sirve un número de crecimiento si no se traduce en prosperidad real, reducción de la pobreza y un alivio para la carga del contribuyente? La clave está en la calidad de ese crecimiento, no solo en su magnitud.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "cepal-pronostica-crecimiento-costo-distorsiones-economia-argentina",
+    "fecha": "2026-08-22",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Alquileres: ¿dónde es realmente barato vivir en Argentina, o es solo una ilusión?",
+    "bajada": "Un estudio revela la ciudad argentina con los alquileres más accesibles, pero la realidad del mercado sigue siendo un desafío.",
+    "cuerpo": "En medio de una crisis habitacional que golpea a millones de argentinos, un reciente informe destaca cuál sería la ciudad con los alquileres más baratos del país en agosto de 2026. Si bien este dato podría ofrecer un respiro a quienes buscan precios más accesibles, la realidad macroeconómica y la distorsión del mercado inmobiliario por regulaciones excesivas, como la fallida Ley de Alquileres, pintan un panorama general desolador. La intervención estatal constante y las cargas impositivas solo han logrado contraer la oferta y encarecer el acceso a la vivienda, en lugar de facilitar soluciones.\n\nLa búsqueda de \"gangas\" en un mercado intervenido es una muestra de la desesperación ciudadana. Mientras la \"casta\" política debate normativas que ahuyentan la inversión, los ciudadanos deben migrar o ajustarse a condiciones cada vez más precarias. Es hora de reconocer que la única forma de resolver el problema habitacional es desregular, incentivar la oferta y reducir la carga fiscal sobre la propiedad. ¿Seguiremos buscando islas de \"baratismo\" en un mar de costos elevados, o exigiremos reformas de fondo que beneficien a todos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "alquileres-donde-realmente-barato-vivir-argentina-o-es-solo-ilusion",
+    "fecha": "2026-08-22",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Casa de la Argentina en París: ¿negligencia estatal o desinterés de la \"casta\"?",
+    "bajada": "El reclamo del Ayuntamiento de París por el estado de la Casa de la Argentina expone un posible abandono de nuestro patrimonio en el exterior.",
+    "cuerpo": "La noticia de que el Ayuntamiento de París ha reclamado formalmente al canciller francés por el estado de la Casa de la Argentina en la Ciudad Universitaria internacional de la capital gala es una señal alarmante. Este icónico edificio, símbolo de la presencia cultural y académica argentina en Europa, parece sufrir las consecuencias de la desidia y la falta de mantenimiento. Un reclamo de esta índole desde una autoridad extranjera es un claro indicio de que el Estado argentino, a través de sus distintas administraciones, ha fallado en la custodia y valoración de su propio patrimonio.\n\nEsta situación no solo es una vergüenza a nivel diplomático y cultural, sino que también revela una triste constante de la \"casta\" política argentina: la incapacidad para gestionar eficientemente los recursos y activos del país, incluso aquellos que representan nuestra imagen en el mundo. Mientras se discuten gastos superfluos a nivel local, edificios como este caen en el abandono, afectando nuestra reputación internacional. ¿Es la Casa de la Argentina en París un mero inmueble a olvidar, o un espejo de la desidia que padece el país internamente?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "casa-argentina-paris-negligencia-estatal-desinteres-casta",
+    "fecha": "2026-08-22",
+    "imagen": "img/politica_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "La #FIFA sanciona a la Selección por Malvinas: ¿Censura o doble vara?",
     "bajada": "La máxima autoridad del fútbol mundial castiga a Argentina por un mensaje soberano. Un debate sobre reglas, patriotismo y la autoridad deportiva.",
     "cuerpo": "La reciente sanción de la #FIFA a la Selección Argentina por exhibir una bandera con la leyenda \"Las Malvinas son Argentinas\" durante el Mundial reaviva un viejo debate. Mientras algunos consideran el acto una legítima expresión de soberanía nacional, la FIFA lo interpreta como una transgresión a su normativa que prohíbe mensajes políticos en eventos deportivos. Este incidente, lejos de ser aislado, pone en evidencia la delgada línea entre el deporte y la política, y genera interrogantes sobre la supuesta neutralidad de los organismos internacionales.\n\n¿Es la FIFA coherente en su aplicación de normas o aplica una doble vara según los intereses en juego? La indignación popular se siente, pero las arcas del fútbol tienen sus propias reglas. ¿Se está priorizando la imagen global sobre la identidad y los reclamos históricos de una nación?",
@@ -9,7 +93,7 @@
     "slug": "fifa-sanciona-seleccion-malvinas-censura-doble-vara",
     "fecha": "2026-08-22",
     "imagen": "img/politica_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "#FIFA: Duras sanciones a jugadores de la Selección, ¿justicia tardía o ensañamiento?",
@@ -201,90 +285,6 @@
     "slug": "gloria-femenina-quien-humillo-inglaterra-cuatro-goles",
     "fecha": "2026-08-21",
     "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Escándalo en París: ¿La Casa Argentina, refugio de la 'casta' o foco de gestión dudosa?",
-    "bajada": "Polémicos manejos en la representación argentina en la capital francesa encienden las alarmas, revelando posibles irregularidades y falta de transparencia.",
-    "cuerpo": "La solicitud de la Alcaldía de París para investigar los manejos de la Casa Argentina en esa ciudad es una señal preocupante. Este tipo de denuncias no solo empaña la imagen de nuestro país en el exterior, sino que reaviva la crítica recurrente sobre el uso y destino de los fondos públicos por parte de nuestras representaciones. ¿Son estas instituciones un engranaje más de la 'casta' política que opera sin rendir cuentas, o hay explicaciones lógicas detrás de las 'polémicas'?\n\nLa falta de claridad en la administración de recursos, especialmente en sedes diplomáticas, es un tema sensible para la opinión pública. Mientras el país exige austeridad y transparencia, cada indicio de gestión dudosa fuera de nuestras fronteras genera indignación. Es imperativo que el canciller de Francia, y las autoridades argentinas, actúen con celeridad para esclarecer estas acusaciones y asegurar que los recursos de todos los argentinos se utilicen con la máxima probidad. ¿Hasta cuándo toleraremos estos manejos que deterioran nuestra reputación internacional?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "5 min",
-    "slug": "escandalo-paris-casa-argentina-refugio-casta-gestion-dudosa",
-    "fecha": "2026-08-21",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei en París: ¿Más inversión o solo una postal diplomática para la 'casta' europea?",
-    "bajada": "El presidente busca atraer inversiones en la 'Argentina Week' en París, mientras los mercados observan si hay resultados concretos más allá de los encuentros protocolares.",
-    "cuerpo": "La 'Argentina Week' en París presenta la agenda del presidente Milei con empresarios y Emmanuel Macron, una oportunidad crucial para la imagen internacional del país y la atracción de capitales. Sin embargo, la pregunta subyacente es si estos encuentros se traducirán en inversiones reales o quedarán en meras declaraciones de buenas intenciones. Para un gobierno que promete desregular y abrir la economía, estos viajes son vitales, pero deben ir acompañados de señales claras y tangibles para los inversores.\n\nEl desafío es doble: convencer a los capitales extranjeros de que Argentina es un destino seguro y, al mismo tiempo, justificar el gasto y la logística de estas giras frente a una ciudadanía que demanda austeridad. Mientras algunos ven una oportunidad histórica para reposicionar al país, otros critican la 'diplomacia de la alfombra roja' si no genera beneficios concretos. ¿Logrará el gobierno transformar la buena voluntad en dólares y empleo genuino, o solo reforzará la imagen de una política que prioriza el show sobre la eficiencia?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "5 min",
-    "slug": "milei-paris-mas-inversion-o-postal-diplomatica",
-    "fecha": "2026-08-21",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Daza en Council of the Americas: ¿'La Argentina ya cambió' o es solo retórica optimista?",
-    "bajada": "El mensaje de José Luis Daza en un evento clave resuena con la promesa de un nuevo rumbo económico, pero la dura realidad de los indicadores aún espera su transformación.",
-    "cuerpo": "La intervención de José Luis Daza en el Council of the Americas, reemplazando a un ausente Caputo, llevó un mensaje contundente: 'La Argentina ya cambió'. Esta afirmación, pilar del discurso del actual gobierno, busca inyectar confianza en los mercados y actores económicos internacionales. Desde la perspectiva de Panorama.ar, esta visión optimista, si bien necesaria para generar expectativas, debe ser contrastada con la implementación de reformas estructurales profundas y una disciplina fiscal inquebrantable, que son las únicas garantías de un cambio sostenible.\n\nLa narrativa de un 'cambio' ya en marcha es poderosa, pero la credibilidad se construye con datos y hechos. Mientras el oficialismo destaca los primeros pasos hacia la reducción del gasto público y la desregulación, los desafíos como la inflación, la presión impositiva y el riesgo país persisten. ¿Es este mensaje una proyección ambiciosa o una lectura prematura de una transformación que aún debe consolidarse en la vida de los argentinos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "daza-council-americas-argentina-ya-cambio-o-retorica",
-    "fecha": "2026-08-21",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Riesgo País: ¿La prueba del 'cambio' o el fantasma de la incertidumbre económica?",
-    "bajada": "El alarmante repunte del riesgo país en agosto profundiza la preocupación sobre la sustentabilidad de la deuda y el costo de financiamiento para Argentina.",
-    "cuerpo": "El brusco aumento del riesgo país en agosto, con un trepida del 20%, es una señal inequívoca de la desconfianza de los mercados y un recordatorio de la fragilidad económica argentina. Desde la perspectiva liberal, este indicador no es un mero número, sino el reflejo de la percepción inversora sobre la capacidad del país para honrar sus compromisos, y su disparada encarece brutalmente el acceso al crédito, tanto para el Estado como para el sector privado. Este escenario complica cualquier plan de crecimiento basado en la inversión externa.\n\nMientras el gobierno insiste en el saneamiento de las cuentas públicas, la realidad del mercado muestra que la paciencia de los inversores tiene un límite. La caída de los bonos y el encarecimiento de la deuda son consecuencias directas de políticas económicas previas y de la incertidumbre actual. ¿Se logrará revertir esta tendencia sin una clara hoja de ruta de estabilidad fiscal y reformas de mercado profundas, o seguiremos atrapados en el círculo vicioso de la volatilidad y la desconfianza?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "riesgo-pais-prueba-cambio-fantasma-incertidumbre-economica",
-    "fecha": "2026-08-21",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei celebra la inflación: ¿Fin de la casta o nuevo show para distraer?",
-    "bajada": "El Presidente promete otro \"recital\" por la baja de precios, mientras la economía real sigue con desafíos.",
-    "cuerpo": "Javier Milei volvió a la carga con su estilo confrontativo, celebrando la desaceleración de la inflación y criticando duramente a los colectivos feministas, a quienes calificó de \"pañuelitos verdes\". Este anuncio, que llega tras meses de ajuste brutal y una caída del consumo, busca consolidar la narrativa oficial de un gobierno que \"derrota\" al flagelo inflacionario, una promesa central de su campaña. Sin embargo, la celebración en un contexto de recesión profunda y aumento de la pobreza plantea serios interrogantes sobre la verdadera salud económica del país y la sostenibilidad de esta \"victoria\".\n\nLa gestión del presidente Milei ha priorizado un shock fiscal sin precedentes, logrando reducir el ritmo de aumento de precios a costa de un parate productivo y un desplome del poder adquisitivo. Mientras el Gobierno se jacta de haber desarticulado la \"maquinaria de emisión\", críticos señalan que la baja de la inflación es un subproducto inevitable de una economía en caída libre, donde la gente simplemente no tiene dinero para gastar. El debate entre estabilidad macroeconómica y bienestar social sigue abierto, con el oficialismo enfocado en mostrar resultados en las grandes variables mientras la \"calle\" exige respuestas concretas.\n\n¿Es la desaceleración de la inflación un verdadero logro estructural o el síntoma de una economía anestesiada que aún no ve el tan ansiado despegue? ¿Qué costo social estamos dispuestos a pagar por la estabilidad nominal?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-celebra-inflacion-fin-de-la-casta-o-nuevo-show",
-    "fecha": "2026-08-21",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Messi en la final del Mundial 2026: ¿Victoria contra la “campaña anti-Argentina”?",
-    "bajada": "La Selección Argentina avanza, pero la retórica de una \"campaña\" externa genera debate.",
-    "cuerpo": "La euforia futbolística vuelve a apoderarse de Argentina tras la confirmación de que Lionel Messi y la Selección Argentina alcanzaron la final del Mundial 2026. Este hito deportivo es presentado por algunos sectores como una victoria no solo en la cancha, sino también contra una supuesta \"campaña anti-Argentina\" que buscaría socavar el éxito nacional. La narrativa de una conspiración externa, aunque sin pruebas concretas, suele resonar profundamente en el imaginario popular, especialmente en momentos de alto impacto emocional.\n\nMientras el país se une en el aliento a la Scaloneta, es pertinente analizar la construcción de estas narrativas. ¿Existe realmente una campaña organizada para perjudicar la imagen o los logros de Argentina, o es una forma de canalizar frustraciones internas y fortalecer la identidad colectiva frente a un \"enemigo\" externo? La realidad es que el fútbol, como fenómeno de masas, a menudo se entrelaza con discursos políticos y sociales, sirviendo como espejo de tensiones y aspiraciones nacionales.\n\n¿Hasta qué punto esta \"campaña anti-Argentina\" es una realidad palpable y cuánto es una herramienta discursiva para cohesionar o desviar la atención de otros problemas? ¿Qué rol juega el éxito deportivo de la Selección Argentina en el ánimo nacional más allá de la cancha?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "messi-final-mundial-2026-campana-anti-argentina",
-    "fecha": "2026-08-21",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Selección Argentina: ¿Nacionalizar talentos o formar desde casa?",
-    "bajada": "El \"operativo seducción\" por el \"europibe\" del Real Madrid reabre el debate sobre la identidad futbolística.",
-    "cuerpo": "La Selección Argentina ha puesto en marcha un \"operativo seducción\" para incorporar a sus filas a un joven talento argentino-europeo que brilla en el Real Madrid. El jugador, de origen familiar argentino pero formado en el exterior, ha expresado su entusiasmo por la posibilidad de vestir la albiceleste, un gesto que enciende la pasión de los hinchas y reaviva una discusión recurrente en el fútbol moderno: ¿es prioritario nacionalizar talentos con raíces argentinas que se desarrollan en ligas europeas, o se debe apostar de lleno por la formación y el desarrollo de jugadores íntegramente surgidos del fútbol local?\n\nEsta estrategia, común en selecciones de todo el mundo, busca reforzar al equipo con lo mejor disponible, sin importar dónde se hayan dado sus primeros pasos. Sin embargo, para un país con la rica historia futbolística de Argentina, que siempre se ha enorgullecido de la \"escuela\" local y sus potreros, la balanza entre pragmatismo y tradición genera distintas posturas. Los defensores argumentan que el talento no tiene fronteras y que lo importante es sumar calidad al proyecto de la Selección, mientras que otros temen que se pierda la esencia y se desincentive la inversión en las canteras locales.\n\n¿Dónde radica la verdadera identidad de la Selección Argentina? ¿Es necesario \"seducir\" a talentos formados en el extranjero o deberíamos potenciar lo nuestro?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "seleccion-argentina-nacionalizar-talentos-o-formar-en-casa",
-    "fecha": "2026-08-21",
-    "imagen": "img/sociedad_2.png",
     "destacada": false
   }
 ]
