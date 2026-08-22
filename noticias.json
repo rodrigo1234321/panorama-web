@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "La #FIFA sanciona a la Selección por Malvinas: ¿Censura o doble vara?",
+    "bajada": "La máxima autoridad del fútbol mundial castiga a Argentina por un mensaje soberano. Un debate sobre reglas, patriotismo y la autoridad deportiva.",
+    "cuerpo": "La reciente sanción de la #FIFA a la Selección Argentina por exhibir una bandera con la leyenda \"Las Malvinas son Argentinas\" durante el Mundial reaviva un viejo debate. Mientras algunos consideran el acto una legítima expresión de soberanía nacional, la FIFA lo interpreta como una transgresión a su normativa que prohíbe mensajes políticos en eventos deportivos. Este incidente, lejos de ser aislado, pone en evidencia la delgada línea entre el deporte y la política, y genera interrogantes sobre la supuesta neutralidad de los organismos internacionales.\n\n¿Es la FIFA coherente en su aplicación de normas o aplica una doble vara según los intereses en juego? La indignación popular se siente, pero las arcas del fútbol tienen sus propias reglas. ¿Se está priorizando la imagen global sobre la identidad y los reclamos históricos de una nación?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "fifa-sanciona-seleccion-malvinas-censura-doble-vara",
+    "fecha": "2026-08-22",
+    "imagen": "img/politica_6.png",
+    "destacada": true
+  },
+  {
+    "titulo": "#FIFA: Duras sanciones a jugadores de la Selección, ¿justicia tardía o ensañamiento?",
+    "bajada": "Dos futbolistas de la Albiceleste reciben castigos \"gravísimos\" por incidentes post-Mundial 2026. La sombra de la FIFA vuelve a caer sobre Argentina.",
+    "cuerpo": "La noticia de \"gravísimas sanciones\" impuestas por la #FIFA a dos jugadores de la Selección Argentina por incidentes ocurridos tras la final del Mundial 2026 sacude el ambiente deportivo. Si bien no se detallan los nombres, la decisión genera un intenso debate sobre el rigor de la justicia deportiva y el timing de estos castigos. ¿Es una medida necesaria para mantener la disciplina o un ejemplo de cómo los organismos supranacionales ejercen su poder con mano dura sobre los actores principales?\n\nEste episodio, que se suma a otras sanciones recientes de la FIFA a la federación argentina, plantea interrogantes sobre la relación entre el ente rector del fútbol y las asociaciones nacionales. ¿Se busca un escarmiento ejemplar o existe un trasfondo de tensiones que la opinión pública desconoce?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "fifa-sanciones-jugadores-seleccion-justicia-ensaniamiento",
+    "fecha": "2026-08-22",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Compra de Stryker: ¿Defensa necesaria o gasto exorbitante que Argentina no puede pagar?",
+    "bajada": "La adquisición de 235 tanques de guerra a EE.UU. por una \"exorbitante suma\" genera dudas sobre las prioridades del gasto público en tiempos de ajuste.",
+    "cuerpo": "La confirmación de que Argentina ha comprado 235 vehículos blindados Stryker a Estados Unidos por una \"exorbitante suma\" pone en el centro del debate la gestión de los recursos públicos. En un contexto de austeridad y búsqueda de equilibrio fiscal, la inversión millonaria en equipamiento militar levanta voces críticas. Mientras el gobierno argumenta la necesidad de modernizar las Fuerzas Armadas para garantizar la defensa nacional, sectores de la oposición y analistas económicos cuestionan si este es el momento adecuado y si el costo-beneficio justifica una erogación tan significativa.\n\nLa transparencia en este tipo de operaciones es crucial. ¿Se priorizan los intereses estratégicos o hay una oportunidad para reevaluar la asignación de fondos en otras áreas urgentes como la salud o la educación? El contribuyente argentino espera respuestas claras sobre la justificación de una compra que impacta directamente en las arcas del Estado. ¿Estamos ante una necesidad imperiosa o una decisión política que merece un análisis más profundo?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "compra-stryker-defensa-gasto-argentina-puede-pagar",
+    "fecha": "2026-08-22",
+    "imagen": "img/politica_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Salarios y empleo: La preocupación que desvela a los argentinos, ¿qué dice la #BolsaDeComercioDeRosario?",
+    "bajada": "Los últimos sondeos confirman el deterioro de los ingresos y el temor a la pérdida de puestos de trabajo como el principal desvelo social.",
+    "cuerpo": "Los recientes sondeos revelan una realidad inquietante: los salarios y el empleo se consolidan como las principales preocupaciones de los argentinos. Esta situación contrasta con el optimismo que algunos sectores buscan proyectar, y enciende las alarmas en el ámbito económico. La #BolsaDeComercioDeRosario, un termómetro clave de la actividad productiva, observa con atención estos indicadores, que reflejan un poder adquisitivo erosionado por la inflación y una creciente incertidumbre laboral.\n\nEl desafío para el gobierno es inmenso. Mientras se buscan estabilizar las variables macroeconómicas, la microeconomía de los hogares sigue sufriendo. ¿Son las políticas actuales suficientes para revertir esta tendencia o se necesitan medidas más audaces que estimulen la inversión privada y la generación de empleo genuino? La recuperación de la confianza pasa por mejorar la calidad de vida de los ciudadanos, no solo por equilibrar las cuentas.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "salarios-empleo-preocupacion-argentinos-bolsadecomercioderosario",
+    "fecha": "2026-08-22",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Tragedia silenciada: Argentina, en el podio regional de suicidios. ¿Una crisis de salud mental?",
+    "bajada": "El país registra un alarmante aumento de suicidios, ubicándose en un incómodo puesto regional. Un llamado urgente a repensar las políticas de salud mental.",
+    "cuerpo": "Un \"alarmante dato\" emerge de los reportes de salud: Argentina se posiciona en un \"incómodo puesto\" en el podio regional de suicidios. Esta cruda realidad, a menudo silenciada, exige una reflexión profunda sobre las causas subyacentes y la efectividad de las políticas públicas en salud mental. Los especialistas advierten sobre la falta de recursos, la estigmatización y la escasa prevención como factores clave que contribuyen a esta trágica estadística.\n\nLa sociedad debe enfrentar esta crisis con la seriedad que merece. Más allá de las cifras, cada suicidio representa un fracaso colectivo. ¿Está el Estado invirtiendo lo suficiente en programas de apoyo y concientización? ¿Se está ofreciendo la contención necesaria a quienes atraviesan momentos de vulnerabilidad? Es hora de dejar de lado los eufemismos y abordar esta problemática con urgencia y determinación.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "tragedia-silenciada-argentina-podio-suicidios-crisis-salud-mental",
+    "fecha": "2026-08-22",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Alerta El Niño: ¿Cómo impactará el fenómeno en el campo y la #BolsaDeComercioDeRosario?",
+    "bajada": "El cambio climático global ya afecta a Argentina, con proyecciones de impacto directo en la producción agrícola y la economía regional.",
+    "cuerpo": "El fenómeno de \"El Niño\" ya es una realidad en Argentina, y sus efectos se proyectan con particular fuerza sobre el sector agropecuario. Los cambios en los patrones de lluvia y temperatura, que se traducirán en mayores precipitaciones en ciertas regiones y posibles sequías en otras, generan preocupación entre productores y economistas. La #BolsaDeComercioDeRosario, centro neurálgico del sector, monitorea de cerca la situación, ya que las variaciones climáticas tienen un impacto directo en los rindes de los cultivos y, por ende, en la capacidad exportadora del país.\n\nLa preparación y la adaptación son clave. ¿Está el gobierno implementando las políticas necesarias para mitigar los efectos adversos y aprovechar las oportunidades que puedan surgir? La imprevisibilidad climática exige una planificación estratégica que vaya más allá de las medidas paliativas. ¿Estamos listos para enfrentar una nueva configuración del escenario productivo que podría redefinir el mapa económico nacional?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "alerta-el-nino-impacto-campo-bolsadecomercioderosario",
+    "fecha": "2026-08-22",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Fútbol Sudamericano: ¿El protagonismo argentino en Libertadores y Sudamericana es reflejo o ilusión?",
+    "bajada": "La fuerte presencia de equipos argentinos en las fases decisivas de los torneos continentales despierta orgullo, pero ¿es sostenible?",
+    "cuerpo": "La destacada presencia argentina en los equipos de la semana de la Libertadores y Sudamericana devela el continuo liderazgo del fútbol local en el continente. Los clubes del país demuestran una vez más su competitividad y talento, llegando a instancias decisivas y acaparando elogios. Sin embargo, detrás del brillo de las copas, subyacen realidades económicas y estructurales que invitan a la reflexión.\n\nLa sangría de talentos jóvenes, la deuda externa de muchos clubes y la dificultad para retener figuras, son desafíos constantes. ¿Es este protagonismo un reflejo de una fortaleza genuina del sistema o una ilusión sostenida por el esfuerzo individual y la pasión, que a la larga se vuelve insostenible? El debate no es menor para asegurar la salud a largo plazo de nuestro fútbol.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "futbol-sudamericano-protagonismo-argentino-libertadores-sudamericana-reflejo-ilusion",
+    "fecha": "2026-08-22",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "FIFA sanciona a la Selección: ¿Las Malvinas son políticas para todos?",
     "bajada": "La intransigencia de la FIFA contra el gesto de Las Malvinas y Leandro Paredes reaviva el debate sobre la injerencia institucional.",
     "cuerpo": "La FIFA ha vuelto a mostrar su poderío, aplicando sanciones a la Selección Argentina que van desde multas económicas hasta suspensiones. La exhibición de una bandera con la leyenda \"Las Malvinas son Argentinas\" y los incidentes post-final, donde se menciona a Leandro Paredes, son los detonantes. Este organismo, que se jacta de \"mantener la neutralidad\", parece aplicar criterios selectivos cuando la soberanía o el orgullo nacional de un país chocan con su agenda globalista.\n\nLa verdadera cuestión es si una organización privada puede arrogarse el derecho de censurar la legítima expresión de un reclamo territorial histórico que es política de Estado para Argentina. Mientras se persigue cualquier atisbo de politización en el campo, el propio fútbol se ha convertido en una plataforma de intereses y discursos, dejando en claro que la \"neutralidad\" es, en muchos casos, una fachada.\n\n¿Hasta dónde puede llegar la autoridad de un ente como la FIFA en la esfera de la soberanía nacional, y por qué el reclamo por Las Malvinas resulta tan incómodo para algunos?",
@@ -9,7 +93,7 @@
     "slug": "fifa-sanciona-seleccion-argentina-malvinas",
     "fecha": "2026-08-21",
     "imagen": "img/politica_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Escándalo en la Selección Argentina: Sanciones post-Mundial 2026",
@@ -201,90 +285,6 @@
     "slug": "seleccion-argentina-nacionalizar-talentos-o-formar-en-casa",
     "fecha": "2026-08-21",
     "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Casa Argentina en París: ¿Un foco de escándalo en la “ciudad luz”?",
-    "bajada": "La Cancillería francesa bajo la lupa por la gestión de fondos públicos argentinos en Europa.",
-    "cuerpo": "La Alcaldía de París ha solicitado formalmente al Canciller de Francia que investigue los \"polémicos manejos\" de la Casa Argentina en la capital francesa, un edificio emblemático que debería ser vitrina de nuestra cultura. Las acusaciones apuntan a una gestión irregular de los fondos y a decisiones cuestionables que empañan la imagen del país en el exterior. Este reclamo internacional pone bajo la lupa no solo a los responsables directos, sino también a la Cancillería argentina por la falta de supervisión y transparencia en el uso de recursos que, en teoría, deben promover la cultura y la academia nacional.\n\nEl incidente resalta una vez más la constante preocupación por el uso de los bienes y fondos públicos argentinos en el exterior, a menudo percibidos como un reducto de privilegios y discrecionalidad. Mientras el país enfrenta graves problemas económicos y sociales, la noticia de posibles irregularidades en una institución tan visible como la Casa Argentina en París genera indignación. Es un reflejo de una cultura de la opacidad que, desde Panorama.ar, hemos denunciado repetidamente.\n\n¿Hasta cuándo permitiremos que el dinero de los contribuyentes argentinos sea objeto de manejos dudosos en el extranjero, sin rendición de cuentas clara ni consecuencias? ¿Es la Casa Argentina en París otro ejemplo de \"la casta\" en acción?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "casa-argentina-paris-escandalo-ciudad-luz",
-    "fecha": "2026-08-21",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Farías Laguna libre: ¿Fracaso de la Justicia o “mano blanda” con la corrupción?",
-    "bajada": "México desiste de la extradición del ex militar acusado de contrabando, y Argentina lo libera.",
-    "cuerpo": "Fernando Farías Laguna, el ex militar mexicano con alerta roja de Interpol y acusado de ser una pieza clave en una trama de contrabando de combustible, ha sido liberado en Argentina tras el desistimiento de México de su pedido de extradición. La noticia, que impacta directamente en la lucha contra el crimen organizado y la corrupción transnacional, genera un fuerte interrogante sobre la efectividad de los mecanismos judiciales y la voluntad política para combatir estos delitos. Este desenlace ocurre a pesar de que Farías Laguna había solicitado asilo político en Argentina, lo que complicaba su situación legal.\n\nDesde Panorama.ar, hemos insistido en la necesidad de una \"mano dura\" contra la criminalidad y la impunidad, especialmente cuando se trata de figuras involucradas en tramas de alta complejidad y alcance internacional. La liberación de un individuo con un prontuario tan delicado, sin enfrentar la justicia en su país de origen, envía una señal preocupante. Mientras las autoridades mexicanas y argentinas argumentan complejidades procesales, la percepción pública es que, una vez más, un personaje poderoso elude las consecuencias de sus actos, generando desconfianza en el sistema.\n\n¿Es la liberación de Farías Laguna un tropiezo burocrático o una preocupante muestra de la ineficacia de nuestra justicia ante crímenes de cuello blanco y la corrupción que tanto dañan al país?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "farias-laguna-libre-fracaso-justicia-mano-blanda-corrupcion",
-    "fecha": "2026-08-21",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina crece, pero ¿a qué costo? Cepal alerta por informalidad.",
-    "bajada": "Proyección de crecimiento superior a la región choca con persistentes problemas de empleo y productividad.",
-    "cuerpo": "La CEPAL proyectó un crecimiento para Argentina superior al promedio regional, un dato que, a primera vista, podría ser motivo de optimismo. Sin embargo, el mismo informe encendió una luz de alerta sobre la persistencia de la informalidad laboral y la baja productividad, problemas estructurales que lastran el desarrollo económico a largo plazo. Este crecimiento, si bien positivo en números brutos, corre el riesgo de ser insostenible si no se abordan las deficiencias que impiden una economía más robusta, competitiva y generadora de empleo de calidad, un pilar fundamental para el bienestar social.\n\nDesde una perspectiva liberal, la informalidad es consecuencia directa de una excesiva presión impositiva y una regulación laboral asfixiante que desalienta la creación de empleo formal y castiga la iniciativa privada. Si el Estado no reduce su tamaño y su injerencia, y no se implementan reformas de mercado que simplifiquen la actividad económica, el crecimiento seguirá siendo una quimera para muchos argentinos. La baja productividad, por su parte, es un reflejo de la falta de inversión, la ineficiencia del gasto público y la ausencia de un marco que fomente la innovación y la competencia real.\n\n¿Puede Argentina alcanzar un desarrollo sostenido y con inclusión si no enfrenta de una vez por todas los vicios de la informalidad y la baja productividad que la CEPAL advierte? ¿Qué reformas son urgentes para un crecimiento real y no meramente estadístico?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-crece-costo-cepal-alerta-informalidad",
-    "fecha": "2026-08-21",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Cárceles argentinas: Muertes por enfermedad, ¿colapso del sistema o inacción?",
-    "bajada": "El alarmante aumento de fallecimientos tras las rejas exige una mirada crítica al estado penitenciario.",
-    "cuerpo": "Un reciente informe revela un alarmante aumento en las muertes por enfermedades en las cárceles de Argentina, poniendo en evidencia la crítica situación del sistema penitenciario. Los números no mienten: la precariedad en la atención médica, la sobrepoblación y las condiciones de hacinamiento contribuyen a un caldo de cultivo donde las enfermedades proliferan y se cobran vidas. Este fenómeno no solo representa una falla humanitaria, sino que también subraya la profunda crisis de un sistema que no cumple con su función básica de resocialización, ni siquiera con la garantía de una vida digna mientras se cumple una condena.\n\nDesde Panorama.ar, defendemos la necesidad de un sistema de seguridad y justicia que opere con firmeza y orden. Sin embargo, \"mano dura\" no debe significar abandono o degradación de las condiciones de detención a niveles inhumanos. La ineficiencia en la gestión carcelaria y la falta de inversión adecuada, producto muchas veces de una visión garantista mal aplicada o de la desidia política, terminan generando focos de descontrol y un ciclo de violencia. La situación actual exige un análisis riguroso de las causas y una política penitenciaria que garantice el orden y la salud, sin caer en extremismos.\n\n¿Hasta cuándo ignoraremos el colapso sanitario en nuestras cárceles, que no solo afecta a los internos sino que degrada todo el sistema de seguridad y justicia? ¿Es posible hablar de \"mano dura\" sin garantizar condiciones básicas de vida?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "carceles-argentinas-muertes-enfermedad-colapso-inaccion",
-    "fecha": "2026-08-21",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La Argentina ya Cambió: Daza en el #CouncilOfTheAmericas, ¿optimismo real o promesa vacía?",
-    "bajada": "José Luis Daza expuso ante líderes económicos, planteando un escenario de crecimiento inédito. ¿Es el inicio de una nueva era o una retórica más?",
-    "cuerpo": "José Luis Daza, quien reemplazó al ministro Caputo en el influyente Council of the Americas, afirmó con contundencia que \"La Argentina ya cambió\" y se posiciona con las \"mejores perspectivas de crecimiento a nivel mundial\". Estas declaraciones resonaron en un auditorio expectante, marcando un fuerte contraste con el pesimismo que solía rodear al país en foros internacionales. La narrativa oficial busca consolidar la imagen de un giro económico irreversible, enfocado en la disciplina fiscal y la apertura de mercados, pilares de la gestión actual.\n\nSin embargo, la pregunta persiste entre los analistas críticos: ¿es este optimismo un reflejo fiel de la realidad económica que vive la mayoría de los argentinos, o una proyección necesaria para atraer inversiones? Mientras el gobierno insiste en la necesidad de \"perseverar y seguir en esta dirección\", muchos ciudadanos aún lidian con ajustes severos y una inflación que, si bien desacelera, sigue siendo un desafío. Es fundamental discernir si el cambio es estructural y sostenible o si depende exclusivamente de una coyuntura favorable.\n\nLa visión de Daza subraya la importancia de la confianza internacional para el desarrollo, pero ¿cuál es el costo social de estas reformas y cómo se garantiza que los beneficios lleguen a todos los sectores? ¿Es este optimismo el motor que necesitamos o una distracción de los problemas urgentes que aún persisten en la economía real?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "la-argentina-ya-cambio-daza-en-council-of-the-americas-optimismo-real-o-promesa-vacia",
-    "fecha": "2026-08-21",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Escándalo en París: ¿Quién maneja los fondos de la Casa Argentina?",
-    "bajada": "La Alcaldía de París pide investigar manejos polémicos en la Casa Argentina. ¿Otro caso de discrecionalidad con dinero público?",
-    "cuerpo": "La Alcaldía de París ha solicitado formalmente al canciller francés que investigue los \"polémicos manejos\" de la Casa Argentina en la capital gala, desatando una nueva ola de preocupación sobre la administración de fondos públicos en el exterior. Este pedido no es menor: la Casa Argentina, históricamente un bastión cultural y representativo, parece estar bajo escrutinio por supuestas irregularidades que podrían implicar un uso indebido de recursos que deberían destinarse a la promoción del país, no a intereses particulares.\n\nEste incidente reaviva el debate sobre la transparencia y la rendición de cuentas en las representaciones diplomáticas y culturales de Argentina en el mundo. Mientras el país busca reordenar sus finanzas y combatir la corrupción interna, la aparición de sospechas en una institución tan emblemática como la Casa Argentina en París es un golpe a la credibilidad. La falta de control riguroso y la discrecionalidad en el manejo de presupuestos en estas sedes son un patrón recurrente que la \"casta\" política parece resistirse a corregir.\n\nLa ciudadanía exige respuestas claras y rápidas. ¿Qué acciones concretas tomará la Cancillería argentina para esclarecer esta situación y garantizar que el dinero de los contribuyentes sea utilizado de forma íntegra y eficiente? ¿O este escándalo será, una vez más, sepultado bajo la alfombra de la burocracia y la impunidad, confirmando que el cambio no ha llegado aún a todos los rincones del Estado?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "escandalo-en-paris-quien-maneja-los-fondos-de-la-casa-argentina",
-    "fecha": "2026-08-21",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Contrabando y Extradición: ¿El fin de la impunidad en la Armada Argentina?",
-    "bajada": "Un contralmirante de la Armada, extraditado a México por contrabando de combustible. ¿Se acaba la protección a los de arriba?",
-    "cuerpo": "El contralmirante Farías ha sido extraditado de Argentina a México para enfrentar acusaciones de contrabando de combustible, un caso que pone de manifiesto la penetración de la corrupción en estructuras de poder que deberían ser intachables. Este hecho, si bien puntual, resuena con la demanda social de una justicia que no distinga rangos ni apellidos. La lucha contra el contrabando, especialmente de bienes estratégicos como el combustible, es crucial para la seguridad nacional y la economía legítima, y su implicación por parte de altos mandos militares es inaceptable.\n\nLa extradición de un oficial de tan alto rango sugiere un cambio en la voluntad política de combatir la impunidad, al menos en ciertos expedientes. Durante años, la percepción popular ha sido que ciertos sectores, especialmente aquellos con conexiones en las fuerzas de seguridad o el poder político, gozaban de una protección tácita. Este caso, por el contrario, envía una señal de que la justicia, aunque lenta, puede finalmente alcanzar a quienes abusan de su posición. Sin embargo, no se debe caer en el triunfalismo; este es solo un paso en una batalla mucho más grande contra redes de corrupción.\n\nMientras la justicia avanza, es imperativo que las instituciones realicen una autocrítica profunda. ¿Qué mecanismos fallaron para que un delito de esta magnitud pudiera ser perpetrado por un contralmirante? ¿Qué se está haciendo para sanear las estructuras internas y asegurar que este tipo de casos sean la excepción y no una muestra de una problemática más extendida? ¿Es esta extradición un hecho aislado o el principio de un verdadero saneamiento institucional?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "contrabando-y-extradicion-el-fin-de-la-impunidad-en-la-armada-argentina",
-    "fecha": "2026-08-21",
-    "imagen": "img/sociedad_6.png",
     "destacada": false
   }
 ]
