@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Sanciones FIFA: ¿Mano dura o castigo arbitrario para Paredes y Molina?",
+    "bajada": "La decisión de la FIFA contra Paredes y Molina reabre el debate sobre la disciplina en el fútbol argentino y el rol de la AFA.",
+    "cuerpo": "La FIFA ha dictaminado sanciones para Leandro Paredes y Nahuel Molina por su conducta en la final del Mundial, generando controversia. Mientras algunos ven una necesaria demostración de autoridad para mantener la ética deportiva, otros argumentan que la medida es desproporcionada o selectiva, especialmente cuando se compara con otros incidentes en el fútbol internacional. La pregunta es si estas sanciones realmente abordan las causas de fondo de ciertos comportamientos o si son meramente paliativos para la imagen.\n\nLa AFA, bajo presión de la entidad madre del fútbol mundial, deberá ahora definir los pasos a seguir. Esto plantea interrogantes sobre su capacidad de autogestión y la influencia externa en el fútbol local. ¿Es la FIFA un actor imparcial o sus decisiones a veces parecen responder a presiones externas que poco tienen que ver con la justicia deportiva? ¿Qué dice esto de la autonomía de nuestras instituciones deportivas?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "sanciones-fifa-mano-dura-o-castigo-arbitrario-para-paredes-y-molina",
+    "fecha": "2026-08-23",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Crítica de España: ¿La FIFA castiga a Argentina por “no saber perder”?",
+    "bajada": "Un diario de España arremete contra Argentina tras las sanciones de la FIFA, elevando la tensión y la polémica sobre la cultura deportiva.",
+    "cuerpo": "La portada de un medio de España, calificando las sanciones de la FIFA a la Selección Argentina como un \"duro castigo por no saber perder\", aviva la llama de la controversia. Esta narrativa, lejos de centrarse en la cuestión reglamentaria, busca imponer un juicio moral sobre el comportamiento argentino, alimentando un resentimiento preexistente. ¿Refleja este titular una crítica legítima o es un intento de deslegitimar logros deportivos ajenos a partir de una lectura sesgada?\n\nMás allá de la perspectiva de España, el episodio subraya la necesidad de un debate más profundo sobre el fair play y la diplomacia en el deporte. Si bien las sanciones de la FIFA tienen su fundamento, la interpretación y el uso mediático de las mismas pueden distorsionar la realidad. ¿Hasta qué punto los medios extranjeros tienen autoridad moral para juzgar la cultura deportiva de otras naciones, y cuándo su crítica se convierte en mero sesgo?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "critica-de-espana-la-fifa-castiga-a-argentina-por-no-saber-perder",
+    "fecha": "2026-08-23",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Milei y la FIA: ¿El regreso de Argentina a la agenda mundial del automovilismo?",
+    "bajada": "La presencia de Milei en el Congreso Americano FIA 2026 marca un intento de relanzar Argentina en el escenario internacional, pero ¿a qué costo?",
+    "cuerpo": "La confirmación de que Argentina será sede del Congreso Americano FIA 2026, con la presencia destacada del presidente Milei en su apertura, genera expectativas sobre el regreso de nuestro país a la agenda global del automovilismo. Este tipo de eventos internacionales no solo implican un movimiento económico importante, sino que también proyectan una imagen de estabilidad y apertura. Sin embargo, la cuestión de la inversión estatal necesaria y el real impacto en la economía productiva del país siempre debe ser analizada con lupa, no sea que el show desplace a la sustancia.\n\nLa participación de figuras políticas como Milei en estos encuentros es una señal. ¿Se trata de un verdadero compromiso con el desarrollo del deporte y la industria, o es una oportunidad para el lucimiento personal en un contexto de austeridad? Los contribuyentes esperan resultados concretos, no solo fotos. ¿Es esta una prioridad real para el país, o los fondos podrían destinarse a necesidades más urgentes en un contexto de ajuste fiscal?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-y-la-fia-el-regreso-de-argentina-a-la-agenda-mundial-del-automovilismo",
+    "fecha": "2026-08-23",
+    "imagen": "img/politica_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Salarios y Empleo: ¿La verdadera preocupación de los argentinos?",
+    "bajada": "Los últimos sondeos revelan que el poder adquisitivo y la estabilidad laboral desplazan a otras inquietudes en la agenda pública argentina.",
+    "cuerpo": "Nuevos sondeos confirman una tendencia preocupante: salarios y empleo se consolidan como las principales preocupaciones de los argentinos. Esta situación refleja una economía bajo presión, donde la inflación constante erosiona el poder de compra y la precarización laboral genera incertidumbre. La ciudadanía percibe, con razón, que el esfuerzo diario no se traduce en mejoras tangibles en su calidad de vida. ¿Se está priorizando adecuadamente la estabilidad macroeconómica por sobre el bienestar real del ciudadano de a pie, o se están subestimando estas alarmas?\n\nDesde una perspectiva liberal, la solución pasa por desregular el mercado laboral y reducir la presión impositiva sobre las empresas, para que puedan generar más puestos de trabajo y pagar mejores sueldos. Sin embargo, el Estado sigue siendo un actor protagónico, imponiendo cargas y regulaciones que asfixian al sector privado. Es crucial que las políticas públicas se orienten a crear un ambiente propicio para la inversión y el crecimiento genuino, en lugar de intervenciones que solo distorsionan el mercado. ¿Hasta cuándo se ignorará la voz de quienes sostienen la economía con su trabajo y sus impuestos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "salarios-y-empleo-la-verdadera-preocupacion-de-los-argentinos",
+    "fecha": "2026-08-23",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: ¿Sede FIA 2026 un puente para el retorno de la Fórmula 1?",
+    "bajada": "Con la designación como sede del Congreso Americano FIA 2026, Argentina busca reactivar su presencia en el automovilismo mundial, ¿es realista pensar en la F1?",
+    "cuerpo": "La confirmación de Argentina como sede del Congreso Americano FIA 2026 es una noticia que ilusiona a los aficionados del automovilismo y a quienes sueñan con el retorno de la Fórmula 1. Este evento pone al país en el foco internacional, abriendo puertas a posibles inversiones y alianzas. Sin embargo, la euforia debe ser cautelosa: albergar un congreso es un paso, pero el real desafío es mantener una presencia constante y competitiva en la élite del automovilismo, lo cual requiere infraestructura y una política deportiva a largo plazo.\n\nEl camino para traer de vuelta la Fórmula 1 o eventos de similar magnitud no es solo cuestión de voluntad política, sino de una infraestructura adecuada y, crucialmente, de estabilidad económica y fiscal. Históricamente, Argentina ha tenido dificultades para sostener estos proyectos por los vaivenes macroeconómicos y la falta de planificación a largo plazo. ¿Se podrá esta vez capitalizar el impulso de la FIA para sentar bases sólidas, o será un esfuerzo aislado que no logra trascender la coyuntura?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-sede-fia-2026-un-puente-para-el-retorno-de-la-formula-1",
+    "fecha": "2026-08-23",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "“Súper gripe”: ¿El récord de contagios expone la debilidad de la salud pública?",
+    "bajada": "Argentina registra un récord histórico de casos de “súper gripe”, encendiendo las alarmas sobre la gestión sanitaria y la prevención en el país.",
+    "cuerpo": "La confirmación de un récord de contagios de la llamada “súper gripe” en Argentina, superando los picos de la última década, es un dato alarmante que no puede pasar desapercibido. Esta cifra no solo refleja la virulencia del brote, sino que pone en evidencia posibles fallas en las campañas de prevención, la infraestructura hospitalaria y la respuesta del sistema de salud pública. ¿Estamos preparados para enfrentar una crisis sanitaria de esta magnitud sin un plan robusto y recursos suficientes, o volvemos a improvisar ante la emergencia?\n\nLa salud pública, lejos de ser un gasto, es una inversión estratégica en el capital humano de una nación. La recurrencia de brotes como este, que saturan los servicios de emergencia y afectan la productividad, debería impulsar una revisión profunda de las políticas sanitarias. Es imprescindible asegurar la provisión de vacunas, reforzar la atención primaria y educar a la población, en lugar de reacciones tardías. ¿Hasta cuándo se seguirá relegando la salud a un segundo plano en la asignación de recursos estatales?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "super-gripe-el-record-de-contagios-expone-la-debilidad-de-la-salud-publica",
+    "fecha": "2026-08-23",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Mundial de Hockey: ¿Victoria sobre España disimula problemas de fondo?",
+    "bajada": "Las Leonas vencieron a España en el Mundial, pero el éxito en la cancha no siempre se traduce en apoyo estructural para el deporte.",
+    "cuerpo": "La victoria de Argentina sobre España por 1-0 en el Mundial de Hockey, con gol de Agustina Gorzelany, es sin duda un motivo de orgullo y celebración. Las Leonas demuestran una vez más su jerarquía y compromiso, dejando en alto la bandera nacional. Sin embargo, detrás de cada triunfo deportivo, surge la pregunta sobre el verdadero apoyo que reciben estas disciplinas y sus atletas. ¿Estos éxitos son producto de una política deportiva sólida o del talento y esfuerzo individual que logran superar las deficiencias estructurales?\n\nMientras la euforia por la victoria contra España es comprensible, es crucial no perder de vista la necesidad de una inversión sostenida en el deporte amateur y federado. Las glorias esporádicas no construyen una base sólida. ¿Se destinarán los recursos necesarios para desarrollar talentos desde la base, o el Estado seguirá priorizando otros gastos menos eficientes y más políticos? El verdadero desafío es transformar este éxito en un impulso duradero para el hockey y para el deporte argentino en general.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mundial-de-hockey-victoria-sobre-espana-disimula-problemas-de-fondo",
+    "fecha": "2026-08-23",
+    "imagen": "img/sociedad_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "¡Imparables! Las Leonas deslumbran al mundo: ¿el camino a la gloria?",
     "bajada": "Con una actuación arrolladora ante España, el equipo nacional de hockey femenino confirma su dominio y avanza con firmeza en el Mundial 2026.",
     "cuerpo": "Las Leonas han vuelto a demostrar por qué son una de las potencias mundiales del hockey femenino. Su aplastante victoria por 3-0 frente a España en el Mundial de 2026 no solo les aseguró un lugar en las semifinales, sino que también reafirmó su estrategia ofensiva y la solidez defensiva que las caracteriza. La brillante actuación, con goles clave y una presión constante, dejó pocas dudas sobre sus aspiraciones al título.\n\nEste triunfo resuena en un contexto donde el deporte argentino busca nuevas figuras y éxitos para inspirar. La disciplina, el compromiso y el talento de Las Leonas son un ejemplo a seguir, no solo en la cancha, sino como modelo de equipo y dedicación. En un país ávido de buenas noticias, el desempeño de este seleccionado femenino ofrece un respiro y un motivo de orgullo nacional.\n\n¿Podrá este equipo consolidar su legado y traer la copa a casa, demostrando que la constancia supera cualquier obstáculo?",
@@ -9,7 +93,7 @@
     "slug": "imparables-las-leonas-deslumbran-al-mundo",
     "fecha": "2026-08-23",
     "imagen": "img/sociedad_3.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "¿Retroceso o pragmatismo? La polémica postura de Milei en la OEA",
@@ -201,90 +285,6 @@
     "slug": "martins-ya-esta-en-argentina-el-fin-de-la-impunidad-de-la-casta-o-un-show-mediatico",
     "fecha": "2026-08-22",
     "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Salarios y empleo: la preocupante realidad que Massa no resuelve",
-    "bajada": "Encuestas recientes confirman que la situación económica sigue siendo la principal inquietud de los argentinos, poniendo en jaque las promesas de estabilidad.",
-    "cuerpo": "Mientras el debate político se centra en diversas aristas, la realidad de los argentinos es cruda: salarios y empleo se consolidan como las principales preocupaciones. Sondeos recientes revelan que la capacidad adquisitiva se erosiona día a día, y la dificultad para generar nuevos puestos de trabajo formales es un obstáculo persistente. Esta situación, lejos de mejorar, parece agudizarse, evidenciando que las políticas económicas implementadas no logran dar respuestas efectivas a las demandas más básicas de la sociedad.\n\nLa inflación, un mal endémico, es el principal verdugo del poder adquisitivo. Cada vez más, el esfuerzo laboral se diluye frente a aumentos de precios que no dan tregua, mientras que la falta de inversión privada y un marco regulatorio inestable desalientan la creación de empleo genuino. Los paliativos y parches no atacan la raíz del problema, que reside en un gasto público descontrolado, una presión impositiva asfixiante y la falta de reformas estructurales que promuevan la productividad y la competitividad. Es una ecuación que el actual ministro, Sergio Massa, no ha logrado equilibrar.\n\nAnte este panorama, la pregunta es ineludible: ¿Hasta cuándo la política seguirá priorizando la coyuntura sobre las soluciones de fondo, dejando a los ciudadanos en una constante incertidumbre económica? Es hora de un cambio de rumbo, de apostar por la disciplina fiscal y las reformas de mercado que generen confianza y permitan a los salarios recuperar su valor, y al empleo crecer de manera sostenible. ¿Qué medidas concretas se implementarán para revertir esta tendencia y devolver la esperanza a la clase trabajadora?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "salarios-y-empleo-la-preocupante-realidad-que-massa-no-resuelve",
-    "fecha": "2026-08-22",
-    "imagen": "img/economia_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "CEPAL: Argentina crece al 3,3%, ¿pero con qué calidad de vida y sin reformas estructurales?",
-    "bajada": "Un informe regional destaca el crecimiento económico argentino, pero también señala las particularidades que lo alejan de un desarrollo sostenible.",
-    "cuerpo": "La CEPAL proyecta un crecimiento económico del 3,3% para Argentina este año, una cifra que podría sonar alentadora si no fuera por el \"elemento clave\" que la diferencia de otros países de la región. Este matiz es crucial: el crecimiento nominal no siempre se traduce en desarrollo sostenible o mejora de la calidad de vida. A menudo, oculta las distorsiones estructurales y la dependencia de factores coyunturales, como las cosechas o los precios de las commodities, sin abordar los problemas de fondo que lastran la economía nacional.\n\nLa falta de reformas estructurales profundas es un talón de Aquiles para Argentina. Mientras otras naciones de la región avanzan en la modernización de sus economías, la desregulación y la apertura a la inversión, nuestro país se debate en un ciclo de intervencionismo estatal, alta presión impositiva y un gasto público insostenible. Este modelo genera un crecimiento débil, volátil y con escasa creación de empleo genuino, lejos de construir una base sólida para el futuro. Un crecimiento que no se apoya en la productividad y la competitividad es, a la larga, pan para hoy y hambre para mañana.\n\nEntonces, la verdadera pregunta es: ¿De qué sirve un crecimiento porcentual si no viene acompañado de una mejora real en la competitividad, la inversión y el bienestar de los ciudadanos, liberándolos de la asfixia estatal? Es fundamental que el informe de la CEPAL sirva para reflexionar sobre la necesidad de un cambio de paradigma económico, abandonando las viejas recetas y abrazando un modelo de libertad y responsabilidad fiscal. ¿Estamos dispuestos a hacer los cambios necesarios para que el crecimiento sea sostenible y beneficie a todos los argentinos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "cepal-argentina-crece-al-33-pero-con-que-calidad-de-vida-y-sin-reformas-estructurales",
-    "fecha": "2026-08-22",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "CGT y el Papa: ¿Qué buscan los gremios argentinos del Vaticano?",
-    "bajada": "La cumbre en Roma entre líderes sindicales y el Sumo Pontífice genera expectativas y preguntas sobre la influencia de la Iglesia en la política nacional.",
-    "cuerpo": "La noticia de que dos líderes de la CGT se reunirán con el Papa León XIV en el Vaticano, previo a su visita a la Argentina, genera un sinfín de especulaciones. ¿Es una genuina búsqueda de diálogo sobre cuestiones sociales, o un intento de los gremios por utilizar la figura del Pontífice para fortalecer su posición política y presionar al gobierno? La historia argentina está plagada de ejemplos donde la cercanía a la Iglesia ha sido una herramienta más en el tablero de ajedrez del poder sindical y político.\n\nResulta llamativo que los sindicatos acudan al Vaticano para plantear sus demandas y \"pedidos\" para la visita papal, en lugar de centrarse en el diálogo y la negociación directa dentro de las instituciones democráticas del país. Esto refuerza la percepción de una \"casta\" sindical que busca validación externa o, peor aún, que intenta influir en la agenda nacional a través de vías no republicanas. La autonomía de los poderes y la laicidad del Estado son principios fundamentales que no deberían ser vulnerados por intereses sectoriales.\n\nEsta \"audacia pastoral\" de la visita papal, como la califican algunos, podría verse instrumentalizada. ¿Cuál es el verdadero objetivo de la CGT al buscar esta audiencia de alto perfil, y cómo impactará esto en el delicado equilibrio político argentino? La ciudadanía tiene derecho a saber si se trata de un acercamiento constructivo o de una maniobra para eludir responsabilidades y ejercer presión sobre el gobierno de turno. ¿Es el Vaticano un actor político en Argentina o una voz moral sin agenda partidaria?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "cgt-y-el-papa-que-buscan-los-gremios-argentinos-del-vaticano",
-    "fecha": "2026-08-22",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Suicidios en Argentina: ¿Una tragedia silenciosa que la política ignora?",
-    "bajada": "Datos alarmantes revelan un preocupante aumento de los suicidios en el país, posicionando a Argentina en un lugar incómodo a nivel regional.",
-    "cuerpo": "Los últimos datos sobre suicidios en Argentina son verdaderamente alarmantes y posicionan al país en un incómodo puesto en el podio regional. Esta tragedia silenciosa, que afecta a miles de familias cada año, rara vez ocupa el centro del debate público o de la agenda política. La falta de visibilidad y el estigma social impiden un abordaje serio y sostenido, dejando a la salud mental en un segundo plano frente a otras problemáticas que, aunque importantes, no deberían eclipsar esta crisis humanitaria.\n\nEs fundamental cuestionar la respuesta del Estado ante esta creciente problemática. ¿Se destinan los recursos suficientes a la prevención, la detección temprana y el tratamiento de la salud mental? La realidad muestra una infraestructura deficiente, escasez de profesionales y una falta de políticas públicas integrales que aborden las múltiples causas del suicidio, desde la vulnerabilidad económica y social hasta la soledad y la falta de perspectivas. La inacción o la falta de prioridad en este ámbito tienen consecuencias devastadoras para la sociedad.\n\nEste alarmante dato sobre los suicidios en Argentina nos obliga a una profunda reflexión colectiva. ¿Estamos como sociedad y como clase dirigente ignorando una de las mayores urgencias de salud pública? Es hora de exigir un compromiso serio y acciones concretas para enfrentar esta epidemia silenciosa, desterrar el tabú y garantizar que la salud mental reciba la atención y los recursos que merece. ¿Hasta cuándo permitiremos que esta tragedia siga cobrándose vidas en silencio?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "suicidios-en-argentina-una-tragedia-silenciosa-que-la-politica-ignora",
-    "fecha": "2026-08-22",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Escándalo FIFA: Sanciones a Molina y Malvinas ¿castigo al orgullo nacional?",
-    "bajada": "La decisión de la FIFA de castigar a la Selección Argentina por incidentes post-Mundial reaviva el debate sobre la soberanía y la intromisión deportiva.",
-    "cuerpo": "La reciente batería de sanciones de la FIFA contra la Selección Argentina, que incluye multas y la suspensión de jugadores como Nahuel Molina por su rol en los festejos post-Mundial, generó un fuerte repudio. Particularmente controversial es la penalización por la exhibición de la bandera con la leyenda \"Las Malvinas son Argentinas\" ante Inglaterra, un gesto que para muchos es una afirmación innegociable de soberanía y no una provocación sancionable por el ámbito deportivo. ¿Es la FIFA un organismo autónomo o un instrumento de agendas geopolíticas?\n\nEsta intromisión en un símbolo patrio, especialmente en el contexto de una disputa histórica, plantea serios interrogantes sobre los límites de la autoridad deportiva. Mientras la FIFA alega motivos de \"conducta inapropiada\", la ciudadanía argentina percibe un ataque a un sentimiento nacional profundo y legítimo. La reacción oficial, más allá de la aceptación de la multa, debe ser contundente en la defensa de los símbolos nacionales, evitando que el deporte se convierta en una arena para silenciar reclamos históricos. ¿Estamos normalizando la censura de la identidad nacional bajo el paraguas de regulaciones deportivas?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "escandalo-fifa-sanciones-molina-malvinas-castigo-orgullo-nacional",
-    "fecha": "2026-08-22",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Suicidios en Argentina: una crisis silenciosa que exige debate urgente.",
-    "bajada": "Alarmantes cifras posicionan a Argentina con un crecimiento crítico en las tasas de suicidio, evidenciando una falla estructural en salud mental.",
-    "cuerpo": "Los recientes informes que destacan un crecimiento crítico en las tasas de suicidio en Argentina, ubicando al país en un preocupante podio regional, revelan una crisis de salud pública que no puede ser ignorada. Especialistas en salud mental advierten sobre la necesidad de un abordaje integral, que trascienda la mera reacción ante las tragedias para enfocarse en la prevención y el acceso universal a tratamientos. La fragmentación del sistema de salud y la falta de recursos específicos para la salud mental son factores que, históricamente, han contribuido a esta situación alarmante.\n\nEsta tendencia ascendente no es solo un indicador de sufrimiento individual, sino un síntoma de problemas sociales más profundos: presiones económicas, aislamiento, y una percepción de falta de futuro, especialmente entre los jóvenes. La ausencia de políticas públicas robustas y la insuficiente inversión en programas de prevención de suicidio exponen una negligencia estatal. Es imperativo cuestionar qué estamos haciendo mal como sociedad y como Estado, y dónde están las prioridades en el presupuesto público. ¿Estamos dispuestos a enfrentar esta realidad o seguiremos escondiendo la cabeza ante una tragedia silenciosa?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "suicidios-argentina-crisis-silenciosa-debate-urgente",
-    "fecha": "2026-08-22",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Defensa: Argentina avanza en compra de 235 Stryker. ¿Inversión necesaria o gasto sin rumbo?",
-    "bajada": "La adquisición de vehículos blindados Stryker a EE.UU. genera debate sobre la prioridad de la inversión en defensa y su impacto fiscal.",
-    "cuerpo": "La firma de la carta de aceptación para la compra de 235 vehículos blindados Stryker a Estados Unidos marca un hito en la modernización de las Fuerzas Armadas argentinas. Esta adquisición, largamente postergada, busca saldar déficits de equipamiento que comprometen la capacidad de defensa nacional. Para sus defensores, es una inversión estratégica imprescindible para garantizar la soberanía y la capacidad de respuesta ante amenazas. Sin embargo, la decisión también abre el interrogante sobre el costo total de la operación y el cronograma de pagos, en un contexto de persistente presión sobre las finanzas públicas.\n\nDesde nuestra perspectiva, la seguridad y la defensa nacional son pilares innegociables de un Estado serio. No obstante, es crucial que este tipo de erogaciones se realicen con máxima transparencia y eficiencia, justificando cada peso del contribuyente. La \"casta\" política tiene un largo historial de gastos discrecionales y prioridades distorsionadas. ¿Está esta compra inserta en una planificación estratégica a largo plazo que optimice los recursos, o es una respuesta coyuntural que ignora otras urgencias presupuestarias que hoy afectan a la sociedad civil?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "defensa-argentina-avanza-compra-235-stryker-inversion-necesaria-gasto-sin-rumbo",
-    "fecha": "2026-08-22",
-    "imagen": "img/politica_4.png",
     "destacada": false
   }
 ]
