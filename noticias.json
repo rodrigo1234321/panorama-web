@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Justicia o show? La FIFA castiga a Paredes tras el Mundial 2026",
+    "bajada": "La decisión de la FIFA de suspender a Leandro Paredes desata polémica sobre la equidad de las sanciones.",
+    "cuerpo": "La Federación Internacional de Fútbol Asociación (FIFA) ha dictaminado una suspensión de 10 partidos para el mediocampista argentino Leandro Paredes, luego de un altercado con jugadores españoles tras la final del Mundial 2026. Esta drástica medida, que afectará su participación en futuros encuentros internacionales, ha generado un intenso debate sobre los criterios disciplinarios del organismo rector del fútbol mundial.\n\nNumerosos analistas y aficionados cuestionan la severidad de la pena, comparándola con situaciones similares o incluso más graves que no recibieron una respuesta tan contundente por parte de la FIFA. La controversia se agudiza al considerar el contexto de alta tensión de una final mundialista. ¿Es esta una sanción ejemplarizante o una muestra de doble vara por parte de la #FIFA, como señalan algunos críticos?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "justicia-o-show-fifa-castiga-paredes-mundial-2026",
+    "fecha": "2026-08-23",
+    "imagen": "img/sociedad_6.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Malvinas en el Mundial: La FIFA y la polémica por el mensaje patriótico",
+    "bajada": "La Selección Argentina enfrenta una sanción de la FIFA por la bandera de Malvinas, reviviendo un histórico debate.",
+    "cuerpo": "La #Selección Argentina ha sido objeto de una sanción por parte de la FIFA, a raíz de la exhibición de una bandera con la leyenda “Las Malvinas son Argentinas” durante un encuentro en el Mundial contra Inglaterra. Este incidente ha reavivado una discusión profunda sobre la autonomía de los símbolos nacionales en eventos deportivos internacionales y la potestad de organismos como la FIFA para dictaminar sobre ellos.\n\nMientras la dirigencia futbolística argentina evalúa la apelación, la opinión pública se divide. Sectores nacionalistas defienden la expresión como un acto de soberanía irrenunciable, mientras otros critican la 'politización' del fútbol. ¿Debe el deporte ser un espacio neutral o una plataforma para reafirmar causas nacionales legítimas ante el mundo, como la de Malvinas?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "malvinas-mundial-fifa-polemica-mensaje-patriotic",
+    "fecha": "2026-08-23",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Doble vara de la FIFA: ¿Por qué sanciona a Argentina y a otros no?",
+    "bajada": "Una investigación revela inconsistencias en las acciones de la FIFA, generando dudas sobre su imparcialidad.",
+    "cuerpo": "Tras la reciente sanción a Leandro Paredes, surgen nuevos cuestionamientos sobre la #FIFA y sus criterios disciplinarios. Se han documentado al menos dos antecedentes de agresiones similares o incluso más graves en los que el organismo rector del fútbol no actuó de oficio, a diferencia de lo ocurrido con la Selección Argentina. Esta disparidad en el tratamiento genera fundadas sospechas sobre una posible doble vara.\n\nLa ausencia de sanciones en casos flagrantes del pasado, frente a la rapidez y contundencia en el castigo al jugador argentino, alimenta la percepción de que las decisiones de la FIFA podrían estar influenciadas por factores extradeportivos o presiones. ¿Es la #FIFA un ente imparcial o sus fallos responden a intereses ocultos, socavando la credibilidad del juego limpio que pregona?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "doble-vara-fifa-sanciona-argentina-otros-no",
+    "fecha": "2026-08-23",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: ¿Futuro negro? 6 de cada 10 esperan un empeoramiento económico",
+    "bajada": "Las expectativas económicas de los argentinos se desploman, revelando una profunda desconfianza en el futuro.",
+    "cuerpo": "La última encuesta sobre expectativas económicas pinta un panorama sombrío para Argentina: 6 de cada 10 ciudadanos creen que su situación personal empeorará en los próximos meses. Este dato es alarmante y refleja no solo la realidad actual de alta inflación y estancamiento, sino también la falta de esperanza en las políticas implementadas o por venir. La confianza en la economía, pilar fundamental para la inversión y el consumo, está por los suelos.\n\nEste pesimismo generalizado impacta directamente en el consumo, la inversión y la generación de empleo, creando un círculo vicioso difícil de romper. Mientras los discursos oficiales intentan mostrar signos de recuperación, la percepción ciudadana parece ir en dirección opuesta. ¿Qué medidas concretas se necesitan para revertir esta profunda crisis de expectativas y devolver la esperanza a los argentinos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "argentina-futuro-negro-expectativas-economicas",
+    "fecha": "2026-08-23",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Sobreviviendo en Argentina: la mitad de hogares no llega a fin de mes",
+    "bajada": "La precariedad económica obliga a casi la mitad de las familias argentinas a recurrir a ahorros o deudas para subsistir.",
+    "cuerpo": "La cruda realidad golpea a la mitad de los hogares argentinos: no logran llegar a fin de mes con sus ingresos, viéndose forzados a agotar ahorros o endeudarse para cubrir gastos esenciales. Esta cifra, que se repite y profundiza en diversos estudios, es un testimonio innegable de la creciente precariedad y la pérdida de poder adquisitivo que afecta a vastos sectores de la sociedad. La intervención estatal, lejos de solucionar, parece agravar el problema.\n\nMientras el Estado sigue expandiendo su gasto y la presión impositiva asfixia a los contribuyentes, las familias luchan por mantener una mínima estabilidad económica. La falta de un plan económico coherente y una disciplina fiscal clara contribuyen a esta crisis estructural. ¿Hasta cuándo podrán los hogares argentinos sostener esta situación insostenible antes de que la deuda y la desesperación se vuelvan la única salida?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "sobreviviendo-argentina-mitad-hogares-fin-mes",
+    "fecha": "2026-08-23",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Un sueño imposible? Argentina, de los peores para acceder a vivienda",
+    "bajada": "Adquirir una vivienda en Argentina se ha convertido en una quimera para la mayoría, ubicando al país entre los más inaccesibles del mundo.",
+    "cuerpo": "Argentina se consolida como uno de los países más difíciles para la compra de una vivienda, un reflejo más de la profunda distorsión económica y la ausencia de políticas de mercado eficientes. El acceso a una propiedad propia, pilar fundamental de la estabilidad familiar y el crecimiento personal, se ha transformado en un sueño casi inalcanzable para amplios sectores de la población. La inflación descontrolada, la inestabilidad macroeconómica y la falta de créditos hipotecarios hacen estragos.\n\nMientras la presión inflacionaria destruye el ahorro y los salarios pierden valor, el Estado no logra generar condiciones estables para el desarrollo de un mercado inmobiliario sano. La excesiva regulación y la falta de incentivos a la inversión privada sólo exacerban el problema. ¿Qué futuro le espera a una sociedad donde la casa propia es un lujo inalcanzable, y cómo recuperamos un mercado habitacional funcional?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "sueno-imposible-argentina-peores-acceder-vivienda",
+    "fecha": "2026-08-23",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Alerta sanitaria: La 'súper gripe' bate récords con más de 790 mil casos",
+    "bajada": "Argentina enfrenta una epidemia de gripe sin precedentes, superando los 790 mil contagios en lo que va del 2026.",
+    "cuerpo": "La salud pública argentina se encuentra en estado de alerta ante un brote de 'súper gripe' que ha alcanzado cifras récord: más de 790 mil casos se registraron en lo que va del 2026, superando el pico de la última década. Esta alarmante estadística pone en jaque la capacidad de respuesta del sistema sanitario y subraya la necesidad de una revisión profunda de las políticas de prevención y contención de enfermedades estacionales.\n\nLa saturación de los centros de salud y la preocupación ciudadana crecen, mientras el debate se centra en la eficiencia de las campañas de vacunación y las medidas preventivas. La falta de recursos adecuados y la burocracia estatal suelen ser un obstáculo. ¿Estamos preparados como sociedad y como Estado para enfrentar emergencias sanitarias de esta magnitud, o seguiremos reaccionando en lugar de prevenir eficazmente?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "alerta-sanitaria-super-gripe-record-contagios",
+    "fecha": "2026-08-23",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
     "titulo": "Economía de Milei: ¿Quién se beneficia si crece pero muchos empeoran?",
     "bajada": "El exministro Martín Guzmán enciende el debate sobre el impacto social del ajuste, pese al crecimiento macroeconómico.",
     "cuerpo": "Martín Guzmán, exministro de Economía, afirmó que \"con Milei la economía crece, pero muchísima gente está peor que antes\". Esta declaración reaviva una discusión central para nuestro país: ¿es sostenible un crecimiento que no se traduce en mejora para la base de la sociedad? La línea editorial de Panorama.ar siempre ha sostenido que la disciplina fiscal es fundamental, pero el desafío reside en cómo estas medidas impactan en el día a día de los ciudadanos, especialmente aquellos con ingresos fijos o en sectores más vulnerables. Los datos macroeconómicos pueden mostrar recuperación, pero la microeconomía de los hogares es la verdadera prueba de fuego.\n\nEl gobierno actual defiende su plan como necesario para sanear las cuentas públicas y sentar bases sólidas, argumentando que el costo del ajuste es una herencia del populismo y la emisión descontrolada de gestiones anteriores, donde figuras como el propio Guzmán tuvieron un rol. Sin embargo, la perspectiva de que \"muchísima gente está peor\" exige una mirada atenta. ¿Cuáles son los sectores más afectados y cómo el Estado, con sus recursos limitados, puede mitigar esos efectos sin desvirtuar el camino hacia la estabilidad?\n\nEs crucial recordar que la verdadera prosperidad a largo plazo emerge de un entorno de libertad económica, reducción de impuestos y seguridad jurídica, factores que fomentan la inversión y, finalmente, la creación de empleo genuino. Pero la transición es compleja. ¿Es el crecimiento actual un preludio a una mejora generalizada, o solo un espejismo para pocos mientras la mayoría aguarda un horizonte más prometedor? ¿Qué rol juega el ajuste heredado de la era Massa en esta ecuación?",
@@ -9,7 +93,7 @@
     "slug": "economia-de-milei-quien-se-beneficia-si-crece-pero-muchos-empeoran",
     "fecha": "2026-08-23",
     "imagen": "img/economia_3.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "2027: ¿El riesgo electoral ya impacta en los bonos argentinos?",
@@ -201,90 +285,6 @@
     "slug": "fifa-castiga-argentina-no-saber-perder-o-doble-vara",
     "fecha": "2026-08-23",
     "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Excusa o realidad? Milei y la herencia de la morosidad estatal",
-    "bajada": "El presidente Milei atribuye la morosidad estatal a gestiones pasadas, levantando dudas sobre las verdaderas causas y responsabilidades actuales.",
-    "cuerpo": "El presidente Javier Milei ha buscado eximir a su administración de la alta morosidad en Argentina, señalando directamente a los gobiernos anteriores como los únicos responsables de esta carga histórica. Según el mandatario, la deuda acumulada y los retrasos en los pagos a proveedores y acreedores son producto de décadas de mala gestión y despilfarro estatal, una narrativa que busca justificar las actuales medidas de ajuste fiscal y desregulación. Esta postura se alinea con la visión liberal de su gobierno, que enfatiza la necesidad de un Estado eficiente y austero.\n\nSin embargo, críticos de esta perspectiva argumentan que, si bien la herencia es innegable, cada gobierno tiene la responsabilidad de gestionar la situación y buscar soluciones activas, no solo delegar la culpa. Señalan que la recesión actual y la caída de la actividad económica podrían estar exacerbando el problema, afectando a miles de empresas y trabajadores que dependen de los pagos estatales. El debate central gira en torno a si la morosidad es solo un legado del pasado o si las políticas actuales también contribuyen a su persistencia.\n\n¿Es la excusa de la \"herencia\" suficiente para justificar la morosidad actual, o el gobierno debe asumir un rol más proactivo en su resolución?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "excusa-o-realidad-milei-y-la-herencia-de-la-morosidad-estatal",
-    "fecha": "2026-08-23",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Sacrificio pendiente? Abram y la eterna crisis económica argentina",
-    "bajada": "El economista Aldo Abram diagnostica décadas de negación y falta de reformas estructurales como el origen de los problemas económicos crónicos del país.",
-    "cuerpo": "Aldo Abram, reconocido economista con una marcada línea de pensamiento liberal, ha lanzado una dura crítica a la trayectoria económica argentina, afirmando que el país se ha \"negado durante décadas a hacer el sacrificio\" necesario para corregir su economía. Para Abram, este \"sacrificio\" se traduce en la implementación de reformas estructurales profundas, reducción del gasto público, apertura comercial y respeto a la propiedad privada, medidas que, según él, han sido postergadas por decisiones políticas cortoplacistas y una resistencia cultural al cambio. Esta visión resuena fuertemente con la línea editorial de Panorama.ar, que aboga por la disciplina fiscal y las reformas de mercado.\n\nLa argumentación de Abram sugiere que la constante búsqueda de \"atajos\" y la evasión de decisiones impopulares han perpetuado un ciclo de crisis y estancamiento. En contrapartida, sectores más intervencionistas suelen señalar que los \"sacrificios\" han recaído mayormente sobre los trabajadores y los sectores más vulnerables, sin una distribución equitativa de las cargas. Este punto de vista destaca la necesidad de un pacto social que contemple a todos los actores para lograr una salida sostenible.\n\n¿Estamos condenados a repetir los errores del pasado, o la sociedad argentina está finalmente lista para el \"sacrificio\" que exigen los economistas liberales?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "5 min",
-    "slug": "sacrificio-pendiente-abram-y-la-eterna-crisis-economica-argentina",
-    "fecha": "2026-08-23",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Salarios y empleo: ¿el nuevo termómetro de la angustia argentina?",
-    "bajada": "Sondeos recientes confirman que la pérdida de poder adquisitivo y la incertidumbre laboral dominan las preocupaciones de los ciudadanos.",
-    "cuerpo": "Los últimos sondeos de opinión pública revelan un preocupante cambio en la agenda de los argentinos: las preocupaciones sobre salarios y empleo han escalado posiciones, superando a la inflación como el principal desvelo. Este dato es alarmante, ya que sugiere que la sociedad no solo percibe una persistencia en la escalada de precios, sino también una severa erosión del poder adquisitivo y una creciente inestabilidad en el mercado laboral. La economía real golpea con fuerza, y las familias luchan por llegar a fin de mes, viendo cómo sus ingresos se licúan y las oportunidades de trabajo se reducen.\n\nEste escenario pone en jaque las promesas de recuperación económica y plantea serios desafíos para la estabilidad social. Mientras el gobierno insiste en la necesidad de los ajustes para sentar las bases de un crecimiento futuro, la ciudadanía experimenta las consecuencias directas de estas políticas en su día a día. La brecha entre los indicadores macroeconómicos y la realidad microeconómica se agranda, generando un clima de descontento que podría derivar en mayor conflictividad social.\n\n¿Podrán las políticas actuales revertir esta tendencia y restaurar la esperanza en un futuro con salarios dignos y empleo estable, o la paciencia de los argentinos tiene un límite?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "salarios-y-empleo-el-nuevo-termometro-de-la-angustia-argentina",
-    "fecha": "2026-08-23",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Natalidad en caída: ¿Argentina, un país de abuelos sin nietos?",
-    "bajada": "La drástica disminución de la natalidad transforma el futuro demográfico argentino, con graves implicancias sociales y económicas a largo plazo.",
-    "cuerpo": "Argentina enfrenta una preocupante y sostenida caída en su tasa de natalidad, un fenómeno que los expertos describen como una transición de una \"sociedad de nietos a una sociedad de abuelos\". Esta tendencia demográfica, que se acentúa en la última década, tiene profundas raíces en factores socioeconómicos, culturales y la evolución de los modelos familiares. La incertidumbre económica, la mayor participación femenina en el mercado laboral y el acceso a métodos anticonceptivos son algunas de las variables que inciden en la decisión de tener menos hijos o postergar la maternidad.\n\nLas implicancias de este cambio son vastas. A largo plazo, una población envejecida con menos jóvenes se traducirá en desafíos para el sistema previsional, el mercado laboral y la innovación. Menos trabajadores activos para sostener a más jubilados, escasez de mano de obra en ciertos sectores y una posible pérdida de dinamismo social son algunas de las advertencias que se ciernen sobre el país. Ignorar esta realidad sería un error estratégico con consecuencias irreversibles para el desarrollo nacional.\n\n¿Está la clase política y la sociedad argentina preparadas para afrontar los desafíos de una población en declive y la transformación de nuestra estructura familiar y social?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "natalidad-en-caida-argentina-un-pais-de-abuelos-sin-nietos",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Sanciones de la FIFA: ¿Fin de la impunidad para la Selección Argentina?",
-    "bajada": "La AFA enfrenta decisiones cruciales tras el severo castigo de la FIFA por los incidentes post-Mundial 2026. ¿Hay un límite para la permisividad?",
-    "cuerpo": "La FIFA ha dictado un duro veredicto, imponiendo sanciones significativas a la Selección Argentina y a jugadores clave por los lamentables incidentes tras la final del Mundial 2026. Este castigo, que incluye multas y suspensiones, es un recordatorio de que la disciplina deportiva no puede ser sacrificada por la euforia de la victoria. La imagen del fútbol argentino, y por extensión del país, se ve empañada por actitudes que, como señaló el diario Marca, evidencian \"no saber perder\".\n\nLa AFA ahora debe \"seguir los pasos\" indicados, lo que implica no solo acatar las sanciones sino también implementar medidas internas para evitar futuras reincidencias. ¿Se trata de una oportunidad para una autocrítica profunda sobre la conducta de los deportistas y el ejemplo que deben dar, o simplemente una penalización a cumplir sin mayor reflexión? La \"casta\" dirigencial y los propios jugadores tienen la responsabilidad de restaurar la credibilidad.\n\nEs fundamental que la dirigencia comprenda que la camiseta nacional representa valores y no solo talento. ¿Podrá la AFA transformar esta crisis en una lección de madurez deportiva y ética, o será otro episodio donde la impunidad parece prevalecer a pesar de los costos institucionales?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "sanciones-fifa-seleccion-argentina-impunidad",
-    "fecha": "2026-08-22",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "F1 y la FIA: ¿Argentina en el radar o solo un sueño costoso?",
-    "bajada": "Tras años de ausencia, Argentina se ilusiona con el regreso de la Fórmula 1. Pero, ¿estamos dispuestos a pagar el precio de la burocracia estatal?",
-    "cuerpo": "La presencia de la FIA en Buenos Aires reaviva la esperanza de ver la Fórmula 1 rugiendo nuevamente en Argentina. Este acercamiento representa una oportunidad para el país de reintegrarse en eventos deportivos globales de gran magnitud, atrayendo inversiones y turismo. Sin embargo, la historia nos ha enseñado que grandes eventos a menudo vienen con grandes costos, y la sombra de la intervención estatal excesiva y el gasto público desmedido acecha cualquier proyecto de esta envergadura.\n\nEl desafío es claro: ¿cómo garantizar un regreso sostenible de la F1 sin que se convierta en una carga para el contribuyente, evitando los vicios que alejaron a la categoría en el pasado? Si bien la pasión por la velocidad y figuras como #LandoNorris o #Gasly son un atractivo innegable, la prioridad debe ser la gestión eficiente y transparente, con un modelo que favorezca la inversión privada y no dependa de subsidios crónicos. Es fundamental que cualquier acuerdo con la FIA sea beneficioso para el país en su conjunto y no solo para unos pocos.\n\nEl sueño de un Gran Premio en casa es palpable, pero la realidad económica y la necesidad de disciplina fiscal no pueden ser ignoradas. ¿Será esta vez diferente, o Argentina volverá a tropezar con la misma piedra del despilfarro en busca de prestigio internacional?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "f1-fia-argentina-radar-sueno-costoso",
-    "fecha": "2026-08-22",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Raúl Martins: ¿Vuelve la sombra de los viejos poderes a la Argentina?",
-    "bajada": "El exespía Raúl Martins, prófugo por trata, regresa al país. Un recordatorio inquietante de un sistema que permite la impunidad.",
-    "cuerpo": "El arribo a Argentina de Raúl Martins, el exespía condenado y vinculado a una red de prostíbulos y trata de personas, es un capítulo más en la larga saga de impunidad que socava la confianza pública. Su fuga y posterior regreso plantean serios interrogantes sobre la eficacia de nuestras instituciones judiciales y la verdadera voluntad política para desmantelar estructuras de poder opacas y corruptas. Este caso no es un hecho aislado; es un síntoma de un \"deep state\" que persiste, desafiando a la justicia y a la sociedad.\n\nLa justicia argentina tiene ahora la oportunidad de demostrar que, más allá de la \"casta\" de funcionarios que pudo haberlo encubierto, el estado de derecho prevalece. Sin embargo, la demora en su extradición y las complejidades del proceso generan escepticismo. ¿Cuánto tiempo más tardará la justicia en cerrar este expediente y enviar una señal contundente contra quienes utilizan el poder para su beneficio ilícito, incluso a costa de las vidas de personas vulnerables?\n\nEl retorno de Martins debe ser un punto de inflexión. ¿Es este el momento en que Argentina finalmente confronta y desarticula las redes criminales que operan bajo el manto de la política y la inteligencia, o su presencia solo reafirma la fragilidad de nuestro sistema?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "raul-martins-sombra-viejos-poderes-argentina",
-    "fecha": "2026-08-22",
-    "imagen": "img/politica_3.png",
     "destacada": false
   }
 ]
