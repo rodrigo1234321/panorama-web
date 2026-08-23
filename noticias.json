@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¡Imparables! Las Leonas deslumbran al mundo: ¿el camino a la gloria?",
+    "bajada": "Con una actuación arrolladora ante España, el equipo nacional de hockey femenino confirma su dominio y avanza con firmeza en el Mundial 2026.",
+    "cuerpo": "Las Leonas han vuelto a demostrar por qué son una de las potencias mundiales del hockey femenino. Su aplastante victoria por 3-0 frente a España en el Mundial de 2026 no solo les aseguró un lugar en las semifinales, sino que también reafirmó su estrategia ofensiva y la solidez defensiva que las caracteriza. La brillante actuación, con goles clave y una presión constante, dejó pocas dudas sobre sus aspiraciones al título.\n\nEste triunfo resuena en un contexto donde el deporte argentino busca nuevas figuras y éxitos para inspirar. La disciplina, el compromiso y el talento de Las Leonas son un ejemplo a seguir, no solo en la cancha, sino como modelo de equipo y dedicación. En un país ávido de buenas noticias, el desempeño de este seleccionado femenino ofrece un respiro y un motivo de orgullo nacional.\n\n¿Podrá este equipo consolidar su legado y traer la copa a casa, demostrando que la constancia supera cualquier obstáculo?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "imparables-las-leonas-deslumbran-al-mundo",
+    "fecha": "2026-08-23",
+    "imagen": "img/sociedad_3.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿Retroceso o pragmatismo? La polémica postura de Milei en la OEA",
+    "bajada": "El gobierno argentino rechazó una declaración sobre el \"Nunca Más\" en la OEA, desatando un intenso debate sobre memoria y política exterior.",
+    "cuerpo": "La decisión del gobierno de Javier Milei de bloquear una declaración de la OEA que incluía la frase \"Nunca Más\", en referencia a las violaciones a los derechos humanos, ha generado una fuerte controversia tanto a nivel nacional como internacional. Desde el oficialismo se argumenta que la postura busca despolitizar la agenda de derechos humanos y enfocarla en el presente y futuro, evitando instrumentalizaciones ideológicas. Esta visión choca frontalmente con sectores de la oposición y organismos de derechos humanos, que ven en la frase un pilar fundamental de la democracia argentina, forjado tras la última dictadura.\n\nEl incidente no es menor, ya que posiciona a Argentina en un escenario diplomático delicado y reaviva discusiones históricas sobre el rol del Estado en la memoria colectiva. Mientras algunos critican una presunta \"negacionismo\" o revisión histórica, otros defienden la soberanía de cada gobierno para definir su propia agenda y narrativa. La administración actual parece decidida a marcar un quiebre con las políticas de gobiernos anteriores, incluso en temas tan sensibles como los derechos humanos.\n\n¿Es la postura del gobierno un intento de reescribir la historia o una búsqueda de un nuevo equilibrio en la política internacional que priorice otros valores?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "retroceso-o-pragmatismo-la-polemica-postura-de-milei-en-la-oea",
+    "fecha": "2026-08-23",
+    "imagen": "img/politica_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "FIFA castiga a Argentina: ¿\"no saber perder\" o doble vara?",
+    "bajada": "La lapidaria crítica internacional y las sanciones de la FIFA sacuden al fútbol argentino, reabriendo el debate sobre el comportamiento en la derrota.",
+    "cuerpo": "La FIFA ha impuesto duras sanciones a la Selección Argentina, incluyendo multas económicas significativas y la suspensión de jugadores clave como Paredes por diez fechas, a raíz de incidentes ocurridos en partidos recientes. La reacción de la prensa internacional no se hizo esperar, con titulares como el del diario Marca que tildan el accionar argentino de \"no saber perder\", generando un eco profundo en el sentimiento nacional. Esta crítica exterior, aunque severa, plantea una oportunidad para reflexionar sobre la conducta de los equipos y la dirigencia en la alta competencia.\n\nDesde la AFA se ha manifestado disconformidad con las medidas, argumentando que las sanciones son desproporcionadas y que existe una \"doble vara\" al evaluar incidentes similares en otras selecciones. Este argumento no es menor y merece análisis: ¿son las reglas aplicadas de forma equitativa o Argentina es observada con un ojo más crítico? La polémica trasciende el ámbito deportivo, tocando fibras sensibles de la identidad nacional y el rol que juega el fútbol en ella.\n\n¿Es esta sanción un merecido llamado de atención o una injusticia que busca minar la moral de un campeón mundial?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "fifa-castiga-argentina-no-saber-perder-o-doble-vara",
+    "fecha": "2026-08-23",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Excusa o realidad? Milei y la herencia de la morosidad estatal",
+    "bajada": "El presidente Milei atribuye la morosidad estatal a gestiones pasadas, levantando dudas sobre las verdaderas causas y responsabilidades actuales.",
+    "cuerpo": "El presidente Javier Milei ha buscado eximir a su administración de la alta morosidad en Argentina, señalando directamente a los gobiernos anteriores como los únicos responsables de esta carga histórica. Según el mandatario, la deuda acumulada y los retrasos en los pagos a proveedores y acreedores son producto de décadas de mala gestión y despilfarro estatal, una narrativa que busca justificar las actuales medidas de ajuste fiscal y desregulación. Esta postura se alinea con la visión liberal de su gobierno, que enfatiza la necesidad de un Estado eficiente y austero.\n\nSin embargo, críticos de esta perspectiva argumentan que, si bien la herencia es innegable, cada gobierno tiene la responsabilidad de gestionar la situación y buscar soluciones activas, no solo delegar la culpa. Señalan que la recesión actual y la caída de la actividad económica podrían estar exacerbando el problema, afectando a miles de empresas y trabajadores que dependen de los pagos estatales. El debate central gira en torno a si la morosidad es solo un legado del pasado o si las políticas actuales también contribuyen a su persistencia.\n\n¿Es la excusa de la \"herencia\" suficiente para justificar la morosidad actual, o el gobierno debe asumir un rol más proactivo en su resolución?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "excusa-o-realidad-milei-y-la-herencia-de-la-morosidad-estatal",
+    "fecha": "2026-08-23",
+    "imagen": "img/politica_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Sacrificio pendiente? Abram y la eterna crisis económica argentina",
+    "bajada": "El economista Aldo Abram diagnostica décadas de negación y falta de reformas estructurales como el origen de los problemas económicos crónicos del país.",
+    "cuerpo": "Aldo Abram, reconocido economista con una marcada línea de pensamiento liberal, ha lanzado una dura crítica a la trayectoria económica argentina, afirmando que el país se ha \"negado durante décadas a hacer el sacrificio\" necesario para corregir su economía. Para Abram, este \"sacrificio\" se traduce en la implementación de reformas estructurales profundas, reducción del gasto público, apertura comercial y respeto a la propiedad privada, medidas que, según él, han sido postergadas por decisiones políticas cortoplacistas y una resistencia cultural al cambio. Esta visión resuena fuertemente con la línea editorial de Panorama.ar, que aboga por la disciplina fiscal y las reformas de mercado.\n\nLa argumentación de Abram sugiere que la constante búsqueda de \"atajos\" y la evasión de decisiones impopulares han perpetuado un ciclo de crisis y estancamiento. En contrapartida, sectores más intervencionistas suelen señalar que los \"sacrificios\" han recaído mayormente sobre los trabajadores y los sectores más vulnerables, sin una distribución equitativa de las cargas. Este punto de vista destaca la necesidad de un pacto social que contemple a todos los actores para lograr una salida sostenible.\n\n¿Estamos condenados a repetir los errores del pasado, o la sociedad argentina está finalmente lista para el \"sacrificio\" que exigen los economistas liberales?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "5 min",
+    "slug": "sacrificio-pendiente-abram-y-la-eterna-crisis-economica-argentina",
+    "fecha": "2026-08-23",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Salarios y empleo: ¿el nuevo termómetro de la angustia argentina?",
+    "bajada": "Sondeos recientes confirman que la pérdida de poder adquisitivo y la incertidumbre laboral dominan las preocupaciones de los ciudadanos.",
+    "cuerpo": "Los últimos sondeos de opinión pública revelan un preocupante cambio en la agenda de los argentinos: las preocupaciones sobre salarios y empleo han escalado posiciones, superando a la inflación como el principal desvelo. Este dato es alarmante, ya que sugiere que la sociedad no solo percibe una persistencia en la escalada de precios, sino también una severa erosión del poder adquisitivo y una creciente inestabilidad en el mercado laboral. La economía real golpea con fuerza, y las familias luchan por llegar a fin de mes, viendo cómo sus ingresos se licúan y las oportunidades de trabajo se reducen.\n\nEste escenario pone en jaque las promesas de recuperación económica y plantea serios desafíos para la estabilidad social. Mientras el gobierno insiste en la necesidad de los ajustes para sentar las bases de un crecimiento futuro, la ciudadanía experimenta las consecuencias directas de estas políticas en su día a día. La brecha entre los indicadores macroeconómicos y la realidad microeconómica se agranda, generando un clima de descontento que podría derivar en mayor conflictividad social.\n\n¿Podrán las políticas actuales revertir esta tendencia y restaurar la esperanza en un futuro con salarios dignos y empleo estable, o la paciencia de los argentinos tiene un límite?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "salarios-y-empleo-el-nuevo-termometro-de-la-angustia-argentina",
+    "fecha": "2026-08-23",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Natalidad en caída: ¿Argentina, un país de abuelos sin nietos?",
+    "bajada": "La drástica disminución de la natalidad transforma el futuro demográfico argentino, con graves implicancias sociales y económicas a largo plazo.",
+    "cuerpo": "Argentina enfrenta una preocupante y sostenida caída en su tasa de natalidad, un fenómeno que los expertos describen como una transición de una \"sociedad de nietos a una sociedad de abuelos\". Esta tendencia demográfica, que se acentúa en la última década, tiene profundas raíces en factores socioeconómicos, culturales y la evolución de los modelos familiares. La incertidumbre económica, la mayor participación femenina en el mercado laboral y el acceso a métodos anticonceptivos son algunas de las variables que inciden en la decisión de tener menos hijos o postergar la maternidad.\n\nLas implicancias de este cambio son vastas. A largo plazo, una población envejecida con menos jóvenes se traducirá en desafíos para el sistema previsional, el mercado laboral y la innovación. Menos trabajadores activos para sostener a más jubilados, escasez de mano de obra en ciertos sectores y una posible pérdida de dinamismo social son algunas de las advertencias que se ciernen sobre el país. Ignorar esta realidad sería un error estratégico con consecuencias irreversibles para el desarrollo nacional.\n\n¿Está la clase política y la sociedad argentina preparadas para afrontar los desafíos de una población en declive y la transformación de nuestra estructura familiar y social?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "natalidad-en-caida-argentina-un-pais-de-abuelos-sin-nietos",
+    "fecha": "2026-08-23",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
     "titulo": "Sanciones de la FIFA: ¿Fin de la impunidad para la Selección Argentina?",
     "bajada": "La AFA enfrenta decisiones cruciales tras el severo castigo de la FIFA por los incidentes post-Mundial 2026. ¿Hay un límite para la permisividad?",
     "cuerpo": "La FIFA ha dictado un duro veredicto, imponiendo sanciones significativas a la Selección Argentina y a jugadores clave por los lamentables incidentes tras la final del Mundial 2026. Este castigo, que incluye multas y suspensiones, es un recordatorio de que la disciplina deportiva no puede ser sacrificada por la euforia de la victoria. La imagen del fútbol argentino, y por extensión del país, se ve empañada por actitudes que, como señaló el diario Marca, evidencian \"no saber perder\".\n\nLa AFA ahora debe \"seguir los pasos\" indicados, lo que implica no solo acatar las sanciones sino también implementar medidas internas para evitar futuras reincidencias. ¿Se trata de una oportunidad para una autocrítica profunda sobre la conducta de los deportistas y el ejemplo que deben dar, o simplemente una penalización a cumplir sin mayor reflexión? La \"casta\" dirigencial y los propios jugadores tienen la responsabilidad de restaurar la credibilidad.\n\nEs fundamental que la dirigencia comprenda que la camiseta nacional representa valores y no solo talento. ¿Podrá la AFA transformar esta crisis en una lección de madurez deportiva y ética, o será otro episodio donde la impunidad parece prevalecer a pesar de los costos institucionales?",
@@ -9,7 +93,7 @@
     "slug": "sanciones-fifa-seleccion-argentina-impunidad",
     "fecha": "2026-08-22",
     "imagen": "img/politica_1.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "F1 y la FIA: ¿Argentina en el radar o solo un sueño costoso?",
@@ -201,90 +285,6 @@
     "slug": "defensa-argentina-avanza-compra-235-stryker-inversion-necesaria-gasto-sin-rumbo",
     "fecha": "2026-08-22",
     "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Salarios y empleo: ¿el fracaso de la gestión Massa se consolida en la preocupación ciudadana?",
-    "bajada": "Sondeos revelan que los salarios y el empleo superan a la inflación como principal desvelo de los argentinos.",
-    "cuerpo": "Los últimos sondeos de opinión pública son contundentes: la preocupación por los salarios y el empleo ha desplazado a la inflación como principal desvelo de los argentinos. Este giro no es menor y expone el deterioro de la calidad de vida, incluso para quienes mantienen su puesto de trabajo. La pérdida de poder adquisitivo y la dificultad para encontrar nuevas oportunidades laborales o mejoras salariales, evidencian el estancamiento de una economía asfixiada por la intervención estatal y la presión impositiva.\n\nEste escenario crítico es un claro reflejo de la ineficacia de las políticas económicas recientes, muchas de ellas impulsadas bajo la órbita de Massa y su equipo. La promesa de estabilidad y crecimiento se diluye frente a una realidad donde los ciudadanos luchan por llegar a fin de mes. Mientras el discurso oficial se centra en números macroeconómicos, la gente percibe una economía que no genera riqueza ni oportunidades. ¿Hasta cuándo se ignorará el clamor popular por una economía más libre y menos regulada, que genere verdadero empleo y salarios dignos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "salarios-empleo-fracaso-gestion-massa-consolidado-preocupacion-ciudadana",
-    "fecha": "2026-08-22",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "CEPAL pronostica crecimiento, ¿pero a qué costo? Las distorsiones de la economía argentina.",
-    "bajada": "Un informe de la Cepal proyecta un crecimiento del 3,3% para Argentina, pero advierte sobre un \"elemento clave\" que nos diferencia.",
-    "cuerpo": "El reciente informe de la Cepal pronostica un crecimiento del 3,3% para la economía argentina este año, un dato que a primera vista podría parecer alentador. Sin embargo, el mismo organismo advierte sobre un \"elemento clave\" que diferencia a Argentina de otros países de la región: la profunda inestabilidad macroeconómica y las distorsiones estructurales. Este \"crecimiento\" se da en un contexto de alta inflación, fuerte presión impositiva y una intervención estatal que ahoga la inversión privada, impidiendo un desarrollo sostenible y genuino.\n\nDesde nuestra mirada, un crecimiento basado en la manipulación de variables o en el aumento del gasto público no es un signo de fortaleza, sino de fragilidad. La \"casta\" política, incluyendo figuras como Massa en la gestión económica, ha recurrido históricamente a parches en lugar de reformas estructurales que promuevan la disciplina fiscal y la libertad de mercado. ¿De qué sirve un número de crecimiento si no se traduce en prosperidad real, reducción de la pobreza y un alivio para la carga del contribuyente? La clave está en la calidad de ese crecimiento, no solo en su magnitud.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "cepal-pronostica-crecimiento-costo-distorsiones-economia-argentina",
-    "fecha": "2026-08-22",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Alquileres: ¿dónde es realmente barato vivir en Argentina, o es solo una ilusión?",
-    "bajada": "Un estudio revela la ciudad argentina con los alquileres más accesibles, pero la realidad del mercado sigue siendo un desafío.",
-    "cuerpo": "En medio de una crisis habitacional que golpea a millones de argentinos, un reciente informe destaca cuál sería la ciudad con los alquileres más baratos del país en agosto de 2026. Si bien este dato podría ofrecer un respiro a quienes buscan precios más accesibles, la realidad macroeconómica y la distorsión del mercado inmobiliario por regulaciones excesivas, como la fallida Ley de Alquileres, pintan un panorama general desolador. La intervención estatal constante y las cargas impositivas solo han logrado contraer la oferta y encarecer el acceso a la vivienda, en lugar de facilitar soluciones.\n\nLa búsqueda de \"gangas\" en un mercado intervenido es una muestra de la desesperación ciudadana. Mientras la \"casta\" política debate normativas que ahuyentan la inversión, los ciudadanos deben migrar o ajustarse a condiciones cada vez más precarias. Es hora de reconocer que la única forma de resolver el problema habitacional es desregular, incentivar la oferta y reducir la carga fiscal sobre la propiedad. ¿Seguiremos buscando islas de \"baratismo\" en un mar de costos elevados, o exigiremos reformas de fondo que beneficien a todos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "alquileres-donde-realmente-barato-vivir-argentina-o-es-solo-ilusion",
-    "fecha": "2026-08-22",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Casa de la Argentina en París: ¿negligencia estatal o desinterés de la \"casta\"?",
-    "bajada": "El reclamo del Ayuntamiento de París por el estado de la Casa de la Argentina expone un posible abandono de nuestro patrimonio en el exterior.",
-    "cuerpo": "La noticia de que el Ayuntamiento de París ha reclamado formalmente al canciller francés por el estado de la Casa de la Argentina en la Ciudad Universitaria internacional de la capital gala es una señal alarmante. Este icónico edificio, símbolo de la presencia cultural y académica argentina en Europa, parece sufrir las consecuencias de la desidia y la falta de mantenimiento. Un reclamo de esta índole desde una autoridad extranjera es un claro indicio de que el Estado argentino, a través de sus distintas administraciones, ha fallado en la custodia y valoración de su propio patrimonio.\n\nEsta situación no solo es una vergüenza a nivel diplomático y cultural, sino que también revela una triste constante de la \"casta\" política argentina: la incapacidad para gestionar eficientemente los recursos y activos del país, incluso aquellos que representan nuestra imagen en el mundo. Mientras se discuten gastos superfluos a nivel local, edificios como este caen en el abandono, afectando nuestra reputación internacional. ¿Es la Casa de la Argentina en París un mero inmueble a olvidar, o un espejo de la desidia que padece el país internamente?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "casa-argentina-paris-negligencia-estatal-desinteres-casta",
-    "fecha": "2026-08-22",
-    "imagen": "img/politica_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La #FIFA sanciona a la Selección por Malvinas: ¿Censura o doble vara?",
-    "bajada": "La máxima autoridad del fútbol mundial castiga a Argentina por un mensaje soberano. Un debate sobre reglas, patriotismo y la autoridad deportiva.",
-    "cuerpo": "La reciente sanción de la #FIFA a la Selección Argentina por exhibir una bandera con la leyenda \"Las Malvinas son Argentinas\" durante el Mundial reaviva un viejo debate. Mientras algunos consideran el acto una legítima expresión de soberanía nacional, la FIFA lo interpreta como una transgresión a su normativa que prohíbe mensajes políticos en eventos deportivos. Este incidente, lejos de ser aislado, pone en evidencia la delgada línea entre el deporte y la política, y genera interrogantes sobre la supuesta neutralidad de los organismos internacionales.\n\n¿Es la FIFA coherente en su aplicación de normas o aplica una doble vara según los intereses en juego? La indignación popular se siente, pero las arcas del fútbol tienen sus propias reglas. ¿Se está priorizando la imagen global sobre la identidad y los reclamos históricos de una nación?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fifa-sanciona-seleccion-malvinas-censura-doble-vara",
-    "fecha": "2026-08-22",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "#FIFA: Duras sanciones a jugadores de la Selección, ¿justicia tardía o ensañamiento?",
-    "bajada": "Dos futbolistas de la Albiceleste reciben castigos \"gravísimos\" por incidentes post-Mundial 2026. La sombra de la FIFA vuelve a caer sobre Argentina.",
-    "cuerpo": "La noticia de \"gravísimas sanciones\" impuestas por la #FIFA a dos jugadores de la Selección Argentina por incidentes ocurridos tras la final del Mundial 2026 sacude el ambiente deportivo. Si bien no se detallan los nombres, la decisión genera un intenso debate sobre el rigor de la justicia deportiva y el timing de estos castigos. ¿Es una medida necesaria para mantener la disciplina o un ejemplo de cómo los organismos supranacionales ejercen su poder con mano dura sobre los actores principales?\n\nEste episodio, que se suma a otras sanciones recientes de la FIFA a la federación argentina, plantea interrogantes sobre la relación entre el ente rector del fútbol y las asociaciones nacionales. ¿Se busca un escarmiento ejemplar o existe un trasfondo de tensiones que la opinión pública desconoce?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fifa-sanciones-jugadores-seleccion-justicia-ensaniamiento",
-    "fecha": "2026-08-22",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Compra de Stryker: ¿Defensa necesaria o gasto exorbitante que Argentina no puede pagar?",
-    "bajada": "La adquisición de 235 tanques de guerra a EE.UU. por una \"exorbitante suma\" genera dudas sobre las prioridades del gasto público en tiempos de ajuste.",
-    "cuerpo": "La confirmación de que Argentina ha comprado 235 vehículos blindados Stryker a Estados Unidos por una \"exorbitante suma\" pone en el centro del debate la gestión de los recursos públicos. En un contexto de austeridad y búsqueda de equilibrio fiscal, la inversión millonaria en equipamiento militar levanta voces críticas. Mientras el gobierno argumenta la necesidad de modernizar las Fuerzas Armadas para garantizar la defensa nacional, sectores de la oposición y analistas económicos cuestionan si este es el momento adecuado y si el costo-beneficio justifica una erogación tan significativa.\n\nLa transparencia en este tipo de operaciones es crucial. ¿Se priorizan los intereses estratégicos o hay una oportunidad para reevaluar la asignación de fondos en otras áreas urgentes como la salud o la educación? El contribuyente argentino espera respuestas claras sobre la justificación de una compra que impacta directamente en las arcas del Estado. ¿Estamos ante una necesidad imperiosa o una decisión política que merece un análisis más profundo?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "compra-stryker-defensa-gasto-argentina-puede-pagar",
-    "fecha": "2026-08-22",
-    "imagen": "img/politica_2.png",
     "destacada": false
   }
 ]
