@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "FIFA: ¿Fin de la impunidad para jugadores de la Selección Argentina?",
+    "bajada": "Duras sanciones de FIFA sacuden al fútbol nacional tras incidentes post-Mundial, poniendo en jaque el comportamiento de nuestras estrellas.",
+    "cuerpo": "La reciente decisión de la FIFA de aplicar gravísimas sanciones a dos jugadores de la Selección Argentina por incidentes ocurridos tras la final del Mundial 2026, marca un precedente ineludible. Este castigo, que según TyC Sports apunta a un \"comportamiento inaceptable\", debería forzar una reflexión profunda sobre la responsabilidad que conlleva representar al país. ¿Es hora de exigir más allá del rendimiento deportivo?\n\nSi bien el fanatismo puede nublar el juicio, es fundamental que las figuras públicas, especialmente aquellas con un impacto masivo como los futbolistas de la Selección, entiendan que sus acciones tienen consecuencias que trascienden el campo de juego. Este tipo de incidentes, que empañan la imagen de Argentina, no solo afectan a los implicados sino a todo el deporte nacional. ¿Hasta cuándo se tolerará la falta de profesionalismo fuera de las canchas?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "fifa-fin-impunidad-jugadores-seleccion-argentina",
+    "fecha": "2026-08-24",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Otro feriado para el \"ajuste\"? Milei y la visita del Papa",
+    "bajada": "Mientras se habla de austeridad, el Gobierno de Javier Milei evalúa un asueto que costaría millones. ¿Prioridades claras o populismo religioso?",
+    "cuerpo": "La noticia de que Javier Milei evalúa decretar asueto o feriado nacional por la visita del papa León XIV a Argentina en 2026 genera un fuerte interrogante. En un contexto de “motosierra” y ajuste fiscal, donde cada peso cuenta para estabilizar la economía, ¿es justificable paralizar el país, incluso por un evento de relevancia espiritual? El costo económico de un feriado se mide en miles de millones de pesos perdidos en productividad.\n\nDesde el Gobierno se argumentará la importancia cultural o religiosa del evento, y la afluencia de mendocinos a Córdoba para la visita del Papa, como reportan Los Andes, muestra el interés popular. Sin embargo, la línea editorial de Panorama.ar siempre ha sido crítica con la presión impositiva y el gasto público. ¿Es un asueto la mejor señal que puede dar una administración que prometió achicar el Estado y no ceder ante \"la casta\"? Es hora de definir si la austeridad es un principio inquebrantable o una herramienta flexible según la ocasión.",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "otro-feriado-ajuste-milei-visita-papa",
+    "fecha": "2026-08-24",
+    "imagen": "img/politica_4.png",
+    "destacada": true
+  },
+  {
+    "titulo": "Fórmula 1: ¿Oportunidad de Estado o show político para Milei?",
+    "bajada": "Argentina vuelve al radar de la Fórmula 1 con un Congreso FIA, y la presencia presidencial genera expectativas. ¿Es inversión o distracción?",
+    "cuerpo": "La noticia de que Argentina será sede del Congreso Americano de la FIA, un evento clave para el automovilismo continental y la Fórmula 1, es sin duda una oportunidad para el país. Que Javier Milei esté presente en la apertura, como reporta La Nación, puede interpretarse como un gesto de apoyo a la inversión y al posicionamiento internacional. Sin embargo, la línea entre la promoción del Estado y el uso político de un evento de estas características es delgada.\n\nSi bien el automovilismo genera entusiasmo y Argentina tiene una rica historia en el deporte motor, la clave es si este tipo de eventos se traducen en beneficios concretos para los ciudadanos, más allá de la visibilidad. ¿Estamos ante una verdadera estrategia de desarrollo turístico y económico, o es una movida más para capitalizar la imagen del Presidente en un ámbito internacional, mientras la economía doméstica sigue siendo un desafío? El \"radar de la Fórmula 1\" debe traer más que solo flashes.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "formula-1-oportunidad-estado-show-politico-milei",
+    "fecha": "2026-08-24",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Supermercados: ¿El consumo argentino en caída libre?",
+    "bajada": "Datos alarmantes: 22 de 24 distritos argentinos con facturación de supermercados por debajo de los últimos 8 años. La señal de una recesión profunda.",
+    "cuerpo": "Los datos de Infobae son contundentes: en 22 de los 24 distritos de Argentina, la facturación de los supermercados se encuentra por debajo del promedio de los últimos ocho años. Esta cifra es un indicador innegable del deterioro del poder adquisitivo y la contracción del consumo, reflejando una recesión que golpea directamente a las familias. Panorama.ar siempre ha sostenido que la presión impositiva y la inflación son los mayores obstáculos para el desarrollo económico.\n\nFrente a este escenario, es crucial un análisis honesto de las políticas económicas. Mientras algunos sectores pueden argumentar que la contracción es un paso necesario para sanear las cuentas, la realidad es que el bolsillo del ciudadano común es el que sufre. ¿Hasta cuándo se podrá sostener un esquema donde la gente tiene menos para consumir? Es fundamental que el Gobierno impulse reformas de mercado que incentiven la producción y el empleo genuino, aliviando la carga fiscal sobre los trabajadores y las empresas.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "supermercados-consumo-argentino-caida-libre",
+    "fecha": "2026-08-24",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Récord de \"Súper Gripe\": ¿Colapsa la salud pública en Argentina?",
+    "bajada": "Más de 790 mil casos en 2026 marcan un récord histórico para la \"súper gripe\". Un llamado de atención urgente al sistema de salud y la prevención.",
+    "cuerpo": "La \"súper gripe\" ha alcanzado un récord alarmante en Argentina con más de 790 mil casos en 2026, superando el pico de la última década, según reporta Diario El Día de La Plata. Esta cifra no es solo un dato estadístico, sino un reflejo de la presión que soporta el sistema de salud público y privado. Mientras la atención mediática suele enfocarse en la economía, la salud de la población, base de cualquier productividad, parece quedar en segundo plano.\n\nLa prevención y una gestión eficiente de los recursos sanitarios son esenciales para evitar estas crisis. ¿Se están invirtiendo los fondos necesarios y de manera efectiva en campañas de vacunación y concientización? O, por el contrario, ¿la burocracia y la ineficiencia estatal están contribuyendo a que un problema de salud pública se transforme en una emergencia nacional? Es tiempo de que el Estado demuestre su capacidad para proteger a los ciudadanos, más allá de la retórica.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "record-super-gripe-colapsa-salud-publica-argentina",
+    "fecha": "2026-08-24",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Campeón del Mundo con Argentina: ¿Más allá del éxito y la fama?",
+    "bajada": "La historia de un ex-futbolista de la Selección Argentina que, tras tocar la gloria mundial, elige una vida alejada de los reflectores. Un análisis del valor de la privacidad.",
+    "cuerpo": "La fascinante historia de un campeón del mundo con Argentina, que tras una exitosa carrera decide vivir alejado de la fama, se casa con una ex \"Chiquititas\" y busca la tranquilidad, según relata Ambito, nos invita a reflexionar. En un país donde el fútbol es una pasión y sus ídolos son deidades, ¿qué lleva a una figura de tal calibre a renunciar al estrellato mediático? Es una elección que contrasta con la sobreexposición constante de muchas otras figuras públicas, incluyendo a jugadores actuales como #Julián o #MarcosRojo.\n\nEste caso resalta la presión inmensa que la sociedad y los medios ejercen sobre nuestros deportistas. Más allá del brillo de las victorias, la vida post-carrera puede ser un desafío. ¿Estamos respetando la privacidad de aquellos que nos dieron tantas alegrías, o los convertimos en un producto de consumo constante? La verdadera libertad, a veces, se encuentra en la capacidad de decir \"basta\" al ruido y reconstruir una vida propia lejos del escrutinio público.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "campeon-mundo-argentina-mas-alla-exito-fama",
+    "fecha": "2026-08-24",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El Niño: ¿Argentina preparada para la próxima catástrofe climática?",
+    "bajada": "Las advertencias sobre lluvias intensas e inundaciones por el fenómeno El Niño exigen una mirada crítica a la preparación del Estado y la infraestructura.",
+    "cuerpo": "Las advertencias de Página|12 sobre el fenómeno El Niño y sus posibles consecuencias devastadoras —lluvias intensas, inundaciones y deslizamientos— en distintas zonas de Argentina, nos obligan a una pregunta incómoda: ¿está nuestro país realmente preparado para afrontar una catástrofe climática de esta magnitud? Año tras año, las deficiencias en infraestructura y la falta de planificación a largo plazo dejan a miles de argentinos a merced de la naturaleza.\n\nMientras los discursos políticos se centran en otras agendas, la realidad es que la inversión en prevención, como la limpieza de cauces, la construcción de defensas y la implementación de sistemas de alerta temprana, es un costo menor comparado con las pérdidas humanas y materiales que generan las inundaciones. ¿Es el Estado, con su recurrente ineficiencia y burocracia, capaz de proteger a sus ciudadanos? La respuesta a esta \"súper gripe\" climática debería ser una acción proactiva, no una reacción tardía a la desesperación.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "el-nino-argentina-preparada-catastrofe-climatica",
+    "fecha": "2026-08-24",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
     "titulo": "Sanciones a jugadores argentinos: ¿Indisciplina post Mundial 2026 o caza de brujas?",
     "bajada": "La FIFA confirmó duras penas tras los incidentes de la final. Un golpe bajo para el futuro de la Albiceleste y la imagen nacional.",
     "cuerpo": "La FIFA ha dictaminado graves sanciones para dos jugadores argentinos de la Selección Nacional por los incidentes ocurridos tras la final del Mundial 2026. Esta medida, que llega como un balde de agua fría, impacta directamente en la planificación deportiva y en la imagen de la Argentina a nivel global. Las versiones extraoficiales hablan de altercados y faltas a la disciplina, aunque los detalles específicos aún son difusos.\n\n\"Panorama.ar\" se pregunta sobre la responsabilidad individual y colectiva. ¿Es esta una señal de mano dura necesaria para el orden, o una respuesta desmedida que afecta el espíritu de los campeones? Mientras algunos abogan por la ejemplaridad, otros claman por un análisis más profundo de las circunstancias y el contexto de alta tensión post-partido. Es fundamental que la AFA aclare la situación para evitar especulaciones que dañen aún más el prestigio de nuestros talentos. ¿Estamos viendo un endurecimiento de la disciplina que busca sentar un precedente, o una reacción desproporcionada que castiga a los referentes del fútbol nacional?",
@@ -9,7 +93,7 @@
     "slug": "sanciones-jugadores-argentinos-mundial-2026",
     "fecha": "2026-08-24",
     "imagen": "img/sociedad_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "¿Feriado por el Papa León XIV? Milei en la encrucijada del gasto público",
@@ -201,90 +285,6 @@
     "slug": "doble-vara-fifa-sanciona-argentina-otros-no",
     "fecha": "2026-08-23",
     "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina: ¿Futuro negro? 6 de cada 10 esperan un empeoramiento económico",
-    "bajada": "Las expectativas económicas de los argentinos se desploman, revelando una profunda desconfianza en el futuro.",
-    "cuerpo": "La última encuesta sobre expectativas económicas pinta un panorama sombrío para Argentina: 6 de cada 10 ciudadanos creen que su situación personal empeorará en los próximos meses. Este dato es alarmante y refleja no solo la realidad actual de alta inflación y estancamiento, sino también la falta de esperanza en las políticas implementadas o por venir. La confianza en la economía, pilar fundamental para la inversión y el consumo, está por los suelos.\n\nEste pesimismo generalizado impacta directamente en el consumo, la inversión y la generación de empleo, creando un círculo vicioso difícil de romper. Mientras los discursos oficiales intentan mostrar signos de recuperación, la percepción ciudadana parece ir en dirección opuesta. ¿Qué medidas concretas se necesitan para revertir esta profunda crisis de expectativas y devolver la esperanza a los argentinos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "argentina-futuro-negro-expectativas-economicas",
-    "fecha": "2026-08-23",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Sobreviviendo en Argentina: la mitad de hogares no llega a fin de mes",
-    "bajada": "La precariedad económica obliga a casi la mitad de las familias argentinas a recurrir a ahorros o deudas para subsistir.",
-    "cuerpo": "La cruda realidad golpea a la mitad de los hogares argentinos: no logran llegar a fin de mes con sus ingresos, viéndose forzados a agotar ahorros o endeudarse para cubrir gastos esenciales. Esta cifra, que se repite y profundiza en diversos estudios, es un testimonio innegable de la creciente precariedad y la pérdida de poder adquisitivo que afecta a vastos sectores de la sociedad. La intervención estatal, lejos de solucionar, parece agravar el problema.\n\nMientras el Estado sigue expandiendo su gasto y la presión impositiva asfixia a los contribuyentes, las familias luchan por mantener una mínima estabilidad económica. La falta de un plan económico coherente y una disciplina fiscal clara contribuyen a esta crisis estructural. ¿Hasta cuándo podrán los hogares argentinos sostener esta situación insostenible antes de que la deuda y la desesperación se vuelvan la única salida?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "sobreviviendo-argentina-mitad-hogares-fin-mes",
-    "fecha": "2026-08-23",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Un sueño imposible? Argentina, de los peores para acceder a vivienda",
-    "bajada": "Adquirir una vivienda en Argentina se ha convertido en una quimera para la mayoría, ubicando al país entre los más inaccesibles del mundo.",
-    "cuerpo": "Argentina se consolida como uno de los países más difíciles para la compra de una vivienda, un reflejo más de la profunda distorsión económica y la ausencia de políticas de mercado eficientes. El acceso a una propiedad propia, pilar fundamental de la estabilidad familiar y el crecimiento personal, se ha transformado en un sueño casi inalcanzable para amplios sectores de la población. La inflación descontrolada, la inestabilidad macroeconómica y la falta de créditos hipotecarios hacen estragos.\n\nMientras la presión inflacionaria destruye el ahorro y los salarios pierden valor, el Estado no logra generar condiciones estables para el desarrollo de un mercado inmobiliario sano. La excesiva regulación y la falta de incentivos a la inversión privada sólo exacerban el problema. ¿Qué futuro le espera a una sociedad donde la casa propia es un lujo inalcanzable, y cómo recuperamos un mercado habitacional funcional?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "sueno-imposible-argentina-peores-acceder-vivienda",
-    "fecha": "2026-08-23",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Alerta sanitaria: La 'súper gripe' bate récords con más de 790 mil casos",
-    "bajada": "Argentina enfrenta una epidemia de gripe sin precedentes, superando los 790 mil contagios en lo que va del 2026.",
-    "cuerpo": "La salud pública argentina se encuentra en estado de alerta ante un brote de 'súper gripe' que ha alcanzado cifras récord: más de 790 mil casos se registraron en lo que va del 2026, superando el pico de la última década. Esta alarmante estadística pone en jaque la capacidad de respuesta del sistema sanitario y subraya la necesidad de una revisión profunda de las políticas de prevención y contención de enfermedades estacionales.\n\nLa saturación de los centros de salud y la preocupación ciudadana crecen, mientras el debate se centra en la eficiencia de las campañas de vacunación y las medidas preventivas. La falta de recursos adecuados y la burocracia estatal suelen ser un obstáculo. ¿Estamos preparados como sociedad y como Estado para enfrentar emergencias sanitarias de esta magnitud, o seguiremos reaccionando en lugar de prevenir eficazmente?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "alerta-sanitaria-super-gripe-record-contagios",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Economía de Milei: ¿Quién se beneficia si crece pero muchos empeoran?",
-    "bajada": "El exministro Martín Guzmán enciende el debate sobre el impacto social del ajuste, pese al crecimiento macroeconómico.",
-    "cuerpo": "Martín Guzmán, exministro de Economía, afirmó que \"con Milei la economía crece, pero muchísima gente está peor que antes\". Esta declaración reaviva una discusión central para nuestro país: ¿es sostenible un crecimiento que no se traduce en mejora para la base de la sociedad? La línea editorial de Panorama.ar siempre ha sostenido que la disciplina fiscal es fundamental, pero el desafío reside en cómo estas medidas impactan en el día a día de los ciudadanos, especialmente aquellos con ingresos fijos o en sectores más vulnerables. Los datos macroeconómicos pueden mostrar recuperación, pero la microeconomía de los hogares es la verdadera prueba de fuego.\n\nEl gobierno actual defiende su plan como necesario para sanear las cuentas públicas y sentar bases sólidas, argumentando que el costo del ajuste es una herencia del populismo y la emisión descontrolada de gestiones anteriores, donde figuras como el propio Guzmán tuvieron un rol. Sin embargo, la perspectiva de que \"muchísima gente está peor\" exige una mirada atenta. ¿Cuáles son los sectores más afectados y cómo el Estado, con sus recursos limitados, puede mitigar esos efectos sin desvirtuar el camino hacia la estabilidad?\n\nEs crucial recordar que la verdadera prosperidad a largo plazo emerge de un entorno de libertad económica, reducción de impuestos y seguridad jurídica, factores que fomentan la inversión y, finalmente, la creación de empleo genuino. Pero la transición es compleja. ¿Es el crecimiento actual un preludio a una mejora generalizada, o solo un espejismo para pocos mientras la mayoría aguarda un horizonte más prometedor? ¿Qué rol juega el ajuste heredado de la era Massa en esta ecuación?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "economia-de-milei-quien-se-beneficia-si-crece-pero-muchos-empeoran",
-    "fecha": "2026-08-23",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "2027: ¿El riesgo electoral ya impacta en los bonos argentinos?",
-    "bajada": "El mercado financiero comienza a descontar la incertidumbre política futura, reflejando el nerviosismo que anticipa la puja por el poder.",
-    "cuerpo": "Aun lejos del calendario oficial, los bonos argentinos ya muestran señales de nerviosismo ante las elecciones de 2027. Este fenómeno subraya cómo la política y la economía están indisolublemente ligadas en nuestro país. La mirada de los inversores, siempre atenta a la previsibilidad y la seguridad jurídica, empieza a incorporar un riesgo que no es menor: la posibilidad de un cambio de rumbo en las políticas de austeridad y liberalización. Desde Panorama.ar, hemos insistido en que la estabilidad macroeconómica no solo se construye con balances fiscales, sino con un horizonte político claro y comprometido con la libertad de mercado.\n\nLa preocupación no es infundada. La historia argentina está plagada de vaivenes populistas que han dilapidado esfuerzos de estabilización en aras de ganancias electorales de corto plazo. La pregunta que los mercados se hacen, y que nosotros debemos plantear, es si los avances en la lucha contra el déficit y la inflación, tan arduos de conseguir, son lo suficientemente robustos para resistir los cantos de sirena de un regreso al gasto descontrolado y la intervención estatal.\n\nEn este contexto, la aparición de figuras como Massa en el horizonte político futuro, o el temor a un giro populista, son factores que el mercado inevitablemente pondera. ¿Estamos ante una oportunidad para consolidar el camino de la responsabilidad fiscal o los fantasmas del pasado pueden volver a nublar el panorama? El 23 de agosto de 2026, la incertidumbre ya se siente.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "2027-el-riesgo-electoral-ya-impacta-en-los-bonos-argentinos",
-    "fecha": "2026-08-23",
-    "imagen": "img/economia_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Más crédito, ¿más deuda y más mora? La trampa del endeudamiento argentino.",
-    "bajada": "Una radiografía del endeudamiento expone los desafíos de la economía doméstica: un crecimiento de crédito que esconde fragilidad.",
-    "cuerpo": "La expansión del crédito en Argentina, lejos de ser una señal de robustez económica, parece estar acompañada de un preocupante aumento de la deuda y la mora. Esta dinámica, lejos de un desarrollo sano, sugiere una trampa de endeudamiento que Panorama.ar ha advertido repetidamente. Mientras se promociona el acceso al crédito como un motor de consumo, la realidad muestra que muchas familias y empresas se encuentran al límite, forzadas a recurrir a financiamiento que a menudo no pueden sostener en el largo plazo, en un contexto de ingresos estancados y alta presión inflacionaria, un legado de gestiones pasadas.\n\nLa mirada crítica de este medio siempre ha apuntado a las causas estructurales: un Estado sobredimensionado que se financia con deuda e impuestos exorbitantes, asfixiando al sector privado y limitando su capacidad de generación de riqueza. Este círculo vicioso de déficit y endeudamiento es lo que termina empujando a los ciudadanos a una situación financiera precapara. ¿Es el \"más crédito\" realmente un beneficio cuando las bases económicas son inestables y la capacidad de repago se ve comprometida por una inflación que devora los salarios?\n\nEs imperativo que el gobierno actual consolide la disciplina fiscal y las reformas de mercado para generar una economía que produzca ingresos genuinos, no espejismos de consumo basados en deuda. De lo contrario, la 'radiografía del endeudamiento' seguirá mostrando una sociedad en aprietos, un problema que gestiones como la de Massa agravaron con políticas de corto plazo. ¿Hasta cuándo pagaremos las consecuencias de un modelo de gasto público desmedido que nos empuja a la mora?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mas-credito-mas-deuda-y-mas-mora-la-trampa-del-endeudamiento-argentino",
-    "fecha": "2026-08-23",
-    "imagen": "img/economia_2.png",
     "destacada": false
   }
 ]
