@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Milei y el furor Colapinto: ¿F1 para la Argentina o show político?",
+    "bajada": "La movida presidencial para traer la Fórmula 1 desata el debate: ¿impulso al deporte o estrategia electoralista con recursos públicos?",
+    "cuerpo": "El presidente se suma al entusiasmo por Franco Colapinto y la Fórmula 1, expresando su deseo de traer la máxima categoría del automovilismo a la Argentina. Esta iniciativa, si bien genera expectativas en el ámbito deportivo y turístico, también plantea interrogantes sobre la viabilidad económica y el uso de fondos públicos en un contexto de ajuste.\n\nLa visión liberal de Panorama.ar siempre cuestiona la injerencia estatal en eventos que podrían ser gestionados por el sector privado. ¿Es esta una verdadera apuesta por el desarrollo deportivo y la generación de ingresos, o una capitalización política de un fenómeno popular con miras a futuro?\n\nEl debate sobre la priorización del gasto público es crucial. ¿Es lógico destinar recursos a un evento de esta magnitud cuando el país enfrenta desafíos económicos urgentes?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "milei-furor-colapinto-f1-argentina-show-politico",
+    "fecha": "2026-08-24",
+    "imagen": "img/politica_6.png",
+    "destacada": true
+  },
+  {
+    "titulo": "GP de Argentina: ¿Qué lecciones deja Países Bajos para nuestra F1?",
+    "bajada": "La experiencia neerlandesa en Fórmula 1 ofrece valiosas pistas sobre la gestión, inversión y retorno de un evento de tal magnitud para Buenos Aires.",
+    "cuerpo": "Con la discusión sobre el retorno de la Fórmula 1 a la Argentina en auge, es fundamental analizar los modelos exitosos. El Gran Premio de Países Bajos, ejemplo de eficiencia y rentabilidad, presenta un caso de estudio crucial. ¿Puede Buenos Aires replicar un esquema donde la inversión privada y la infraestructura moderna se conjugan para un espectáculo de primer nivel?\n\nDesde una perspectiva liberal, la clave reside en minimizar la dependencia del erario público y fomentar la participación privada, buscando un retorno tangible para la economía local. El éxito no solo se mide en la asistencia de público, sino en el derrame económico real y la sostenibilidad del evento a largo plazo.\n\nLa pregunta es si la Argentina está preparada para asumir un desafío de esta envergadura con la seriedad y el pragmatismo que requiere, o si nuevamente caeremos en promesas incumplidas y gastos innecesarios. ¿Hay un plan de negocios sostenible más allá del entusiasmo inicial?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "gp-argentina-lecciones-paises-bajos-f1",
+    "fecha": "2026-08-24",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Argentina: Sede FIA 2026. ¿Automovilismo o nueva caja estatal?",
+    "bajada": "El país retoma la agenda automovilística internacional, pero la gestión de grandes eventos siempre pone en jaque la transparencia y el uso de fondos.",
+    "cuerpo": "La designación de Argentina como sede del Congreso Americano FIA 2026 marca un retorno a la escena global del automovilismo. Si bien es una oportunidad para posicionar al país, el historial reciente de grandes eventos con injerencia estatal nos obliga a la cautela. ¿Será esta una verdadera plataforma para el desarrollo y la inversión privada, o se convertirá en otro nicho de gasto público discrecional?\n\nDesde nuestra visión, cada evento internacional debe ser una oportunidad para potenciar el sector privado y generar divisas genuinas, no una excusa para incrementar partidas presupuestarias opacas. La transparencia en la gestión de los recursos y la participación activa de empresas son condiciones innegociables para que este tipo de iniciativas tengan un impacto positivo y duradero.\n\nEn un contexto de fragilidad económica, la pregunta clave es: ¿cómo se garantizará que este congreso sea un motor de progreso y no una carga para el contribuyente, sin caer en la tentación de \"la casta\" por la caja?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "argentina-sede-fia-2026-automovilismo-caja-estatal",
+    "fecha": "2026-08-24",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Alerta en el mercado: ¿Argentina rumbo a un nuevo default post-2027?",
+    "bajada": "Las señales del mercado son claras: el fantasma del default vuelve a rondar, con preocupación creciente por la sostenibilidad de la deuda argentina.",
+    "cuerpo": "Los analistas de mercado suenan las alarmas: el riesgo de default de Argentina se eleva significativamente para el período post-2027. Esta preocupación no es menor y se fundamenta en la persistente fragilidad fiscal, la desconfianza inversora y la falta de un plan económico a largo plazo que brinde certezas. Mientras algunos celebran superávit de coyuntura, el mercado mira el horizonte con escepticismo.\n\nPara Panorama.ar, esta es una advertencia contundente sobre las consecuencias de décadas de populismo y gasto desmedido. La disciplina fiscal y la reducción del Estado son imprescindibles para evitar caer nuevamente en una crisis de deuda que condene el futuro de los argentinos. No basta con parches temporales; se requieren reformas estructurales profundas.\n\nLa gran pregunta que los argentinos debemos hacernos es: ¿estamos dispuestos a asumir los costos de un ajuste real para salir del círculo vicioso del endeudamiento, o seguiremos coqueteando con el abismo del default?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "5 min",
+    "slug": "alerta-mercado-argentina-rumbo-nuevo-default-post-2027",
+    "fecha": "2026-08-24",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Paradoja Argentina: ¿Superávit con riesgo país récord?",
+    "bajada": "Una economía que ostenta superávit pero ahoga a sus inversores con un riesgo país que pocos países alcanzan: la contradicción que preocupa.",
+    "cuerpo": "Argentina presenta una dicotomía desconcertante: mientras celebra un superávit fiscal –un logro importante tras años de déficit crónico–, a la vez mantiene uno de los riesgos país más altos del mundo. Esta paradoja revela la profunda desconfianza de los mercados en la sostenibilidad a largo plazo de las políticas económicas y la estabilidad institucional. Los datos muestran un equilibrio precario que no genera un impacto real en la percepción de solvencia.\n\nDesde nuestra visión liberal, el superávit es un primer paso, pero insuficiente si no se acompaña de reformas estructurales que garanticen seguridad jurídica, respeto a la propiedad privada y una drástica reducción del gasto público improductivo. Sin un horizonte claro de libertad económica, el riesgo país seguirá siendo un lastre que ahoga la inversión y el crecimiento.\n\nLa pregunta central es: ¿cómo se explica esta contradicción y qué medidas concretas se están tomando para alinear la política económica con la confianza de los inversores? ¿O estamos ante un maquillaje contable que esconde problemas de fondo?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "paradoja-argentina-superavit-riesgo-pais-record",
+    "fecha": "2026-08-24",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Consumo en picada: ¿Supermercados en rojo, economía en crisis?",
+    "bajada": "El dato es lapidario: en casi todos los distritos, la facturación de supermercados cae por debajo del promedio de los últimos ocho años, revelando una cruda realidad del consumo.",
+    "cuerpo": "La situación en los supermercados argentinos es un reflejo inequívoco de la contracción del consumo y el deterioro del poder adquisitivo. Con la facturación por debajo del promedio de los últimos ocho años en 22 de 24 distritos, la cruda realidad golpea la mesa: las familias ajustan sus gastos al máximo, priorizando lo esencial. Las cifras son claras y muestran una tendencia preocupante más allá de cualquier discurso oficial.\n\nPara Panorama.ar, esta caída del consumo no es meramente un número, sino el termómetro del impacto de la inflación y la presión impositiva sobre los bolsillos de los trabajadores. El ahogo fiscal y la falta de incentivos para la inversión productiva terminan por asfixiar al mercado interno, afectando tanto a consumidores como a empresas. Es un círculo vicioso que requiere atención urgente.\n\nLa pregunta que emerge es: ¿cuánto más puede soportar el consumo interno antes de que esta crisis se profundice y afecte aún más el empleo y la producción? ¿Qué medidas concretas se proponen para reactivar la economía real y devolverle poder de compra a la gente?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "consumo-picada-supermercados-rojo-economia-crisis",
+    "fecha": "2026-08-24",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Verde de esperanza o espejismo bursátil en Argentina?",
+    "bajada": "Los mercados celebran un lunes positivo, con bonos y acciones en alza, y el riesgo país cede. Pero, ¿es un alivio duradero o una pausa fugaz en la incertidumbre?",
+    "cuerpo": "Un respiro para la economía: acciones y bonos argentinos reaccionaron al alza, y el riesgo país perforó la barrera de los 500 puntos, generando un cauto optimismo en el mercado. Esta mejora, aunque bienvenida, debe analizarse con la perspicacia que caracteriza a Panorama.ar. ¿Estamos ante un cambio de tendencia genuino, impulsado por reformas de fondo, o es una recuperación técnica en un contexto de alta volatilidad?\n\nDesde nuestra línea editorial, valoramos la confianza de los inversores, pero es crucial diferenciar entre las oscilaciones bursátiles y la solidez estructural de la economía. Sin una reducción efectiva del gasto público, menos impuestos para la producción y una agenda de desregulación ambiciosa, estos repuntes pueden ser meros espejismos, efímeros y poco sostenibles en el tiempo.\n\nLa pregunta es: ¿hasta qué punto esta \"semana verde\" se traduce en inversiones productivas y empleo real, o solo maquilla una economía que sigue pidiendo a gritos reformas profundas? ¿Es un verdadero giro o un mero rebote en la inestabilidad?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "verde-esperanza-espejismo-bursatil-argentina",
+    "fecha": "2026-08-24",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
     "titulo": "FIFA: ¿Fin de la impunidad para jugadores de la Selección Argentina?",
     "bajada": "Duras sanciones de FIFA sacuden al fútbol nacional tras incidentes post-Mundial, poniendo en jaque el comportamiento de nuestras estrellas.",
     "cuerpo": "La reciente decisión de la FIFA de aplicar gravísimas sanciones a dos jugadores de la Selección Argentina por incidentes ocurridos tras la final del Mundial 2026, marca un precedente ineludible. Este castigo, que según TyC Sports apunta a un \"comportamiento inaceptable\", debería forzar una reflexión profunda sobre la responsabilidad que conlleva representar al país. ¿Es hora de exigir más allá del rendimiento deportivo?\n\nSi bien el fanatismo puede nublar el juicio, es fundamental que las figuras públicas, especialmente aquellas con un impacto masivo como los futbolistas de la Selección, entiendan que sus acciones tienen consecuencias que trascienden el campo de juego. Este tipo de incidentes, que empañan la imagen de Argentina, no solo afectan a los implicados sino a todo el deporte nacional. ¿Hasta cuándo se tolerará la falta de profesionalismo fuera de las canchas?",
@@ -21,7 +105,7 @@
     "slug": "otro-feriado-ajuste-milei-visita-papa",
     "fecha": "2026-08-24",
     "imagen": "img/politica_4.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Fórmula 1: ¿Oportunidad de Estado o show político para Milei?",
@@ -200,90 +284,6 @@
     "lectura": "3 min",
     "slug": "feriado-por-el-papa-costo-fe-estado",
     "fecha": "2026-08-24",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Guzmán: ¿Crecimiento para quién? ",
-    "bajada": "El exministro Martín Guzmán expone la paradoja económica actual: cifras macro positivas y la realidad de un pueblo golpeado.",
-    "cuerpo": "El exministro de Economía, Martín Guzmán, ha encendido el debate con su contundente análisis: si bien la economía argentina muestra signos de ",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "guzman-crecimiento-para-quien-mucha-gente-peor",
-    "fecha": "2026-08-24",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Pesimismo récords: 6 de cada 10 argentinos esperan lo peor económicamente",
-    "bajada": "La confianza en el futuro económico del país se desploma, revelando una profunda preocupación ciudadana que desafía la narrativa oficial.",
-    "cuerpo": "Un nuevo sondeo revela un dato alarmante para el futuro cercano: 6 de cada 10 argentinos cree que su situación económica ",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "pesimismo-records-6-de-10-argentinos-esperan-peor-economicamente",
-    "fecha": "2026-08-24",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Alerta sanitaria: la ",
-    "bajada": "Con más casos que en la última década, la nueva variante de influenza pone en jaque al sistema de salud y a la población.",
-    "cuerpo": "Argentina enfrenta una ",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "alerta-sanitaria-super-gripe-record-historico-argentina",
-    "fecha": "2026-08-24",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Derrota albiceleste: Argentina cae ante Brasil en el Mundial U17 de vóley",
-    "bajada": "La Selección U17 de vóley no pudo en el clásico ante Brasil, un resultado que reaviva la histórica rivalidad deportiva.",
-    "cuerpo": "La Selección Argentina de vóley Sub-17 no logró imponerse en el clásico sudamericano, cayendo ante Brasil en el marco del Mundial. Si bien se trata de categorías formativas, la ",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "derrota-albiceleste-argentina-brasil-mundial-u17-voley",
-    "fecha": "2026-08-24",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Justicia o show? La FIFA castiga a Paredes tras el Mundial 2026",
-    "bajada": "La decisión de la FIFA de suspender a Leandro Paredes desata polémica sobre la equidad de las sanciones.",
-    "cuerpo": "La Federación Internacional de Fútbol Asociación (FIFA) ha dictaminado una suspensión de 10 partidos para el mediocampista argentino Leandro Paredes, luego de un altercado con jugadores españoles tras la final del Mundial 2026. Esta drástica medida, que afectará su participación en futuros encuentros internacionales, ha generado un intenso debate sobre los criterios disciplinarios del organismo rector del fútbol mundial.\n\nNumerosos analistas y aficionados cuestionan la severidad de la pena, comparándola con situaciones similares o incluso más graves que no recibieron una respuesta tan contundente por parte de la FIFA. La controversia se agudiza al considerar el contexto de alta tensión de una final mundialista. ¿Es esta una sanción ejemplarizante o una muestra de doble vara por parte de la #FIFA, como señalan algunos críticos?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "justicia-o-show-fifa-castiga-paredes-mundial-2026",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Malvinas en el Mundial: La FIFA y la polémica por el mensaje patriótico",
-    "bajada": "La Selección Argentina enfrenta una sanción de la FIFA por la bandera de Malvinas, reviviendo un histórico debate.",
-    "cuerpo": "La #Selección Argentina ha sido objeto de una sanción por parte de la FIFA, a raíz de la exhibición de una bandera con la leyenda “Las Malvinas son Argentinas” durante un encuentro en el Mundial contra Inglaterra. Este incidente ha reavivado una discusión profunda sobre la autonomía de los símbolos nacionales en eventos deportivos internacionales y la potestad de organismos como la FIFA para dictaminar sobre ellos.\n\nMientras la dirigencia futbolística argentina evalúa la apelación, la opinión pública se divide. Sectores nacionalistas defienden la expresión como un acto de soberanía irrenunciable, mientras otros critican la 'politización' del fútbol. ¿Debe el deporte ser un espacio neutral o una plataforma para reafirmar causas nacionales legítimas ante el mundo, como la de Malvinas?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "malvinas-mundial-fifa-polemica-mensaje-patriotic",
-    "fecha": "2026-08-23",
-    "imagen": "img/politica_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Doble vara de la FIFA: ¿Por qué sanciona a Argentina y a otros no?",
-    "bajada": "Una investigación revela inconsistencias en las acciones de la FIFA, generando dudas sobre su imparcialidad.",
-    "cuerpo": "Tras la reciente sanción a Leandro Paredes, surgen nuevos cuestionamientos sobre la #FIFA y sus criterios disciplinarios. Se han documentado al menos dos antecedentes de agresiones similares o incluso más graves en los que el organismo rector del fútbol no actuó de oficio, a diferencia de lo ocurrido con la Selección Argentina. Esta disparidad en el tratamiento genera fundadas sospechas sobre una posible doble vara.\n\nLa ausencia de sanciones en casos flagrantes del pasado, frente a la rapidez y contundencia en el castigo al jugador argentino, alimenta la percepción de que las decisiones de la FIFA podrían estar influenciadas por factores extradeportivos o presiones. ¿Es la #FIFA un ente imparcial o sus fallos responden a intereses ocultos, socavando la credibilidad del juego limpio que pregona?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "doble-vara-fifa-sanciona-argentina-otros-no",
-    "fecha": "2026-08-23",
     "imagen": "img/politica_4.png",
     "destacada": false
   }
