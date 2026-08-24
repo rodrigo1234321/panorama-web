@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Disciplinar a la Selección Argentina? Las ",
+    "bajada": "La FIFA impone duras penas a dos figuras por incidentes post-final, abriendo el debate sobre el comportamiento y la imagen.",
+    "cuerpo": "La noticia de las ",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "disciplinar-a-la-seleccion-argentina-sanciones-mundial",
+    "fecha": "2026-08-24",
+    "imagen": "img/sociedad_2.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿Censura o regla? La sanción a la Selección Argentina por Malvinas en el Mundial",
+    "bajada": "Un gesto de soberanía terminó en penalización de FIFA, reavivando el debate sobre política y deporte en el escenario global.",
+    "cuerpo": "La decisión de la FIFA de sancionar a la Selección Argentina por exhibir una bandera con la leyenda ",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "censura-o-regla-sancion-seleccion-argentina-malvinas-mundial",
+    "fecha": "2026-08-24",
+    "imagen": "img/politica_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Feriado por el Papa? El costo de la fe versus la ",
+    "bajada": "Mientras el Gobierno analiza un asueto por la visita papal, surge la pregunta sobre la productividad y el impacto económico.",
+    "cuerpo": "La posible declaración de un asueto o feriado nacional por la visita del papa León XIV a la Argentina ha encendido la polémica, una vez más, sobre el equilibrio entre las tradiciones y el pragmatismo económico. Desde el oficialismo se evalúa la medida como un gesto de bienvenida, pero para un sector de la sociedad, y en la óptica crítica de Panorama.ar, cada día no trabajado representa un costo significativo para una economía ya frágil. ¿Puede Argentina permitirse otro feriado en su actual contexto fiscal?Desde Panorama.ar, cada día no trabajado representa un costo significativo para una economía ya frágil. ¿Puede Argentina permitirse otro feriado en su actual contexto fiscal?\n\nEl debate se centra en si la visita papal, más allá de su significado espiritual para millones, justifica una paralización de la actividad productiva. Los defensores de la medida señalan la importancia del evento y la necesidad de facilitar la participación ciudadana, mientras los críticos, desde una perspectiva liberal, advierten sobre el impacto negativo en el Producto Bruto Interno y la presión sobre el sector privado. ¿Es esta una decisión responsable o una concesión populista en tiempos de ajuste?\n\nEl ",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "feriado-por-el-papa-costo-fe-estado",
+    "fecha": "2026-08-24",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Guzmán: ¿Crecimiento para quién? ",
+    "bajada": "El exministro Martín Guzmán expone la paradoja económica actual: cifras macro positivas y la realidad de un pueblo golpeado.",
+    "cuerpo": "El exministro de Economía, Martín Guzmán, ha encendido el debate con su contundente análisis: si bien la economía argentina muestra signos de ",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "guzman-crecimiento-para-quien-mucha-gente-peor",
+    "fecha": "2026-08-24",
+    "imagen": "img/economia_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Pesimismo récords: 6 de cada 10 argentinos esperan lo peor económicamente",
+    "bajada": "La confianza en el futuro económico del país se desploma, revelando una profunda preocupación ciudadana que desafía la narrativa oficial.",
+    "cuerpo": "Un nuevo sondeo revela un dato alarmante para el futuro cercano: 6 de cada 10 argentinos cree que su situación económica ",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "pesimismo-records-6-de-10-argentinos-esperan-peor-economicamente",
+    "fecha": "2026-08-24",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Alerta sanitaria: la ",
+    "bajada": "Con más casos que en la última década, la nueva variante de influenza pone en jaque al sistema de salud y a la población.",
+    "cuerpo": "Argentina enfrenta una ",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "alerta-sanitaria-super-gripe-record-historico-argentina",
+    "fecha": "2026-08-24",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Derrota albiceleste: Argentina cae ante Brasil en el Mundial U17 de vóley",
+    "bajada": "La Selección U17 de vóley no pudo en el clásico ante Brasil, un resultado que reaviva la histórica rivalidad deportiva.",
+    "cuerpo": "La Selección Argentina de vóley Sub-17 no logró imponerse en el clásico sudamericano, cayendo ante Brasil en el marco del Mundial. Si bien se trata de categorías formativas, la ",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "derrota-albiceleste-argentina-brasil-mundial-u17-voley",
+    "fecha": "2026-08-24",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Justicia o show? La FIFA castiga a Paredes tras el Mundial 2026",
     "bajada": "La decisión de la FIFA de suspender a Leandro Paredes desata polémica sobre la equidad de las sanciones.",
     "cuerpo": "La Federación Internacional de Fútbol Asociación (FIFA) ha dictaminado una suspensión de 10 partidos para el mediocampista argentino Leandro Paredes, luego de un altercado con jugadores españoles tras la final del Mundial 2026. Esta drástica medida, que afectará su participación en futuros encuentros internacionales, ha generado un intenso debate sobre los criterios disciplinarios del organismo rector del fútbol mundial.\n\nNumerosos analistas y aficionados cuestionan la severidad de la pena, comparándola con situaciones similares o incluso más graves que no recibieron una respuesta tan contundente por parte de la FIFA. La controversia se agudiza al considerar el contexto de alta tensión de una final mundialista. ¿Es esta una sanción ejemplarizante o una muestra de doble vara por parte de la #FIFA, como señalan algunos críticos?",
@@ -9,7 +93,7 @@
     "slug": "justicia-o-show-fifa-castiga-paredes-mundial-2026",
     "fecha": "2026-08-23",
     "imagen": "img/sociedad_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "Malvinas en el Mundial: La FIFA y la polémica por el mensaje patriótico",
@@ -201,90 +285,6 @@
     "slug": "milei-y-la-fia-el-regreso-de-argentina-a-la-agenda-mundial-del-automovilismo",
     "fecha": "2026-08-23",
     "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Salarios y Empleo: ¿La verdadera preocupación de los argentinos?",
-    "bajada": "Los últimos sondeos revelan que el poder adquisitivo y la estabilidad laboral desplazan a otras inquietudes en la agenda pública argentina.",
-    "cuerpo": "Nuevos sondeos confirman una tendencia preocupante: salarios y empleo se consolidan como las principales preocupaciones de los argentinos. Esta situación refleja una economía bajo presión, donde la inflación constante erosiona el poder de compra y la precarización laboral genera incertidumbre. La ciudadanía percibe, con razón, que el esfuerzo diario no se traduce en mejoras tangibles en su calidad de vida. ¿Se está priorizando adecuadamente la estabilidad macroeconómica por sobre el bienestar real del ciudadano de a pie, o se están subestimando estas alarmas?\n\nDesde una perspectiva liberal, la solución pasa por desregular el mercado laboral y reducir la presión impositiva sobre las empresas, para que puedan generar más puestos de trabajo y pagar mejores sueldos. Sin embargo, el Estado sigue siendo un actor protagónico, imponiendo cargas y regulaciones que asfixian al sector privado. Es crucial que las políticas públicas se orienten a crear un ambiente propicio para la inversión y el crecimiento genuino, en lugar de intervenciones que solo distorsionan el mercado. ¿Hasta cuándo se ignorará la voz de quienes sostienen la economía con su trabajo y sus impuestos?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "salarios-y-empleo-la-verdadera-preocupacion-de-los-argentinos",
-    "fecha": "2026-08-23",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Argentina: ¿Sede FIA 2026 un puente para el retorno de la Fórmula 1?",
-    "bajada": "Con la designación como sede del Congreso Americano FIA 2026, Argentina busca reactivar su presencia en el automovilismo mundial, ¿es realista pensar en la F1?",
-    "cuerpo": "La confirmación de Argentina como sede del Congreso Americano FIA 2026 es una noticia que ilusiona a los aficionados del automovilismo y a quienes sueñan con el retorno de la Fórmula 1. Este evento pone al país en el foco internacional, abriendo puertas a posibles inversiones y alianzas. Sin embargo, la euforia debe ser cautelosa: albergar un congreso es un paso, pero el real desafío es mantener una presencia constante y competitiva en la élite del automovilismo, lo cual requiere infraestructura y una política deportiva a largo plazo.\n\nEl camino para traer de vuelta la Fórmula 1 o eventos de similar magnitud no es solo cuestión de voluntad política, sino de una infraestructura adecuada y, crucialmente, de estabilidad económica y fiscal. Históricamente, Argentina ha tenido dificultades para sostener estos proyectos por los vaivenes macroeconómicos y la falta de planificación a largo plazo. ¿Se podrá esta vez capitalizar el impulso de la FIA para sentar bases sólidas, o será un esfuerzo aislado que no logra trascender la coyuntura?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-sede-fia-2026-un-puente-para-el-retorno-de-la-formula-1",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "“Súper gripe”: ¿El récord de contagios expone la debilidad de la salud pública?",
-    "bajada": "Argentina registra un récord histórico de casos de “súper gripe”, encendiendo las alarmas sobre la gestión sanitaria y la prevención en el país.",
-    "cuerpo": "La confirmación de un récord de contagios de la llamada “súper gripe” en Argentina, superando los picos de la última década, es un dato alarmante que no puede pasar desapercibido. Esta cifra no solo refleja la virulencia del brote, sino que pone en evidencia posibles fallas en las campañas de prevención, la infraestructura hospitalaria y la respuesta del sistema de salud pública. ¿Estamos preparados para enfrentar una crisis sanitaria de esta magnitud sin un plan robusto y recursos suficientes, o volvemos a improvisar ante la emergencia?\n\nLa salud pública, lejos de ser un gasto, es una inversión estratégica en el capital humano de una nación. La recurrencia de brotes como este, que saturan los servicios de emergencia y afectan la productividad, debería impulsar una revisión profunda de las políticas sanitarias. Es imprescindible asegurar la provisión de vacunas, reforzar la atención primaria y educar a la población, en lugar de reacciones tardías. ¿Hasta cuándo se seguirá relegando la salud a un segundo plano en la asignación de recursos estatales?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "super-gripe-el-record-de-contagios-expone-la-debilidad-de-la-salud-publica",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Mundial de Hockey: ¿Victoria sobre España disimula problemas de fondo?",
-    "bajada": "Las Leonas vencieron a España en el Mundial, pero el éxito en la cancha no siempre se traduce en apoyo estructural para el deporte.",
-    "cuerpo": "La victoria de Argentina sobre España por 1-0 en el Mundial de Hockey, con gol de Agustina Gorzelany, es sin duda un motivo de orgullo y celebración. Las Leonas demuestran una vez más su jerarquía y compromiso, dejando en alto la bandera nacional. Sin embargo, detrás de cada triunfo deportivo, surge la pregunta sobre el verdadero apoyo que reciben estas disciplinas y sus atletas. ¿Estos éxitos son producto de una política deportiva sólida o del talento y esfuerzo individual que logran superar las deficiencias estructurales?\n\nMientras la euforia por la victoria contra España es comprensible, es crucial no perder de vista la necesidad de una inversión sostenida en el deporte amateur y federado. Las glorias esporádicas no construyen una base sólida. ¿Se destinarán los recursos necesarios para desarrollar talentos desde la base, o el Estado seguirá priorizando otros gastos menos eficientes y más políticos? El verdadero desafío es transformar este éxito en un impulso duradero para el hockey y para el deporte argentino en general.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mundial-de-hockey-victoria-sobre-espana-disimula-problemas-de-fondo",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¡Imparables! Las Leonas deslumbran al mundo: ¿el camino a la gloria?",
-    "bajada": "Con una actuación arrolladora ante España, el equipo nacional de hockey femenino confirma su dominio y avanza con firmeza en el Mundial 2026.",
-    "cuerpo": "Las Leonas han vuelto a demostrar por qué son una de las potencias mundiales del hockey femenino. Su aplastante victoria por 3-0 frente a España en el Mundial de 2026 no solo les aseguró un lugar en las semifinales, sino que también reafirmó su estrategia ofensiva y la solidez defensiva que las caracteriza. La brillante actuación, con goles clave y una presión constante, dejó pocas dudas sobre sus aspiraciones al título.\n\nEste triunfo resuena en un contexto donde el deporte argentino busca nuevas figuras y éxitos para inspirar. La disciplina, el compromiso y el talento de Las Leonas son un ejemplo a seguir, no solo en la cancha, sino como modelo de equipo y dedicación. En un país ávido de buenas noticias, el desempeño de este seleccionado femenino ofrece un respiro y un motivo de orgullo nacional.\n\n¿Podrá este equipo consolidar su legado y traer la copa a casa, demostrando que la constancia supera cualquier obstáculo?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "imparables-las-leonas-deslumbran-al-mundo",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Retroceso o pragmatismo? La polémica postura de Milei en la OEA",
-    "bajada": "El gobierno argentino rechazó una declaración sobre el \"Nunca Más\" en la OEA, desatando un intenso debate sobre memoria y política exterior.",
-    "cuerpo": "La decisión del gobierno de Javier Milei de bloquear una declaración de la OEA que incluía la frase \"Nunca Más\", en referencia a las violaciones a los derechos humanos, ha generado una fuerte controversia tanto a nivel nacional como internacional. Desde el oficialismo se argumenta que la postura busca despolitizar la agenda de derechos humanos y enfocarla en el presente y futuro, evitando instrumentalizaciones ideológicas. Esta visión choca frontalmente con sectores de la oposición y organismos de derechos humanos, que ven en la frase un pilar fundamental de la democracia argentina, forjado tras la última dictadura.\n\nEl incidente no es menor, ya que posiciona a Argentina en un escenario diplomático delicado y reaviva discusiones históricas sobre el rol del Estado en la memoria colectiva. Mientras algunos critican una presunta \"negacionismo\" o revisión histórica, otros defienden la soberanía de cada gobierno para definir su propia agenda y narrativa. La administración actual parece decidida a marcar un quiebre con las políticas de gobiernos anteriores, incluso en temas tan sensibles como los derechos humanos.\n\n¿Es la postura del gobierno un intento de reescribir la historia o una búsqueda de un nuevo equilibrio en la política internacional que priorice otros valores?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "retroceso-o-pragmatismo-la-polemica-postura-de-milei-en-la-oea",
-    "fecha": "2026-08-23",
-    "imagen": "img/politica_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "FIFA castiga a Argentina: ¿\"no saber perder\" o doble vara?",
-    "bajada": "La lapidaria crítica internacional y las sanciones de la FIFA sacuden al fútbol argentino, reabriendo el debate sobre el comportamiento en la derrota.",
-    "cuerpo": "La FIFA ha impuesto duras sanciones a la Selección Argentina, incluyendo multas económicas significativas y la suspensión de jugadores clave como Paredes por diez fechas, a raíz de incidentes ocurridos en partidos recientes. La reacción de la prensa internacional no se hizo esperar, con titulares como el del diario Marca que tildan el accionar argentino de \"no saber perder\", generando un eco profundo en el sentimiento nacional. Esta crítica exterior, aunque severa, plantea una oportunidad para reflexionar sobre la conducta de los equipos y la dirigencia en la alta competencia.\n\nDesde la AFA se ha manifestado disconformidad con las medidas, argumentando que las sanciones son desproporcionadas y que existe una \"doble vara\" al evaluar incidentes similares en otras selecciones. Este argumento no es menor y merece análisis: ¿son las reglas aplicadas de forma equitativa o Argentina es observada con un ojo más crítico? La polémica trasciende el ámbito deportivo, tocando fibras sensibles de la identidad nacional y el rol que juega el fútbol en ella.\n\n¿Es esta sanción un merecido llamado de atención o una injusticia que busca minar la moral de un campeón mundial?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "fifa-castiga-argentina-no-saber-perder-o-doble-vara",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_5.png",
     "destacada": false
   }
 ]
