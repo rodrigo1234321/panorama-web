@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "Sanciones a jugadores argentinos: ¿Indisciplina post Mundial 2026 o caza de brujas?",
+    "bajada": "La FIFA confirmó duras penas tras los incidentes de la final. Un golpe bajo para el futuro de la Albiceleste y la imagen nacional.",
+    "cuerpo": "La FIFA ha dictaminado graves sanciones para dos jugadores argentinos de la Selección Nacional por los incidentes ocurridos tras la final del Mundial 2026. Esta medida, que llega como un balde de agua fría, impacta directamente en la planificación deportiva y en la imagen de la Argentina a nivel global. Las versiones extraoficiales hablan de altercados y faltas a la disciplina, aunque los detalles específicos aún son difusos.\n\n\"Panorama.ar\" se pregunta sobre la responsabilidad individual y colectiva. ¿Es esta una señal de mano dura necesaria para el orden, o una respuesta desmedida que afecta el espíritu de los campeones? Mientras algunos abogan por la ejemplaridad, otros claman por un análisis más profundo de las circunstancias y el contexto de alta tensión post-partido. Es fundamental que la AFA aclare la situación para evitar especulaciones que dañen aún más el prestigio de nuestros talentos. ¿Estamos viendo un endurecimiento de la disciplina que busca sentar un precedente, o una reacción desproporcionada que castiga a los referentes del fútbol nacional?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "sanciones-jugadores-argentinos-mundial-2026",
+    "fecha": "2026-08-24",
+    "imagen": "img/sociedad_2.png",
+    "destacada": true
+  },
+  {
+    "titulo": "¿Feriado por el Papa León XIV? Milei en la encrucijada del gasto público",
+    "bajada": "El Gobierno evalúa un asueto por la visita papal. ¿Prioridad nacional o un nuevo costo para el sector productivo?",
+    "cuerpo": "La posible declaración de asueto o feriado nacional por la visita del Papa León XIV a Argentina pone en el centro del debate la política de gastos del gobierno de Javier Milei. Mientras algunos sectores religiosos y sociales celebran la llegada del Sumo Pontífice, otros analizan el impacto económico de una medida de este tipo, que paralizaría la actividad productiva por un día.\n\nDesde \"Panorama.ar\" cuestionamos si en un contexto de austeridad fiscal y búsqueda de reactivación económica, es prudente sumar un día no laborable. El gobierno ha hecho bandera de la reducción del gasto público y la desregulación; un feriado, por más justificado que parezca a nivel simbólico, implica un costo tangible para la producción y el comercio. ¿Es la visita del Papa un evento que amerita tal interrupción, o se podría encontrar un equilibrio que respete la fe sin cargar sobre las espaldas de una economía ya exigida? El debate sobre la \"casta\" y sus privilegios, ¿se aplica también a decisiones que, si bien populares, impactan en la productividad nacional?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "feriado-papa-leon-xiv-milei-gasto-publico",
+    "fecha": "2026-08-24",
+    "imagen": "img/politica_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La economía Milei: ¿Crece el PBI mientras los argentinos empobrecen?",
+    "bajada": "Martín Guzmán apunta a la paradoja de la política económica actual: números macro en verde, pero deterioro social.",
+    "cuerpo": "Las declaraciones del exministro Martín Guzmán ponen en jaque el relato oficial sobre el \"éxito\" económico del gobierno de Javier Milei. Guzmán afirma que, si bien la economía puede mostrar signos de crecimiento macroeconómico, \"muchísima gente está peor que antes\". Esta dicotomía es central para entender el impacto real de las políticas liberales y de ajuste fiscal implementadas.\n\nDesde \"Panorama.ar\" sostenemos que la disciplina fiscal y la reducción del gasto público son pilares fundamentales para la estabilidad, pero la pregunta es si este ajuste se traduce en bienestar para la población. ¿Estamos presenciando un crecimiento que no derrama, o es el costo inevitable de salir de décadas de populismo? El Gobierno argumenta que el saneamiento de las cuentas públicas es la base para un crecimiento sostenible que eventualmente beneficiará a todos, mientras que la oposición y sectores sociales denuncian un aumento de la pobreza y la desigualdad. Es un debate crucial: ¿hasta qué punto el sacrificio presente justifica una promesa de prosperidad futura, o hay alternativas que permitan un ajuste con mayor sensibilidad social sin caer en la irresponsabilidad fiscal?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "economia-milei-crece-pbi-argentinos-empobrecen",
+    "fecha": "2026-08-24",
+    "imagen": "img/economia_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Expectativas económicas: 6 de cada 10 argentinos temen lo peor. ¿Hay luz al final?",
+    "bajada": "La mayoría de los ciudadanos proyecta un deterioro personal en un contexto de incertidumbre y ajuste.",
+    "cuerpo": "Un reciente informe de Infobae revela una alarmante caída en las expectativas económicas de los argentinos: un 60% de la población cree que su situación personal empeorará en los próximos meses. Este dato es un termómetro social que refleja la profunda preocupación y la incertidumbre que prevalecen, a pesar de los discursos oficiales sobre el rumbo positivo de la macroeconomía.\n\nPara \"Panorama.ar\", estas cifras son un llamado de atención sobre la velocidad y el impacto de las reformas. Si bien es innegable la necesidad de reordenar las variables económicas, la confianza ciudadana es un activo fundamental que no puede ignorarse. El gobierno sostiene que los frutos de la política de ajuste se verán a mediano y largo plazo, pero la paciencia social tiene un límite. ¿Cómo se construye un consenso cuando la mayoría percibe un futuro sombrío a corto plazo? Es crucial que el mensaje oficial conecte con la realidad de la gente, ofreciendo un horizonte de esperanza creíble más allá de los indicadores financieros.",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "expectativas-economicas-argentinos-temen-peor",
+    "fecha": "2026-08-24",
+    "imagen": "img/economia_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La mitad de los argentinos no llega a fin de mes. ¿Dónde está el ajuste real?",
+    "bajada": "Un crudo panorama social: casi el 50% de los hogares recurre a la deuda o los ahorros para subsistir.",
+    "cuerpo": "La realidad económica argentina se refleja crudamente en los hogares: casi la mitad de las familias no logra cubrir sus gastos mensuales y se ve obligada a apelar a ahorros o, en el peor de los casos, a endeudarse. Este dato, lejos de ser un mero número, expone la fragilidad de la clase media y baja frente a la inflación y la pérdida del poder adquisitivo.\n\nDesde \"Panorama.ar\" insistimos en que este escenario es insostenible y requiere medidas urgentes más allá del ajuste macroeconómico. Mientras el Gobierno celebra superávit fiscales, la gente sufre en la calle. ¿Dónde está el \"ajuste de la casta\" prometido si la carga recae desproporcionadamente en el ciudadano común? Es fundamental que las políticas públicas se traduzcan en un alivio concreto para quienes producen y trabajan, y no solo en balances en rojo para las cuentas familiares. ¿Hasta cuándo podrá el tejido social soportar esta presión, antes de que la crisis económica se transforme en una crisis de convivencia?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "mitad-argentinos-no-llega-fin-de-mes-ajuste-real",
+    "fecha": "2026-08-24",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Súper Gripe: 790.000 casos en Argentina, ¿el Estado ausente o ineficaz?",
+    "bajada": "La \"súper gripe\" rompe récords de contagios en Argentina, superando los picos de la última década y afectando mayormente a los chicos.",
+    "cuerpo": "La denominada \"súper gripe\" ha desatado una alerta sanitaria en Argentina, con más de 790.000 casos registrados en 2026, una cifra récord que supera la de la última década. La situación es particularmente preocupante entre los niños, que son los más afectados por esta agresiva cepa. Este panorama pone en evidencia la fragilidad de nuestro sistema de salud y la efectividad de las campañas de prevención.\n\nDesde \"Panorama.ar\" cuestionamos la respuesta del Estado ante una emergencia de esta magnitud. ¿Se han tomado las medidas preventivas adecuadas? ¿Hay suficiente inversión en infraestructura sanitaria y campañas de concientización? O, por el contrario, ¿estamos ante una negligencia o ineficacia de las políticas públicas que dejan a la población, especialmente a los más vulnerables, expuesta a una enfermedad prevenible? Es imperativo que el Ministerio de Salud brinde explicaciones claras y un plan de acción contundente, más allá de los comunicados de rigor, para proteger a la población y evitar que esta crisis sanitaria se agudice aún más.",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "super-gripe-record-argentina-estado-ausente",
+    "fecha": "2026-08-24",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Campeón del Mundo con Argentina: ¿Gloria y olvido? El retiro de una figura",
+    "bajada": "La historia de un ex futbolista de la Selección Argentina que eligió el bajo perfil tras la cima del éxito y la fama.",
+    "cuerpo": "Mientras el fútbol argentino sigue generando pasiones y debates, la historia de un campeón del mundo con la Selección Argentina resuena con un mensaje diferente: el de la búsqueda de la tranquilidad lejos de los focos. Este jugador, cuyo nombre resuena en la memoria colectiva, optó por una vida alejada de la fama, en un contraste con la exposición mediática constante de muchas figuras actuales, incluyendo las que a veces se ven envueltas en polémicas fuera de la cancha.\n\n\"Panorama.ar\" reflexiona sobre el costo de la popularidad y el valor de la privacidad. En un mundo donde la exposición en redes es casi obligatoria, la decisión de un ex referente de la albiceleste de retirarse de la vida pública y dedicarse a su familia, incluso casándose con una ex figura de la televisión, subraya una elección consciente. ¿Es esta una crítica velada a la mercantilización del deporte, o simplemente el anhelo de una vida más auténtica y menos demandante que la \"casta\" del estrellato? La pregunta persiste: ¿es posible alcanzar la gloria sin quedar atrapado en la jaula de cristal de la fama, o el \"anonimato\" es el último refugio de la verdadera libertad?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "campeon-mundo-argentina-gloria-olvido-retiro",
+    "fecha": "2026-08-24",
+    "imagen": "img/sociedad_3.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Disciplinar a la Selección Argentina? Las ",
     "bajada": "La FIFA impone duras penas a dos figuras por incidentes post-final, abriendo el debate sobre el comportamiento y la imagen.",
     "cuerpo": "La noticia de las ",
@@ -9,7 +93,7 @@
     "slug": "disciplinar-a-la-seleccion-argentina-sanciones-mundial",
     "fecha": "2026-08-24",
     "imagen": "img/sociedad_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "¿Censura o regla? La sanción a la Selección Argentina por Malvinas en el Mundial",
@@ -201,90 +285,6 @@
     "slug": "mas-credito-mas-deuda-y-mas-mora-la-trampa-del-endeudamiento-argentino",
     "fecha": "2026-08-23",
     "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¡Argentina vuelve al radar FIA! Milei presente en el Congreso Continental.",
-    "bajada": "Buenos Aires será epicentro del automovilismo con la presencia del Presidente, reafirmando el retorno del país a la agenda internacional.",
-    "cuerpo": "Argentina se consolida nuevamente en la escena internacional al ser sede del Congreso Americano de la Federación Internacional del Automóvil (FIA) en 2026, un evento clave que alimenta el sueño del regreso de la Fórmula 1 y otros grandes encuentros deportivos. La presencia del presidente Javier Milei en la apertura de este importante cónclave no es un dato menor: simboliza el interés del gobierno en proyectar una imagen de apertura y relevancia global, buscando capitalizar el impacto de eventos de esta magnitud para atraer inversiones y turismo. Es una señal de que Argentina busca volver a ser un actor protagónico más allá de lo meramente económico.\n\nEste tipo de eventos no solo genera entusiasmo entre los fanáticos del automovilismo, que ya sueñan con ver a figuras como Gasly competir en circuitos nacionales, sino que también representa una oportunidad para el país de demostrar su capacidad organizativa y su infraestructura. Para un medio con línea editorial liberal como Panorama.ar, la clave está en cómo el Estado facilita estos encuentros sin caer en dispendios, permitiendo que el sector privado sea el principal motor y beneficiario.\n\nEl regreso al radar de la FIA es una excelente noticia que puede traer beneficios económicos y de imagen. La visita de delegaciones internacionales y la atención mediática global son activos valiosos. ¿Podrá Argentina mantener este impulso y consolidar su lugar como un destino atractivo para los grandes eventos deportivos y de negocios, sin caer en la tentación de un gasto público excesivo?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "argentina-vuelve-al-radar-fia-milei-presente-en-el-congreso-continental",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¡Las Leonas aplastan a España y van a semifinales del Mundial!",
-    "bajada": "Con un debut arrollador, la Selección Argentina de hockey femenino demuestra su poderío en el Mundial 2026, dejando a su rival sin chances.",
-    "cuerpo": "Las Leonas dieron un golpe de autoridad en el Mundial de hockey 2026, aplastando a España desde el arranque y asegurando su pase a las semifinales. Este desempeño dominante no solo demuestra la calidad y preparación de nuestro equipo, sino también la resiliencia del deporte argentino ante la adversidad. En un país donde el esfuerzo individual y colectivo a menudo se ve opacado por la burocracia y la falta de apoyo estructural, estas victorias son un recordatorio del talento y la pasión que caracterizan a nuestros deportistas. La Federación Internacional de Hockey, afiliada a la FIFA en un sentido más amplio de gobernanza deportiva, celebra estos encuentros de alto nivel.\n\nLa contundencia del 3-0 frente a un rival de la talla de España subraya la capacidad de las Leonas para competir en la élite mundial. Para Panorama.ar, estas hazañas deportivas son un reflejo de lo que Argentina puede lograr cuando se enfoca en la excelencia y la meritocracia, principios que deberían guiar también otras esferas de nuestra vida nacional. No hay atajos para el éxito; solo trabajo duro y talento.\n\nEste triunfo es una inyección de optimismo y un ejemplo de que, con determinación, se pueden superar los desafíos más grandes. ¿Servirá este éxito de Las Leonas como inspiración para otras áreas de la sociedad argentina que buscan superar obstáculos y alcanzar la grandeza?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "las-leonas-aplastan-a-espana-y-van-a-semifinales-del-mundial",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Vientos de cambio: ¿Argentina ante un punto de inflexión o de quiebre?",
-    "bajada": "El país y la región atraviesan un momento definitorio, donde las reformas o la inacción podrían sellar el futuro de las libertades.",
-    "cuerpo": "Argentina se encuentra, una vez más, en un punto de inflexión. Los 'vientos de cambio' que soplan en la región y en el país plantean una disyuntiva crucial: consolidar un camino hacia la libertad económica y el orden institucional, o sucumbir a las presiones populistas y al intervencionismo estatal. Desde Panorama.ar, creemos que la oportunidad de transformar el país es ahora o nunca. La experiencia histórica demuestra que las ventanas de oportunidad para las reformas estructurales son efímeras y deben ser aprovechadas con determinación, dejando atrás los vicios de la 'casta' política que han impedido el progreso durante décadas, incluso bajo figuras como Massa en gestiones anteriores.\n\nLa América Latina también se debate entre modelos. Mientras algunos países avanzan hacia una mayor integración global y la desregulación, otros persisten en esquemas estatistas que solo han generado pobreza y atraso. Argentina tiene la chance de liderar un cambio de paradigma en la región, adoptando políticas que fomenten la inversión privada, reduzcan el gasto público improductivo y alivien la carga impositiva sobre los ciudadanos. El costo de no hacerlo sería altísimo, perpetuando un ciclo de crisis y frustración.\n\nLa pregunta clave para este El 23 de agosto es: ¿Estamos realmente comprometidos con un cambio profundo o solo asistimos a un ajuste superficial? ¿Prevalecerán los intereses de largo plazo de la nación o las conveniencias políticas de corto plazo que históricamente han frenado nuestro desarrollo?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "vientos-de-cambio-argentina-ante-un-punto-de-inflexion-o-de-quiebre",
-    "fecha": "2026-08-23",
-    "imagen": "img/politica_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Expropiación financiera en Argentina? Peligro para el capital privado.",
-    "bajada": "El debate sobre una posible \"expropiación financiera\" bajo el actual gobierno genera alarma y reflexiones sobre la seguridad jurídica y el rol del Estado.",
-    "cuerpo": "El concepto de 'expropiación financiera' vuelve al centro del debate en Argentina, generando inquietud sobre la seguridad jurídica y el respeto al capital privado en la actual administración. Desde Panorama.ar, hemos sido enfáticos en que cualquier atisbo de intervención estatal que menoscabe la propiedad privada o la libertad de los mercados es un retroceso peligroso para la economía y la confianza inversora. La experiencia histórica argentina nos ha enseñado el alto costo de estas políticas, que en el pasado, incluso bajo gestiones donde figuras como Massa tuvieron influencia, se han traducido en fuga de capitales, desconfianza y estancamiento.\n\nEs fundamental que el Estado se limite a ser un garante de las reglas de juego claras y estables, sin caer en la tentación de la apropiación de recursos o la distorsión del sistema financiero. Las acusaciones o advertencias sobre una posible \"expropiación financiera\" deben ser tomadas con seriedad, ya sea para desmentirlas categóricamente con hechos o para exigir garantías que blinden los derechos de los ahorristas e inversores. La inversión y el crecimiento económico dependen directamente de un entorno donde el capital se sienta seguro y respetado.\n\nEn este contexto, la tarea del gobierno es doble: por un lado, desarmar los mecanismos intervencionistas heredados; por el otro, asegurar con hechos que no se abrirán nuevas puertas a la arbitrariedad. Para este El 23 de agosto, la pregunta es crucial: ¿Avanzaremos hacia una verdadera libertad económica o se mantendrán latentes los fantasmas de la intervención estatal que tanto daño han hecho al desarrollo argentino?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "expropiacion-financiera-en-argentina-peligro-para-el-capital-privado",
-    "fecha": "2026-08-23",
-    "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Sanciones FIFA: ¿Mano dura o castigo arbitrario para Paredes y Molina?",
-    "bajada": "La decisión de la FIFA contra Paredes y Molina reabre el debate sobre la disciplina en el fútbol argentino y el rol de la AFA.",
-    "cuerpo": "La FIFA ha dictaminado sanciones para Leandro Paredes y Nahuel Molina por su conducta en la final del Mundial, generando controversia. Mientras algunos ven una necesaria demostración de autoridad para mantener la ética deportiva, otros argumentan que la medida es desproporcionada o selectiva, especialmente cuando se compara con otros incidentes en el fútbol internacional. La pregunta es si estas sanciones realmente abordan las causas de fondo de ciertos comportamientos o si son meramente paliativos para la imagen.\n\nLa AFA, bajo presión de la entidad madre del fútbol mundial, deberá ahora definir los pasos a seguir. Esto plantea interrogantes sobre su capacidad de autogestión y la influencia externa en el fútbol local. ¿Es la FIFA un actor imparcial o sus decisiones a veces parecen responder a presiones externas que poco tienen que ver con la justicia deportiva? ¿Qué dice esto de la autonomía de nuestras instituciones deportivas?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "sanciones-fifa-mano-dura-o-castigo-arbitrario-para-paredes-y-molina",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Crítica de España: ¿La FIFA castiga a Argentina por “no saber perder”?",
-    "bajada": "Un diario de España arremete contra Argentina tras las sanciones de la FIFA, elevando la tensión y la polémica sobre la cultura deportiva.",
-    "cuerpo": "La portada de un medio de España, calificando las sanciones de la FIFA a la Selección Argentina como un \"duro castigo por no saber perder\", aviva la llama de la controversia. Esta narrativa, lejos de centrarse en la cuestión reglamentaria, busca imponer un juicio moral sobre el comportamiento argentino, alimentando un resentimiento preexistente. ¿Refleja este titular una crítica legítima o es un intento de deslegitimar logros deportivos ajenos a partir de una lectura sesgada?\n\nMás allá de la perspectiva de España, el episodio subraya la necesidad de un debate más profundo sobre el fair play y la diplomacia en el deporte. Si bien las sanciones de la FIFA tienen su fundamento, la interpretación y el uso mediático de las mismas pueden distorsionar la realidad. ¿Hasta qué punto los medios extranjeros tienen autoridad moral para juzgar la cultura deportiva de otras naciones, y cuándo su crítica se convierte en mero sesgo?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "critica-de-espana-la-fifa-castiga-a-argentina-por-no-saber-perder",
-    "fecha": "2026-08-23",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Milei y la FIA: ¿El regreso de Argentina a la agenda mundial del automovilismo?",
-    "bajada": "La presencia de Milei en el Congreso Americano FIA 2026 marca un intento de relanzar Argentina en el escenario internacional, pero ¿a qué costo?",
-    "cuerpo": "La confirmación de que Argentina será sede del Congreso Americano FIA 2026, con la presencia destacada del presidente Milei en su apertura, genera expectativas sobre el regreso de nuestro país a la agenda global del automovilismo. Este tipo de eventos internacionales no solo implican un movimiento económico importante, sino que también proyectan una imagen de estabilidad y apertura. Sin embargo, la cuestión de la inversión estatal necesaria y el real impacto en la economía productiva del país siempre debe ser analizada con lupa, no sea que el show desplace a la sustancia.\n\nLa participación de figuras políticas como Milei en estos encuentros es una señal. ¿Se trata de un verdadero compromiso con el desarrollo del deporte y la industria, o es una oportunidad para el lucimiento personal en un contexto de austeridad? Los contribuyentes esperan resultados concretos, no solo fotos. ¿Es esta una prioridad real para el país, o los fondos podrían destinarse a necesidades más urgentes en un contexto de ajuste fiscal?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "milei-y-la-fia-el-regreso-de-argentina-a-la-agenda-mundial-del-automovilismo",
-    "fecha": "2026-08-23",
-    "imagen": "img/politica_3.png",
     "destacada": false
   }
 ]
