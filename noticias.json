@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Vaca Muerta nos salvará? El impacto de las Ganancias del 'Texas argentino'",
+    "bajada": "El potencial de Vaca Muerta, entre el optimismo del NYT y la cruda realidad económica nacional.",
+    "cuerpo": "The New York Times se pregunta si el 'Texas argentino' puede salvar la economía del país, reflejando el enorme potencial de Vaca Muerta para generar divisas y desarrollo. Con proyecciones de exportaciones petroleras que podrían ser un pilar fundamental para estabilizar la macroeconomía, la narrativa se centra en cuánto de este boom se traducirá en beneficios tangibles y sostenibles para la población, o si quedará atrapado en la burocracia y la inestabilidad fiscal que caracterizan al país.\n\nLa gran pregunta es si las Ganancias generadas por este auge se reinvertirán eficazmente o se disiparán, como ha ocurrido históricamente con otros recursos. ¿El Estado logrará capitalizar este 'milagro' sin ahogarlo con regulaciones o impuestos excesivos, permitiendo una expansión genuina que genere empleo y desarrollo en lugar de solo rentas extraordinarias para algunos? Es crucial analizar cómo se gestionará esta riqueza para evitar repetir ciclos de bonanza y estancamiento.\n\nEste escenario plantea un debate urgente sobre la política energética y tributaria. ¿Podrá Argentina aprender de errores pasados y permitir que el sector privado opere con la previsibilidad necesaria, o el intervencionismo estatal volverá a frenar un motor económico que el país necesita desesperadamente? La respuesta definirá si Vaca Muerta es una verdadera solución o una oportunidad más desaprovechada. ¿Estamos preparados para gestionar este 'Texas argentino' con la visión estratégica que el futuro demanda?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "vaca-muerta-nos-salvara-el-impacto-de-las-ganancias-del-texas-argentino",
+    "fecha": "2026-08-25",
+    "imagen": "img/economia_6.png",
+    "destacada": true
+  },
+  {
+    "titulo": "El dilema de Milei: ¿crecimiento sin Ganancias sociales?",
+    "bajada": "Martín Guzmán cuestiona el modelo económico actual, señalando un crecimiento que no llega a la mayoría.",
+    "cuerpo": "El exministro de Economía, Martín Guzmán, encendió el debate al afirmar que, si bien la economía bajo la gestión de Milei puede mostrar crecimiento, “muchísima gente está peor que antes”. Esta declaración subraya la tensión entre los indicadores macroeconómicos y la realidad social, una brecha que a menudo genera polarización y descontento. La visión de un crecimiento sin inclusión plantea serios interrogantes sobre la sostenibilidad y equidad del ajuste actual.\n\nDesde nuestra perspectiva, la política económica debe ir más allá de los números fríos y considerar el impacto en la vida de los ciudadanos. Un crecimiento que no se traduce en Ganancias reales para la mayoría de la población —en términos de empleo, poder adquisitivo y acceso a servicios— es un crecimiento incompleto. Es fundamental que las reformas de mercado no olviden el tejido social, evitando que la austeridad se convierta en un castigo desproporcionado para los sectores más vulnerables.\n\nEste planteo nos obliga a reflexionar sobre si el camino actual es el más adecuado para reconstruir la Argentina. ¿Es posible alcanzar la estabilidad sin profundizar la desigualdad, o la famosa “casta” que se busca combatir termina siendo reemplazada por un nuevo sector privilegiado? ¿Qué costo social estamos dispuestos a pagar por la prometida libertad económica y cuándo se verá el verdadero impacto positivo en las Ganancias de la gente común?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "el-dilema-de-milei-crecimiento-sin-ganancias-sociales",
+    "fecha": "2026-08-25",
+    "imagen": "img/politica_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El campo exige: ¿Hasta cuándo ahogar la producción con Ganancias?",
+    "bajada": "Nicolás Pino, del sector agropecuario, denuncia la asfixia impositiva que frena el potencial exportador argentino.",
+    "cuerpo": "Nicolás Pino, representante del sector agropecuario, es contundente: “Porque el campo responde es que hay que sacarle el freno”. Sus palabras resuenan en un contexto donde el potencial de la producción argentina choca constantemente con la carga impositiva y la intervención estatal. El campo, motor histórico de la economía nacional, reclama condiciones claras y un alivio fiscal que le permita desatar su verdadera capacidad exportadora y generar divisas genuinas para el país.\n\nLa presión sobre las Ganancias, entre otros impuestos y retenciones, no solo desincentiva la inversión, sino que también limita la competitividad de los productos argentinos en el mercado global. Mientras otros países promueven sus sectores productivos, en Argentina la visión de “sacarle el freno” al campo es una demanda recurrente que la clase política a menudo ignora, privilegiando la recaudación a corto plazo sobre una estrategia de crecimiento sostenible.\n\nEs innegable que el sector agropecuario tiene la capacidad de contribuir significativamente a la recuperación económica. Sin embargo, ¿hasta cuándo se seguirá aplicando una política que castiga al que produce en lugar de incentivarlo? ¿No es hora de revisar a fondo el esquema de #Ganancias para el campo y liberar su verdadero potencial, en lugar de mantenerlo como rehén de una ideología intervencionista que ha demostrado ser ineficaz? El debate está abierto: ¿producción o asfixia fiscal?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "el-campo-exige-hasta-cuando-ahogar-la-produccion-con-ganancias",
+    "fecha": "2026-08-25",
+    "imagen": "img/economia_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Error diplomático? La soberanía en el Estrecho de Magallanes en juego",
+    "bajada": "Chile enviará una nota de protesta a Argentina tras polémicos dichos sobre el Estrecho de Magallanes.",
+    "cuerpo": "La relación bilateral entre Argentina y Chile se tensa nuevamente tras los dichos del jefe de la Fuerza Aérea argentina sobre la soberanía del Estrecho de Magallanes. Santiago anunció que enviará una nota de protesta, elevando la temperatura de un tema sensible que remite a cuestiones históricas y geopolíticas cruciales. Este incidente pone de manifiesto la delicadeza de las declaraciones oficiales y la necesidad de una diplomacia rigurosa en asuntos de soberanía.\n\nDesde Panorama.ar, la preocupación reside en la gestión de este tipo de episodios. En un momento donde Argentina busca consolidar su posición internacional y atraer inversiones, cualquier desliz diplomático puede generar ruidos innecesarios y afectar la imagen del país. Es fundamental que las autoridades actúen con la máxima cautela y claridad en temas tan delicados, evitando cualquier interpretación que ponga en duda los acuerdos o la buena fe en las relaciones regionales.\n\nEste suceso nos invita a reflexionar sobre la responsabilidad de los funcionarios públicos al abordar cuestiones de política exterior. ¿Son estas declaraciones un reflejo de una postura oficial más dura o simplemente un lamentable error de comunicación que podría tener costos diplomáticos inesperados? ¿Cómo afectará este incidente la confianza entre dos naciones vecinas y qué estrategia adoptará el gobierno para mitigar sus posibles consecuencias?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "error-diplomatico-la-soberania-en-el-estrecho-de-magallanes-en-juego",
+    "fecha": "2026-08-25",
+    "imagen": "img/politica_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Radiografía de una Argentina polarizada: ¿Quiénes ganan y quiénes pierden?",
+    "bajada": "Balances económicos revelan un país con consumo débil y energía en auge, con bancos bajo presión.",
+    "cuerpo": "Los balances económicos recientes dibujan una Argentina partida en dos, un reflejo de la profunda desigualdad que atraviesa el país. Mientras el consumo se muestra débil, arrastrando a sectores clave de la economía real, la energía experimenta un auge notable. En este contexto, los bancos se encuentran bajo presión, evidenciando las complejidades y los desequilibrios del modelo económico actual, que beneficia a unos mientras castiga a otros.\n\nEsta disociación entre sectores pone en relieve la necesidad de una política económica más equitativa y menos volátil. La baja del consumo es un síntoma claro de la pérdida de poder adquisitivo de los ciudadanos, una consecuencia directa de la inflación y la falta de ingresos genuinos. Mientras tanto, el crecimiento en sectores como la energía, aunque positivo en sí mismo, no logra derramar sus beneficios al conjunto de la sociedad, profundizando la brecha social y económica.\n\nLa pregunta que surge es fundamental: ¿Este modelo dual es sostenible a largo plazo? ¿Se puede construir un futuro próspero cuando una parte significativa de la población lucha por subsistir, mientras otra experimenta un boom? Es imperativo un análisis crítico y propuestas concretas para que las Ganancias del crecimiento no se concentren en pocas manos, sino que impulsen el bienestar general. ¿Estamos realmente comprometidos con una economía que funcione para todos, o solo para algunos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "radiografia-de-una-argentina-polarizada-quienes-ganan-y-quienes-pierden",
+    "fecha": "2026-08-25",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Exportaciones en auge: ¿Se traducirá en Ganancias reales para todos?",
+    "bajada": "Proyecciones optimistas indican que las exportaciones argentinas superarán los US$100.000 millones en 2026.",
+    "cuerpo": "Las estimaciones de que las exportaciones argentinas superarán los US$100.000 millones en 2026 inyectan un optimismo cauteloso en el panorama económico. Este crecimiento, si se concreta, representaría un salto significativo en la capacidad productiva y de inserción del país en el mercado global, generando las divisas tan necesarias para estabilizar la macroeconomía y afrontar los desafíos financieros. Es una señal de que, a pesar de los obstáculos, el potencial productivo de Argentina sigue intacto.\n\nSin embargo, la experiencia histórica nos obliga a ser escépticos. La clave no reside solo en el volumen de las exportaciones, sino en cómo esos ingresos se gestionan y si se traducen en Ganancias reales para el conjunto de la sociedad. ¿Se utilizarán para reducir la presión fiscal, mejorar la infraestructura o se disiparán en el gasto público ineficiente? Un auge exportador sin una política económica coherente y de largo plazo corre el riesgo de ser una oportunidad más desaprovechada.\n\nDesde Panorama.ar, instamos a un debate profundo sobre cómo capitalizar este potencial. Es imperativo que el Estado no estrangule a los sectores exportadores con impuestos excesivos o regulaciones absurdas, sino que facilite su crecimiento para que el país en su conjunto pueda beneficiarse. ¿Será este el momento en que Argentina aprenda a transformar sus exportaciones en prosperidad compartida, o las #Ganancias quedarán, como siempre, en unas pocas manos?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "exportaciones-en-auge-se-traducira-en-ganancias-reales-para-todos",
+    "fecha": "2026-08-25",
+    "imagen": "img/economia_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El dolor social tiene costo político: ¿Se ignora la crisis silenciosa?",
+    "bajada": "Un análisis profundo sobre el preocupante aumento de suicidios en Argentina y la falta de respuestas políticas.",
+    "cuerpo": "Bajo la contundente premisa de que “todo dolor es político”, se aborda la alarmante cifra de suicidios en Argentina, una crisis silenciosa que exige atención urgente y respuestas concretas. Este fenómeno, a menudo relegado al ámbito privado o psiquiátrico, tiene profundas raíces en el tejido social, económico y político del país. La falta de políticas públicas efectivas y la estigmatización alrededor de la salud mental reflejan una grave deuda del Estado con sus ciudadanos.\n\nDesde Panorama.ar, consideramos que es una irresponsabilidad política ignorar el sufrimiento que se esconde detrás de estas estadísticas. En una sociedad tensionada por la incertidumbre económica, la precarización laboral y la polarización, el Estado tiene la obligación de ir más allá de los discursos y generar marcos de contención y prevención. El enfoque simplista de reducir el problema a una cuestión individual omite la compleja interacción de factores sociales que empujan a muchos a esta decisión extrema.\n\nEste trágico panorama nos interpela directamente: ¿Hasta cuándo la salud mental y el bienestar emocional serán tratados como temas secundarios en la agenda política? ¿Qué medidas concretas se están implementando para abordar esta crisis, o seguiremos esperando a que el dolor social escale a niveles inmanejables? Es hora de exigir responsabilidad a la “casta” política y a la sociedad en su conjunto para enfrentar esta realidad. ¿Estamos a la altura del desafío?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "el-dolor-social-tiene-costo-politico-se-ignora-la-crisis-silenciosa",
+    "fecha": "2026-08-25",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
     "titulo": "¿Revancha o confirmación? La Copa Argentina define el futuro de varios clubes.",
     "bajada": "Los octavos de final prometen emociones y duelos clave que marcarán el rumbo de la temporada futbolística.",
     "cuerpo": "La Copa Argentina avanza y los ojos de la Nación se posan en cada encuentro, esperando sorpresas o la consagración de los grandes. Esta semana, equipos como Talleres y Ferro, entre otros, buscarán su lugar en la siguiente instancia, con la presión de la hinchada y las expectativas por los cielos. La performance de jugadores clave y la estrategia de técnicos como Almiron o Sampaoli serán cruciales.\n\nMás allá del fervor popular, la Copa Argentina es una vidriera para el talento local y una inyección económica para los clubes. Sin embargo, ¿se gestionan adecuadamente estos recursos o se diluyen en estructuras poco eficientes? La transparencia en la administración deportiva es un reclamo constante en un país donde la pasión por el fútbol a menudo choca con la realidad financiera.\n\n¿Están nuestros clubes preparados para aprovechar esta oportunidad deportiva y económica de forma sostenible, o solo vemos un espectáculo que esconde falencias estructurales?",
@@ -57,7 +141,7 @@
     "slug": "asueto-feriado-papa-costo-oculto-argentina",
     "fecha": "2026-08-25",
     "imagen": "img/politica_2.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "La Plata, ¿orgullo Argentina campeón? Una catedral global.",
@@ -201,90 +285,6 @@
     "slug": "argentina-sede-fia-2026-automovilismo-caja-estatal",
     "fecha": "2026-08-24",
     "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Alerta en el mercado: ¿Argentina rumbo a un nuevo default post-2027?",
-    "bajada": "Las señales del mercado son claras: el fantasma del default vuelve a rondar, con preocupación creciente por la sostenibilidad de la deuda argentina.",
-    "cuerpo": "Los analistas de mercado suenan las alarmas: el riesgo de default de Argentina se eleva significativamente para el período post-2027. Esta preocupación no es menor y se fundamenta en la persistente fragilidad fiscal, la desconfianza inversora y la falta de un plan económico a largo plazo que brinde certezas. Mientras algunos celebran superávit de coyuntura, el mercado mira el horizonte con escepticismo.\n\nPara Panorama.ar, esta es una advertencia contundente sobre las consecuencias de décadas de populismo y gasto desmedido. La disciplina fiscal y la reducción del Estado son imprescindibles para evitar caer nuevamente en una crisis de deuda que condene el futuro de los argentinos. No basta con parches temporales; se requieren reformas estructurales profundas.\n\nLa gran pregunta que los argentinos debemos hacernos es: ¿estamos dispuestos a asumir los costos de un ajuste real para salir del círculo vicioso del endeudamiento, o seguiremos coqueteando con el abismo del default?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "5 min",
-    "slug": "alerta-mercado-argentina-rumbo-nuevo-default-post-2027",
-    "fecha": "2026-08-24",
-    "imagen": "img/economia_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Paradoja Argentina: ¿Superávit con riesgo país récord?",
-    "bajada": "Una economía que ostenta superávit pero ahoga a sus inversores con un riesgo país que pocos países alcanzan: la contradicción que preocupa.",
-    "cuerpo": "Argentina presenta una dicotomía desconcertante: mientras celebra un superávit fiscal –un logro importante tras años de déficit crónico–, a la vez mantiene uno de los riesgos país más altos del mundo. Esta paradoja revela la profunda desconfianza de los mercados en la sostenibilidad a largo plazo de las políticas económicas y la estabilidad institucional. Los datos muestran un equilibrio precario que no genera un impacto real en la percepción de solvencia.\n\nDesde nuestra visión liberal, el superávit es un primer paso, pero insuficiente si no se acompaña de reformas estructurales que garanticen seguridad jurídica, respeto a la propiedad privada y una drástica reducción del gasto público improductivo. Sin un horizonte claro de libertad económica, el riesgo país seguirá siendo un lastre que ahoga la inversión y el crecimiento.\n\nLa pregunta central es: ¿cómo se explica esta contradicción y qué medidas concretas se están tomando para alinear la política económica con la confianza de los inversores? ¿O estamos ante un maquillaje contable que esconde problemas de fondo?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "paradoja-argentina-superavit-riesgo-pais-record",
-    "fecha": "2026-08-24",
-    "imagen": "img/economia_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Consumo en picada: ¿Supermercados en rojo, economía en crisis?",
-    "bajada": "El dato es lapidario: en casi todos los distritos, la facturación de supermercados cae por debajo del promedio de los últimos ocho años, revelando una cruda realidad del consumo.",
-    "cuerpo": "La situación en los supermercados argentinos es un reflejo inequívoco de la contracción del consumo y el deterioro del poder adquisitivo. Con la facturación por debajo del promedio de los últimos ocho años en 22 de 24 distritos, la cruda realidad golpea la mesa: las familias ajustan sus gastos al máximo, priorizando lo esencial. Las cifras son claras y muestran una tendencia preocupante más allá de cualquier discurso oficial.\n\nPara Panorama.ar, esta caída del consumo no es meramente un número, sino el termómetro del impacto de la inflación y la presión impositiva sobre los bolsillos de los trabajadores. El ahogo fiscal y la falta de incentivos para la inversión productiva terminan por asfixiar al mercado interno, afectando tanto a consumidores como a empresas. Es un círculo vicioso que requiere atención urgente.\n\nLa pregunta que emerge es: ¿cuánto más puede soportar el consumo interno antes de que esta crisis se profundice y afecte aún más el empleo y la producción? ¿Qué medidas concretas se proponen para reactivar la economía real y devolverle poder de compra a la gente?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "consumo-picada-supermercados-rojo-economia-crisis",
-    "fecha": "2026-08-24",
-    "imagen": "img/economia_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Verde de esperanza o espejismo bursátil en Argentina?",
-    "bajada": "Los mercados celebran un lunes positivo, con bonos y acciones en alza, y el riesgo país cede. Pero, ¿es un alivio duradero o una pausa fugaz en la incertidumbre?",
-    "cuerpo": "Un respiro para la economía: acciones y bonos argentinos reaccionaron al alza, y el riesgo país perforó la barrera de los 500 puntos, generando un cauto optimismo en el mercado. Esta mejora, aunque bienvenida, debe analizarse con la perspicacia que caracteriza a Panorama.ar. ¿Estamos ante un cambio de tendencia genuino, impulsado por reformas de fondo, o es una recuperación técnica en un contexto de alta volatilidad?\n\nDesde nuestra línea editorial, valoramos la confianza de los inversores, pero es crucial diferenciar entre las oscilaciones bursátiles y la solidez estructural de la economía. Sin una reducción efectiva del gasto público, menos impuestos para la producción y una agenda de desregulación ambiciosa, estos repuntes pueden ser meros espejismos, efímeros y poco sostenibles en el tiempo.\n\nLa pregunta es: ¿hasta qué punto esta \"semana verde\" se traduce en inversiones productivas y empleo real, o solo maquilla una economía que sigue pidiendo a gritos reformas profundas? ¿Es un verdadero giro o un mero rebote en la inestabilidad?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "verde-esperanza-espejismo-bursatil-argentina",
-    "fecha": "2026-08-24",
-    "imagen": "img/economia_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "FIFA: ¿Fin de la impunidad para jugadores de la Selección Argentina?",
-    "bajada": "Duras sanciones de FIFA sacuden al fútbol nacional tras incidentes post-Mundial, poniendo en jaque el comportamiento de nuestras estrellas.",
-    "cuerpo": "La reciente decisión de la FIFA de aplicar gravísimas sanciones a dos jugadores de la Selección Argentina por incidentes ocurridos tras la final del Mundial 2026, marca un precedente ineludible. Este castigo, que según TyC Sports apunta a un \"comportamiento inaceptable\", debería forzar una reflexión profunda sobre la responsabilidad que conlleva representar al país. ¿Es hora de exigir más allá del rendimiento deportivo?\n\nSi bien el fanatismo puede nublar el juicio, es fundamental que las figuras públicas, especialmente aquellas con un impacto masivo como los futbolistas de la Selección, entiendan que sus acciones tienen consecuencias que trascienden el campo de juego. Este tipo de incidentes, que empañan la imagen de Argentina, no solo afectan a los implicados sino a todo el deporte nacional. ¿Hasta cuándo se tolerará la falta de profesionalismo fuera de las canchas?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "fifa-fin-impunidad-jugadores-seleccion-argentina",
-    "fecha": "2026-08-24",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Otro feriado para el \"ajuste\"? Milei y la visita del Papa",
-    "bajada": "Mientras se habla de austeridad, el Gobierno de Javier Milei evalúa un asueto que costaría millones. ¿Prioridades claras o populismo religioso?",
-    "cuerpo": "La noticia de que Javier Milei evalúa decretar asueto o feriado nacional por la visita del papa León XIV a Argentina en 2026 genera un fuerte interrogante. En un contexto de “motosierra” y ajuste fiscal, donde cada peso cuenta para estabilizar la economía, ¿es justificable paralizar el país, incluso por un evento de relevancia espiritual? El costo económico de un feriado se mide en miles de millones de pesos perdidos en productividad.\n\nDesde el Gobierno se argumentará la importancia cultural o religiosa del evento, y la afluencia de mendocinos a Córdoba para la visita del Papa, como reportan Los Andes, muestra el interés popular. Sin embargo, la línea editorial de Panorama.ar siempre ha sido crítica con la presión impositiva y el gasto público. ¿Es un asueto la mejor señal que puede dar una administración que prometió achicar el Estado y no ceder ante \"la casta\"? Es hora de definir si la austeridad es un principio inquebrantable o una herramienta flexible según la ocasión.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "otro-feriado-ajuste-milei-visita-papa",
-    "fecha": "2026-08-24",
-    "imagen": "img/politica_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Fórmula 1: ¿Oportunidad de Estado o show político para Milei?",
-    "bajada": "Argentina vuelve al radar de la Fórmula 1 con un Congreso FIA, y la presencia presidencial genera expectativas. ¿Es inversión o distracción?",
-    "cuerpo": "La noticia de que Argentina será sede del Congreso Americano de la FIA, un evento clave para el automovilismo continental y la Fórmula 1, es sin duda una oportunidad para el país. Que Javier Milei esté presente en la apertura, como reporta La Nación, puede interpretarse como un gesto de apoyo a la inversión y al posicionamiento internacional. Sin embargo, la línea entre la promoción del Estado y el uso político de un evento de estas características es delgada.\n\nSi bien el automovilismo genera entusiasmo y Argentina tiene una rica historia en el deporte motor, la clave es si este tipo de eventos se traducen en beneficios concretos para los ciudadanos, más allá de la visibilidad. ¿Estamos ante una verdadera estrategia de desarrollo turístico y económico, o es una movida más para capitalizar la imagen del Presidente en un ámbito internacional, mientras la economía doméstica sigue siendo un desafío? El \"radar de la Fórmula 1\" debe traer más que solo flashes.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "formula-1-oportunidad-estado-show-politico-milei",
-    "fecha": "2026-08-24",
-    "imagen": "img/economia_3.png",
     "destacada": false
   }
 ]
