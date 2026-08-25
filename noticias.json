@@ -1,5 +1,89 @@
 [
   {
+    "titulo": "¿Otro crack como Julián Álvarez? El goleador que ilusiona a Argentina",
+    "bajada": "Un joven talento con triple nacionalidad emerge como posible figura para el fútbol argentino y europeo.",
+    "cuerpo": "Mientras el fútbol argentino y el mundo siguen de cerca la carrera de Julián Álvarez, surge una nueva promesa con potencial para deslumbrar en las grandes ligas. Este joven goleador, con raíces en Italia, Alemania y Argentina, ha captado la atención por su capacidad de definición y proyección. ¿Estamos ante el próximo gran \"9\" que podría emular el éxito de la Araña en el Barcelona o la Selección? Su versatilidad y olfato goleador abren un debate sobre la captación y desarrollo de talentos en nuestro país frente a potencias europeas.  La irrupción de este tipo de jugadores genera tanto optimismo como preocupación. ¿Qué políticas deportivas son necesarias para retener o al menos beneficiarse del talento que se forma en Argentina? ¿Priorizamos la exportación temprana o la consolidación en ligas locales? La discusión trasciende lo meramente deportivo y toca aspectos económicos y de identidad nacional en un mercado globalizado. ¿Argentina está preparada para maximizar el potencial de estas joyas o las dejará escapar sin una estrategia clara?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "otro-crack-como-julian-alvarez-el-goleador-que-ilusiona-a-argentina",
+    "fecha": "2026-08-25",
+    "imagen": "img/sociedad_8.png",
+    "destacada": true
+  },
+  {
+    "titulo": "La otra pasión del fútbol: Platense vs. Instituto en Copa Argentina",
+    "bajada": "Más allá de los grandes, el corazón del fútbol late en la Copa Argentina.",
+    "cuerpo": "Mientras los debates en torno a grandes clubes como River o la performance de estrellas en el extranjero acaparan titulares, la Copa Argentina nos recuerda que la esencia del fútbol reside también en la pasión de los equipos con menos reflectores. La venta de entradas para el encuentro entre Platense e Instituto de Córdoba no es solo un trámite, sino un termómetro de la vitalidad del ascenso y de la Primera Nacional, donde los hinchas demuestran un compromiso inquebrantable.  Este tipo de partidos subraya la importancia de fortalecer las ligas locales y la competencia federal, un pilar fundamental para el desarrollo del deporte. ¿Cómo se equilibra el protagonismo de los clubes históricamente grandes con la necesidad de dar visibilidad y recursos a instituciones como Platense e Instituto? La Copa Argentina ofrece una plataforma única para estas confrontaciones que a menudo resultan en sorpresas y momentos inolvidables, manteniendo viva la llama de la competencia genuina. ¿Estamos invirtiendo lo suficiente en la base de nuestro fútbol, o solo miramos las cúpulas?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "la-otra-pasion-del-futbol-platense-vs-instituto-en-copa-argentina",
+    "fecha": "2026-08-25",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿De Popstars a Gran Hermano? La nueva distracción de la pantalla",
+    "bajada": "El debut de Popstars Argentina genera memes y debate sobre el futuro de los realities.",
+    "cuerpo": "En un país convulsionado por la realidad política y económica, la televisión sigue apostando a los realities de entretenimiento, ahora con el debut de Popstars Argentina. La viralización de memes y comentarios en redes sociales, similar a lo que ocurre con fenómenos como SIN SOL NO HAY GH o los apoyos a TAMARA AL 9009, evidencia la capacidad de estos formatos para captar la atención masiva. ¿Son una válvula de escape necesaria o una forma de eludir las discusiones de fondo que la sociedad argentina necesita dar?  La programación que prioriza el espectáculo por sobre el análisis crítico o la información relevante plantea interrogantes sobre el rol de los medios y el consumo cultural. Mientras figuras como SOL AL 9009 dominan las conversaciones en X, los debates sobre la producción de talento o la calidad artística quedan en segundo plano, ahogados por la inmediatez del meme y la tendencia. ¿Es esta la cultura que queremos fomentar? ¿O es una respuesta natural a una demanda de evasión que los medios no pueden ignorar?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "de-popstars-a-gran-hermano-la-nueva-distraccion-de-la-pantalla",
+    "fecha": "2026-08-25",
+    "imagen": "img/sociedad_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "¿Soberanía en jaque? La presión de China suspende un acto en CABA",
+    "bajada": "La injerencia extranjera genera controversia y pone en duda la autonomía de nuestras instituciones.",
+    "cuerpo": "La suspensión de un acto en la Legislatura de la Ciudad de Buenos Aires, producto de una presunta \"presión de China\" sobre la Cancillería Argentina, enciende las alarmas sobre el grado de influencia externa en la política local. ¿Estamos dispuestos a ceder soberanía en aras de mantener relaciones comerciales, o hay límites que no deberían cruzarse? Este incidente plantea serios interrogantes sobre la firmeza de nuestras instituciones frente a las demandas de potencias extranjeras y el costo oculto de ciertos acuerdos.  Para un medio como Panorama.ar, la defensa de la autonomía nacional y la crítica a cualquier forma de injerencia son pilares fundamentales. La \"casta\" política tiene la responsabilidad de proteger los intereses de Argentina sin doblegarse ante potencias que priorizan sus propias agendas. El episodio debe llevarnos a reflexionar sobre la transparencia en las relaciones internacionales y el verdadero precio de nuestra independencia. ¿Qué tan dispuestas están nuestras autoridades a defender los valores republicanos frente a la diplomacia de la presión?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "soberania-en-jaque-la-presion-de-china-suspende-un-acto-en-caba",
+    "fecha": "2026-08-25",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Varados y olvidados: El costo oculto del \"low cost\" en viajes",
+    "bajada": "Cientos de pasajeros argentinos atrapados en Brasil exponen la precariedad de ciertos servicios.",
+    "cuerpo": "La situación de casi 400 pasajeros argentinos varados en Brasil tras la falla de un vuelo \"low cost\" hacia España, es un crudo recordatorio de que lo barato puede salir muy caro. Más allá de la promesa de precios accesibles, estos incidentes exponen la vulnerabilidad de los usuarios y la necesidad de una regulación estricta que garantice estándares mínimos de seguridad y atención. ¿Quién asume la responsabilidad cuando la \"libertad de mercado\" se traduce en desamparo para el consumidor?  Este caso no solo afecta a los individuos involucrados, sino que también pone en tela de juicio la capacidad de control de las autoridades de aviación y la protección al consumidor. Es imperativo exigir a las aerolíneas que cumplan con sus obligaciones y que el Estado garantice un marco legal que prevenga estas situaciones, más allá de la conveniencia económica. La crítica al garantismo debe aplicar también a las empresas que operan con laxitud. ¿Hasta cuándo toleraremos que la búsqueda de la rentabilidad se imponga sobre los derechos básicos de los ciudadanos?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "varados-y-olvidados-el-costo-oculto-del-low-cost-en-viajes",
+    "fecha": "2026-08-25",
+    "imagen": "img/sociedad_5.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Riesgo país: ¿Otro default en el horizonte argentino post-2027?",
+    "bajada": "Los mercados elevan la preocupación sobre la capacidad de Argentina para honrar sus deudas a mediano plazo.",
+    "cuerpo": "Las alarmantes señales que emanan del mercado, con la elevación del riesgo de default para Argentina después de 2027 y la persistencia de un riesgo país por encima de los 500 puntos básicos, son un claro indicador de la fragilidad económica que aún persiste. Más allá de las promesas políticas, los inversores internacionales expresan una profunda desconfianza en la sostenibilidad de las cuentas públicas y la continuidad de las reformas necesarias. ¿Hasta cuándo continuará Argentina en este ciclo de incertidumbre y endeudamiento crónico?  Desde la perspectiva de Panorama.ar, la responsabilidad recae en la falta de disciplina fiscal y la constante tentación de la \"casta\" política de postergar los ajustes estructurales. Sin una verdadera reforma del Estado, una reducción drástica del gasto público y una menor presión impositiva, el horizonte económico seguirá teñido de rojo. Ignorar estas advertencias es condenar a las futuras generaciones a repetir los errores del pasado. ¿Estamos listos para tomar las decisiones impopulares pero necesarias para garantizar un futuro económico estable, o seguiremos pateando el problema hacia adelante?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "riesgo-pais-otro-default-en-el-horizonte-argentino-post-2027",
+    "fecha": "2026-08-25",
+    "imagen": "img/economia_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Orgullo nacional: ¿Qué catedral argentina superó a Notre Dame?",
+    "bajada": "Un reconocimiento mundial a la arquitectura y patrimonio cultural argentino que genera debate.",
+    "cuerpo": "En un mundo donde las noticias suelen inclinarse hacia lo negativo, la elección de una catedral argentina como la más linda del mundo, superando a íconos como Notre Dame y el Duomo de Florencia, es un bálsamo de orgullo nacional. Este reconocimiento pone en valor no solo la excelencia arquitectónica y artística de nuestro patrimonio, sino también la capacidad de Argentina para destacarse a nivel global en aspectos culturales y simbólicos. ¿Podemos capitalizar este tipo de logros para fomentar el turismo y la apreciación de nuestra identidad?  Este tipo de noticias, aunque no directamente relacionadas con la coyuntura política o económica, sirven para recordar el vasto potencial de nuestro país y la riqueza de su cultura. Es un llamado a valorar lo propio y a invertir en la conservación de nuestro legado, un aspecto que a menudo queda relegado. Más allá de la anécdota, el impacto de este reconocimiento en el imaginario colectivo puede ser un motor para la autoestima nacional. ¿Estamos haciendo lo suficiente para proteger y promover los tesoros que nos posicionan en el mapa mundial?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "orgullo-nacional-que-catedral-argentina-supero-a-notre-dame",
+    "fecha": "2026-08-25",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
     "titulo": "Milei y el furor Colapinto: ¿F1 para la Argentina o show político?",
     "bajada": "La movida presidencial para traer la Fórmula 1 desata el debate: ¿impulso al deporte o estrategia electoralista con recursos públicos?",
     "cuerpo": "El presidente se suma al entusiasmo por Franco Colapinto y la Fórmula 1, expresando su deseo de traer la máxima categoría del automovilismo a la Argentina. Esta iniciativa, si bien genera expectativas en el ámbito deportivo y turístico, también plantea interrogantes sobre la viabilidad económica y el uso de fondos públicos en un contexto de ajuste.\n\nLa visión liberal de Panorama.ar siempre cuestiona la injerencia estatal en eventos que podrían ser gestionados por el sector privado. ¿Es esta una verdadera apuesta por el desarrollo deportivo y la generación de ingresos, o una capitalización política de un fenómeno popular con miras a futuro?\n\nEl debate sobre la priorización del gasto público es crucial. ¿Es lógico destinar recursos a un evento de esta magnitud cuando el país enfrenta desafíos económicos urgentes?",
@@ -9,7 +93,7 @@
     "slug": "milei-furor-colapinto-f1-argentina-show-politico",
     "fecha": "2026-08-24",
     "imagen": "img/politica_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "GP de Argentina: ¿Qué lecciones deja Países Bajos para nuestra F1?",
@@ -201,90 +285,6 @@
     "slug": "economia-milei-crece-pbi-argentinos-empobrecen",
     "fecha": "2026-08-24",
     "imagen": "img/economia_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Expectativas económicas: 6 de cada 10 argentinos temen lo peor. ¿Hay luz al final?",
-    "bajada": "La mayoría de los ciudadanos proyecta un deterioro personal en un contexto de incertidumbre y ajuste.",
-    "cuerpo": "Un reciente informe de Infobae revela una alarmante caída en las expectativas económicas de los argentinos: un 60% de la población cree que su situación personal empeorará en los próximos meses. Este dato es un termómetro social que refleja la profunda preocupación y la incertidumbre que prevalecen, a pesar de los discursos oficiales sobre el rumbo positivo de la macroeconomía.\n\nPara \"Panorama.ar\", estas cifras son un llamado de atención sobre la velocidad y el impacto de las reformas. Si bien es innegable la necesidad de reordenar las variables económicas, la confianza ciudadana es un activo fundamental que no puede ignorarse. El gobierno sostiene que los frutos de la política de ajuste se verán a mediano y largo plazo, pero la paciencia social tiene un límite. ¿Cómo se construye un consenso cuando la mayoría percibe un futuro sombrío a corto plazo? Es crucial que el mensaje oficial conecte con la realidad de la gente, ofreciendo un horizonte de esperanza creíble más allá de los indicadores financieros.",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "expectativas-economicas-argentinos-temen-peor",
-    "fecha": "2026-08-24",
-    "imagen": "img/economia_4.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La mitad de los argentinos no llega a fin de mes. ¿Dónde está el ajuste real?",
-    "bajada": "Un crudo panorama social: casi el 50% de los hogares recurre a la deuda o los ahorros para subsistir.",
-    "cuerpo": "La realidad económica argentina se refleja crudamente en los hogares: casi la mitad de las familias no logra cubrir sus gastos mensuales y se ve obligada a apelar a ahorros o, en el peor de los casos, a endeudarse. Este dato, lejos de ser un mero número, expone la fragilidad de la clase media y baja frente a la inflación y la pérdida del poder adquisitivo.\n\nDesde \"Panorama.ar\" insistimos en que este escenario es insostenible y requiere medidas urgentes más allá del ajuste macroeconómico. Mientras el Gobierno celebra superávit fiscales, la gente sufre en la calle. ¿Dónde está el \"ajuste de la casta\" prometido si la carga recae desproporcionadamente en el ciudadano común? Es fundamental que las políticas públicas se traduzcan en un alivio concreto para quienes producen y trabajan, y no solo en balances en rojo para las cuentas familiares. ¿Hasta cuándo podrá el tejido social soportar esta presión, antes de que la crisis económica se transforme en una crisis de convivencia?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "mitad-argentinos-no-llega-fin-de-mes-ajuste-real",
-    "fecha": "2026-08-24",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Súper Gripe: 790.000 casos en Argentina, ¿el Estado ausente o ineficaz?",
-    "bajada": "La \"súper gripe\" rompe récords de contagios en Argentina, superando los picos de la última década y afectando mayormente a los chicos.",
-    "cuerpo": "La denominada \"súper gripe\" ha desatado una alerta sanitaria en Argentina, con más de 790.000 casos registrados en 2026, una cifra récord que supera la de la última década. La situación es particularmente preocupante entre los niños, que son los más afectados por esta agresiva cepa. Este panorama pone en evidencia la fragilidad de nuestro sistema de salud y la efectividad de las campañas de prevención.\n\nDesde \"Panorama.ar\" cuestionamos la respuesta del Estado ante una emergencia de esta magnitud. ¿Se han tomado las medidas preventivas adecuadas? ¿Hay suficiente inversión en infraestructura sanitaria y campañas de concientización? O, por el contrario, ¿estamos ante una negligencia o ineficacia de las políticas públicas que dejan a la población, especialmente a los más vulnerables, expuesta a una enfermedad prevenible? Es imperativo que el Ministerio de Salud brinde explicaciones claras y un plan de acción contundente, más allá de los comunicados de rigor, para proteger a la población y evitar que esta crisis sanitaria se agudice aún más.",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "super-gripe-record-argentina-estado-ausente",
-    "fecha": "2026-08-24",
-    "imagen": "img/sociedad_1.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Campeón del Mundo con Argentina: ¿Gloria y olvido? El retiro de una figura",
-    "bajada": "La historia de un ex futbolista de la Selección Argentina que eligió el bajo perfil tras la cima del éxito y la fama.",
-    "cuerpo": "Mientras el fútbol argentino sigue generando pasiones y debates, la historia de un campeón del mundo con la Selección Argentina resuena con un mensaje diferente: el de la búsqueda de la tranquilidad lejos de los focos. Este jugador, cuyo nombre resuena en la memoria colectiva, optó por una vida alejada de la fama, en un contraste con la exposición mediática constante de muchas figuras actuales, incluyendo las que a veces se ven envueltas en polémicas fuera de la cancha.\n\n\"Panorama.ar\" reflexiona sobre el costo de la popularidad y el valor de la privacidad. En un mundo donde la exposición en redes es casi obligatoria, la decisión de un ex referente de la albiceleste de retirarse de la vida pública y dedicarse a su familia, incluso casándose con una ex figura de la televisión, subraya una elección consciente. ¿Es esta una crítica velada a la mercantilización del deporte, o simplemente el anhelo de una vida más auténtica y menos demandante que la \"casta\" del estrellato? La pregunta persiste: ¿es posible alcanzar la gloria sin quedar atrapado en la jaula de cristal de la fama, o el \"anonimato\" es el último refugio de la verdadera libertad?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "campeon-mundo-argentina-gloria-olvido-retiro",
-    "fecha": "2026-08-24",
-    "imagen": "img/sociedad_3.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Disciplinar a la Selección Argentina? Las ",
-    "bajada": "La FIFA impone duras penas a dos figuras por incidentes post-final, abriendo el debate sobre el comportamiento y la imagen.",
-    "cuerpo": "La noticia de las ",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "disciplinar-a-la-seleccion-argentina-sanciones-mundial",
-    "fecha": "2026-08-24",
-    "imagen": "img/sociedad_2.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Censura o regla? La sanción a la Selección Argentina por Malvinas en el Mundial",
-    "bajada": "Un gesto de soberanía terminó en penalización de FIFA, reavivando el debate sobre política y deporte en el escenario global.",
-    "cuerpo": "La decisión de la FIFA de sancionar a la Selección Argentina por exhibir una bandera con la leyenda ",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "censura-o-regla-sancion-seleccion-argentina-malvinas-mundial",
-    "fecha": "2026-08-24",
-    "imagen": "img/politica_7.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Feriado por el Papa? El costo de la fe versus la ",
-    "bajada": "Mientras el Gobierno analiza un asueto por la visita papal, surge la pregunta sobre la productividad y el impacto económico.",
-    "cuerpo": "La posible declaración de un asueto o feriado nacional por la visita del papa León XIV a la Argentina ha encendido la polémica, una vez más, sobre el equilibrio entre las tradiciones y el pragmatismo económico. Desde el oficialismo se evalúa la medida como un gesto de bienvenida, pero para un sector de la sociedad, y en la óptica crítica de Panorama.ar, cada día no trabajado representa un costo significativo para una economía ya frágil. ¿Puede Argentina permitirse otro feriado en su actual contexto fiscal?Desde Panorama.ar, cada día no trabajado representa un costo significativo para una economía ya frágil. ¿Puede Argentina permitirse otro feriado en su actual contexto fiscal?\n\nEl debate se centra en si la visita papal, más allá de su significado espiritual para millones, justifica una paralización de la actividad productiva. Los defensores de la medida señalan la importancia del evento y la necesidad de facilitar la participación ciudadana, mientras los críticos, desde una perspectiva liberal, advierten sobre el impacto negativo en el Producto Bruto Interno y la presión sobre el sector privado. ¿Es esta una decisión responsable o una concesión populista en tiempos de ajuste?\n\nEl ",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "feriado-por-el-papa-costo-fe-estado",
-    "fecha": "2026-08-24",
-    "imagen": "img/politica_4.png",
     "destacada": false
   }
 ]
