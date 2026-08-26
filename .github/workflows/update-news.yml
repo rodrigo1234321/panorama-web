@@ -2,8 +2,8 @@ name: Auto Actualizar Noticias
 
 on:
   schedule:
-    # Se ejecuta cada 5 horas (reducido en 1 hora para mayor frecuencia diaria de noticias)
-    - cron: '0 */5 * * *'
+    # Se ejecuta automáticamente cada 2 horas para mantener la web con noticias frescas del minuto a minuto
+    - cron: '0 */2 * * *'
   workflow_dispatch: # Permite disparar la automatización manualmente desde la pestaña Actions en GitHub
 
 # Otorgar permisos de escritura al token de GitHub Actions para permitir el git push

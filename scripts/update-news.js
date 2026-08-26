@@ -152,66 +152,10 @@ async function fetchNews() {
   return allItems.slice(0, 35);
 }
 
-// Call Gemini API to process and format news aligning with political pulse & X trends
-async function generateArticles(newsItems, trends = []) {
-  console.log('Llamando a la API de Gemini para procesar y redactar las noticias con enfoque político y dinámico...');
-  const today = new Date().toISOString().split('T')[0];
+const candidateModels = ['gemini-flash-latest', 'gemini-3.5-flash', 'gemini-3.6-flash', 'gemini-2.5-flash'];
 
-  const prompt = `
-    Sos el editor jefe de "Panorama.ar", el portal digital argentino de periodismo de análisis político, económico y debate social con fuerte repercusión e interactividad en X (Twitter).
-
-    Tu misión: seleccionar y redactar EXACTAMENTE 10 noticias de la lista de entrada que mejor se conecten con las tendencias actuales en redes sociales y el pulso político nacional argentino.
-
-    TENDENCIAS ACTUALES EN ARGENTINA (X/Twitter y Google Trends):
-    ${JSON.stringify(trends, null, 2)}
-
-    NOTICIAS DE ENTRADA (Multi-fuente especializada):
-    ${JSON.stringify(newsItems, null, 2)}
-
-    REGLAS EDITORIALES Y ESTRATEGIA DE CONTENIDO (OBLIGATORIAS):
-
-    1. ORIENTACIÓN TEMÁTICA:
-       - Priorizá fuertemente la POLÍTICA NACIONAL y la ECONOMÍA (medidas del gobierno, decisiones de Javier Milei, Congreso, gobernadores, tensión política, dólar, inflación, desregulación, seguridad y debates institucionales).
-       - Complementá con temas de alto impacto social o controversias que dominen la conversación pública en redes.
-
-    2. POSICIONAMIENTO EDITORIAL DINÁMICO Y CAMALEÓNICO (MUY IMPORTANTE):
-       - ESCENARIO A (Cuando la tendencia o el tema sea favorable al gobierno de Javier Milei / respaldo a reformas):
-         El tinte de la noticia debe ser a favor. Realzá con datos duros, cifras oficiales y argumentos sólidos lo que el gobierno está haciendo (déficit cero, baja de inflación, quita de privilegios, desregulaciones, firmeza en seguridad). Contrastá con las fallas del modelo estatista previo.
-       - ESCENARIO B (Cuando la tendencia sea cuestionar al gobierno, clima de descontento social o crítica a medidas oficiales):
-         REGLA DE ORO: NUNCA apoyar abiertamente a la izquierda ni al kirchnerismo. En lugar de militar a la oposición, adoptá una postura inteligente en zonas de GRISES: hacé preguntas incisivas y punzantes sobre la efectividad de las medidas de Milei, los costos sociales del ajuste, el impacto en la clase media/jubilados/pymes, la celeridad de las soluciones o contradicciones operativas. Hablá con datos reales y planteá interrogantes legítimos para detonar el debate ciudadano.
-       - ESCENARIO C (Otros temas institucionales o judiciales):
-         Mantené un tono agudo, analítico y directo, respaldado por hechos verificables.
-
-    3. PALABRAS CLAVE DE TENDENCIA EN EL TÍTULO (MÁXIMA VISIBILIDAD):
-       - Cuando una noticia conecte con una tendencia, el título DEBE contener textualmente de 1 a 3 palabras clave exactas de la lista de tendencias (ej: "Milei", "Dólar", "Kicillof", "Villarruel", "Inflación", "Jubilados", "Aerolíneas").
-       - Titulares gancheros, directos y con gancho periodístico (máximo 15 palabras).
-
-    4. RIGOR PERIODÍSTICO:
-       - No inventes datos, números ni citas falsas. Basate en los hechos reales de las noticias provistas.
-       - Cerrá el cuerpo con una pregunta reflexiva incisiva que invite a debatir en los comentarios.
-
-    5. FORMATO DE TWEET PARA X/TWITTER (CAMPO "tweet"):
-       - MÁXIMO 220 caracteres (para dejar espacio al link que se agregará automáticamente al final).
-       - REGLA ESTRICTA DE FORMATO: PROHIBIDO poner hashtags con '#' dentro de las oraciones o en el medio del texto (evitar que queden palabras cortadas en azul que arruinan la lectura).
-       - El texto debe redactarse como un post periodístico de alto impacto:
-         * Oración 1: Gancho potente o dato revelador con los nombres propios de la tendencia de forma natural (ej: Milei, Pagni, Tolosa Paz).
-         * Oración 2: Pregunta punzante o dilema que detone el debate en comentarios.
-       - NO incluyas ningún link ni URL en el campo "tweet" (el enlace se agregará automáticamente).
-
-    Campos requeridos para cada uno de los 10 artículos en el JSON:
-    - titulo: Título agudo con palabras clave de tendencia (máx 15 palabras).
-    - bajada: Resumen gancho de 1-2 oraciones que plantee el dilema central.
-    - cuerpo: 2-3 párrafos separados por dobles saltos de línea (\\n\\n) con análisis de datos, argumentos y pregunta final de debate.
-    - categoria: "politica", "economia" o "sociedad".
-    - autor: "Redacción Panorama".
-    - lectura: Tiempo estimado (ej: "3 min").
-    - slug: URL slug basado en el título, minúsculas, guiones y sin tildes ni caracteres especiales (ej: "debate-por-medidas-economicas-de-milei").
-    - fecha: "${today}".
-    - imagen: "img/fallback_general.png" (se asignará automáticamente por hash).
-    - destacada: true SOLO para la nota MÁS relevante de la jornada política/económica (las otras 9 deben tener false).
-    - tweet: Borrador de post de X limpio, sin '#' en medio de oraciones (máx 220 chars).
-  `;
-
+// Helper to call Gemini API with fallback models
+async function callGemini(prompt, responseSchema, description) {
   const requestBody = {
     contents: [
       {
@@ -222,27 +166,7 @@ async function generateArticles(newsItems, trends = []) {
     ],
     generationConfig: {
       responseMimeType: "application/json",
-      responseSchema: {
-        type: "ARRAY",
-        description: "Lista de 10 noticias formateadas para Panorama.ar",
-        items: {
-          type: "OBJECT",
-          properties: {
-            titulo: { type: "STRING" },
-            bajada: { type: "STRING" },
-            cuerpo: { type: "STRING" },
-            categoria: { type: "STRING", enum: ["politica", "economia", "sociedad"] },
-            autor: { type: "STRING" },
-            lectura: { type: "STRING" },
-            slug: { type: "STRING" },
-            fecha: { type: "STRING" },
-            imagen: { type: "STRING" },
-            destacada: { type: "BOOLEAN" },
-            tweet: { type: "STRING" }
-          },
-          required: ["titulo", "bajada", "cuerpo", "categoria", "autor", "lectura", "slug", "fecha", "imagen", "destacada", "tweet"]
-        }
-      }
+      responseSchema: responseSchema
     },
     safetySettings: [
       { category: "HARM_CATEGORY_HARASSMENT", threshold: "BLOCK_ONLY_HIGH" },
@@ -252,13 +176,10 @@ async function generateArticles(newsItems, trends = []) {
     ]
   };
 
-  const candidateModels = ['gemini-flash-latest', 'gemini-3.5-flash', 'gemini-3.6-flash', 'gemini-2.5-flash'];
-  let articles = null;
   let lastError = null;
-
   for (const modelName of candidateModels) {
     try {
-      console.log(`Intentando generación con modelo: ${modelName}...`);
+      console.log(`[Gemini API] Ejecutando "${description}" con modelo: ${modelName}...`);
       const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${GEMINI_API_KEY}`;
       const res = await fetch(url, {
         method: 'POST',
@@ -270,41 +191,218 @@ async function generateArticles(newsItems, trends = []) {
 
       if (!res.ok) {
         const errText = await res.text();
-        console.warn(`Aviso: Modelo ${modelName} falló con status ${res.status}. Probando siguiente modelo...`);
-        lastError = new Error(`Gemini API error (${modelName})! status: ${res.status}, body: ${errText}`);
+        console.warn(`[Gemini API] Modelo ${modelName} falló con status ${res.status}. Probando siguiente modelo...`);
+        lastError = new Error(`Status ${res.status}: ${errText.slice(0, 150)}`);
         continue;
       }
 
       const data = await res.json();
+      if (!data.candidates || data.candidates.length === 0) continue;
+      const part = data.candidates[0].content?.parts?.[0];
+      if (!part || !part.text) continue;
 
-      if (!data.candidates || data.candidates.length === 0) {
-        console.warn(`Aviso: Modelo ${modelName} no devolvió candidatos. Probando siguiente...`);
-        continue;
-      }
-
-      const candidate = data.candidates[0];
-      if (!candidate.content || !candidate.content.parts || candidate.content.parts.length === 0) {
-        console.warn(`Aviso: Modelo ${modelName} no devolvió partes de texto. Probando siguiente...`);
-        continue;
-      }
-
-      const textResponse = candidate.content.parts[0].text;
-      articles = JSON.parse(textResponse);
-
-      if (Array.isArray(articles) && articles.length > 0) {
-        console.log(`✓ Gemini (${modelName}) generó ${articles.length} artículos exitosamente.`);
-        return articles;
-      }
+      const parsed = JSON.parse(part.text);
+      console.log(`✓ [Gemini API] "${description}" completado con éxito con ${modelName}.`);
+      return parsed;
     } catch (err) {
-      console.warn(`Error intentando con modelo ${modelName}:`, err.message);
+      console.warn(`[Gemini API] Error con modelo ${modelName}:`, err.message);
       lastError = err;
     }
   }
 
-  if (!articles) {
-    console.error('Error crítico: Ningún modelo de Gemini pudo generar los artículos.', lastError);
-    process.exit(1);
+  throw new Error(`Error crítico en Gemini (${description}): ${lastError?.message}`);
+}
+
+// ETAPA 1: Editor Jefe y Selector Editorial con Scoring
+async function selectTopStories(newsItems, trends = []) {
+  console.log('📌 [Etapa 1/2] Iniciando Evaluación Editorial y Selección de Top 10 Noticias...');
+  const today = new Date().toISOString().split('T')[0];
+
+  const prompt = `
+    Sos el editor jefe de "Panorama.ar", el portal digital argentino de periodismo de análisis político, económico y debate social con fuerte distribución en Google Discover, Google Search y X (Twitter).
+
+    OBJETIVO PRINCIPAL (ETAPA 1 — SELECCIÓN EDITORIAL Y SCORING):
+    A partir de la lista de noticias de entrada y de las tendencias en tiempo real de Argentina, evaluá y seleccioná EXACTAMENTE las 10 noticias con mayor potencial combinado de:
+    1. Tráfico orgánico en Google Search y Discover.
+    2. Interés público, debate e impresiones en X (Twitter).
+    3. Relevancia política y económica nacional.
+    4. Actualidad y frescura informativa.
+
+    TENDENCIAS ACTUALES EN ARGENTINA (X/Twitter y Google Trends):
+    ${JSON.stringify(trends, null, 2)}
+
+    NOTICIAS DE ENTRADA (${newsItems.length} noticias recolectadas):
+    ${JSON.stringify(newsItems, null, 2)}
+
+    REGLAS DE SELECCIÓN EDITORIAL (OBLIGATORIAS):
+
+    1. EVALUACIÓN Y SCORING MULTIDIMENSIONAL:
+       - Evaluá internamente cada noticia de 0 a 10 en: relevancia política/económica, coincidencia real con tendencias, potencial de búsqueda, potencial de CTR en Discover, debate en X e impacto nacional.
+       - DESCARTÁ noticias intrascendentes, gacetillas menores, sucesos locales irrelevantes o notas sin interés nacional.
+       - Seleccioná únicamente las 10 noticias con mejor score general.
+
+    2. PRIORIDADES TEMÁTICAS:
+       - Priorizá: Política nacional, Economía argentina, Decisiones del gobierno de Javier Milei, Congreso, Inflación, Dólar, Salarios, Jubilaciones, Pymes, Seguridad y grandes controversias sociales con impacto nacional.
+       - Si la política y economía dominan claramente la agenda del día, pueden ocupar la gran mayoría del TOP 10.
+
+    3. CONEXIÓN FACTUAL CON TENDENCIAS (SIN FORZAR):
+       - Las tendencias de X y Google Trends funcionan como señales editoriales, NO como palabras que deban insertarse artificialmente.
+       - Si una noticia tiene relación real y factual con una tendencia (ej: trata sobre Milei, Caputo o el Dólar), asigná el término exacto en "relacion_tendencia_real".
+       - Si la noticia NO tiene relación directa con la tendencia, NO la fuerces (dejá null o cadena vacía). Prohibido inventar conexiones.
+
+    4. ROTACIÓN DE FÓRMULAS DE TITULARES:
+       - Asigná a cada nota una fórmula de título distinta para evitar repeticiones:
+         * "Dato + consecuencia"
+         * "Medida + impacto"
+         * "Conflicto + protagonista"
+         * "Qué cambia y a quién beneficia/afecta"
+         * "Quién gana / quién pierde"
+         * "Tensión política"
+         * "Pregunta/incógnita"
+         * "Explicación / Análisis a fondo"
+
+    5. DEFINICIÓN DE ÁNGULO Y SEO:
+       - Para cada una de las 10 noticias definí:
+         * titulo_propuesto: Título claro y magnético (máx 15 palabras).
+         * angulo_editorial: El enfoque periodístico específico de la nota.
+         * keyword_principal: La consulta central de búsqueda en Google.
+         * keywords_secundarias: Array de 3 a 5 términos semánticos vinculados.
+         * categoria: "politica", "economia" o "sociedad".
+         * destacada: true SOLO para la noticia de mayor impacto nacional de la jornada (las otras 9 deben tener false).
+  `;
+
+  const schema = {
+    type: "ARRAY",
+    description: "Lista de 10 noticias seleccionadas por el Editor Jefe",
+    items: {
+      type: "OBJECT",
+      properties: {
+        id_fuente: { type: "INTEGER", description: "Índice de la noticia en la lista de entrada" },
+        titulo_fuente_original: { type: "STRING" },
+        titulo_propuesto: { type: "STRING" },
+        categoria: { type: "STRING", enum: ["politica", "economia", "sociedad"] },
+        angulo_editorial: { type: "STRING" },
+        formula_titular: { type: "STRING" },
+        keyword_principal: { type: "STRING" },
+        keywords_secundarias: { type: "ARRAY", items: { type: "STRING" } },
+        destacada: { type: "BOOLEAN" },
+        relacion_tendencia_real: { type: "STRING" }
+      },
+      required: [
+        "titulo_propuesto", "categoria", "angulo_editorial", "formula_titular", 
+        "keyword_principal", "keywords_secundarias", "destacada"
+      ]
+    }
+  };
+
+  const selected = await callGemini(prompt, schema, "Etapa 1: Selección Editorial y Scoring");
+  if (!Array.isArray(selected) || selected.length === 0) {
+    throw new Error('La selección editorial no devolvió noticias válidas.');
   }
+
+  return selected.slice(0, 10);
+}
+
+// ETAPA 2: Redactor Periodístico Senior, SEO/Discover y Redacción de Tweets
+async function draftFullArticles(selectedStories, rawNewsItems, trends = []) {
+  console.log('✍️ [Etapa 2/2] Iniciando Redacción Periodística Profunda, Optimización SEO y Redes...');
+  const today = new Date().toISOString().split('T')[0];
+
+  const prompt = `
+    Sos el Redactor Periodístico Senior y Especialista en SEO/Discover de "Panorama.ar".
+
+    Tu misión: Redactar los 10 artículos completos a partir de la selección editorial definida por el Editor Jefe.
+
+    SELECCIÓN EDITORIAL DEFINIDA (TOP 10 CON ÁNGULOS, FÓRMULAS Y KEYWORDS):
+    ${JSON.stringify(selectedStories, null, 2)}
+
+    FUENTES DE NOTICIAS DE ENTRADA COMO REFERENCIA:
+    ${JSON.stringify(rawNewsItems, null, 2)}
+
+    REGLAS DE REDACCIÓN Y PERIODISMO (OBLIGATORIAS):
+
+    1. ESTRUCTURA DEL ARTÍCULO Y EXTENSIÓN:
+       - Cada artículo debe tener entre 350 y 600 palabras (densidad analítica y calidad sin notas artificialmente cortas).
+       - Separar los párrafos con dobles saltos de línea (\\n\\n).
+       - Párrafo 1: Apertura fuerte con el hecho principal, protagonistas y por qué importa.
+       - Párrafos siguientes: Desarrollo con datos duros, contexto, antecedentes, declaraciones y posturas de los protagonistas.
+       - Párrafo de análisis: Consecuencias políticas, económicas o sociales concretas.
+       - Cierre: SIEMPRE cerrar el último párrafo con una pregunta incisiva y reflexiva que invite al debate en comentarios.
+
+    2. LÍNEA EDITORIAL CAMALEÓNICA:
+       - ESCENARIO A (Medidas favorables al gobierno de Javier Milei / reformas): Destacá datos duros oficiales, reducción de déficit, inflación a la baja, desregulación y firmeza. Contrastá con las fallas estructurales del modelo estatista previo sin caer en propaganda.
+       - ESCENARIO B (Críticas o costos sociales de las medidas): NUNCA militar a favor del kirchnerismo o la izquierda. Planteá un análisis inteligente en zonas de GRISES: costos sociales, impacto en clase media, jubilados, pymes, velocidad de implementación o contradicciones, con datos reales y preguntas legítimas.
+       - ESCENARIO C (Temas institucionales o judiciales): Tono analítico, directo y riguroso basado en hechos comprobables.
+
+    3. OPTIMIZACIÓN MULTIDIMENSIONAL (SEO + DISCOVER + SEARCH):
+       - "titulo": Titular editorial magnético de máximo 15 palabras, claro, evitando clickbait engañoso o mayúsculas innecesarias.
+       - "meta_title": Titular optimizado para Google Search y Discover (máximo 60 caracteres).
+       - "meta_description": Resumen gancho de 140 a 155 caracteres optimizado para CTR en resultados de búsqueda.
+       - "keyword_principal" y "keywords_secundarias": Integrar de manera 100% natural en el texto.
+       - "slug": URL slug limpio en minúsculas, guiones y sin tildes ni caracteres especiales.
+
+    4. FORMATO DE TWEET PARA X/TWITTER:
+       - MÁXIMO 220 caracteres.
+       - NO incluir enlaces ni URLs (se agregarán automáticamente después).
+       - PROHIBIDO poner hashtags con '#' dentro de las oraciones o en el medio del texto.
+       - Estructura: Oración 1 con gancho potente o dato revelador + Oración 2 con pregunta punzante sobre el conflicto específico de la nota.
+
+    5. CAMPOS DEL JSON REQUERIDOS:
+       - titulo, bajada, cuerpo, categoria, autor ("Redacción Panorama"), lectura ("4 min"), slug, fecha ("${today}"), imagen ("img/fallback_general.png"), destacada (boolean), tweet, meta_title, meta_description, keyword_principal, keywords_secundarias, angulo_editorial.
+  `;
+
+  const schema = {
+    type: "ARRAY",
+    description: "Lista de 10 artículos completos para Panorama.ar",
+    items: {
+      type: "OBJECT",
+      properties: {
+        titulo: { type: "STRING" },
+        bajada: { type: "STRING" },
+        cuerpo: { type: "STRING" },
+        categoria: { type: "STRING", enum: ["politica", "economia", "sociedad"] },
+        autor: { type: "STRING" },
+        lectura: { type: "STRING" },
+        slug: { type: "STRING" },
+        fecha: { type: "STRING" },
+        imagen: { type: "STRING" },
+        destacada: { type: "BOOLEAN" },
+        tweet: { type: "STRING" },
+        meta_title: { type: "STRING" },
+        meta_description: { type: "STRING" },
+        keyword_principal: { type: "STRING" },
+        keywords_secundarias: { type: "ARRAY", items: { type: "STRING" } },
+        angulo_editorial: { type: "STRING" }
+      },
+      required: [
+        "titulo", "bajada", "cuerpo", "categoria", "autor", "lectura", 
+        "slug", "fecha", "imagen", "destacada", "tweet", 
+        "meta_title", "meta_description", "keyword_principal", "keywords_secundarias", "angulo_editorial"
+      ]
+    }
+  };
+
+  const articles = await callGemini(prompt, schema, "Etapa 2: Redacción Profunda y SEO");
+  if (!Array.isArray(articles) || articles.length === 0) {
+    throw new Error('La redacción editorial no devolvió artículos válidos.');
+  }
+
+  return articles;
+}
+
+// Pipeline coordinador de IA en 2 etapas
+async function generateArticles(newsItems, trends = []) {
+  console.log('🤖 Iniciando Pipeline Editorial en 2 Etapas...');
+  
+  // Etapa 1: Editor Jefe / Selector
+  const selectedStories = await selectTopStories(newsItems, trends);
+  console.log(`✓ [Etapa 1/2] Se seleccionaron ${selectedStories.length} noticias de alto impacto.`);
+
+  // Etapa 2: Redactor Periodístico / SEO / Tweets
+  const fullArticles = await draftFullArticles(selectedStories, newsItems, trends);
+  console.log(`✓ [Etapa 2/2] Se redactaron ${fullArticles.length} artículos completos con metadatos SEO.`);
+
+  return fullArticles;
 }
 
 // Merge new articles with the existing local database
@@ -397,7 +495,7 @@ function updateDatabase(newArticles) {
     fs.writeFileSync(NOTICIAS_FILE, JSON.stringify(limitedNews, null, 2), 'utf8');
     console.log(`Base de datos actualizada. Total de noticias archivadas en noticias.json: ${limitedNews.length}`);
 
-    // Generar páginas HTML estáticas con etiquetas Open Graph y Twitter Cards
+    // Generar páginas HTML estáticas con etiquetas Open Graph, Twitter Cards y Schema JSON-LD
     const TEMPLATE_FILE = path.join(__dirname, '../templates/noticia-template.html');
     const NOTAS_DIR = path.join(__dirname, '../notas');
 
@@ -444,11 +542,20 @@ function updateDatabase(newArticles) {
           month: 'short'
         });
 
+        const metaTitle = item.meta_title || item.titulo;
+        const metaDesc = item.meta_description || item.bajada || '';
+        const keywordsList = [item.keyword_principal, ...(item.keywords_secundarias || [])].filter(Boolean).join(', ') || 'Argentina, Política, Economía, Panorama';
+
         let html = templateContent
           .replace(/\{\{TITLE\}\}/g, item.titulo)
           .replace(/\{\{TITLE_ESCAPED\}\}/g, (item.titulo || '').replace(/"/g, '&quot;'))
+          .replace(/\{\{META_TITLE\}\}/g, metaTitle)
+          .replace(/\{\{META_TITLE_ESCAPED\}\}/g, metaTitle.replace(/"/g, '&quot;'))
           .replace(/\{\{DEK\}\}/g, item.bajada || '')
           .replace(/\{\{DEK_ESCAPED\}\}/g, (item.bajada || '').replace(/"/g, '&quot;'))
+          .replace(/\{\{META_DESCRIPTION\}\}/g, metaDesc)
+          .replace(/\{\{META_DESCRIPTION_ESCAPED\}\}/g, metaDesc.replace(/"/g, '&quot;'))
+          .replace(/\{\{KEYWORDS\}\}/g, keywordsList)
           .replace(/\{\{ISO_DATE\}\}/g, item.fecha || new Date().toISOString().split('T')[0])
           .replace(/\{\{SLUG\}\}/g, item.slug)
           .replace(/\{\{IMAGE\}\}/g, item.imagen || 'img/fallback_general.png')

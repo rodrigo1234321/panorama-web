@@ -5,25 +5,26 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="view-transition" content="same-origin">
   
-  <title>{{TITLE}} — Panorama.ar</title>
-  <meta name="description" content="{{DEK_ESCAPED}}">
+  <title>{{META_TITLE}} — Panorama.ar</title>
+  <meta name="description" content="{{META_DESCRIPTION}}">
+  <meta name="keywords" content="{{KEYWORDS}}">
   <link rel="canonical" href="https://panorama-web-one.vercel.app/notas/{{SLUG}}.html">
   <link rel="icon" href="../favicon.svg" type="image/svg+xml">
   <link rel="alternate icon" href="../favicon.ico">
   
-  <!-- Open Graph / Facebook -->
+  <!-- Open Graph / Facebook / Discover -->
   <meta property="og:type" content="article">
   <meta property="og:url" content="https://panorama-web-one.vercel.app/notas/{{SLUG}}.html">
-  <meta property="og:title" content="{{TITLE_ESCAPED}}">
-  <meta property="og:description" content="{{DEK_ESCAPED}}">
+  <meta property="og:title" content="{{META_TITLE_ESCAPED}}">
+  <meta property="og:description" content="{{META_DESCRIPTION_ESCAPED}}">
   <meta property="og:image" content="https://panorama-web-one.vercel.app/{{IMAGE}}">
   <meta property="og:site_name" content="Panorama.ar">
 
   <!-- Twitter / X Cards -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:url" content="https://panorama-web-one.vercel.app/notas/{{SLUG}}.html">
-  <meta name="twitter:title" content="{{TITLE_ESCAPED}}">
-  <meta name="twitter:description" content="{{DEK_ESCAPED}}">
+  <meta name="twitter:title" content="{{META_TITLE_ESCAPED}}">
+  <meta name="twitter:description" content="{{META_DESCRIPTION_ESCAPED}}">
   <meta name="twitter:image" content="https://panorama-web-one.vercel.app/{{IMAGE}}">
 
   <!-- Schema.org NewsArticle JSON-LD -->
@@ -31,11 +32,13 @@
   {
     "@context": "https://schema.org",
     "@type": "NewsArticle",
-    "headline": "{{TITLE_ESCAPED}}",
-    "description": "{{DEK_ESCAPED}}",
+    "headline": "{{META_TITLE_ESCAPED}}",
+    "description": "{{META_DESCRIPTION_ESCAPED}}",
     "image": ["https://panorama-web-one.vercel.app/{{IMAGE}}"],
     "datePublished": "{{ISO_DATE}}T00:00:00-03:00",
     "dateModified": "{{ISO_DATE}}T00:00:00-03:00",
+    "articleSection": "{{CATEGORY_LABEL}}",
+    "keywords": "{{KEYWORDS}}",
     "author": [{
       "@type": "Person",
       "name": "{{AUTHOR}}"
