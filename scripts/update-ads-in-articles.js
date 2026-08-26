@@ -1,38 +1,84 @@
 const fs = require('fs');
 const path = require('path');
 
-const dir = path.join(__dirname, '../notas');
-const adCode = `      <!-- Article Ad Slot (A-Ads) -->
-      <div class="ad-slot-wrapper">
-        <span class="ad-label">Publicidad</span>
-        <div class="ad-slot-card" id="ad-slot-article">
-          <!-- BEGIN AADS AD UNIT 2448841 -->
-          <div id="frame" style="width: 728px;margin: auto;z-index: 99998;height: auto">
-            <iframe data-aa='2448841' src='//ad.a-ads.com/2448841/?size=728x90' style='border:0; padding:0; width:728px; height:90px; overflow:hidden;display: block;margin: auto'></iframe>
-          </div>
-          <!-- END AADS AD UNIT 2448841 -->
-        </div>
-      </div>
-    </article>`;
+const NOTICIAS_FILE = path.join(__dirname, '../noticias.json');
+const TEMPLATE_FILE = path.join(__dirname, '../templates/noticia-template.html');
+const NOTAS_DIR = path.join(__dirname, '../notas');
 
-const files = fs.readdirSync(dir);
-let updatedCount = 0;
+if (!fs.existsSync(NOTICIAS_FILE) || !fs.existsSync(TEMPLATE_FILE)) {
+  console.error('Archivos necesarios no encontrados');
+  process.exit(1);
+}
 
-files.forEach(file => {
-  if (file.endsWith('.html')) {
-    const filePath = path.join(dir, file);
-    let content = fs.readFileSync(filePath, 'utf8');
-    
-    // Replace old ad-slot-wrapper block if present, or add if missing
-    if (content.includes('<div class="ad-slot-wrapper">')) {
-      content = content.replace(/<!-- Article Ad Slot \(A-Ads\) -->[\s\S]*?<\/article>/, adCode);
+if (!fs.existsSync(NOTAS_DIR)) {
+  fs.mkdirSync(NOTAS_DIR, { recursive: true });
+}
+
+const news = JSON.parse(fs.readFileSync(NOTICIAS_FILE, 'utf8'));
+const templateContent = fs.readFileSync(TEMPLATE_FILE, 'utf8');
+const NOMBRES_CAT = { economia: 'Economía', sociedad: 'Sociedad', politica: 'Política' };
+
+let count = 0;
+for (const item of news) {
+  let bodyHtml = '';
+  if (item.cuerpo) {
+    const paragraphs = item.cuerpo.split('\n\n').map(p => p.trim()).filter(Boolean);
+    if (paragraphs.length > 1) {
+      const lastParagraph = paragraphs[paragraphs.length - 1];
+      const isQuestion = lastParagraph && (
+        lastParagraph.includes('?') || 
+        lastParagraph.includes('¿') || 
+        lastParagraph.toLowerCase().includes('debate') || 
+        lastParagraph.toLowerCase().includes('dilema') ||
+        lastParagraph.toLowerCase().includes('pregunta')
+      );
+
+      if (isQuestion) {
+        const mainParagraphs = paragraphs.slice(0, -1).map(p => `<p>${p}</p>`).join('');
+        const debateCallout = `\n<div class="debate-callout-card">\n  <div class="debate-callout-header">\n    <span class="debate-icon">💬</span>\n    <strong>Punto de debate</strong>\n  </div>\n  <p class="debate-text">${lastParagraph}</p>\n</div>`;
+        bodyHtml = mainParagraphs + debateCallout;
+      } else {
+        bodyHtml = paragraphs.map(p => `<p>${p}</p>`).join('');
+      }
     } else {
-      content = content.replace('</div>\r\n    </article>', '</div>\r\n' + adCode);
-      content = content.replace('</div>\n    </article>', '</div>\n' + adCode);
+      bodyHtml = paragraphs.map(p => `<p>${p}</p>`).join('');
     }
-    fs.writeFileSync(filePath, content, 'utf8');
-    updatedCount++;
+  } else {
+    bodyHtml = `<p>${item.bajada || ''}</p>`;
   }
-});
 
-console.log(`✅ ${updatedCount} notas fueron actualizadas con el código exacto de A-Ads (728x90).`);
+  const formattedDate = new Date(item.fecha + 'T00:00:00').toLocaleDateString('es-AR', {
+    day: 'numeric',
+    month: 'short'
+  });
+
+  const metaTitle = item.meta_title || item.titulo;
+  const metaDesc = item.meta_description || item.bajada || '';
+  const keywordsList = [item.keyword_principal, ...(item.keywords_secundarias || [])].filter(Boolean).join(', ') || 'Argentina, Política, Economía, Panorama';
+
+  let html = templateContent
+    .replace(/\{\{TITLE\}\}/g, item.titulo)
+    .replace(/\{\{TITLE_ESCAPED\}\}/g, (item.titulo || '').replace(/"/g, '&quot;'))
+    .replace(/\{\{META_TITLE\}\}/g, metaTitle)
+    .replace(/\{\{META_TITLE_ESCAPED\}\}/g, metaTitle.replace(/"/g, '&quot;'))
+    .replace(/\{\{DEK\}\}/g, item.bajada || '')
+    .replace(/\{\{DEK_ESCAPED\}\}/g, (item.bajada || '').replace(/"/g, '&quot;'))
+    .replace(/\{\{META_DESCRIPTION\}\}/g, metaDesc)
+    .replace(/\{\{META_DESCRIPTION_ESCAPED\}\}/g, metaDesc.replace(/"/g, '&quot;'))
+    .replace(/\{\{KEYWORDS\}\}/g, keywordsList)
+    .replace(/\{\{ISO_DATE\}\}/g, item.fecha || new Date().toISOString().split('T')[0])
+    .replace(/\{\{SLUG\}\}/g, item.slug)
+    .replace(/\{\{IMAGE\}\}/g, item.imagen || 'img/fallback_general.png')
+    .replace(/\{\{CATEGORY\}\}/g, item.categoria)
+    .replace(/\{\{CATEGORY_LABEL\}\}/g, NOMBRES_CAT[item.categoria] || item.categoria)
+    .replace(/\{\{AUTHOR\}\}/g, item.autor || 'Redacción')
+    .replace(/\{\{DATE\}\}/g, formattedDate)
+    .replace(/\{\{READTIME\}\}/g, item.lectura || '3 min')
+    .replace(/\{\{BODY_HTML\}\}/g, bodyHtml);
+
+  const filePath = path.join(NOTAS_DIR, `${item.slug}.html`);
+  fs.writeFileSync(filePath, html, 'utf8');
+  count++;
+}
+console.log(`✅ ${count} notas estáticas fueron regeneradas con el nuevo diseño 100% responsive para móviles.`);
+
