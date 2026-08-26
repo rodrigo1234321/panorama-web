@@ -2,7 +2,13 @@ const fs = require('fs');
 const path = require('path');
 
 // Configuration
-const RSS_URL = 'https://news.google.com/rss/search?q=Argentina&hl=es-419&gl=AR&ceid=AR:es-419';
+const RSS_FEEDS = [
+  { name: 'politica', url: 'https://news.google.com/rss/search?q=politica+argentina+milei+gobierno&hl=es-419&gl=AR&ceid=AR:es-419' },
+  { name: 'economia', url: 'https://news.google.com/rss/search?q=economia+argentina+dolar+inflacion+medidas&hl=es-419&gl=AR&ceid=AR:es-419' },
+  { name: 'sociedad', url: 'https://news.google.com/rss/search?q=Argentina+sociedad+debate+nacional&hl=es-419&gl=AR&ceid=AR:es-419' },
+  { name: 'portada', url: 'https://news.google.com/rss?hl=es-419&gl=AR&ceid=AR:es-419' }
+];
+
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const NOTICIAS_FILE = path.join(__dirname, '../noticias.json');
 const TRENDS_FILE = path.join(__dirname, '../trends.json');
@@ -16,127 +22,194 @@ if (!GEMINI_API_KEY) {
 
 // Function to decode HTML entities from RSS
 function decodeHtml(str) {
+  if (!str) return '';
   return str
     .replace(/&amp;/g, '&')
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&quot;/g, '"')
-    .replace(/&#39;/g, "'");
+    .replace(/&#39;/g, "'")
+    .replace(/&nbsp;/g, ' ');
 }
 
-// Fetch Twitter/X trends in Argentina by scraping getdaytrends.com
+// Fetch Twitter/X & Google Trends in Argentina
 async function fetchTrends() {
-  console.log('Obteniendo tendencias de X (Twitter) en Argentina...');
+  console.log('Obteniendo tendencias en tiempo real (X / Twitter + Google Trends) en Argentina...');
+  const combinedTrends = [];
+
+  // 1. Scraping GetDayTrends (X / Twitter)
   try {
-    const res = await fetch('https://getdaytrends.com/argentina/');
-    if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
-    const html = await res.text();
-
-    const trendRegex = /<a class="string" href="\/argentina\/trend\/[^"]+?">([^<]+?)<\/a>/g;
-    const trends = [];
-    let match;
-    while ((match = trendRegex.exec(html)) !== null) {
-      const trendText = match[1].trim();
-      if (!trends.includes(trendText)) {
-        trends.push(trendText);
+    const res = await fetch('https://getdaytrends.com/argentina/', {
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
+    });
+    if (res.ok) {
+      const html = await res.text();
+      const trendRegex = /<a class="string" href="\/argentina\/trend\/[^"]+?">([^<]+?)<\/a>/g;
+      let match;
+      while ((match = trendRegex.exec(html)) !== null) {
+        const trendText = match[1].trim();
+        if (trendText && !combinedTrends.includes(trendText)) {
+          combinedTrends.push(trendText);
+        }
       }
+      console.log(`✓ Obtenidas tendencias de X (GetDayTrends): ${combinedTrends.length} encontradas.`);
     }
-
-    console.log(`Se encontraron ${trends.length} tendencias en X.`);
-    const topTrends = trends.slice(0, 15);
-
-    // Save trends to trends.json
-    fs.writeFileSync(TRENDS_FILE, JSON.stringify(topTrends, null, 2), 'utf8');
-    console.log('trends.json actualizado.');
-
-    return topTrends;
   } catch (err) {
-    console.warn('Advertencia: No se pudieron obtener las tendencias de X:', err.message);
-    return [];
+    console.warn('Advertencia: No se pudieron obtener las tendencias de GetDayTrends:', err.message);
   }
+
+  // 2. Scraping Google Trends RSS Argentina
+  try {
+    const resG = await fetch('https://trends.google.com/trending/rss?geo=AR', {
+      headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
+    });
+    if (resG.ok) {
+      const xmlG = await resG.text();
+      const gItemRegex = /<item>[\s\S]*?<title>([\s\S]*?)<\/title>/g;
+      let matchG;
+      let gCount = 0;
+      while ((matchG = gItemRegex.exec(xmlG)) !== null) {
+        const titleText = decodeHtml(matchG[1].replace(/<!\[CDATA\[(.*?)\]\]>/g, '$1').trim());
+        if (titleText && !combinedTrends.includes(titleText)) {
+          combinedTrends.push(titleText);
+          gCount++;
+        }
+      }
+      console.log(`✓ Obtenidas tendencias de Google Trends AR: ${gCount} adicionales.`);
+    }
+  } catch (err) {
+    console.warn('Advertencia: No se pudieron obtener las tendencias de Google Trends:', err.message);
+  }
+
+  const topTrends = combinedTrends.slice(0, 20);
+  console.log(`Total de tendencias activas unificadas: ${topTrends.length}`);
+
+  // Save trends to trends.json
+  try {
+    fs.writeFileSync(TRENDS_FILE, JSON.stringify(topTrends, null, 2), 'utf8');
+    console.log('trends.json actualizado correctamente.');
+  } catch (err) {
+    console.warn('Advertencia al escribir trends.json:', err.message);
+  }
+
+  return topTrends;
 }
 
-// Fetch RSS feed using native fetch
+// Fetch multi-source RSS feeds
 async function fetchNews() {
-  console.log('Obteniendo noticias desde Google News RSS...');
-  try {
-    const res = await fetch(RSS_URL);
-    if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
-    const xml = await res.text();
+  console.log('Obteniendo noticias desde múltiples feeds RSS especializados...');
+  const allItems = [];
+  const seenTitles = new Set();
 
-    const items = [];
-    const itemRegex = /<item>([\s\S]*?)<\/item>/g;
-    let match;
+  const fetchPromises = RSS_FEEDS.map(async (feed) => {
+    try {
+      const res = await fetch(feed.url, {
+        headers: { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36' }
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const xml = await res.text();
 
-    while ((match = itemRegex.exec(xml)) !== null) {
-      const itemContent = match[1];
-      const titleMatch = /<title>([\s\S]*?)<\/title>/.exec(itemContent);
-      const linkMatch = /<link>([\s\S]*?)<\/link>/.exec(itemContent);
+      const itemRegex = /<item>([\s\S]*?)<\/item>/g;
+      let match;
+      let count = 0;
 
-      if (titleMatch && linkMatch) {
-        items.push({
-          title: decodeHtml(titleMatch[1].replace(/<!\[CDATA\[(.*?)\]\]>/g, '$1').trim()),
-          link: decodeHtml(linkMatch[1].replace(/<!\[CDATA\[(.*?)\]\]>/g, '$1').trim())
-        });
+      while ((match = itemRegex.exec(xml)) !== null) {
+        const itemContent = match[1];
+        const titleMatch = /<title>([\s\S]*?)<\/title>/.exec(itemContent);
+        const linkMatch = /<link>([\s\S]*?)<\/link>/.exec(itemContent);
+
+        if (titleMatch && linkMatch) {
+          const rawTitle = decodeHtml(titleMatch[1].replace(/<!\[CDATA\[(.*?)\]\]>/g, '$1').trim());
+          const rawLink = decodeHtml(linkMatch[1].replace(/<!\[CDATA\[(.*?)\]\]>/g, '$1').trim());
+
+          const normalizedTitle = rawTitle.toLowerCase().replace(/[^a-z0-9]/g, '');
+          if (rawTitle && !seenTitles.has(normalizedTitle)) {
+            seenTitles.add(normalizedTitle);
+            allItems.push({
+              sourceCategory: feed.name,
+              title: rawTitle,
+              link: rawLink
+            });
+            count++;
+          }
+        }
       }
+      console.log(`✓ Feed [${feed.name}]: ${count} noticias recolectadas.`);
+    } catch (err) {
+      console.warn(`Advertencia en feed [${feed.name}]:`, err.message);
     }
+  });
 
-    console.log(`Se encontraron ${items.length} noticias en el RSS.`);
-    return items.slice(0, 20); // Process the top 20 news items
-  } catch (err) {
-    console.error('Error al obtener el RSS:', err);
+  await Promise.allSettled(fetchPromises);
+  console.log(`Total de noticias únicas recolectadas: ${allItems.length}`);
+
+  if (allItems.length === 0) {
+    console.error('Error: No se pudo obtener ninguna noticia de los feeds RSS.');
     process.exit(1);
   }
+
+  // Devolver las 35 noticias más relevantes para alimentar a Gemini
+  return allItems.slice(0, 35);
 }
 
-// Call Gemini API to process and format news aligning with X trends
+// Call Gemini API to process and format news aligning with political pulse & X trends
 async function generateArticles(newsItems, trends = []) {
-  console.log('Llamando a la API de Gemini para procesar y redactar las noticias...');
+  console.log('Llamando a la API de Gemini para procesar y redactar las noticias con enfoque político y dinámico...');
   const today = new Date().toISOString().split('T')[0];
 
   const prompt = `
-    Sos el editor jefe de "Panorama.ar", un medio digital argentino de opinión y análisis crítico con una línea editorial liberal / de centro-derecha, agudo y directo.
-    Tu misión: elegir las 7 noticias de la lista de entrada que mejor se conecten con las tendencias actuales en redes sociales (X/Twitter) en Argentina.
+    Sos el editor jefe de "Panorama.ar", el portal digital argentino de periodismo de análisis político, económico y debate social con fuerte repercusión e interactividad en X (Twitter).
 
-    TENDENCIAS ACTUALES DE X EN ARGENTINA:
+    Tu misión: seleccionar y redactar EXACTAMENTE 10 noticias de la lista de entrada que mejor se conecten con las tendencias actuales en redes sociales y el pulso político nacional argentino.
+
+    TENDENCIAS ACTUALES EN ARGENTINA (X/Twitter y Google Trends):
     ${JSON.stringify(trends, null, 2)}
 
-    NOTICIAS DE ENTRADA (Google News):
+    NOTICIAS DE ENTRADA (Multi-fuente especializada):
     ${JSON.stringify(newsItems, null, 2)}
 
-    Reglas de selección y redacción:
+    REGLAS EDITORIALES Y ESTRATEGIA DE CONTENIDO (OBLIGATORIAS):
 
-    1. Vinculación con tendencias: Seleccioná las 7 noticias que estén más alineadas, directa o indirectamente, con los temas que están en tendencia en X en Argentina. Por ejemplo, si una tendencia es "Boca" o "Tapia", dale prioridad a noticias sobre fútbol, la AFA o controversias institucionales. Si una tendencia es "Dólar" o "Impuestos", priorizá temas de economía. Si no hay tendencias claras de política/economía, vinculá y adaptá temas de interés social que generen debate nacional.
+    1. ORIENTACIÓN TEMÁTICA:
+       - Priorizá fuertemente la POLÍTICA NACIONAL y la ECONOMÍA (medidas del gobierno, decisiones de Javier Milei, Congreso, gobernadores, tensión política, dólar, inflación, desregulación, seguridad y debates institucionales).
+       - Complementá con temas de alto impacto social o controversias que dominen la conversación pública en redes.
 
-    2. Palabras clave de tendencia EN EL TÍTULO (prioridad alta para visibilidad/búsqueda en X): Cuando una noticia tenga una tendencia relacionada de forma natural, el título DEBE incluir textualmente 1 a 3 palabras clave EXACTAS de la lista de tendencias (no alcanza con el tema general).
-       - Ejemplo fútbol: si las tendencias incluyen "Selección Argentina" y/o "Messi", el título debe contener esos términos literales.
-       - Ejemplo política/economía: si las tendencias incluyen "Milei", "Inflación" o "Elecciones", esos términos deben aparecer tal cual en el título.
-       - Si ninguna tendencia calza de forma natural con la noticia, no fuerces el término: priorizá la claridad y la precisión del título por sobre meter una palabra clave artificialmente.
+    2. POSICIONAMIENTO EDITORIAL DINÁMICO Y CAMALEÓNICO (MUY IMPORTANTE):
+       - ESCENARIO A (Cuando la tendencia o el tema sea favorable al gobierno de Javier Milei / respaldo a reformas):
+         El tinte de la noticia debe ser a favor. Realzá con datos duros, cifras oficiales y argumentos sólidos lo que el gobierno está haciendo (déficit cero, baja de inflación, quita de privilegios, desregulaciones, firmeza en seguridad). Contrastá con las fallas del modelo estatista previo.
+       - ESCENARIO B (Cuando la tendencia sea cuestionar al gobierno, clima de descontento social o crítica a medidas oficiales):
+         REGLA DE ORO: NUNCA apoyar abiertamente a la izquierda ni al kirchnerismo. En lugar de militar a la oposición, adoptá una postura inteligente en zonas de GRISES: hacé preguntas incisivas y punzantes sobre la efectividad de las medidas de Milei, los costos sociales del ajuste, el impacto en la clase media/jubilados/pymes, la celeridad de las soluciones o contradicciones operativas. Hablá con datos reales y planteá interrogantes legítimos para detonar el debate ciudadano.
+       - ESCENARIO C (Otros temas institucionales o judiciales):
+         Mantené un tono agudo, analítico y directo, respaldado por hechos verificables.
 
-    3. Enfoque editorial: aplicá la línea editorial de Panorama.ar de forma consistente en el "cuerpo" (el título puede ser más neutro/directo si así funciona mejor para el punto 2):
-       - Economía: mirada crítica del gasto público, la presión impositiva y la intervención estatal; valorá en términos positivos la disciplina fiscal y las reformas de mercado.
-       - Seguridad: enfoque de mano dura, crítico del garantismo.
-       - Política: mirada crítica de "la casta" y el kirchnerismo; podés ser favorable a las reformas del gobierno de turno cuando la noticia lo amerite.
-       - Rigor no negociable: esto NO habilita inventar datos, cifras ni citas. Todo hecho debe salir de la noticia de entrada. Incluí siempre, aunque sea en una frase, el argumento o los datos del sector criticado — una nota que ningunea directamente a la otra parte pierde rigor periodístico y credibilidad (y con eso, alcance real en X).
+    3. PALABRAS CLAVE DE TENDENCIA EN EL TÍTULO (MÁXIMA VISIBILIDAD):
+       - Cuando una noticia conecte con una tendencia, el título DEBE contener textualmente de 1 a 3 palabras clave exactas de la lista de tendencias (ej: "Milei", "Dólar", "Kicillof", "Villarruel", "Inflación", "Jubilados", "Aerolíneas").
+       - Titulares gancheros, directos y con gancho periodístico (máximo 15 palabras).
 
-    4. Tono general:
-       - Crítico, agudo y directo. Hacé preguntas reflexivas en los títulos cuando sea efectivo (ej: "¿Quién se beneficia realmente?").
-       - Buscá que el lector reflexione y quiera debatir sobre el tema tras leer la nota.
-       - Incluí datos concretos (cifras, porcentajes, nombres de voceros/sectores) para dar peso a la nota.
-       - NO inventes datos. Basate en los hechos reales de la entrada.
+    4. RIGOR PERIODÍSTICO:
+       - No inventes datos, números ni citas falsas. Basate en los hechos reales de las noticias provistas.
+       - Cerrá el cuerpo con una pregunta reflexiva incisiva que invite a debatir en los comentarios.
 
-    Campos para cada noticia en el JSON de salida:
-    - titulo: Título AGUDO que llame a la reflexión y al debate, incorporando palabras clave de tendencias según la regla 2 cuando corresponda. Puede usar preguntas retóricas o señalar contrastes. Máximo 15 palabras.
-    - bajada: Un gancho corto que introduzca el dilema o punto central de la discusión.
-    - cuerpo: Redacta 2-3 párrafos con tono de análisis crítico y periodismo de opinión (aplicando el enfoque editorial de la regla 3), separados por saltos de línea dobles (\\n\\n). Exponé los diferentes argumentos, cifras y datos. Cerrá con una pregunta reflexiva que invite al debate.
-    - categoria: Clasifica en "economia", "sociedad" o "politica".
+    5. FORMATO DE TWEET PARA X/TWITTER (CAMPO "tweet"):
+       - MÁXIMO 220 caracteres (para dejar espacio al link que se agregará automáticamente al final).
+       - REGLA ESTRICTA DE FORMATO: PROHIBIDO poner hashtags con '#' dentro de las oraciones o en el medio del texto (evitar que queden palabras cortadas en azul que arruinan la lectura).
+       - El texto debe redactarse como un post periodístico de alto impacto:
+         * Oración 1: Gancho potente o dato revelador con los nombres propios de la tendencia de forma natural (ej: Milei, Pagni, Tolosa Paz).
+         * Oración 2: Pregunta punzante o dilema que detone el debate en comentarios.
+       - NO incluyas ningún link ni URL en el campo "tweet" (el enlace se agregará automáticamente).
+
+    Campos requeridos para cada uno de los 10 artículos en el JSON:
+    - titulo: Título agudo con palabras clave de tendencia (máx 15 palabras).
+    - bajada: Resumen gancho de 1-2 oraciones que plantee el dilema central.
+    - cuerpo: 2-3 párrafos separados por dobles saltos de línea (\\n\\n) con análisis de datos, argumentos y pregunta final de debate.
+    - categoria: "politica", "economia" o "sociedad".
     - autor: "Redacción Panorama".
     - lectura: Tiempo estimado (ej: "3 min").
-    - slug: URL slug basado en el título, minúsculas sin caracteres especiales (ej: "quien-se-beneficia-realmente").
+    - slug: URL slug basado en el título, minúsculas, guiones y sin tildes ni caracteres especiales (ej: "debate-por-medidas-economicas-de-milei").
     - fecha: "${today}".
-    - imagen: "img/fallback_general.png" (este campo se sobreescribirá con la imagen del pool por hash en el pipeline de limpieza, poné cualquier valor).
-    - destacada: true solo para la MÁS relevante para el debate público nacional y su conexión con tendencias de X, el resto false.
-    - tweet: Borrador de tweet/post de X. MÁXIMO 230 caracteres (para dejar espacio al link). Tono directo y analítico que llame al debate. Incluí 1-2 hashtags de las tendencias provistas si son aplicables. NO incluyas ningún link.
+    - imagen: "img/fallback_general.png" (se asignará automáticamente por hash).
+    - destacada: true SOLO para la nota MÁS relevante de la jornada política/económica (las otras 9 deben tener false).
+    - tweet: Borrador de post de X limpio, sin '#' en medio de oraciones (máx 220 chars).
   `;
 
   const requestBody = {
@@ -151,14 +224,14 @@ async function generateArticles(newsItems, trends = []) {
       responseMimeType: "application/json",
       responseSchema: {
         type: "ARRAY",
-        description: "Lista de noticias formateadas para Panorama.ar",
+        description: "Lista de 10 noticias formateadas para Panorama.ar",
         items: {
           type: "OBJECT",
           properties: {
             titulo: { type: "STRING" },
             bajada: { type: "STRING" },
             cuerpo: { type: "STRING" },
-            categoria: { type: "STRING", enum: ["economia", "sociedad", "politica"] },
+            categoria: { type: "STRING", enum: ["politica", "economia", "sociedad"] },
             autor: { type: "STRING" },
             lectura: { type: "STRING" },
             slug: { type: "STRING" },
@@ -172,71 +245,71 @@ async function generateArticles(newsItems, trends = []) {
       }
     },
     safetySettings: [
-      {
-        category: "HARM_CATEGORY_HARASSMENT",
-        threshold: "BLOCK_ONLY_HIGH"
-      },
-      {
-        category: "HARM_CATEGORY_HATE_SPEECH",
-        threshold: "BLOCK_ONLY_HIGH"
-      },
-      {
-        category: "HARM_CATEGORY_SEXUALLY_EXPLICIT",
-        threshold: "BLOCK_ONLY_HIGH"
-      },
-      {
-        category: "HARM_CATEGORY_DANGEROUS_CONTENT",
-        threshold: "BLOCK_ONLY_HIGH"
-      }
+      { category: "HARM_CATEGORY_HARASSMENT", threshold: "BLOCK_ONLY_HIGH" },
+      { category: "HARM_CATEGORY_HATE_SPEECH", threshold: "BLOCK_ONLY_HIGH" },
+      { category: "HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold: "BLOCK_ONLY_HIGH" },
+      { category: "HARM_CATEGORY_DANGEROUS_CONTENT", threshold: "BLOCK_ONLY_HIGH" }
     ]
   };
 
-  try {
-    const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${GEMINI_API_KEY}`;
-    const res = await fetch(url, {
-      method: 'POST',
-      headers: {
-        'Content-Type': 'application/json'
-      },
-      body: JSON.stringify(requestBody)
-    });
+  const candidateModels = ['gemini-flash-latest', 'gemini-3.5-flash', 'gemini-3.6-flash', 'gemini-2.5-flash'];
+  let articles = null;
+  let lastError = null;
 
-    if (!res.ok) {
-      const errText = await res.text();
-      throw new Error(`Gemini API error! status: ${res.status}, body: ${errText}`);
+  for (const modelName of candidateModels) {
+    try {
+      console.log(`Intentando generación con modelo: ${modelName}...`);
+      const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${GEMINI_API_KEY}`;
+      const res = await fetch(url, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json'
+        },
+        body: JSON.stringify(requestBody)
+      });
+
+      if (!res.ok) {
+        const errText = await res.text();
+        console.warn(`Aviso: Modelo ${modelName} falló con status ${res.status}. Probando siguiente modelo...`);
+        lastError = new Error(`Gemini API error (${modelName})! status: ${res.status}, body: ${errText}`);
+        continue;
+      }
+
+      const data = await res.json();
+
+      if (!data.candidates || data.candidates.length === 0) {
+        console.warn(`Aviso: Modelo ${modelName} no devolvió candidatos. Probando siguiente...`);
+        continue;
+      }
+
+      const candidate = data.candidates[0];
+      if (!candidate.content || !candidate.content.parts || candidate.content.parts.length === 0) {
+        console.warn(`Aviso: Modelo ${modelName} no devolvió partes de texto. Probando siguiente...`);
+        continue;
+      }
+
+      const textResponse = candidate.content.parts[0].text;
+      articles = JSON.parse(textResponse);
+
+      if (Array.isArray(articles) && articles.length > 0) {
+        console.log(`✓ Gemini (${modelName}) generó ${articles.length} artículos exitosamente.`);
+        return articles;
+      }
+    } catch (err) {
+      console.warn(`Error intentando con modelo ${modelName}:`, err.message);
+      lastError = err;
     }
+  }
 
-    const data = await res.json();
-
-    if (!data.candidates || data.candidates.length === 0) {
-      console.error("La respuesta de la API no contiene candidatos. Respuesta completa:", JSON.stringify(data, null, 2));
-      throw new Error("La API de Gemini no devolvió candidatos de respuesta. Posiblemente bloqueado por filtros de seguridad.");
-    }
-
-    const candidate = data.candidates[0];
-    if (candidate.finishReason && candidate.finishReason !== "STOP") {
-      console.warn(`Advertencia: La generación finalizó con motivo: ${candidate.finishReason}`);
-    }
-
-    if (!candidate.content || !candidate.content.parts || candidate.content.parts.length === 0) {
-      console.error("El candidato de respuesta no contiene partes de contenido. Candidato completo:", JSON.stringify(candidate, null, 2));
-      throw new Error("El candidato de la API de Gemini no contiene partes de texto.");
-    }
-
-    const textResponse = candidate.content.parts[0].text;
-    const articles = JSON.parse(textResponse);
-
-    console.log(`Gemini generó ${articles.length} artículos exitosamente.`);
-    return articles;
-  } catch (err) {
-    console.error('Error detallado al procesar noticias con Gemini:', err.stack || err);
+  if (!articles) {
+    console.error('Error crítico: Ningún modelo de Gemini pudo generar los artículos.', lastError);
     process.exit(1);
   }
 }
 
 // Merge new articles with the existing local database
 function updateDatabase(newArticles) {
-  console.log('Actualizando archivo noticias.json local...');
+  console.log('Actualizando base de datos local y generando páginas estáticas...');
   try {
     let existingNews = [];
     if (fs.existsSync(NOTICIAS_FILE)) {
@@ -244,26 +317,28 @@ function updateDatabase(newArticles) {
       existingNews = JSON.parse(fileData);
     }
 
-    // Extract the tweet of the featured story and append the direct link to the article
+    // Extract the tweet of the featured story, sanitize any inline hashtags, and append the direct link
     const featuredStory = newArticles.find(n => n.destacada) || newArticles[0];
     if (featuredStory && featuredStory.tweet) {
       const articleUrl = `${SITE_URL}/notas/${featuredStory.slug}.html`;
-      const tweetText = `${featuredStory.tweet.trim()}\n\n👉 ${articleUrl}`;
+      // Sanitizamos para remover '#' accidentales en medio del texto y dejar palabras limpias
+      const cleanTweet = featuredStory.tweet.replace(/#([a-zA-Z0-9_]+)/g, '$1').replace(/\s+/g, ' ').trim();
+      const tweetText = `${cleanTweet}\n\n👉 ${articleUrl}`;
       fs.writeFileSync(TWEET_FILE, tweetText, 'utf8');
-      console.log('Borrador de tweet con link extraído y guardado en tweet.txt.');
+      console.log('Borrador de tweet para X guardado en tweet.txt (limpio de hashtags intermedios).');
     }
 
-    // Función hash consistente para asignar una imagen del pool por slug y categoría
+    // Función hash consistente para asignar una imagen del pool ampliado (1 a 14) por slug y categoría
     function getSlugHashImage(slug, category) {
       let hash = 0;
-      const cleanSlug = slug.trim().toLowerCase();
+      const cleanSlug = (slug || '').trim().toLowerCase();
       for (let i = 0; i < cleanSlug.length; i++) {
         hash = (hash << 5) - hash + cleanSlug.charCodeAt(i);
         hash |= 0;
       }
-      const index = (Math.abs(hash) % 8) + 1; // 1 a 8
+      const index = (Math.abs(hash) % 14) + 1; // 1 a 14 imágenes por categoría
 
-      const cleanCat = category.trim().toLowerCase();
+      const cleanCat = (category || '').trim().toLowerCase();
       if (['economia', 'sociedad', 'politica'].includes(cleanCat)) {
         return `img/${cleanCat}_${index}.png`;
       }
@@ -289,8 +364,8 @@ function updateDatabase(newArticles) {
     const mergedNews = [];
 
     for (const item of allNews) {
-      const cleanSlug = item.slug.trim();
-      if (!uniqueSlugs.has(cleanSlug)) {
+      const cleanSlug = item.slug ? item.slug.trim() : '';
+      if (cleanSlug && !uniqueSlugs.has(cleanSlug)) {
         uniqueSlugs.add(cleanSlug);
         mergedNews.push(item);
       }
@@ -304,7 +379,7 @@ function updateDatabase(newArticles) {
     for (const item of mergedNews) {
       if (item.destacada) {
         if (foundDestacada) {
-          item.destacada = false; // Only allow one featured story
+          item.destacada = false;
         } else {
           foundDestacada = true;
         }
@@ -316,20 +391,19 @@ function updateDatabase(newArticles) {
       mergedNews[0].destacada = true;
     }
 
-    // Keep the file light by saving only the latest 24 news items
-    const limitedNews = mergedNews.slice(0, 24);
+    // Guardar hasta 48 noticias recientes para mantener mayor volumen diario
+    const limitedNews = mergedNews.slice(0, 48);
 
     fs.writeFileSync(NOTICIAS_FILE, JSON.stringify(limitedNews, null, 2), 'utf8');
-    console.log(`Base de datos actualizada. Total de noticias archivadas: ${limitedNews.length}`);
+    console.log(`Base de datos actualizada. Total de noticias archivadas en noticias.json: ${limitedNews.length}`);
 
-    // Generar páginas HTML estáticas con etiquetas Open Graph
+    // Generar páginas HTML estáticas con etiquetas Open Graph y Twitter Cards
     const TEMPLATE_FILE = path.join(__dirname, '../templates/noticia-template.html');
     const NOTAS_DIR = path.join(__dirname, '../notas');
 
     if (fs.existsSync(TEMPLATE_FILE)) {
-      console.log('Generando páginas HTML estáticas para cada noticia en /notas...');
+      console.log('Generando páginas HTML estáticas en /notas...');
 
-      // Crear directorio /notas si no existe
       if (!fs.existsSync(NOTAS_DIR)) {
         fs.mkdirSync(NOTAS_DIR, { recursive: true });
       }
@@ -350,11 +424,10 @@ function updateDatabase(newArticles) {
           month: 'short'
         });
 
-        // Reemplazar placeholders en la plantilla
         let html = templateContent
           .replace(/\{\{TITLE\}\}/g, item.titulo)
-          .replace(/\{\{TITLE_ESCAPED\}\}/g, item.titulo.replace(/"/g, '&quot;'))
-          .replace(/\{\{DEK\}\}/g, item.bajada)
+          .replace(/\{\{TITLE_ESCAPED\}\}/g, (item.titulo || '').replace(/"/g, '&quot;'))
+          .replace(/\{\{DEK\}\}/g, item.bajada || '')
           .replace(/\{\{SLUG\}\}/g, item.slug)
           .replace(/\{\{IMAGE\}\}/g, item.imagen || 'img/fallback_general.png')
           .replace(/\{\{CATEGORY\}\}/g, item.categoria)
@@ -369,7 +442,7 @@ function updateDatabase(newArticles) {
       }
       console.log(`¡Páginas estáticas generadas con éxito en ${NOTAS_DIR}!`);
     } else {
-      console.warn('Advertencia: No se encontró la plantilla de noticia templates/noticia-template.html.');
+      console.warn('Advertencia: No se encontró la plantilla templates/noticia-template.html.');
     }
   } catch (err) {
     console.error('Error al guardar noticias.json o generar páginas estáticas:', err);
