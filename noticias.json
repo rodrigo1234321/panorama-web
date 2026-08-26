@@ -1,5 +1,125 @@
 [
   {
+    "titulo": "La negociación en el Congreso que desvela a Pagni y los libertarios",
+    "bajada": "Javier Milei se reúne con su tropa parlamentaria con la certeza de contar con los votos para aprobar reformas críticas.",
+    "cuerpo": "La Casa Rosada activa su maquinaria legislativa para una semana de definiciones absolutas. Tras una reunión de alta tensión encabezada por Javier Milei, los principales espadas de La Libertad Avanza aseguran tener abrochados los votos necesarios para avanzar con el paquete de reformas desreguladoras. El optimismo oficialista choca con una oposición que busca imponer condiciones en torno a la morosidad y el financiamiento provincial.\n\nEl periodista Carlos Pagni analizó este escenario de extrema polarización parlamentaria, señalando que el verdadero test para el Gobierno no radica solo en sancionar las leyes, sino en garantizar su aplicabilidad jurídica ante previsibles recursos de amparo. La tensión es total y el margen de error para los libertarios es nulo en un Congreso fragmentado.\n\n¿Podrá el Gobierno consolidar su programa de reformas profundas o el Congreso volverá a ser un obstáculo insalvable?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "la-negociacion-en-el-congreso-que-desvela-a-pagni-y-los-libertarios",
+    "fecha": "2026-08-26",
+    "imagen": "img/politica_4.png",
+    "destacada": true
+  },
+  {
+    "titulo": "El análisis de Pagni tras los anuncios de Luis Caputo",
+    "bajada": "El ministro de Economía prepara una nueva conferencia de prensa con medidas clave que redefinen el rumbo fiscal.",
+    "cuerpo": "La expectativa crece en los mercados ante el llamado a conferencia de prensa del ministro Luis Caputo. Mientras el Palacio de Hacienda insiste con el mantra del superávit fiscal y la consolidación de la macroeconomía, diversos sectores productivos advierten sobre los límites de la recesión actual. Los analistas se preguntan si se anunciará una aceleración de la desregulación cambiaria o un nuevo esquema tarifario.\n\nEn su habitual mirada crítica, Carlos Pagni planteó los interrogantes que desvelan al círculo rojo: ¿hasta qué punto es sostenible la paz cambiaria sin una inyección genuina de reservas? El oficialismo defiende su hoja de ruta con firmeza argumentando que no hay alternativa al ordenamiento de las cuentas públicas, pero la presión de la economía real no da tregua.\n\n¿Lograrán las nuevas medidas calmar la ansiedad de Wall Street y aliviar los bolsillos de la clase media?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "el-analisis-de-pagni-tras-los-anuncios-de-luis-caputo",
+    "fecha": "2026-08-26",
+    "imagen": "img/economia_7.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Massa reaparece con un llamado a la unidad que agita a Tolosa Paz",
+    "bajada": "El ex candidato presidencial reapareció en Rosario para marcar la cancha en medio de la feroz interna peronista.",
+    "cuerpo": "En un acto de alto fuerte contenido simbólico en Rosario, Sergio Massa volvió a la escena pública con un mensaje directo: 'La unidad es lo más importante'. Su reaparición busca ordenar un peronismo huérfano de liderazgo claro, que debate su identidad frente a la avanzada del modelo libertario. Sin embargo, la interna está lejos de pacificarse y surgen múltiples liderazgos territoriales.\n\nDesde distintos sectores, figuras como la diputada Tolosa Paz insisten en la necesidad de una autocrítica profunda antes de reclamar la conducción del espacio. La tensión entre el verticalismo tradicional y los sectores que exigen renovación de liderazgos expone las fracturas de una oposición que aún no logra consolidar un discurso alternativo coherente.\n\n¿Es posible la reconstrucción del peronismo bajo el liderazgo de las mismas figuras que perdieron la última elección?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "massa-reaparece-con-un-llamado-a-la-unidad-que-agita-a-tolosa-paz",
+    "fecha": "2026-08-26",
+    "imagen": "img/politica_1.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Tensión soberana en Ushuaia por el amarre de un petrolero británico",
+    "bajada": "La llegada de un buque con bandera del Reino Unido a Tierra del Fuego desata fuertes reclamos diplomáticos.",
+    "cuerpo": "La presencia de un buque petrolero de origen británico en las costas de Ushuaia encendió las alarmas de la política exterior y de los sectores de la defensa nacional. Diversas agrupaciones de excombatientes y legisladores provinciales exigieron explicaciones inmediatas a las autoridades portuarias, denunciando una flagrante violación a las normativas de protección de los recursos en el Atlántico Sur.\n\nLas autoridades locales alegan cuestiones técnicas y de emergencia humanitaria para justificar la autorización del amarre, pero la explicación no convence a la oposición. El incidente expone la fragilidad de los controles soberanos y reabre el debate sobre la política de seducción o firmeza que debe adoptar la Argentina frente a Gran Bretaña.\n\n¿Debe la Argentina flexibilizar el ingreso de buques británicos por razones técnicas o mantener una intransigencia soberana absoluta?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "tension-soberana-en-ushuaia-por-el-amarre-de-un-petrolero-britanico",
+    "fecha": "2026-08-26",
+    "imagen": "img/politica_8.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Polémica geopolítica en Tierra del Fuego por la presencia de un buque extranjero",
+    "bajada": "El amarre de un petrolero británico reaviva el debate sobre la soberanía del Atlántico Sur.",
+    "cuerpo": "La provincia de Tierra del Fuego vuelve a quedar en el centro de la escena geopolítica global tras la autorización para que un petrolero con bandera británica opere en sus aguas. La decisión generó un rechazo unánime en la Legislatura fueguina, donde se acusa al Gobierno nacional de mantener una postura pasiva ante los constantes avances del Reino Unido en la zona de exclusión de Malvinas.\n\nLa controversia escala a nivel de Cancillería, donde se evalúan los alcances de los tratados internacionales de navegación frente a la legislación interna que restringe la asistencia a buques vinculados a la explotación hidrocarburífera ilegal en el territorio nacional marítimo.\n\n¿Es la pasividad diplomática el costo de reinsertar comercialmente al país en el mundo?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "polemica-geopolitica-en-tierra-del-fuego-por-la-presencia-de-un-buque-extranjero",
+    "fecha": "2026-08-26",
+    "imagen": "img/politica_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Auditoría millonaria al padre de Tini bajo sospecha de graves delitos",
+    "bajada": "La justicia investiga la gestión de Alejandro Stoessel tras detectarse inconsistencias financieras brutales.",
+    "cuerpo": "La lupa judicial se posó firmemente sobre Alejandro Stoessel, padre de la célebre cantante Tini. Una exhaustiva auditoría externa sobre contratos de producción y derechos televisivos arrojó serias inconsistencias contables que podrían derivar en imputaciones por evasión fiscal agravada y malversación de fondos. El entorno de la estrella pop intenta desvincularla por completo de los manejos de su progenitor.\n\nEl caso expone los costados más oscuros del negocio del entretenimiento y la facilidad con la que se mueven flujos millonarios de dinero sin los controles tributarios adecuados. La defensa del productor desestima las acusaciones alegando una persecución política y mediática para dañar la reputación de la familia.\n\n¿Se trata de una investigación legítima contra la corrupción en el espectáculo o un ataque coordinado contra el entorno de la artista?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "auditoria-millonaria-al-padre-de-tini-bajo-sospecha-de-graves-delitos",
+    "fecha": "2026-08-26",
+    "imagen": "img/sociedad_4.png",
+    "destacada": false
+  },
+  {
+    "titulo": "La drástica salida de Germán Pezzella que sacude a todo River",
+    "bajada": "El defensor campeón del mundo rescindió su contrato de manera abrupta y con polémica de por medio.",
+    "cuerpo": "En una decisión que tomó por sorpresa al mundo futbolístico, River Plate oficializó la rescisión del contrato de Germán Pezzella. El central, que había retornado con la chapa de campeón del mundo y la promesa de consolidar la defensa millonaria, se despide de Núñez en medio de rumores sobre fuertes cortocircuitos con el cuerpo técnico y la dirigencia por el manejo del vestuario.\n\nLa salida expone las tensiones internas en el club de Núñez, que no logra encontrar regularidad futbolística pese a las millonarias inversiones realizadas. Para los hinchas, la partida del referente representa un duro golpe anímico y deportivo de cara a las competencias internacionales.\n\n¿Fue la salida del defensor una decisión estrictamente personal o refleja una crisis de conducción más profunda en River?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "la-drastica-salida-de-german-pezzella-que-sacude-a-todo-river",
+    "fecha": "2026-08-26",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "Alerta máxima por viento Zonda y drástico cambio climático en Mendoza",
+    "bajada": "El Servicio Meteorológico emitió avisos severos por ráfagas extremas que paralizan la actividad provincial.",
+    "cuerpo": "La provincia de Mendoza se prepara para enfrentar una de las alertas meteorológicas más severas de la temporada ante la inminente llegada del viento Zonda. Con ráfagas que se prevé superen los 100 km/h, las autoridades provinciales decidieron suspender las clases presenciales y recomendaron a la población evitar salidas innecesarias para mitigar posibles accidentes viales.\n\nEl fenómeno meteorológico viene acompañado de un drástico descenso posterior de la temperatura, lo que pone a prueba la infraestructura eléctrica y los servicios de emergencia de la región cordillerana. Los expertos advierten que la recurrencia y la virulencia de estos eventos climáticos extremos son un síntoma innegable del calentamiento global.\n\n¿Están preparadas las provincias andinas para mitigar el impacto económico y social de catástrofes climáticas cada vez más frecuentes?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "alerta-maxima-por-viento-zonda-y-drastico-cambio-climatico-en-mendoza",
+    "fecha": "2026-08-26",
+    "imagen": "img/sociedad_2.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El fin del truco para ratearse de las deudas en billeteras virtuales",
+    "bajada": "Bancos y billeteras virtuales fueron autorizados para debitar automáticamente cuotas vencidas de las cuentas.",
+    "cuerpo": "El Banco Central emitió una nueva normativa de alto impacto para los consumidores: las entidades financieras y las fintech ahora están formalmente habilitadas para cobrarse deudas vencidas directamente mediante débitos automáticos en cualquier cuenta del usuario. La medida busca frenar la morosidad y sanear las carteras de crédito de los bancos comerciales.\n\nLa medida elimina la posibilidad de 'ratearse' o esconder fondos en billeteras electrónicas para evitar los compromisos asumidos. Sin embargo, defensores de los derechos del consumidor advierten que esta discrecionalidad pone en riesgo el carácter alimentario del salario de miles de trabajadores que recurren al financiamiento informal para llegar a fin de mes.\n\n¿Es una medida necesaria para dar previsibilidad al sistema financiero o un abuso de poder contra los sectores endeudados?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "el-fin-del-truco-para-ratearse-de-las-deudas-en-billeteras-virtuales",
+    "fecha": "2026-08-26",
+    "imagen": "img/economia_3.png",
+    "destacada": false
+  },
+  {
+    "titulo": "El conmovedor caso de Mariela y el debate postergado de la eutanasia",
+    "bajada": "La lucha por una muerte digna llega al Congreso con testimonios desgarradores de pacientes terminales.",
+    "cuerpo": "La discusión sobre la legalización de la eutanasia en la Argentina cobra un nuevo y dramático impulso legislativo tras la difusión de la historia de Mariela, una paciente con esclerosis lateral amiotrófica que reclama judicialmente el derecho a decidir el final de su vida sin padecer sufrimientos innecesarios. El caso reinstaló el debate ético en una sociedad fuertemente dividida por cuestiones religiosas y de derechos individuales.\n\nLos proyectos de ley presentados en el Congreso plantean un estricto protocolo de consentimiento informado y evaluación médica para evitar abusos, pero enfrentan una dura resistencia de sectores conservadores que priorizan la preservación de la vida bajo cualquier circunstancia médica. Las comisiones parlamentarias prometen tratar la iniciativa en las próximas semanas.\n\n¿Debe el Estado argentino consagrar el derecho a decidir una muerte digna como parte de la autonomía personal?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "3 min",
+    "slug": "el-conmovedor-caso-de-mariela-y-el-debate-postergado-de-la-eutanasia",
+    "fecha": "2026-08-26",
+    "imagen": "img/sociedad_11.png",
+    "destacada": false
+  },
+  {
     "titulo": "Congreso al rojo vivo: Milei presiona con reformas bajo el rechazo de Tolosa Paz",
     "bajada": "El oficialismo busca destrabar leyes clave mientras el peronismo duro liderado por Tolosa Paz intenta imponer proyectos sobre morosidad.",
     "cuerpo": "El Gobierno de Javier Milei inicia una semana determinante en el Poder Legislativo, donde buscará acelerar el tratamiento de reformas estructurales pendientes. Sin embargo, el escenario legislativo se presenta altamente fragmentado y los bloques opositores, impulsados por figuras como Victoria Tolosa Paz, coordinan estrategias para forzar el tratamiento de iniciativas que alivien la morosidad social y pyme.\n\nLa pulseada se centra en la capacidad de la gestión libertaria para consolidar sus mayorías temporales con bloques aliados como el PRO y sectores del radicalismo. Desde el oficialismo defienden la necesidad de mantener a rajatabla el equilibrio fiscal y evitar cualquier modificación impositiva que ponga en riesgo la macroeconomía, tildando los reclamos opositores de demagógicos.\n\nLa oposición insiste en que el ahogo financiero de las provincias y los sectores productivos requiere respuestas urgentes que no pueden esperar a las reformas de mediano plazo. ¿Podrá el oficialismo sostener la gobernabilidad en el Congreso sin ceder ante las demandas por la crisis social?",
@@ -9,7 +129,7 @@
     "slug": "congreso-al-rojo-vivo-milei-presiona-con-reformas-bajo-el-rechazo-de-tolosa-paz",
     "fecha": "2026-08-26",
     "imagen": "img/politica_6.png",
-    "destacada": true
+    "destacada": false
   },
   {
     "titulo": "La morosidad en el gabinete de Milei: el duro diagnóstico que anticipó Pagni",
@@ -453,78 +573,6 @@
     "slug": "magallanes-argentina-nueva-disputa-chile",
     "fecha": "2026-08-25",
     "imagen": "img/politica_9.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Asueto o feriado por el Papa? El costo oculto de la fe en Argentina.",
-    "bajada": "El Gobierno evalúa paralizar la actividad económica en nombre de la visita papal, ¿quién paga realmente esta decisión?",
-    "cuerpo": "La posible declaración de asueto o feriado por la visita del papa León XIV a la Argentina genera un importante debate. Si bien la llegada de un líder religioso de esta magnitud es un evento de interés social y cultural, la paralización de la actividad económica implica un costo fiscal y productivo que rara vez se visibiliza. Desde una perspectiva liberal, cada día no trabajado por imposición estatal representa una pérdida para la economía privada y para el ya castigado contribuyente.\n\nMientras el sector público podría gozar de un día libre, las empresas y los trabajadores del sector privado, muchos de ellos autónomos o pymes, enfrentan la reducción de la productividad y los ingresos, en un país que necesita precisamente lo contrario: más trabajo y menos interrupciones. La \"casta\" política, que muchas veces promueve estas medidas, parece olvidar el impacto real en la microeconomía y en el bolsillo de los ciudadanos que luchan por salir adelante.\n\n¿Es legítimo imponer un asueto o feriado a nivel nacional por un evento religioso, o deberíamos priorizar la eficiencia económica y la libertad individual en un país con urgencias tan apremiantes? El debate está abierto.",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "asueto-feriado-papa-costo-oculto-argentina",
-    "fecha": "2026-08-25",
-    "imagen": "img/politica_6.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La Plata, ¿orgullo Argentina campeón? Una catedral global.",
-    "bajada": "La Catedral de La Plata es elegida la más linda del mundo, un hito que va más allá de lo arquitectónico.",
-    "cuerpo": "En una noticia que llena de orgullo a muchos, la Catedral de La Plata fue elegida como la más linda del mundo, superando a íconos como Notre Dame y el Duomo de Milán. Este reconocimiento internacional no solo destaca la magnificencia arquitectónica de una de nuestras joyas, sino que también pone en valor el talento y la historia de la Argentina. Es un recordatorio de que, más allá de las crisis, nuestro país tiene un patrimonio cultural y artístico de primer nivel.\n\nSin embargo, cabe preguntarse si este tipo de reconocimientos se traduce en una política cultural y de preservación adecuada. ¿Los recursos se destinan eficazmente a la protección y promoción de nuestro patrimonio, o es un logro que se celebra efímeramente mientras las estructuras históricas luchan por mantenerse en pie ante la falta de inversión? Es crucial que el orgullo se transforme en acción concreta y en una visión a largo plazo.\n\n¿Estamos a la altura de cuidar y valorar nuestro patrimonio cultural, o la falta de previsión y el gasto ineficiente amenazan con opacar estos logros que nos llenan de orgullo como Argentina?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "la-plata-orgullo-argentina-campeon-catedral-global",
-    "fecha": "2026-08-25",
-    "imagen": "img/sociedad_5.png",
-    "destacada": false
-  },
-  {
-    "titulo": "Éxito exportador: ¿Qué lecciones dan estas provincias a la Argentina?",
-    "bajada": "Tres provincias argentinas superan en exportaciones per cápita a economías desarrolladas, demostrando un modelo a seguir.",
-    "cuerpo": "Mientras la Argentina en su conjunto lucha con la balanza comercial y la presión cambiaria, tres provincias destacan con un rendimiento exportador per cápita superior al de países como EE.UU. y otras economías desarrolladas. Este dato, lejos de ser una anécdota, es una bofetada a las políticas centralistas y a menudo restrictivas que impiden el pleno desarrollo del potencial productivo del interior. Demuestra que la libertad para producir y comerciar, con menos trabas estatales, rinde sus frutos.\n\nLas claves de su éxito radican en la especialización productiva y en una visión pro-mercado que les permite competir globalmente. ¿Por qué, entonces, el resto del país no replica este modelo? La respuesta suele encontrarse en la pesada burocracia, la presión impositiva asfixiante y la falta de reglas claras que desincentivan la inversión y la iniciativa privada. Es hora de aprender de estos ejemplos y desregular para liberar el verdadero potencial exportador de toda la Argentina.\n\n¿El éxito de estas provincias es una señal de que la Argentina necesita menos Estado y más libertad económica para crecer y prosperar?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "exito-exportador-provincias-lecciones-argentina",
-    "fecha": "2026-08-25",
-    "imagen": "img/economia_10.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿Otro crack como Julián Álvarez? El goleador que ilusiona a Argentina",
-    "bajada": "Un joven talento con triple nacionalidad emerge como posible figura para el fútbol argentino y europeo.",
-    "cuerpo": "Mientras el fútbol argentino y el mundo siguen de cerca la carrera de Julián Álvarez, surge una nueva promesa con potencial para deslumbrar en las grandes ligas. Este joven goleador, con raíces en Italia, Alemania y Argentina, ha captado la atención por su capacidad de definición y proyección. ¿Estamos ante el próximo gran \"9\" que podría emular el éxito de la Araña en el Barcelona o la Selección? Su versatilidad y olfato goleador abren un debate sobre la captación y desarrollo de talentos en nuestro país frente a potencias europeas.  La irrupción de este tipo de jugadores genera tanto optimismo como preocupación. ¿Qué políticas deportivas son necesarias para retener o al menos beneficiarse del talento que se forma en Argentina? ¿Priorizamos la exportación temprana o la consolidación en ligas locales? La discusión trasciende lo meramente deportivo y toca aspectos económicos y de identidad nacional en un mercado globalizado. ¿Argentina está preparada para maximizar el potencial de estas joyas o las dejará escapar sin una estrategia clara?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "otro-crack-como-julian-alvarez-el-goleador-que-ilusiona-a-argentina",
-    "fecha": "2026-08-25",
-    "imagen": "img/sociedad_8.png",
-    "destacada": false
-  },
-  {
-    "titulo": "La otra pasión del fútbol: Platense vs. Instituto en Copa Argentina",
-    "bajada": "Más allá de los grandes, el corazón del fútbol late en la Copa Argentina.",
-    "cuerpo": "Mientras los debates en torno a grandes clubes como River o la performance de estrellas en el extranjero acaparan titulares, la Copa Argentina nos recuerda que la esencia del fútbol reside también en la pasión de los equipos con menos reflectores. La venta de entradas para el encuentro entre Platense e Instituto de Córdoba no es solo un trámite, sino un termómetro de la vitalidad del ascenso y de la Primera Nacional, donde los hinchas demuestran un compromiso inquebrantable.  Este tipo de partidos subraya la importancia de fortalecer las ligas locales y la competencia federal, un pilar fundamental para el desarrollo del deporte. ¿Cómo se equilibra el protagonismo de los clubes históricamente grandes con la necesidad de dar visibilidad y recursos a instituciones como Platense e Instituto? La Copa Argentina ofrece una plataforma única para estas confrontaciones que a menudo resultan en sorpresas y momentos inolvidables, manteniendo viva la llama de la competencia genuina. ¿Estamos invirtiendo lo suficiente en la base de nuestro fútbol, o solo miramos las cúpulas?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "la-otra-pasion-del-futbol-platense-vs-instituto-en-copa-argentina",
-    "fecha": "2026-08-25",
-    "imagen": "img/sociedad_10.png",
-    "destacada": false
-  },
-  {
-    "titulo": "¿De Popstars a Gran Hermano? La nueva distracción de la pantalla",
-    "bajada": "El debut de Popstars Argentina genera memes y debate sobre el futuro de los realities.",
-    "cuerpo": "En un país convulsionado por la realidad política y económica, la televisión sigue apostando a los realities de entretenimiento, ahora con el debut de Popstars Argentina. La viralización de memes y comentarios en redes sociales, similar a lo que ocurre con fenómenos como SIN SOL NO HAY GH o los apoyos a TAMARA AL 9009, evidencia la capacidad de estos formatos para captar la atención masiva. ¿Son una válvula de escape necesaria o una forma de eludir las discusiones de fondo que la sociedad argentina necesita dar?  La programación que prioriza el espectáculo por sobre el análisis crítico o la información relevante plantea interrogantes sobre el rol de los medios y el consumo cultural. Mientras figuras como SOL AL 9009 dominan las conversaciones en X, los debates sobre la producción de talento o la calidad artística quedan en segundo plano, ahogados por la inmediatez del meme y la tendencia. ¿Es esta la cultura que queremos fomentar? ¿O es una respuesta natural a una demanda de evasión que los medios no pueden ignorar?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "de-popstars-a-gran-hermano-la-nueva-distraccion-de-la-pantalla",
-    "fecha": "2026-08-25",
-    "imagen": "img/sociedad_1.png",
     "destacada": false
   }
 ]
