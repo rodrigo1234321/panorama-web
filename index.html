@@ -9,7 +9,8 @@
   <meta name="keywords" content="politica, economia, milei, derecha, izquierda, noticias argentina, panorama">
   <meta name="robots" content="index, follow">
   <link rel="canonical" href="https://panorama-web-one.vercel.app/">
-  <link rel="icon" href="img/fallback_general.png" type="image/png">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+  <link rel="alternate icon" href="favicon.ico">
   
   <!-- Open Graph / Meta para compartir en X y WhatsApp -->
   <meta property="og:type" content="website">
@@ -40,6 +41,9 @@
   }
   </script>
 
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
   <script>
     // Previene el parpadeo en modo oscuro aplicando el tema antes de renderizar
@@ -49,10 +53,11 @@
       document.documentElement.setAttribute('data-theme', savedTheme);
     }
   </script>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 </head>
 <body>
+
+<!-- Skip to main content link for keyboard accessibility -->
+<a href="#feed" class="skip-link">Saltar al contenido principal</a>
 
 <!-- Breaking news ticker -->
 <div class="ticker-container">
@@ -88,7 +93,7 @@
     <a href="index.html" class="logo">Panorama<span>.ar</span></a>
     
     <!-- Desktop Navigation -->
-    <nav class="nav-desktop">
+    <nav class="nav-desktop" aria-label="Navegación principal">
       <a href="#feed" data-cat="todas" class="nav-link active">Últimas notas</a>
       <a href="#feed" data-cat="economia" class="nav-link">Economía</a>
       <a href="#feed" data-cat="sociedad" class="nav-link">Sociedad</a>
@@ -211,11 +216,11 @@
           <h2 class="feed-title">Últimas notas</h2>
         </div>
         <!-- Filters (Category pills) -->
-        <div class="filter-pills" id="cat-filters">
-          <button data-cat="todas" class="pill-btn active" type="button">Todas</button>
-          <button data-cat="economia" class="pill-btn" type="button">Economía</button>
-          <button data-cat="sociedad" class="pill-btn" type="button">Sociedad</button>
-          <button data-cat="politica" class="pill-btn" type="button">Política</button>
+        <div class="filter-pills" id="cat-filters" role="tablist" aria-label="Filtrar por categoría">
+          <button data-cat="todas" class="pill-btn active" role="tab" aria-selected="true" type="button">Todas</button>
+          <button data-cat="economia" class="pill-btn" role="tab" aria-selected="false" type="button">Economía</button>
+          <button data-cat="sociedad" class="pill-btn" role="tab" aria-selected="false" type="button">Sociedad</button>
+          <button data-cat="politica" class="pill-btn" role="tab" aria-selected="false" type="button">Política</button>
         </div>
       </div>
       <span class="feed-count" id="contador">Cargando notas...</span>
@@ -239,7 +244,7 @@
       <h2>Recibí nuestro panorama diario</h2>
       <p>Las noticias clave sobre la realidad argentina directamente en tu casilla, cada mañana, redactado sin ruido ni sesgos.</p>
       <form class="newsletter-form" id="newsletter-form" novalidate>
-        <input type="email" id="newsletter-email" placeholder="Tu correo electrónico" required aria-label="Correo electrónico" autocomplete="email" enterkeyhint="send">
+        <input type="email" id="newsletter-email" class="newsletter-input" placeholder="Tu correo electrónico" required aria-label="Correo electrónico" autocomplete="email" enterkeyhint="send">
         <button type="submit" class="btn-accent" id="newsletter-btn">Suscribirse</button>
       </form>
       <div class="newsletter-msg hidden" id="newsletter-msg"></div>
@@ -269,13 +274,13 @@
       <h4>Panorama<span>.ar</span></h4>
       <p>Medio digital independiente dedicado a cubrir la actualidad de Argentina desde tres ejes: economía, sociedad y política.</p>
       <div class="social-links">
-        <a href="#" class="social-btn" aria-label="Twitter">
+        <a href="https://x.com/opinadordex" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Twitter / X">
           <svg fill="currentColor" viewBox="0 0 24 24"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
         </a>
-        <a href="#" class="social-btn" aria-label="Instagram">
+        <a href="https://x.com/opinadordex" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Instagram">
           <svg fill="currentColor" viewBox="0 0 24 24"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
         </a>
-        <a href="#" class="social-btn" aria-label="Facebook">
+        <a href="https://x.com/opinadordex" target="_blank" rel="noopener noreferrer" class="social-btn" aria-label="Facebook">
           <svg fill="currentColor" viewBox="0 0 24 24"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
         </a>
       </div>
@@ -397,11 +402,16 @@
     mobileMenuDrawer.hidePopover();
   });
 
-  // Datos de Noticias y renders
-  const NOMBRES_CAT = { economia: 'Economía', sociedad: 'Sociedad', politica: 'Política' };
-  let TODAS_NOTAS = [];
+  // App State & Data Rendering
+  const NOMBRES_CAT = {
+    todas: 'Todas',
+    economia: 'Economía',
+    sociedad: 'Sociedad',
+    politica: 'Política'
+  };
+
+  let ALL_NEWS = [];
   let CATEGORIA_ACTUAL = 'todas';
-  let BUSQUEDA_ACTUAL = '';
   let VISIBLES = 6;
 
   function timeAgo(dateStr) {
@@ -419,14 +429,12 @@
 
   function heroHTML(n) {
     return `
-      <div class="hero-main-card cat-${n.categoria}" onclick="location.href='notas/${n.slug}.html'" style="cursor: pointer;">
+      <a class="hero-main-card cat-${n.categoria}" href="notas/${n.slug}.html" aria-label="Leer nota principal: ${n.titulo}">
         <img class="hero-bg-img" src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}">
         <div class="hero-gradient-overlay"></div>
         <div class="hero-main-content">
           <span class="tag-badge ${n.categoria}">${NOMBRES_CAT[n.categoria] || n.categoria}</span>
-          <a href="notas/${n.slug}.html">
-            <h2>${n.titulo}</h2>
-          </a>
+          <h2>${n.titulo}</h2>
           <p>${n.bajada}</p>
           <div class="hero-meta">
             <span>Por <strong>${n.autor || 'Redacción'}</strong></span>
@@ -436,19 +444,19 @@
             <span>${n.lectura || '4 min'}</span>
           </div>
         </div>
-      </div>
+      </a>
     `;
   }
 
   function sideHTML(n) {
     return `
-      <a class="side-hero-item cat-${n.categoria}" href="notas/${n.slug}.html">
+      <a class="side-hero-item cat-${n.categoria}" href="notas/${n.slug}.html" aria-label="Leer: ${n.titulo}">
         <div class="side-hero-img-wrap">
           <img src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}" loading="lazy">
         </div>
         <div class="side-hero-content">
           <div class="side-hero-meta">
-            <span class="tag-badge ${n.categoria}" style="padding: 2px 6px; font-size: 8px;">${NOMBRES_CAT[n.categoria] || n.categoria}</span>
+            <span class="tag-badge ${n.categoria}" style="padding: 2px 6px; font-size: 8.5px;">${NOMBRES_CAT[n.categoria] || n.categoria}</span>
             <span>·</span>
             <span>${timeAgo(n.fecha)}</span>
           </div>
@@ -461,7 +469,7 @@
 
   function tarjetaHTML(n) {
     return `
-      <article class="feed-card cat-${n.categoria}" onclick="location.href='notas/${n.slug}.html'">
+      <a class="feed-card cat-${n.categoria}" href="notas/${n.slug}.html" aria-label="Leer artículo: ${n.titulo}">
         <div class="card-img-wrap">
           <img src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}" loading="lazy">
         </div>
@@ -475,51 +483,65 @@
           <span>·</span>
           <span>${timeAgo(n.fecha)}</span>
         </div>
-      </article>
+      </a>
     `;
   }
 
   const gridNode = document.getElementById('grid');
   const contadorNode = document.getElementById('contador');
   const loadMoreBtn = document.getElementById('load-more-btn');
+  const heroMainNode = document.getElementById('hero-main');
+  const heroSideNode = document.getElementById('hero-side');
 
-  function renderFeed() {
-    const filtradas = TODAS_NOTAS.filter(n => {
-      const cumpleCategoria = CATEGORIA_ACTUAL === 'todas' || n.categoria === CATEGORIA_ACTUAL;
-      return cumpleCategoria;
-    });
-
-    const paginadas = filtradas.slice(0, VISIBLES);
+  function renderView() {
+    // Filtrar según categoría activa
+    const filtradas = CATEGORIA_ACTUAL === 'todas' 
+      ? ALL_NEWS 
+      : ALL_NEWS.filter(n => n.categoria === CATEGORIA_ACTUAL);
 
     if (filtradas.length === 0) {
+      heroMainNode.innerHTML = '';
+      heroSideNode.innerHTML = '';
       gridNode.innerHTML = `
         <div class="no-results">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
             <circle cx="11" cy="11" r="8"></circle>
             <path d="M21 21l-4.3-4.3M16 11H11"></path>
           </svg>
-          <h3>No encontramos notas</h3>
-          <p>Probá cambiando la categoría del filtro.</p>
+          <h3>No encontramos notas en esta sección</h3>
+          <p>Probá seleccionando otra categoría.</p>
         </div>
       `;
       contadorNode.textContent = '0 notas';
       loadMoreBtn.classList.add('hidden');
+      return;
+    }
+
+    // Hero: destacada + 4 laterales
+    const destacada = filtradas.find(n => n.destacada) || filtradas[0];
+    const resto = filtradas.filter(n => n !== destacada);
+
+    heroMainNode.innerHTML = heroHTML(destacada);
+    heroSideNode.innerHTML = resto.slice(0, 4).map(sideHTML).join('');
+
+    // Feed inferior: el remanente paginado
+    const feedPool = resto.slice(4);
+    const paginadas = feedPool.slice(0, VISIBLES);
+
+    gridNode.innerHTML = paginadas.map(tarjetaHTML).join('');
+    contadorNode.textContent = filtradas.length + (filtradas.length === 1 ? ' nota' : ' notas');
+
+    if (paginadas.length < feedPool.length) {
+      loadMoreBtn.classList.remove('hidden');
     } else {
-      gridNode.innerHTML = paginadas.map(tarjetaHTML).join('');
-      contadorNode.textContent = filtradas.length + (filtradas.length === 1 ? ' nota' : ' notas');
-      
-      if (paginadas.length < filtradas.length) {
-        loadMoreBtn.classList.remove('hidden');
-      } else {
-        loadMoreBtn.classList.add('hidden');
-      }
+      loadMoreBtn.classList.add('hidden');
     }
   }
 
-  // Fetch inicial
+  // Fetch inicial y caché en memoria
   fetch('noticias.json')
     .then(r => {
-      if (!r.ok) throw new Error('Error cargando noticias.json');
+      if (!r.ok) throw new Error('Error al cargar noticias.json');
       return r.json();
     })
     .then(data => {
@@ -527,7 +549,7 @@
         gridNode.innerHTML = `
           <div class="no-results">
             <h3>No hay noticias publicadas</h3>
-            <p>Por favor, ejecutá la automatización de noticias para poblar la portada.</p>
+            <p>Ejecutá la automatización de noticias para poblar la portada.</p>
           </div>`;
         contadorNode.textContent = '0 notas';
         loadMoreBtn.classList.add('hidden');
@@ -535,26 +557,15 @@
       }
 
       // Ordenar por fecha desc.
-      const ordenadas = data.slice().sort((a, b) => new Date(b.fecha) - new Date(a.fecha));
+      ALL_NEWS = data.slice().sort((a, b) => new Date(b.fecha) - new Date(a.fecha));
 
-      const destacada = ordenadas.find(n => n.destacada) || ordenadas[0];
-      const resto = ordenadas.filter(n => n !== destacada);
-
-      document.getElementById('hero-main').innerHTML = heroHTML(destacada);
-      document.getElementById('hero-side').innerHTML = resto.slice(0, 4).map(sideHTML).join('');
-      
-      // El resto va al feed de abajo
-      TODAS_NOTAS = resto.slice(4);
-      
-      renderFeed();
-      renderTicker(ordenadas);
+      renderView();
+      renderTicker(ALL_NEWS);
 
       // Cargar tendencias de X
       fetch('trends.json')
         .then(r => r.ok ? r.json() : [])
-        .then(trends => {
-          renderTrends(trends);
-        })
+        .then(trends => renderTrends(trends))
         .catch(err => {
           console.warn('Error al cargar tendencias:', err);
           renderTrends([]);
@@ -569,7 +580,7 @@
       console.error(err);
     });
 
-  // Ticker de noticias dinámico
+  // Ticker dinámico
   function renderTicker(notas) {
     const track = document.getElementById('ticker-track');
     const items = notas.slice(0, 6).map(n => `
@@ -578,12 +589,10 @@
         <span>${n.titulo}</span>
       </a>
     `).join('');
-    
-    // Duplicar para un bucle continuo fluido
     track.innerHTML = items + items;
   }
 
-  // Carga y renderizado de tendencias en X
+  // Tendencias en X
   function renderTrends(trends) {
     const listNode = document.getElementById('x-trends-list');
     if (!listNode) return;
@@ -605,106 +614,110 @@
 
   window.filterByTrend = function(e, trendTerm) {
     e.preventDefault();
-    const searchInput = document.getElementById('search-main-input');
-    const searchOverlay = document.getElementById('search-overlay');
     if (searchInput && searchOverlay) {
       searchOverlay.showPopover();
       searchInput.value = trendTerm;
-      // Disparar evento input para activar búsqueda
       searchInput.dispatchEvent(new Event('input', { bubbles: true }));
       setTimeout(() => searchInput.focus(), 50);
     }
   }
 
-  // Filtros de categoría de feed
+  // Filtros de categoría con accesibilidad ARIA
   const filterPills = document.querySelectorAll('.pill-btn');
-  filterPills.forEach(btn => {
-    btn.addEventListener('click', () => {
-      filterPills.forEach(b => b.classList.remove('active'));
-      btn.classList.add('active');
-      CATEGORIA_ACTUAL = btn.dataset.cat;
-      
-      // Sincronizar el nav desktop y mobile
-      document.querySelectorAll('.nav-desktop a, .drawer-links a').forEach(a => {
-        a.classList.toggle('active', a.dataset.cat === CATEGORIA_ACTUAL);
-      });
+  function setCategoryFilter(cat) {
+    CATEGORIA_ACTUAL = cat;
+    VISIBLES = 6;
 
-      VISIBLES = 6;
-      renderFeed();
+    filterPills.forEach(btn => {
+      const isActive = btn.dataset.cat === cat;
+      btn.classList.toggle('active', isActive);
+      btn.setAttribute('aria-selected', isActive ? 'true' : 'false');
     });
+
+    document.querySelectorAll('.nav-desktop a, .drawer-links a').forEach(a => {
+      a.classList.toggle('active', a.dataset.cat === cat);
+    });
+
+    renderView();
+  }
+
+  filterPills.forEach(btn => {
+    btn.addEventListener('click', () => setCategoryFilter(btn.dataset.cat));
   });
 
   // Enlaces de navegación (desktop & drawer)
   document.querySelectorAll('.nav-desktop a, .drawer-links a').forEach(link => {
     link.addEventListener('click', (e) => {
       const cat = link.dataset.cat;
-      CATEGORIA_ACTUAL = cat;
-      VISIBLES = 6;
-      
-      // Activar pill correspondiente
-      filterPills.forEach(b => {
-        b.classList.toggle('active', b.dataset.cat === cat);
-      });
-
-      document.querySelectorAll('.nav-desktop a, .drawer-links a').forEach(a => {
-        a.classList.toggle('active', a.dataset.cat === cat);
-      });
-
-      // Si es del drawer, cerrarlo
-      mobileMenuDrawer.hidePopover();
-      
-      renderFeed();
+      if (cat) {
+        setCategoryFilter(cat);
+        mobileMenuDrawer.hidePopover();
+      }
     });
   });
 
-  // Cargar más
+  // Cargar más incremental con DocumentFragment (sin destruir el DOM)
   loadMoreBtn.addEventListener('click', () => {
+    const filtradas = CATEGORIA_ACTUAL === 'todas' 
+      ? ALL_NEWS 
+      : ALL_NEWS.filter(n => n.categoria === CATEGORIA_ACTUAL);
+
+    const destacada = filtradas.find(n => n.destacada) || filtradas[0];
+    const feedPool = filtradas.filter(n => n !== destacada).slice(4);
+
+    const prevCount = VISIBLES;
     VISIBLES += 6;
-    renderFeed();
+    const newBatch = feedPool.slice(prevCount, VISIBLES);
+
+    if (newBatch.length > 0) {
+      const fragment = document.createRange().createContextualFragment(newBatch.map(tarjetaHTML).join(''));
+      gridNode.appendChild(fragment);
+    }
+
+    if (VISIBLES >= feedPool.length) {
+      loadMoreBtn.classList.add('hidden');
+    }
   });
 
-  // Buscador interactivo en modal
+  // Buscador interactivo en modal con debounce y memoria caché (0 peticiones HTTP redundantes)
   const resultsContainer = document.getElementById('search-results');
+  let searchDebounceTimer = null;
+
   searchInput.addEventListener('input', (e) => {
+    clearTimeout(searchDebounceTimer);
     const q = e.target.value.toLowerCase().trim();
     if (!q) {
       resultsContainer.innerHTML = '';
       return;
     }
 
-    // Buscamos en todas las notas disponibles, incluyendo destacada y laterales
-    fetch('noticias.json')
-      .then(r => r.json())
-      .then(notas => {
-        const matches = notas.filter(n => 
-          n.titulo.toLowerCase().includes(q) || 
-          n.bajada.toLowerCase().includes(q) ||
-          (n.cuerpo && n.cuerpo.toLowerCase().includes(q)) ||
-          (n.autor && n.autor.toLowerCase().includes(q))
-        ).slice(0, 6);
+    searchDebounceTimer = setTimeout(() => {
+      const pool = ALL_NEWS.length > 0 ? ALL_NEWS : [];
+      const matches = pool.filter(n => 
+        (n.titulo && n.titulo.toLowerCase().includes(q)) || 
+        (n.bajada && n.bajada.toLowerCase().includes(q)) ||
+        (n.cuerpo && n.cuerpo.toLowerCase().includes(q)) ||
+        (n.autor && n.autor.toLowerCase().includes(q))
+      ).slice(0, 6);
 
-        if (matches.length === 0) {
-          resultsContainer.innerHTML = `<p style="padding: 24px; text-align: center; font-size: 14px; color: var(--text-soft);">No encontramos resultados para "${q}"</p>`;
-          return;
-        }
+      if (matches.length === 0) {
+        resultsContainer.innerHTML = `<p style="padding: 24px; text-align: center; font-size: 14px; color: var(--text-soft);">No encontramos resultados para "${q}"</p>`;
+        return;
+      }
 
-        resultsContainer.innerHTML = matches.map(n => `
-          <a class="search-result-item" href="notas/${n.slug}.html">
-            <div class="search-result-thumb">
-              <img src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}">
-            </div>
-            <div class="search-result-info">
-              <span class="tag-badge ${n.categoria}">${NOMBRES_CAT[n.categoria] || n.categoria}</span>
-              <h4>${n.titulo}</h4>
-              <span>${timeAgo(n.fecha)}</span>
-            </div>
-          </a>
-        `).join('');
-      })
-      .catch(err => {
-        resultsContainer.innerHTML = `<p style="padding: 24px; text-align: center; font-size: 14px; color: var(--text-soft);">Error al buscar noticias.</p>`;
-        console.error(err);
-      });
+      resultsContainer.innerHTML = matches.map(n => `
+        <a class="search-result-item" href="notas/${n.slug}.html">
+          <div class="search-result-thumb">
+            <img src="${n.imagen || 'img/fallback_general.png'}" alt="${n.titulo}">
+          </div>
+          <div class="search-result-info">
+            <span class="tag-badge ${n.categoria}">${NOMBRES_CAT[n.categoria] || n.categoria}</span>
+            <h4>${n.titulo}</h4>
+            <span>${timeAgo(n.fecha)}</span>
+          </div>
+        </a>
+      `).join('');
+    }, 200);
   });
 
   // Suscripción Newsletter

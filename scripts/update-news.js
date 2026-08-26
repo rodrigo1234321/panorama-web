@@ -416,10 +416,22 @@ function updateDatabase(newArticles) {
         if (item.cuerpo) {
           const paragraphs = item.cuerpo.split('\n\n').map(p => p.trim()).filter(Boolean);
           if (paragraphs.length > 1) {
-            const mainParagraphs = paragraphs.slice(0, -1).map(p => `<p>${p}</p>`).join('');
             const lastParagraph = paragraphs[paragraphs.length - 1];
-            const debateCallout = `\n<div class="debate-callout-card">\n  <div class="debate-callout-header">\n    <span class="debate-icon">💬</span>\n    <strong>Punto de debate</strong>\n  </div>\n  <p class="debate-text">${lastParagraph}</p>\n</div>`;
-            bodyHtml = mainParagraphs + debateCallout;
+            const isQuestion = lastParagraph && (
+              lastParagraph.includes('?') || 
+              lastParagraph.includes('¿') || 
+              lastParagraph.toLowerCase().includes('debate') || 
+              lastParagraph.toLowerCase().includes('dilema') ||
+              lastParagraph.toLowerCase().includes('pregunta')
+            );
+
+            if (isQuestion) {
+              const mainParagraphs = paragraphs.slice(0, -1).map(p => `<p>${p}</p>`).join('');
+              const debateCallout = `\n<div class="debate-callout-card">\n  <div class="debate-callout-header">\n    <span class="debate-icon">💬</span>\n    <strong>Punto de debate</strong>\n  </div>\n  <p class="debate-text">${lastParagraph}</p>\n</div>`;
+              bodyHtml = mainParagraphs + debateCallout;
+            } else {
+              bodyHtml = paragraphs.map(p => `<p>${p}</p>`).join('');
+            }
           } else {
             bodyHtml = paragraphs.map(p => `<p>${p}</p>`).join('');
           }
@@ -436,6 +448,8 @@ function updateDatabase(newArticles) {
           .replace(/\{\{TITLE\}\}/g, item.titulo)
           .replace(/\{\{TITLE_ESCAPED\}\}/g, (item.titulo || '').replace(/"/g, '&quot;'))
           .replace(/\{\{DEK\}\}/g, item.bajada || '')
+          .replace(/\{\{DEK_ESCAPED\}\}/g, (item.bajada || '').replace(/"/g, '&quot;'))
+          .replace(/\{\{ISO_DATE\}\}/g, item.fecha || new Date().toISOString().split('T')[0])
           .replace(/\{\{SLUG\}\}/g, item.slug)
           .replace(/\{\{IMAGE\}\}/g, item.imagen || 'img/fallback_general.png')
           .replace(/\{\{CATEGORY\}\}/g, item.categoria)
