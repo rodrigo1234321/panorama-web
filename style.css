@@ -2131,14 +2131,31 @@ img, video, iframe, canvas, svg {
     text-align: center;
   }
   .article-layout {
+    display: block;
     grid-template-columns: 1fr;
-    padding: 20px 12px;
+    padding: 18px 16px 36px 16px !important;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
   }
   .article-sidebar {
-    display: none;
+    display: none !important;
+  }
+  .article-main {
+    grid-column: 1 / -1 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box;
   }
   .article-aside-editorial {
-    grid-column: 1;
+    grid-column: 1 / -1 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 32px 0 0 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box;
   }
 }
 
@@ -2385,7 +2402,19 @@ img, video, iframe, canvas, svg {
 
   /* Article Details on Mobile */
   .article-layout {
-    padding: 12px 0 28px 0;
+    display: block;
+    padding: 14px 16px 32px 16px !important;
+    width: 100%;
+    max-width: 100%;
+    box-sizing: border-box;
+  }
+  .article-main {
+    grid-column: 1 / -1 !important;
+    width: 100% !important;
+    max-width: 100% !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    box-sizing: border-box;
   }
   .article-header {
     padding-bottom: 14px;
@@ -2517,6 +2546,9 @@ img, video, iframe, canvas, svg {
 }
 
 @media (max-width: 480px) {
+  .article-layout {
+    padding: 12px 14px 28px 14px !important;
+  }
   .hero-main-card {
     height: clamp(260px, 44vh, 310px);
   }
