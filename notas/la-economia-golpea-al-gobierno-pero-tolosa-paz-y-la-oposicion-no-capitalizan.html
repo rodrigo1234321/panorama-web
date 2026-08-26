@@ -133,11 +133,18 @@
         <h1>La economía golpea al Gobierno pero Tolosa Paz y la oposición no capitalizan</h1>
         <p class="dek">A pesar del impacto social de las medidas de ajuste, el peronismo sigue sin encontrar un liderazgo que aglutine el descontento.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>26 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>26 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>Las últimas encuestas revelan que, si bien el bolsillo de los ciudadanos sufre el impacto directo de las reformas y la licuación de ingresos, la oposición no logra traducir este malestar en capital político propio. La fragmentación del peronismo y el desgaste de figuras históricas de la administración anterior impiden la consolidación de una alternativa competitiva.</p><p>Referentes del kirchnerismo y del PJ tradicional, entre ellos Victoria Tolosa Paz, intentan marcar agenda desde el Congreso, pero la ciudadanía parece mantener una fuerte desconfianza hacia las recetas del pasado. Mientras tanto, el gobierno de Milei aprovecha esta orfandad de liderazgo opositor para avanzar con su agenda de desregulación económica extrema.</p><p>¿Es la falta de un líder opositor creíble el principal capital político que sostiene hoy al oficialismo?</p>
+        <p>Las últimas encuestas revelan que, si bien el bolsillo de los ciudadanos sufre el impacto directo de las reformas y la licuación de ingresos, la oposición no logra traducir este malestar en capital político propio. La fragmentación del peronismo y el desgaste de figuras históricas de la administración anterior impiden la consolidación de una alternativa competitiva.</p><p>Referentes del kirchnerismo y del PJ tradicional, entre ellos Victoria Tolosa Paz, intentan marcar agenda desde el Congreso, pero la ciudadanía parece mantener una fuerte desconfianza hacia las recetas del pasado. Mientras tanto, el gobierno de Milei aprovecha esta orfandad de liderazgo opositor para avanzar con su agenda de desregulación económica extrema.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">¿Es la falta de un líder opositor creíble el principal capital político que sostiene hoy al oficialismo?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

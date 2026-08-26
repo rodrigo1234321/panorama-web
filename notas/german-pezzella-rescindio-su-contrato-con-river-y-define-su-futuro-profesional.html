@@ -133,11 +133,18 @@
         <h1>Germán Pezzella rescindió su contrato con River y define su futuro profesional</h1>
         <p class="dek">El defensor de la Selección cerró su ciclo en el club millonario y analiza ofertas del exterior en un mercado de pases convulsionado.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>26 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>26 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>En una decisión que sorprendió a los hinchas y al cuerpo técnico comandado por Eduardo Coudet, Germán Pezzella ejecutó la rescisión de su contrato con River Plate. El zaguero, campeón del mundo y referente absoluto del vestuario millonario, argumentó motivos personales y deportivos para acelerar su desvinculación en este tramo crítico de la temporada.</p><p>La dirigencia de Núñez intentó convencer al futbolista de cumplir su contrato, ofreciéndole mejoras en las condiciones contractuales y la garantía de ser el pilar fundamental del proyecto futbolístico en las competencias internacionales de la Copa Sudamericana. Sin embargo, el defensor prefirió dar un paso al costado.</p><p>La salida del experimentado defensor obliga al club de Núñez a reaccionar de manera urgente en el mercado de pases para cubrir una baja de enorme jerarquía. ¿Cómo afectará la partida de un referente mundial el rendimiento defensivo del River de Coudet?</p>
+        <p>En una decisión que sorprendió a los hinchas y al cuerpo técnico comandado por Eduardo Coudet, Germán Pezzella ejecutó la rescisión de su contrato con River Plate. El zaguero, campeón del mundo y referente absoluto del vestuario millonario, argumentó motivos personales y deportivos para acelerar su desvinculación en este tramo crítico de la temporada.</p><p>La dirigencia de Núñez intentó convencer al futbolista de cumplir su contrato, ofreciéndole mejoras en las condiciones contractuales y la garantía de ser el pilar fundamental del proyecto futbolístico en las competencias internacionales de la Copa Sudamericana. Sin embargo, el defensor prefirió dar un paso al costado.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">La salida del experimentado defensor obliga al club de Núñez a reaccionar de manera urgente en el mercado de pases para cubrir una baja de enorme jerarquía. ¿Cómo afectará la partida de un referente mundial el rendimiento defensivo del River de Coudet?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

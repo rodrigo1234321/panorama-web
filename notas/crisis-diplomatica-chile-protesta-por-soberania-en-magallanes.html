@@ -133,11 +133,18 @@
         <h1>¿Crisis diplomática? Chile protesta por soberanía en Magallanes.</h1>
         <p class="dek">Dichos de un alto mando militar argentino desatan un conflicto con el país vecino.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>La decisión de Chile de enviar una nota de protesta a Argentina por los comentarios del jefe de la Fuerza Aérea sobre la soberanía del Estrecho de Magallanes genera preocupación en el ámbito diplomático. Estas declaraciones, que ponen en cuestión acuerdos bilaterales históricos, exigen una rápida y firme respuesta del gobierno argentino para evitar una escalada. ¿Cómo es posible que un funcionario de alto rango genere tal tensión en un tema tan sensible para la relación bilateral?</p><p>Desde Panorama.ar, observamos con agudeza cómo la falta de profesionalismo o la imprudencia en las declaraciones públicas pueden socavar años de construcción diplomática. Un gobierno serio debe asegurar que sus representantes actúen con la prudencia necesaria en temas de soberanía y relaciones internacionales. Si bien Argentina ha buscado desmarcarse de las palabras del militar, el daño ya está hecho y la imagen de seriedad institucional queda en entredicho.</p><p>Este incidente subraya la importancia de la política exterior y la responsabilidad de quienes ocupan cargos de poder. ¿Son estas declaraciones un mero desliz o reflejan tensiones subyacentes que el gobierno debe abordar con mayor transparencia y estrategia? La respuesta de Argentina determinará la estabilidad de un vínculo fundamental en la región.</p>
+        <p>La decisión de Chile de enviar una nota de protesta a Argentina por los comentarios del jefe de la Fuerza Aérea sobre la soberanía del Estrecho de Magallanes genera preocupación en el ámbito diplomático. Estas declaraciones, que ponen en cuestión acuerdos bilaterales históricos, exigen una rápida y firme respuesta del gobierno argentino para evitar una escalada. ¿Cómo es posible que un funcionario de alto rango genere tal tensión en un tema tan sensible para la relación bilateral?</p><p>Desde Panorama.ar, observamos con agudeza cómo la falta de profesionalismo o la imprudencia en las declaraciones públicas pueden socavar años de construcción diplomática. Un gobierno serio debe asegurar que sus representantes actúen con la prudencia necesaria en temas de soberanía y relaciones internacionales. Si bien Argentina ha buscado desmarcarse de las palabras del militar, el daño ya está hecho y la imagen de seriedad institucional queda en entredicho.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">Este incidente subraya la importancia de la política exterior y la responsabilidad de quienes ocupan cargos de poder. ¿Son estas declaraciones un mero desliz o reflejan tensiones subyacentes que el gobierno debe abordar con mayor transparencia y estrategia? La respuesta de Argentina determinará la estabilidad de un vínculo fundamental en la región.</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

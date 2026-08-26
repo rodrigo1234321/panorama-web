@@ -133,11 +133,18 @@
         <h1>Auditoría millonaria a Alejandro Stoessel: la verdad detrás del entorno de Tini</h1>
         <p class="dek">La Justicia investiga presuntos delitos financieros que comprometen al reconocido productor y padre de la estrella del pop.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>26 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>26 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>Una de las auditorías contables más comentadas sobre los negocios de Alejandro Stoessel ha encendido las alarmas en el mundo de las finanzas. La investigación penal apunta a determinar si existieron desvíos millonarios y maniobras impositivas incompatibles con la legislación vigente, lo que podría derivar en graves imputaciones para el histórico productor televisivo.</p><p>El caso cobra una enorme repercusión pública debido al vínculo directo del investigado con su hija, la famosa cantante pop Tini Stoessel. Aunque el proceso judicial se centra exclusivamente en la actividad empresarial del padre y no involucra de manera formal los contratos artísticos de la joven, el impacto reputacional y mediático resulta inevitable.</p><p>Fuentes del sector judicial confirmaron que se están analizando minuciosamente cuentas bancarias y transferencias internacionales de los últimos períodos. ¿Logrará la defensa desestimar las sospechas de defraudación o este proceso marcará un antes y un después para el clan Stoessel?</p>
+        <p>Una de las auditorías contables más comentadas sobre los negocios de Alejandro Stoessel ha encendido las alarmas en el mundo de las finanzas. La investigación penal apunta a determinar si existieron desvíos millonarios y maniobras impositivas incompatibles con la legislación vigente, lo que podría derivar en graves imputaciones para el histórico productor televisivo.</p><p>El caso cobra una enorme repercusión pública debido al vínculo directo del investigado con su hija, la famosa cantante pop Tini Stoessel. Aunque el proceso judicial se centra exclusivamente en la actividad empresarial del padre y no involucra de manera formal los contratos artísticos de la joven, el impacto reputacional y mediático resulta inevitable.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">Fuentes del sector judicial confirmaron que se están analizando minuciosamente cuentas bancarias y transferencias internacionales de los últimos períodos. ¿Logrará la defensa desestimar las sospechas de defraudación o este proceso marcará un antes y un después para el clan Stoessel?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

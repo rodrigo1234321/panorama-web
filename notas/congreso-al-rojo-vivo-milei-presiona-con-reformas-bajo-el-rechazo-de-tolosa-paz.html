@@ -133,11 +133,18 @@
         <h1>Congreso al rojo vivo: Milei presiona con reformas bajo el rechazo de Tolosa Paz</h1>
         <p class="dek">El oficialismo busca destrabar leyes clave mientras el peronismo duro liderado por Tolosa Paz intenta imponer proyectos sobre morosidad.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>26 ago</span>
-          <span>·</span>
-          <span>4 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>26 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 4 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>El Gobierno de Javier Milei inicia una semana determinante en el Poder Legislativo, donde buscará acelerar el tratamiento de reformas estructurales pendientes. Sin embargo, el escenario legislativo se presenta altamente fragmentado y los bloques opositores, impulsados por figuras como Victoria Tolosa Paz, coordinan estrategias para forzar el tratamiento de iniciativas que alivien la morosidad social y pyme.</p><p>La pulseada se centra en la capacidad de la gestión libertaria para consolidar sus mayorías temporales con bloques aliados como el PRO y sectores del radicalismo. Desde el oficialismo defienden la necesidad de mantener a rajatabla el equilibrio fiscal y evitar cualquier modificación impositiva que ponga en riesgo la macroeconomía, tildando los reclamos opositores de demagógicos.</p><p>La oposición insiste en que el ahogo financiero de las provincias y los sectores productivos requiere respuestas urgentes que no pueden esperar a las reformas de mediano plazo. ¿Podrá el oficialismo sostener la gobernabilidad en el Congreso sin ceder ante las demandas por la crisis social?</p>
+        <p>El Gobierno de Javier Milei inicia una semana determinante en el Poder Legislativo, donde buscará acelerar el tratamiento de reformas estructurales pendientes. Sin embargo, el escenario legislativo se presenta altamente fragmentado y los bloques opositores, impulsados por figuras como Victoria Tolosa Paz, coordinan estrategias para forzar el tratamiento de iniciativas que alivien la morosidad social y pyme.</p><p>La pulseada se centra en la capacidad de la gestión libertaria para consolidar sus mayorías temporales con bloques aliados como el PRO y sectores del radicalismo. Desde el oficialismo defienden la necesidad de mantener a rajatabla el equilibrio fiscal y evitar cualquier modificación impositiva que ponga en riesgo la macroeconomía, tildando los reclamos opositores de demagógicos.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">La oposición insiste en que el ahogo financiero de las provincias y los sectores productivos requiere respuestas urgentes que no pueden esperar a las reformas de mediano plazo. ¿Podrá el oficialismo sostener la gobernabilidad en el Congreso sin ceder ante las demandas por la crisis social?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

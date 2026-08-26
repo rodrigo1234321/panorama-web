@@ -133,11 +133,18 @@
         <h1>Otra baja clave en Aduana bajo el análisis implacable de Pagni</h1>
         <p class="dek">La renuncia de José Velis sacude la estructura de control aduanero y expone las pujas de poder del entorno presidencial.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>26 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>26 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>La sorpresiva salida del director de la Aduana, José Velis, un funcionario técnico vinculado estrechamente a la mesa chica que lidera Santiago Caputo, expone nuevamente las fricciones en la cúpula del poder de La Libertad Avanza. La renuncia se da en un momento sensible, justo cuando el Gobierno de Milei busca profundizar la desregulación del comercio exterior y optimizar la recaudación fiscal.</p><p>Esta reconfiguración de fuerzas internos coincide con las advertencias de Carlos Pagni sobre el nivel de centralización de decisiones en el influyente asesor presidencial y las consecuencias de prescindir de cuadros técnicos históricos en áreas sensibles del Estado. La gestión aduanera se mantiene bajo la lupa de los mercados por su rol en el combate al contrabando.</p><p>Aunque el oficialismo presenta el relevo como un paso natural hacia la modernización de los organismos estatales, la oposición lee una interna de poder no resuenta. ¿Hasta qué punto la rotación constante de funcionarios técnicos afecta la operatividad y la confianza en la gestión pública?</p>
+        <p>La sorpresiva salida del director de la Aduana, José Velis, un funcionario técnico vinculado estrechamente a la mesa chica que lidera Santiago Caputo, expone nuevamente las fricciones en la cúpula del poder de La Libertad Avanza. La renuncia se da en un momento sensible, justo cuando el Gobierno de Milei busca profundizar la desregulación del comercio exterior y optimizar la recaudación fiscal.</p><p>Esta reconfiguración de fuerzas internos coincide con las advertencias de Carlos Pagni sobre el nivel de centralización de decisiones en el influyente asesor presidencial y las consecuencias de prescindir de cuadros técnicos históricos en áreas sensibles del Estado. La gestión aduanera se mantiene bajo la lupa de los mercados por su rol en el combate al contrabando.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">Aunque el oficialismo presenta el relevo como un paso natural hacia la modernización de los organismos estatales, la oposición lee una interna de poder no resuenta. ¿Hasta qué punto la rotación constante de funcionarios técnicos afecta la operatividad y la confianza en la gestión pública?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

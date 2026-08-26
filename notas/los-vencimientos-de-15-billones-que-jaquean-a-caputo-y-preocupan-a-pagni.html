@@ -133,11 +133,18 @@
         <h1>Los vencimientos de 15 billones que jaquean a Caputo y preocupan a Pagni</h1>
         <p class="dek">El Ministerio de Economía debe renovar una abultada deuda en pesos en un mercado saturado de títulos públicos a largo plazo.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>26 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>26 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>Luis Caputo enfrenta uno de los desafíos financieros más complejos desde que asumió la conducción económica: la renovación de vencimientos de deuda en pesos que trepan a los 15 billones. Con un mercado local saturado de bonos largos y una liquidez bancaria que muestra señales de agotamiento, la estrategia de renovación oficial ingresa en una zona de alta tensión.</p><p>El periodista Carlos Pagni analizó con crudeza esta situación, advirtiendo que la necesidad de estirar los plazos de pago puede colisionar con la reticencia de los inversores privados, quienes demandan tasas de interés reales más altas para cubrirse de eventuales saltos cambiarios y de la inflación residual.</p><p>El equipo económico confía en que el riguroso superávit financiero acumulado y la señal de orden fiscal bastarán para asegurar la confianza del sistema bancario local, evitando recurrir a la emisión monetaria del Banco Central. ¿Tendrá éxito Caputo en convencer al mercado sin convalidar un aumento de tasas que afecte el crédito privado?</p>
+        <p>Luis Caputo enfrenta uno de los desafíos financieros más complejos desde que asumió la conducción económica: la renovación de vencimientos de deuda en pesos que trepan a los 15 billones. Con un mercado local saturado de bonos largos y una liquidez bancaria que muestra señales de agotamiento, la estrategia de renovación oficial ingresa en una zona de alta tensión.</p><p>El periodista Carlos Pagni analizó con crudeza esta situación, advirtiendo que la necesidad de estirar los plazos de pago puede colisionar con la reticencia de los inversores privados, quienes demandan tasas de interés reales más altas para cubrirse de eventuales saltos cambiarios y de la inflación residual.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">El equipo económico confía en que el riguroso superávit financiero acumulado y la señal de orden fiscal bastarán para asegurar la confianza del sistema bancario local, evitando recurrir a la emisión monetaria del Banco Central. ¿Tendrá éxito Caputo en convencer al mercado sin convalidar un aumento de tasas que afecte el crédito privado?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

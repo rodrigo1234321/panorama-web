@@ -133,11 +133,18 @@
         <h1>La encíclica 'León XIV' llega al país y reaviva la batalla cultural con Milei</h1>
         <p class="dek">Referentes eclesiásticos anticipan una fuerte confrontación simbólica y doctrinaria frente a las políticas libertarias de mercado.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>26 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>26 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>La inminente difusión y debate en torno a la nueva encíclica papal 'León XIV' promete convertirse en el epicentro de una nueva disputa ideológica en Argentina. Especialistas en doctrina social de la Iglesia advierten que los postulados de la Iglesia respecto a la justicia distributiva, la solidaridad y el rol del Estado colisionan de manera frontal con el anarcocapitalismo militante del presidente Javier Milei.</p><p>Desde los movimientos sociales y el progresismo católico confían en utilizar este marco doctrinario para legitimar la resistencia social contra las reformas y recortes del gobierno. Por su parte, los intelectuales oficialistas defienden que el verdadero humanismo radica en la libertad económica y que el asistencialismo estatal solo perpetúa la pobreza estructural.</p><p>¿Podrá el Papa Francisco consolidar un dique ético frente al avance del liberalismo extremo en su propia tierra natal?</p>
+        <p>La inminente difusión y debate en torno a la nueva encíclica papal 'León XIV' promete convertirse en el epicentro de una nueva disputa ideológica en Argentina. Especialistas en doctrina social de la Iglesia advierten que los postulados de la Iglesia respecto a la justicia distributiva, la solidaridad y el rol del Estado colisionan de manera frontal con el anarcocapitalismo militante del presidente Javier Milei.</p><p>Desde los movimientos sociales y el progresismo católico confían en utilizar este marco doctrinario para legitimar la resistencia social contra las reformas y recortes del gobierno. Por su parte, los intelectuales oficialistas defienden que el verdadero humanismo radica en la libertad económica y que el asistencialismo estatal solo perpetúa la pobreza estructural.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">¿Podrá el Papa Francisco consolidar un dique ético frente al avance del liberalismo extremo en su propia tierra natal?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

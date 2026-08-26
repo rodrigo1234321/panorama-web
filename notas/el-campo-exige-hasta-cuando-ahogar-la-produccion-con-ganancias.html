@@ -133,11 +133,18 @@
         <h1>El campo exige: ¿Hasta cuándo ahogar la producción con Ganancias?</h1>
         <p class="dek">Nicolás Pino, del sector agropecuario, denuncia la asfixia impositiva que frena el potencial exportador argentino.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>Nicolás Pino, representante del sector agropecuario, es contundente: “Porque el campo responde es que hay que sacarle el freno”. Sus palabras resuenan en un contexto donde el potencial de la producción argentina choca constantemente con la carga impositiva y la intervención estatal. El campo, motor histórico de la economía nacional, reclama condiciones claras y un alivio fiscal que le permita desatar su verdadera capacidad exportadora y generar divisas genuinas para el país.</p><p>La presión sobre las Ganancias, entre otros impuestos y retenciones, no solo desincentiva la inversión, sino que también limita la competitividad de los productos argentinos en el mercado global. Mientras otros países promueven sus sectores productivos, en Argentina la visión de “sacarle el freno” al campo es una demanda recurrente que la clase política a menudo ignora, privilegiando la recaudación a corto plazo sobre una estrategia de crecimiento sostenible.</p><p>Es innegable que el sector agropecuario tiene la capacidad de contribuir significativamente a la recuperación económica. Sin embargo, ¿hasta cuándo se seguirá aplicando una política que castiga al que produce en lugar de incentivarlo? ¿No es hora de revisar a fondo el esquema de #Ganancias para el campo y liberar su verdadero potencial, en lugar de mantenerlo como rehén de una ideología intervencionista que ha demostrado ser ineficaz? El debate está abierto: ¿producción o asfixia fiscal?</p>
+        <p>Nicolás Pino, representante del sector agropecuario, es contundente: “Porque el campo responde es que hay que sacarle el freno”. Sus palabras resuenan en un contexto donde el potencial de la producción argentina choca constantemente con la carga impositiva y la intervención estatal. El campo, motor histórico de la economía nacional, reclama condiciones claras y un alivio fiscal que le permita desatar su verdadera capacidad exportadora y generar divisas genuinas para el país.</p><p>La presión sobre las Ganancias, entre otros impuestos y retenciones, no solo desincentiva la inversión, sino que también limita la competitividad de los productos argentinos en el mercado global. Mientras otros países promueven sus sectores productivos, en Argentina la visión de “sacarle el freno” al campo es una demanda recurrente que la clase política a menudo ignora, privilegiando la recaudación a corto plazo sobre una estrategia de crecimiento sostenible.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">Es innegable que el sector agropecuario tiene la capacidad de contribuir significativamente a la recuperación económica. Sin embargo, ¿hasta cuándo se seguirá aplicando una política que castiga al que produce en lugar de incentivarlo? ¿No es hora de revisar a fondo el esquema de #Ganancias para el campo y liberar su verdadero potencial, en lugar de mantenerlo como rehén de una ideología intervencionista que ha demostrado ser ineficaz? El debate está abierto: ¿producción o asfixia fiscal?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

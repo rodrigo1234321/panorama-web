@@ -414,7 +414,15 @@ function updateDatabase(newArticles) {
       for (const item of limitedNews) {
         let bodyHtml = '';
         if (item.cuerpo) {
-          bodyHtml = item.cuerpo.split('\n\n').map(p => `<p>${p}</p>`).join('');
+          const paragraphs = item.cuerpo.split('\n\n').map(p => p.trim()).filter(Boolean);
+          if (paragraphs.length > 1) {
+            const mainParagraphs = paragraphs.slice(0, -1).map(p => `<p>${p}</p>`).join('');
+            const lastParagraph = paragraphs[paragraphs.length - 1];
+            const debateCallout = `\n<div class="debate-callout-card">\n  <div class="debate-callout-header">\n    <span class="debate-icon">💬</span>\n    <strong>Punto de debate</strong>\n  </div>\n  <p class="debate-text">${lastParagraph}</p>\n</div>`;
+            bodyHtml = mainParagraphs + debateCallout;
+          } else {
+            bodyHtml = paragraphs.map(p => `<p>${p}</p>`).join('');
+          }
         } else {
           bodyHtml = `<p>${item.bajada}</p>`;
         }

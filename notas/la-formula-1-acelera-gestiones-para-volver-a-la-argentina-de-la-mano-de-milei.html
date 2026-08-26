@@ -133,11 +133,18 @@
         <h1>La Fórmula 1 acelera gestiones para volver a la Argentina de la mano de Milei</h1>
         <p class="dek">El Presidente se involucra personalmente en las negociaciones para recuperar la mítica plaza del automovilismo mundial en 2028.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>26 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>26 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>La pasión por los fierros podría volver a rugir en suelo argentino de concretarse las intensas gestiones que el gobierno nacional lleva adelante con los organizadores de la Fórmula 1. El propio Javier Milei ha manifestado su interés político y comercial en concretar el retorno del Gran Premio de Argentina para la temporada 2028, apuntando a generar un fuerte impacto turístico y de marca país.</p><p>La iniciativa contempla una fuerte participación de capitales privados y patrocinadores internacionales para financiar la millonaria inversión que requiere la homologación del Autódromo de Buenos Aires. Mientras los fanáticos celebran el entusiasmo oficial, sectores críticos cuestionan que se dediquen esfuerzos políticos a eventos de élite en medio de una profunda crisis social y recesión.</p><p>¿Es la vuelta de la Fórmula 1 una inversión estratégica para el turismo o un gasto suntuario inoportuno en el actual contexto nacional?</p>
+        <p>La pasión por los fierros podría volver a rugir en suelo argentino de concretarse las intensas gestiones que el gobierno nacional lleva adelante con los organizadores de la Fórmula 1. El propio Javier Milei ha manifestado su interés político y comercial en concretar el retorno del Gran Premio de Argentina para la temporada 2028, apuntando a generar un fuerte impacto turístico y de marca país.</p><p>La iniciativa contempla una fuerte participación de capitales privados y patrocinadores internacionales para financiar la millonaria inversión que requiere la homologación del Autódromo de Buenos Aires. Mientras los fanáticos celebran el entusiasmo oficial, sectores críticos cuestionan que se dediquen esfuerzos políticos a eventos de élite en medio de una profunda crisis social y recesión.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">¿Es la vuelta de la Fórmula 1 una inversión estratégica para el turismo o un gasto suntuario inoportuno en el actual contexto nacional?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

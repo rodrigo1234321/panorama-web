@@ -133,11 +133,18 @@
         <h1>Exportaciones en auge: ¿Se traducirá en Ganancias reales para todos?</h1>
         <p class="dek">Proyecciones optimistas indican que las exportaciones argentinas superarán los US$100.000 millones en 2026.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>Las estimaciones de que las exportaciones argentinas superarán los US$100.000 millones en 2026 inyectan un optimismo cauteloso en el panorama económico. Este crecimiento, si se concreta, representaría un salto significativo en la capacidad productiva y de inserción del país en el mercado global, generando las divisas tan necesarias para estabilizar la macroeconomía y afrontar los desafíos financieros. Es una señal de que, a pesar de los obstáculos, el potencial productivo de Argentina sigue intacto.</p><p>Sin embargo, la experiencia histórica nos obliga a ser escépticos. La clave no reside solo en el volumen de las exportaciones, sino en cómo esos ingresos se gestionan y si se traducen en Ganancias reales para el conjunto de la sociedad. ¿Se utilizarán para reducir la presión fiscal, mejorar la infraestructura o se disiparán en el gasto público ineficiente? Un auge exportador sin una política económica coherente y de largo plazo corre el riesgo de ser una oportunidad más desaprovechada.</p><p>Desde Panorama.ar, instamos a un debate profundo sobre cómo capitalizar este potencial. Es imperativo que el Estado no estrangule a los sectores exportadores con impuestos excesivos o regulaciones absurdas, sino que facilite su crecimiento para que el país en su conjunto pueda beneficiarse. ¿Será este el momento en que Argentina aprenda a transformar sus exportaciones en prosperidad compartida, o las #Ganancias quedarán, como siempre, en unas pocas manos?</p>
+        <p>Las estimaciones de que las exportaciones argentinas superarán los US$100.000 millones en 2026 inyectan un optimismo cauteloso en el panorama económico. Este crecimiento, si se concreta, representaría un salto significativo en la capacidad productiva y de inserción del país en el mercado global, generando las divisas tan necesarias para estabilizar la macroeconomía y afrontar los desafíos financieros. Es una señal de que, a pesar de los obstáculos, el potencial productivo de Argentina sigue intacto.</p><p>Sin embargo, la experiencia histórica nos obliga a ser escépticos. La clave no reside solo en el volumen de las exportaciones, sino en cómo esos ingresos se gestionan y si se traducen en Ganancias reales para el conjunto de la sociedad. ¿Se utilizarán para reducir la presión fiscal, mejorar la infraestructura o se disiparán en el gasto público ineficiente? Un auge exportador sin una política económica coherente y de largo plazo corre el riesgo de ser una oportunidad más desaprovechada.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">Desde Panorama.ar, instamos a un debate profundo sobre cómo capitalizar este potencial. Es imperativo que el Estado no estrangule a los sectores exportadores con impuestos excesivos o regulaciones absurdas, sino que facilite su crecimiento para que el país en su conjunto pueda beneficiarse. ¿Será este el momento en que Argentina aprenda a transformar sus exportaciones en prosperidad compartida, o las #Ganancias quedarán, como siempre, en unas pocas manos?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

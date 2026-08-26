@@ -133,11 +133,18 @@
         <h1>¿El ajuste de Javier Milei impulsa la morosidad por alimentos?</h1>
         <p class="dek">Un informe preocupante revela cómo el endeudamiento se dispara en los sectores más vulnerables.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>La reciente declaración de Espinoza, señalando que "la gente se endeuda por comida", enciende las alarmas sobre el impacto social del actual plan económico. Los datos sobre morosidad, que involucran a 20 millones de deudores, pintan un panorama complejo donde el acceso a bienes básicos se ve comprometido. ¿Es el ajuste fiscal del gobierno de Javier Milei el principal catalizador de esta crisis o existen factores estructurales más profundos?</p><p>Desde la óptica liberal, se argumenta que la raíz del problema está en décadas de desmanejo económico, gasto público descontrolado y una presión impositiva asfixiante que impide el desarrollo y el ahorro. La disciplina fiscal que propone el actual gobierno busca sanear las cuentas para generar estabilidad, aunque el camino sea doloroso en el corto plazo. No obstante, las críticas subrayan la necesidad de programas de contención social que eviten que el costo del ajuste recaiga desproporcionadamente en los sectores más vulnerables.</p><p>Este dilema plantea un debate crucial: ¿hasta qué punto es sostenible un ajuste que, según algunos, empuja a los ciudadanos a endeudarse para lo esencial, o es el único camino para una futura prosperidad? La discusión sobre la morosidad no es solo económica, sino profundamente social y política. ¿Cómo equilibrar la necesidad de estabilidad macroeconómica con la urgencia de atender las necesidades básicas de la población?</p>
+        <p>La reciente declaración de Espinoza, señalando que "la gente se endeuda por comida", enciende las alarmas sobre el impacto social del actual plan económico. Los datos sobre morosidad, que involucran a 20 millones de deudores, pintan un panorama complejo donde el acceso a bienes básicos se ve comprometido. ¿Es el ajuste fiscal del gobierno de Javier Milei el principal catalizador de esta crisis o existen factores estructurales más profundos?</p><p>Desde la óptica liberal, se argumenta que la raíz del problema está en décadas de desmanejo económico, gasto público descontrolado y una presión impositiva asfixiante que impide el desarrollo y el ahorro. La disciplina fiscal que propone el actual gobierno busca sanear las cuentas para generar estabilidad, aunque el camino sea doloroso en el corto plazo. No obstante, las críticas subrayan la necesidad de programas de contención social que eviten que el costo del ajuste recaiga desproporcionadamente en los sectores más vulnerables.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">Este dilema plantea un debate crucial: ¿hasta qué punto es sostenible un ajuste que, según algunos, empuja a los ciudadanos a endeudarse para lo esencial, o es el único camino para una futura prosperidad? La discusión sobre la morosidad no es solo económica, sino profundamente social y política. ¿Cómo equilibrar la necesidad de estabilidad macroeconómica con la urgencia de atender las necesidades básicas de la población?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

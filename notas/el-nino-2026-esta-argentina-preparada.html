@@ -133,11 +133,18 @@
         <h1>El Niño 2026: ¿está Argentina preparada para el impacto ambiental?</h1>
         <p class="dek">Expertos alertan sobre los efectos del fenómeno climático, que afectará fuertemente a varias provincias.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>Las proyecciones sobre "El Niño" para 2026 son contundentes: Argentina se prepara para un período de intensas lluvias y sequías focalizadas que impactarán directamente en la producción agropecuaria, la infraestructura y la vida cotidiana de millones de personas. Expertos ya coinciden en las zonas más afectadas, lo que exige al Estado una planificación y acción inmediatas. ¿Está el país con la infraestructura adecuada para afrontar un evento climático de esta magnitud, o se evidenciarán, una vez más, las falencias en la gestión pública?</p><p>Desde la perspectiva de Panorama.ar, la recurrencia de fenómenos como "El Niño" debería haber impulsado inversiones sostenidas en infraestructura hídrica, sistemas de alerta temprana y planes de contingencia. Sin embargo, décadas de gasto público ineficiente y prioridades equivocadas han dejado al país vulnerable. Los costos de la inacción son enormes, tanto en pérdidas económicas como en impacto social, afectando especialmente a las provincias productivas.</p><p>Este desafío climático no es solo ambiental, sino también una prueba de la capacidad de gestión del Estado. ¿Se destinarán los recursos necesarios de manera transparente y eficiente para mitigar los efectos, o la burocracia y la corrupción obstaculizarán una respuesta efectiva, dejando a los ciudadanos a merced de la naturaleza?</p>
+        <p>Las proyecciones sobre "El Niño" para 2026 son contundentes: Argentina se prepara para un período de intensas lluvias y sequías focalizadas que impactarán directamente en la producción agropecuaria, la infraestructura y la vida cotidiana de millones de personas. Expertos ya coinciden en las zonas más afectadas, lo que exige al Estado una planificación y acción inmediatas. ¿Está el país con la infraestructura adecuada para afrontar un evento climático de esta magnitud, o se evidenciarán, una vez más, las falencias en la gestión pública?</p><p>Desde la perspectiva de Panorama.ar, la recurrencia de fenómenos como "El Niño" debería haber impulsado inversiones sostenidas en infraestructura hídrica, sistemas de alerta temprana y planes de contingencia. Sin embargo, décadas de gasto público ineficiente y prioridades equivocadas han dejado al país vulnerable. Los costos de la inacción son enormes, tanto en pérdidas económicas como en impacto social, afectando especialmente a las provincias productivas.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">Este desafío climático no es solo ambiental, sino también una prueba de la capacidad de gestión del Estado. ¿Se destinarán los recursos necesarios de manera transparente y eficiente para mitigar los efectos, o la burocracia y la corrupción obstaculizarán una respuesta efectiva, dejando a los ciudadanos a merced de la naturaleza?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

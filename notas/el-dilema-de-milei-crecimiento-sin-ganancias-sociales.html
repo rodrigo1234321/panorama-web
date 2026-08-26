@@ -133,11 +133,18 @@
         <h1>El dilema de Milei: ¿crecimiento sin Ganancias sociales?</h1>
         <p class="dek">Martín Guzmán cuestiona el modelo económico actual, señalando un crecimiento que no llega a la mayoría.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>4 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 4 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>El exministro de Economía, Martín Guzmán, encendió el debate al afirmar que, si bien la economía bajo la gestión de Milei puede mostrar crecimiento, “muchísima gente está peor que antes”. Esta declaración subraya la tensión entre los indicadores macroeconómicos y la realidad social, una brecha que a menudo genera polarización y descontento. La visión de un crecimiento sin inclusión plantea serios interrogantes sobre la sostenibilidad y equidad del ajuste actual.</p><p>Desde nuestra perspectiva, la política económica debe ir más allá de los números fríos y considerar el impacto en la vida de los ciudadanos. Un crecimiento que no se traduce en Ganancias reales para la mayoría de la población —en términos de empleo, poder adquisitivo y acceso a servicios— es un crecimiento incompleto. Es fundamental que las reformas de mercado no olviden el tejido social, evitando que la austeridad se convierta en un castigo desproporcionado para los sectores más vulnerables.</p><p>Este planteo nos obliga a reflexionar sobre si el camino actual es el más adecuado para reconstruir la Argentina. ¿Es posible alcanzar la estabilidad sin profundizar la desigualdad, o la famosa “casta” que se busca combatir termina siendo reemplazada por un nuevo sector privilegiado? ¿Qué costo social estamos dispuestos a pagar por la prometida libertad económica y cuándo se verá el verdadero impacto positivo en las Ganancias de la gente común?</p>
+        <p>El exministro de Economía, Martín Guzmán, encendió el debate al afirmar que, si bien la economía bajo la gestión de Milei puede mostrar crecimiento, “muchísima gente está peor que antes”. Esta declaración subraya la tensión entre los indicadores macroeconómicos y la realidad social, una brecha que a menudo genera polarización y descontento. La visión de un crecimiento sin inclusión plantea serios interrogantes sobre la sostenibilidad y equidad del ajuste actual.</p><p>Desde nuestra perspectiva, la política económica debe ir más allá de los números fríos y considerar el impacto en la vida de los ciudadanos. Un crecimiento que no se traduce en Ganancias reales para la mayoría de la población —en términos de empleo, poder adquisitivo y acceso a servicios— es un crecimiento incompleto. Es fundamental que las reformas de mercado no olviden el tejido social, evitando que la austeridad se convierta en un castigo desproporcionado para los sectores más vulnerables.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">Este planteo nos obliga a reflexionar sobre si el camino actual es el más adecuado para reconstruir la Argentina. ¿Es posible alcanzar la estabilidad sin profundizar la desigualdad, o la famosa “casta” que se busca combatir termina siendo reemplazada por un nuevo sector privilegiado? ¿Qué costo social estamos dispuestos a pagar por la prometida libertad económica y cuándo se verá el verdadero impacto positivo en las Ganancias de la gente común?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

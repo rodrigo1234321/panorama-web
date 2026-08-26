@@ -133,11 +133,18 @@
         <h1>Tensión máxima con Brasil tras los insultos de Milei que enfurecen a Lula</h1>
         <p class="dek">El gigante sudamericano llamó a consultas a su embajador en Buenos Aires, marcando el punto más bajo de la relación bilateral en décadas.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>26 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>26 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>La relación diplomática entre Argentina y Brasil ingresó en una fase crítica luego de que el gobierno brasileño decidiera retirar temporalmente a su embajador en Buenos Aires. La drástica medida responde a los reiterados agravios personales expresados por el presidente Javier Milei hacia su homólogo Luiz Inácio Lula da Silva, a quien acusó de interferir en la política interna y de sostener posturas autoritarias.</p><p>Desde la Casa Rosada insistieron en que el presidente no pedirá disculpas bajo el argumento de que sus declaraciones pertenecen al ámbito de la libertad de expresión. Sin embargo, analistas del comercio internacional advierten que este distanciamiento político podría enfriar acuerdos estratégicos clave dentro del Mercosur, afectando directamente a las exportaciones industriales argentinas.</p><p>¿Es prudente subordinar las alianzas geopolíticas y comerciales históricas a las afinidades ideológicas del Presidente?</p>
+        <p>La relación diplomática entre Argentina y Brasil ingresó en una fase crítica luego de que el gobierno brasileño decidiera retirar temporalmente a su embajador en Buenos Aires. La drástica medida responde a los reiterados agravios personales expresados por el presidente Javier Milei hacia su homólogo Luiz Inácio Lula da Silva, a quien acusó de interferir en la política interna y de sostener posturas autoritarias.</p><p>Desde la Casa Rosada insistieron en que el presidente no pedirá disculpas bajo el argumento de que sus declaraciones pertenecen al ámbito de la libertad de expresión. Sin embargo, analistas del comercio internacional advierten que este distanciamiento político podría enfriar acuerdos estratégicos clave dentro del Mercosur, afectando directamente a las exportaciones industriales argentinas.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">¿Es prudente subordinar las alianzas geopolíticas y comerciales históricas a las afinidades ideológicas del Presidente?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

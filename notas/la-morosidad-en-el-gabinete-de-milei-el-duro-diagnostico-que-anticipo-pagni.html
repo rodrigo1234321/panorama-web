@@ -133,11 +133,18 @@
         <h1>La morosidad en el gabinete de Milei: el duro diagnóstico que anticipó Pagni</h1>
         <p class="dek">La tensión interna escala en el Gobierno ante el impacto de las deudas en las familias, un fenómeno bajo la lupa del análisis político.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>26 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>26 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>En la última reunión de gabinete, la discusión sobre la morosidad familiar y el impacto del ajuste económico generó fuertes cruces internos. Mientras Javier Milei ratificó que no habrá cambios en el rumbo financiero y negó categóricamente una crisis estructural, en los pasillos de Balcarce 50 se respira preocupación por el desgaste social en la clase media.</p><p>Este escenario convalida el análisis del periodista Carlos Pagni, quien viene advirtiendo sobre las inconsistencias entre la velocidad del ordenamiento fiscal y la capacidad de resistencia del tejido productivo y social. El mandatario confía en que la baja de la inflación y el ordenamiento de las cuentas públicas generarán un rebote automático de la actividad.</p><p>No obstante, la acumulación de deudas bancarias y de servicios públicos en los hogares plantea un dilema crucial para la sostenibilidad del modelo. ¿Es viable mantener la intransigencia fiscal si la economía real muestra señales de asfixia financiera generalizada?</p>
+        <p>En la última reunión de gabinete, la discusión sobre la morosidad familiar y el impacto del ajuste económico generó fuertes cruces internos. Mientras Javier Milei ratificó que no habrá cambios en el rumbo financiero y negó categóricamente una crisis estructural, en los pasillos de Balcarce 50 se respira preocupación por el desgaste social en la clase media.</p><p>Este escenario convalida el análisis del periodista Carlos Pagni, quien viene advirtiendo sobre las inconsistencias entre la velocidad del ordenamiento fiscal y la capacidad de resistencia del tejido productivo y social. El mandatario confía en que la baja de la inflación y el ordenamiento de las cuentas públicas generarán un rebote automático de la actividad.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">No obstante, la acumulación de deudas bancarias y de servicios públicos en los hogares plantea un dilema crucial para la sostenibilidad del modelo. ¿Es viable mantener la intransigencia fiscal si la economía real muestra señales de asfixia financiera generalizada?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

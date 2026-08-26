@@ -133,11 +133,18 @@
         <h1>Instituto: ¿La Gloria ante su chance histórica en Copa Argentina?</h1>
         <p class="dek">El equipo de Córdoba enfrenta un partido crucial que podría definir su temporada y saldar viejas deudas.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>Instituto de Córdoba se juega gran parte de su prestigio y su futuro en la Copa Argentina, un torneo que históricamente le ha sido esquivo. Para los hinchas de La Gloria, este jueves no es un día cualquiera; es la oportunidad de reescribir una parte de su historia y, quizás, avanzar a instancias donde el club no ha logrado asentarse con regularidad. La presión es alta, y la expectativa en Córdoba se siente.</p><p>Sin embargo, más allá de la pasión, es momento de analizar si estas "deudas pendientes" deportivas son también un reflejo de estructuras institucionales que impiden un crecimiento sostenido. ¿Los clubes de interior, como Instituto, reciben el apoyo y las condiciones necesarias para competir de igual a igual, o el centralismo sigue marcando la cancha? La discusión sobre la equidad y el desarrollo federal en el fútbol argentino es más relevante que nunca.</p><p>¿Podrá Instituto aprovechar esta chance histórica no solo en lo deportivo, sino también como catalizador para repensar su modelo de gestión y crecimiento?</p>
+        <p>Instituto de Córdoba se juega gran parte de su prestigio y su futuro en la Copa Argentina, un torneo que históricamente le ha sido esquivo. Para los hinchas de La Gloria, este jueves no es un día cualquiera; es la oportunidad de reescribir una parte de su historia y, quizás, avanzar a instancias donde el club no ha logrado asentarse con regularidad. La presión es alta, y la expectativa en Córdoba se siente.</p><p>Sin embargo, más allá de la pasión, es momento de analizar si estas "deudas pendientes" deportivas son también un reflejo de estructuras institucionales que impiden un crecimiento sostenido. ¿Los clubes de interior, como Instituto, reciben el apoyo y las condiciones necesarias para competir de igual a igual, o el centralismo sigue marcando la cancha? La discusión sobre la equidad y el desarrollo federal en el fútbol argentino es más relevante que nunca.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">¿Podrá Instituto aprovechar esta chance histórica no solo en lo deportivo, sino también como catalizador para repensar su modelo de gestión y crecimiento?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

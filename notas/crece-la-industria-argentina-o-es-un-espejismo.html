@@ -133,11 +133,18 @@
         <h1>¿Crece la industria argentina o es un espejismo para pocos?</h1>
         <p class="dek">La reactivación industrial en algunos rubros contrasta con la persistencia del estancamiento en otros.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>El reciente informe sobre el crecimiento de la actividad industrial en julio plantea una pregunta clave: ¿estamos ante una reactivación genuina y sostenida o solo un repunte sectorial que beneficia a unos pocos? Mientras algunos rubros muestran mejoras, otros siguen estancados, revelando una heterogeneidad que impide hablar de una recuperación generalizada. Empresas como Techint y otras grandes juegan un rol, pero la realidad del entramado PYME es incierta.</p><p>Para Panorama.ar, la clave está en el marco general que el Estado ofrece. La presión impositiva excesiva, la burocracia estatal y la inestabilidad macroeconómica son barreras persistentes para cualquier empresario que intente producir y generar empleo. Un crecimiento genuino de la industria requiere menos intervención estatal y más libertad para invertir, innovar y exportar. El foco debe estar en un plan integral que baje los costos y simplifique el negocio, no en medidas de "parche" o planes sectoriales aislados.</p><p>Este panorama mixto exige una lectura crítica. No basta con celebrar algunos indicadores si la mayoría de los sectores productivos y la pequeña y mediana empresa siguen luchando por sobrevivir. ¿Podrá el gobierno crear las condiciones para un crecimiento industrial que sea inclusivo y sostenible, o seguiremos viendo una reactivación parcial y precaria?</p>
+        <p>El reciente informe sobre el crecimiento de la actividad industrial en julio plantea una pregunta clave: ¿estamos ante una reactivación genuina y sostenida o solo un repunte sectorial que beneficia a unos pocos? Mientras algunos rubros muestran mejoras, otros siguen estancados, revelando una heterogeneidad que impide hablar de una recuperación generalizada. Empresas como Techint y otras grandes juegan un rol, pero la realidad del entramado PYME es incierta.</p><p>Para Panorama.ar, la clave está en el marco general que el Estado ofrece. La presión impositiva excesiva, la burocracia estatal y la inestabilidad macroeconómica son barreras persistentes para cualquier empresario que intente producir y generar empleo. Un crecimiento genuino de la industria requiere menos intervención estatal y más libertad para invertir, innovar y exportar. El foco debe estar en un plan integral que baje los costos y simplifique el negocio, no en medidas de "parche" o planes sectoriales aislados.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">Este panorama mixto exige una lectura crítica. No basta con celebrar algunos indicadores si la mayoría de los sectores productivos y la pequeña y mediana empresa siguen luchando por sobrevivir. ¿Podrá el gobierno crear las condiciones para un crecimiento industrial que sea inclusivo y sostenible, o seguiremos viendo una reactivación parcial y precaria?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

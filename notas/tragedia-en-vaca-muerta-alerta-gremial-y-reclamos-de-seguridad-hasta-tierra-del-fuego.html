@@ -133,11 +133,18 @@
         <h1>Tragedia en Vaca Muerta: alerta gremial y reclamos de seguridad hasta Tierra del Fuego</h1>
         <p class="dek">La muerte de un operario petrolero reabre el debate sobre las condiciones de trabajo en los yacimientos no convencionales.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>26 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>26 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>Un trágico accidente laboral en un yacimiento de Vaca Muerta causó la muerte de un operario y dejó a otro gravemente herido, lo que provocó una inmediata reacción de los gremios del sector hidrocarburífero. La paralización de actividades y los reclamos de mayores medidas de seguridad laboral se extendieron rápidamente por toda la Patagonia, alcanzando una fuerte adhesión en las bases de Tierra del Fuego.</p><p>Los sindicatos denuncian que la presión por incrementar los niveles de producción de crudo y gas en la cuenca neuquina no puede realizarse a costa de flexibilizar los protocolos de prevención y seguridad de los operarios expuestos a tareas de alto riesgo.</p><p>Las empresas operadoras, por su parte, expresaron sus condolencias y aseguraron que iniciaron una investigación técnica exhaustiva para determinar las causas exactas del siniestro, ratificando su compromiso con las normas de seguridad industrial. ¿Es posible equilibrar el boom productivo de Vaca Muerta con el resguardo estricto de la vida de sus trabajadores?</p>
+        <p>Un trágico accidente laboral en un yacimiento de Vaca Muerta causó la muerte de un operario y dejó a otro gravemente herido, lo que provocó una inmediata reacción de los gremios del sector hidrocarburífero. La paralización de actividades y los reclamos de mayores medidas de seguridad laboral se extendieron rápidamente por toda la Patagonia, alcanzando una fuerte adhesión en las bases de Tierra del Fuego.</p><p>Los sindicatos denuncian que la presión por incrementar los niveles de producción de crudo y gas en la cuenca neuquina no puede realizarse a costa de flexibilizar los protocolos de prevención y seguridad de los operarios expuestos a tareas de alto riesgo.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">Las empresas operadoras, por su parte, expresaron sus condolencias y aseguraron que iniciaron una investigación técnica exhaustiva para determinar las causas exactas del siniestro, ratificando su compromiso con las normas de seguridad industrial. ¿Es posible equilibrar el boom productivo de Vaca Muerta con el resguardo estricto de la vida de sus trabajadores?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

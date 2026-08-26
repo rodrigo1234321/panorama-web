@@ -133,11 +133,18 @@
         <h1>Dólares entran, inflación no cede: ¿la economía argentina sin rumbo?</h1>
         <p class="dek">Pese a la mejora en el ingreso de divisas, los precios siguen carcomiendo el poder adquisitivo.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>La economía argentina presenta señales contradictorias: mientras se observa una mejora en el ingreso de dólares, la inflación persiste como un fantasma que carcome el poder adquisitivo de los ciudadanos. Este desajuste genera incertidumbre y dificulta la planificación a largo plazo, tanto para empresas como para familias. ¿Son estos datos mixtos un síntoma de ineficacia en la gestión económica o el resultado de un proceso de reacomodamiento más lento de lo esperado?</p><p>Desde nuestra perspectiva, la entrada de dólares, aunque positiva, no es suficiente si el Estado no logra controlar su propio gasto y reducir la emisión monetaria. La inflación es, en gran medida, un fenómeno fiscal. La política económica debe ser más contundente en la reducción del déficit y en la implementación de reformas de mercado que desregulen la economía, fomentando la competencia y la inversión. Sin estas bases, cualquier ingreso de divisas será solo un parche temporal.</p><p>La ciudadanía exige soluciones claras y un horizonte de estabilidad. La dicotomía entre el ingreso de dólares y la persistencia inflacionaria desafía al equipo económico. ¿Será capaz el gobierno de alinear todas las variables para ofrecer una salida real o seguiremos atrapados en un laberinto de señales mixtas sin un rumbo definido?</p>
+        <p>La economía argentina presenta señales contradictorias: mientras se observa una mejora en el ingreso de dólares, la inflación persiste como un fantasma que carcome el poder adquisitivo de los ciudadanos. Este desajuste genera incertidumbre y dificulta la planificación a largo plazo, tanto para empresas como para familias. ¿Son estos datos mixtos un síntoma de ineficacia en la gestión económica o el resultado de un proceso de reacomodamiento más lento de lo esperado?</p><p>Desde nuestra perspectiva, la entrada de dólares, aunque positiva, no es suficiente si el Estado no logra controlar su propio gasto y reducir la emisión monetaria. La inflación es, en gran medida, un fenómeno fiscal. La política económica debe ser más contundente en la reducción del déficit y en la implementación de reformas de mercado que desregulen la economía, fomentando la competencia y la inversión. Sin estas bases, cualquier ingreso de divisas será solo un parche temporal.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">La ciudadanía exige soluciones claras y un horizonte de estabilidad. La dicotomía entre el ingreso de dólares y la persistencia inflacionaria desafía al equipo económico. ¿Será capaz el gobierno de alinear todas las variables para ofrecer una salida real o seguiremos atrapados en un laberinto de señales mixtas sin un rumbo definido?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

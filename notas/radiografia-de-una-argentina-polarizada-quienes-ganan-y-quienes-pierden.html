@@ -133,11 +133,18 @@
         <h1>Radiografía de una Argentina polarizada: ¿Quiénes ganan y quiénes pierden?</h1>
         <p class="dek">Balances económicos revelan un país con consumo débil y energía en auge, con bancos bajo presión.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>4 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 4 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>Los balances económicos recientes dibujan una Argentina partida en dos, un reflejo de la profunda desigualdad que atraviesa el país. Mientras el consumo se muestra débil, arrastrando a sectores clave de la economía real, la energía experimenta un auge notable. En este contexto, los bancos se encuentran bajo presión, evidenciando las complejidades y los desequilibrios del modelo económico actual, que beneficia a unos mientras castiga a otros.</p><p>Esta disociación entre sectores pone en relieve la necesidad de una política económica más equitativa y menos volátil. La baja del consumo es un síntoma claro de la pérdida de poder adquisitivo de los ciudadanos, una consecuencia directa de la inflación y la falta de ingresos genuinos. Mientras tanto, el crecimiento en sectores como la energía, aunque positivo en sí mismo, no logra derramar sus beneficios al conjunto de la sociedad, profundizando la brecha social y económica.</p><p>La pregunta que surge es fundamental: ¿Este modelo dual es sostenible a largo plazo? ¿Se puede construir un futuro próspero cuando una parte significativa de la población lucha por subsistir, mientras otra experimenta un boom? Es imperativo un análisis crítico y propuestas concretas para que las Ganancias del crecimiento no se concentren en pocas manos, sino que impulsen el bienestar general. ¿Estamos realmente comprometidos con una economía que funcione para todos, o solo para algunos?</p>
+        <p>Los balances económicos recientes dibujan una Argentina partida en dos, un reflejo de la profunda desigualdad que atraviesa el país. Mientras el consumo se muestra débil, arrastrando a sectores clave de la economía real, la energía experimenta un auge notable. En este contexto, los bancos se encuentran bajo presión, evidenciando las complejidades y los desequilibrios del modelo económico actual, que beneficia a unos mientras castiga a otros.</p><p>Esta disociación entre sectores pone en relieve la necesidad de una política económica más equitativa y menos volátil. La baja del consumo es un síntoma claro de la pérdida de poder adquisitivo de los ciudadanos, una consecuencia directa de la inflación y la falta de ingresos genuinos. Mientras tanto, el crecimiento en sectores como la energía, aunque positivo en sí mismo, no logra derramar sus beneficios al conjunto de la sociedad, profundizando la brecha social y económica.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">La pregunta que surge es fundamental: ¿Este modelo dual es sostenible a largo plazo? ¿Se puede construir un futuro próspero cuando una parte significativa de la población lucha por subsistir, mientras otra experimenta un boom? Es imperativo un análisis crítico y propuestas concretas para que las Ganancias del crecimiento no se concentren en pocas manos, sino que impulsen el bienestar general. ¿Estamos realmente comprometidos con una economía que funcione para todos, o solo para algunos?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

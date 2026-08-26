@@ -133,11 +133,18 @@
         <h1>El dolor social tiene costo político: ¿Se ignora la crisis silenciosa?</h1>
         <p class="dek">Un análisis profundo sobre el preocupante aumento de suicidios en Argentina y la falta de respuestas políticas.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>4 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 4 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>Bajo la contundente premisa de que “todo dolor es político”, se aborda la alarmante cifra de suicidios en Argentina, una crisis silenciosa que exige atención urgente y respuestas concretas. Este fenómeno, a menudo relegado al ámbito privado o psiquiátrico, tiene profundas raíces en el tejido social, económico y político del país. La falta de políticas públicas efectivas y la estigmatización alrededor de la salud mental reflejan una grave deuda del Estado con sus ciudadanos.</p><p>Desde Panorama.ar, consideramos que es una irresponsabilidad política ignorar el sufrimiento que se esconde detrás de estas estadísticas. En una sociedad tensionada por la incertidumbre económica, la precarización laboral y la polarización, el Estado tiene la obligación de ir más allá de los discursos y generar marcos de contención y prevención. El enfoque simplista de reducir el problema a una cuestión individual omite la compleja interacción de factores sociales que empujan a muchos a esta decisión extrema.</p><p>Este trágico panorama nos interpela directamente: ¿Hasta cuándo la salud mental y el bienestar emocional serán tratados como temas secundarios en la agenda política? ¿Qué medidas concretas se están implementando para abordar esta crisis, o seguiremos esperando a que el dolor social escale a niveles inmanejables? Es hora de exigir responsabilidad a la “casta” política y a la sociedad en su conjunto para enfrentar esta realidad. ¿Estamos a la altura del desafío?</p>
+        <p>Bajo la contundente premisa de que “todo dolor es político”, se aborda la alarmante cifra de suicidios en Argentina, una crisis silenciosa que exige atención urgente y respuestas concretas. Este fenómeno, a menudo relegado al ámbito privado o psiquiátrico, tiene profundas raíces en el tejido social, económico y político del país. La falta de políticas públicas efectivas y la estigmatización alrededor de la salud mental reflejan una grave deuda del Estado con sus ciudadanos.</p><p>Desde Panorama.ar, consideramos que es una irresponsabilidad política ignorar el sufrimiento que se esconde detrás de estas estadísticas. En una sociedad tensionada por la incertidumbre económica, la precarización laboral y la polarización, el Estado tiene la obligación de ir más allá de los discursos y generar marcos de contención y prevención. El enfoque simplista de reducir el problema a una cuestión individual omite la compleja interacción de factores sociales que empujan a muchos a esta decisión extrema.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">Este trágico panorama nos interpela directamente: ¿Hasta cuándo la salud mental y el bienestar emocional serán tratados como temas secundarios en la agenda política? ¿Qué medidas concretas se están implementando para abordar esta crisis, o seguiremos esperando a que el dolor social escale a niveles inmanejables? Es hora de exigir responsabilidad a la “casta” política y a la sociedad en su conjunto para enfrentar esta realidad. ¿Estamos a la altura del desafío?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');

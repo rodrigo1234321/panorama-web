@@ -133,11 +133,18 @@
         <h1>¿Revancha o confirmación? La Copa Argentina define el futuro de varios clubes.</h1>
         <p class="dek">Los octavos de final prometen emociones y duelos clave que marcarán el rumbo de la temporada futbolística.</p>
         <div class="article-byline">
-          <span>Por <strong>Redacción Panorama</strong></span>
-          <span>·</span>
-          <span>25 ago</span>
-          <span>·</span>
-          <span>3 min</span>
+          <div class="byline-meta">
+            <span>Por <strong>Redacción Panorama</strong></span>
+            <span class="meta-dot">·</span>
+            <span>25 ago</span>
+            <span class="meta-dot">·</span>
+            <span class="reading-time-pill"><svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l4 2"/></svg> 3 min</span>
+          </div>
+          <div class="reading-font-controls" role="group" aria-label="Controles de tamaño de texto">
+            <button type="button" class="btn-font-size" id="font-decrease" title="Reducir letra" aria-label="Texto más chico">A-</button>
+            <button type="button" class="btn-font-size active" id="font-reset" title="Tamaño estándar" aria-label="Texto estándar">A</button>
+            <button type="button" class="btn-font-size" id="font-increase" title="Aumentar letra" aria-label="Texto más grande">A+</button>
+          </div>
         </div>
       </header>
 
@@ -146,7 +153,14 @@
       </div>
 
       <div class="article-body">
-        <p>La Copa Argentina avanza y los ojos de la Nación se posan en cada encuentro, esperando sorpresas o la consagración de los grandes. Esta semana, equipos como Talleres y Ferro, entre otros, buscarán su lugar en la siguiente instancia, con la presión de la hinchada y las expectativas por los cielos. La performance de jugadores clave y la estrategia de técnicos como Almiron o Sampaoli serán cruciales.</p><p>Más allá del fervor popular, la Copa Argentina es una vidriera para el talento local y una inyección económica para los clubes. Sin embargo, ¿se gestionan adecuadamente estos recursos o se diluyen en estructuras poco eficientes? La transparencia en la administración deportiva es un reclamo constante en un país donde la pasión por el fútbol a menudo choca con la realidad financiera.</p><p>¿Están nuestros clubes preparados para aprovechar esta oportunidad deportiva y económica de forma sostenible, o solo vemos un espectáculo que esconde falencias estructurales?</p>
+        <p>La Copa Argentina avanza y los ojos de la Nación se posan en cada encuentro, esperando sorpresas o la consagración de los grandes. Esta semana, equipos como Talleres y Ferro, entre otros, buscarán su lugar en la siguiente instancia, con la presión de la hinchada y las expectativas por los cielos. La performance de jugadores clave y la estrategia de técnicos como Almiron o Sampaoli serán cruciales.</p><p>Más allá del fervor popular, la Copa Argentina es una vidriera para el talento local y una inyección económica para los clubes. Sin embargo, ¿se gestionan adecuadamente estos recursos o se diluyen en estructuras poco eficientes? La transparencia en la administración deportiva es un reclamo constante en un país donde la pasión por el fútbol a menudo choca con la realidad financiera.</p>
+<div class="debate-callout-card">
+  <div class="debate-callout-header">
+    <span class="debate-icon">💬</span>
+    <strong>Punto de debate</strong>
+  </div>
+  <p class="debate-text">¿Están nuestros clubes preparados para aprovechar esta oportunidad deportiva y económica de forma sostenible, o solo vemos un espectáculo que esconde falencias estructurales?</p>
+</div>
       </div>
 
       <!-- Article Ad Slot (A-Ads) -->
@@ -289,6 +303,30 @@
     searchInput.value = '';
     document.getElementById('search-results').innerHTML = '';
   });
+
+  // Controles de tamaño de fuente para lectura
+  const btnFontDec = document.getElementById('font-decrease');
+  const btnFontReset = document.getElementById('font-reset');
+  const btnFontInc = document.getElementById('font-increase');
+  const fontBtns = [btnFontDec, btnFontReset, btnFontInc];
+
+  function setFontSizeScale(scale) {
+    document.body.setAttribute('data-font-scale', scale);
+    localStorage.setItem('reading_font_scale', scale);
+    fontBtns.forEach(b => {
+      if (b) b.classList.remove('active');
+    });
+    if (scale === 'sm' && btnFontDec) btnFontDec.classList.add('active');
+    else if (scale === 'lg' && btnFontInc) btnFontInc.classList.add('active');
+    else if (btnFontReset) btnFontReset.classList.add('active');
+  }
+
+  const savedScale = localStorage.getItem('reading_font_scale') || 'md';
+  setFontSizeScale(savedScale);
+
+  if (btnFontDec) btnFontDec.addEventListener('click', () => setFontSizeScale('sm'));
+  if (btnFontReset) btnFontReset.addEventListener('click', () => setFontSizeScale('md'));
+  if (btnFontInc) btnFontInc.addEventListener('click', () => setFontSizeScale('lg'));
 
   // Compartir
   const btnCopy = document.getElementById('share-copy');
