@@ -2,8 +2,8 @@ name: Auto Actualizar Noticias
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 2 horas para mantener la web con noticias frescas del minuto a minuto
-    - cron: '0 */2 * * *'
+    # Se ejecuta automáticamente cada 2 horas en el minuto 17 (evita la congestión y demoras del minuto :00 en GitHub Actions)
+    - cron: '17 */2 * * *'
   workflow_dispatch: # Permite disparar la automatización manualmente desde la pestaña Actions en GitHub
 
 # Otorgar permisos de escritura al token de GitHub Actions para permitir el git push
@@ -47,6 +47,7 @@ jobs:
       - name: Publicar Tweet en X (Twitter)
         env:
           TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
+          TWITTER_CT0: ${{ secrets.TWITTER_CT0 }}
           HEADLESS: 'true'
         run: node scripts/post-tweet.js
 

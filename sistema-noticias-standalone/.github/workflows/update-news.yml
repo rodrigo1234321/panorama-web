@@ -2,8 +2,8 @@ name: Auto Actualizar Noticias y Postear en X
 
 on:
   schedule:
-    # Se ejecuta cada 6 horas (00:00, 06:00, 12:00 y 18:00 UTC)
-    - cron: '0 */6 * * *'
+    # Se ejecuta automáticamente cada 2 horas en el minuto 17 (evita la congestión del minuto :00)
+    - cron: '17 */2 * * *'
   workflow_dispatch: # Permite disparar la automatización manualmente desde la pestaña Actions en GitHub
 
 permissions:
@@ -47,5 +47,6 @@ jobs:
       - name: Publicar Tweet en X (Twitter)
         env:
           TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
+          TWITTER_CT0: ${{ secrets.TWITTER_CT0 }}
           HEADLESS: 'true'
         run: node scripts/post-tweet.js

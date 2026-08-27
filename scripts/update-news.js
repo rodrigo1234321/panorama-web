@@ -417,10 +417,14 @@ function updateDatabase(newArticles) {
 
     // Extract the tweet of the featured story, sanitize any inline hashtags, and append the direct link
     const featuredStory = newArticles.find(n => n.destacada) || newArticles[0];
-    if (featuredStory && featuredStory.tweet) {
+    if (featuredStory) {
       const articleUrl = `${SITE_URL}/notas/${featuredStory.slug}.html`;
-      // Sanitizamos para remover '#' accidentales en medio del texto y dejar palabras limpias
-      const cleanTweet = featuredStory.tweet.replace(/#([a-zA-Z0-9_]+)/g, '$1').replace(/\s+/g, ' ').trim();
+      let cleanTweet = '';
+      if (featuredStory.tweet) {
+        cleanTweet = featuredStory.tweet.replace(/#([a-zA-Z0-9_]+)/g, '$1').replace(/\s+/g, ' ').trim();
+      } else {
+        cleanTweet = `${featuredStory.titulo}. ${featuredStory.bajada || ''}`.slice(0, 200).trim();
+      }
       const tweetText = `${cleanTweet}\n\n👉 ${articleUrl}`;
       fs.writeFileSync(TWEET_FILE, tweetText, 'utf8');
       console.log('Borrador de tweet para X guardado en tweet.txt (limpio de hashtags intermedios).');
