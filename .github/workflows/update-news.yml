@@ -2,9 +2,11 @@ name: Auto Actualizar Noticias
 
 on:
   schedule:
-    # Se ejecuta automáticamente cada 2 horas en el minuto 17 (evita la congestión y demoras del minuto :00 en GitHub Actions)
+    # Se ejecuta automáticamente cada 2 horas en el minuto 17 (fallback nativo)
     - cron: '17 */2 * * *'
-  workflow_dispatch: # Permite disparar la automatización manualmente desde la pestaña Actions en GitHub
+  workflow_dispatch: # Permite disparar la automatización manualmente desde GitHub
+  repository_dispatch: # Permite disparar la automatización externamente (cron-job.org, Webhook, API) sin demoras
+    types: [update-news, cron-trigger]
 
 # Otorgar permisos de escritura al token de GitHub Actions para permitir el git push
 permissions:
@@ -13,6 +15,7 @@ permissions:
 jobs:
   update-news:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
 
     steps:
       - name: Clonar repositorio
@@ -41,8 +44,18 @@ jobs:
           # Solo hacer commit si el archivo noticias.json o las notas cambiaron
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: actualización de noticias y páginas estáticas" && git push)
 
+      - name: Cachear binarios de Playwright
+        uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-${{ hashFiles('package-lock.json') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-
+
       - name: Instalar navegador Chromium para Playwright
-        run: npx playwright install chromium
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: npx playwright install chromium --with-deps
 
       - name: Publicar Tweet en X (Twitter)
         env:
