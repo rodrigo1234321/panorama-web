@@ -1,5 +1,225 @@
 [
   {
+    "titulo": "Alerta por reservas: el Banco Central registró en agosto su menor compra de dólares del año",
+    "bajada": "La acumulación de divisas del BCRA sufrió una fuerte desaceleración durante el último mes. Crece el debate sobre la sostenibilidad del esquema cambiario y el cumplimiento de las metas financieras.",
+    "cuerpo": "El Banco Central de la República Argentina (BCRA) cerró el mes de agosto con el saldo comprador de divisas más bajo en lo que va del año. La dinámica del mercado cambiario muestra señales claras de agotamiento tras el impulso inicial otorgado por la cosecha gruesa y el esquema de liquidación de exportaciones. La autoridad monetaria redujo drásticamente su ritmo de acumulación de reservas internacionales, encendiendo alarmas en los despachos oficiales y en las consultoras de la City porteña.\n\nDurante las últimas semanas, la menor oferta estacional del sector agroexportador coincidió con una demanda persistente para el pago de importaciones de bienes insumo y servicios contratados en el exterior. A este factor se sumó la intervención diaria que el propio BCRA debió mantener para contener las brechas financieras y amortiguar la volatilidad del dólar contada con liquidación. Como resultado, el saldo neto positivo del mes quedó severamente acotado en comparación con las holgadas cifras registradas durante el primer semestre.\n\nEl equipo económico defiende la vigencia del programa cambiario sosteniendo que el superávit fiscal de base base cero actúa como el ancla principal contra la inflación y la fuga de divisas. Sin embargo, diversos analistas señalan que la falta de un flujo constante de dólares frescos condiciona la capacidad de respuesta ante eventuales turbulencias internacionales. El drenaje continuo de divisas por servicios turísticos y pagos de deuda soberana presiona sobre el nivel de reservas netas, las cuales continúan en terreno frágil.\n\nLa desaceleración en la compra de dólares plantea un dilema técnico relevante para los próximos meses: mantener la paridad cambiaria mediante intervenciones o flexibilizar el acceso al mercado libre de cambios para dinamizar la actividad productiva. En un escenario donde el acceso al crédito bancario internacional sigue sujeto a un elevado riesgo país, el margen de maniobra del Central requiere sopesar minuciosamente la acumulación de divisas frente a las demandas de importadores.\n\nAnte el freno en el ritmo de compras estacionales y la proximidad del último tramo del año, las decisiones del Palacio de Hacienda y la autoridad monetaria resultarán determinantes. ¿Logrará el Gobierno sostener el equilibrio monetario sin modificar la tasa de devaluación mensual o resultará indispensable recurrir a un nuevo esquema de incentivos para asegurar las divisas que exige el mercado?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "alerta-reservas-banco-central-agosto-compra-dolares",
+    "fecha": "2026-09-01",
+    "imagen": "img/economia_12.png",
+    "destacada": true,
+    "meta_title": "Menor compra de dólares del BCRA en agosto: alerta reservas",
+    "meta_description": "El Banco Central registró en agosto su saldo de compras de dólares más bajo del año. Analizamos las causas del freno en las reservas y el panorama crediticio.",
+    "keyword_principal": "dolares BCRA agosto",
+    "keywords_secundarias": [
+      "reservas Banco Central",
+      "compra de dolares BCRA",
+      "mercado cambiario argentina",
+      "cotizacion dolar"
+    ],
+    "angulo_editorial": "Análisis del freno en la acumulación de divisas del BCRA y su impacto en las metas financieras del Gobierno."
+  },
+  {
+    "titulo": "Débito automático entre cuentas: la nueva norma que permite cobrar deudas bancarias y fintech",
+    "bajada": "El BCRA habilitó un mecanismo regulatorio para que bancos y billeteras virtuales cobren saldos morosos tomando fondos directamente de otras cuentas del titular.",
+    "cuerpo": "Una resolución de la autoridad monetaria introdujo cambios sustanciales en el funcionamiento del sistema financiero argentino. A partir de la puesta en marcha de esta normativa, tanto los bancos tradicionales como las empresas fintech cuentan con la atribución legal de debitar automáticamente los montos adeudados por clientes directamente desde cualquier otra cuenta bancaria o billetera digital que pertenezca al mismo titular. La medida busca acotar los niveles de morosidad crediticia en el consumo minorista.\n\nEl mecanismo se activa cuando un usuario incurre en un incumplimiento prolongado en el pago de tarjetas de crédito, préstamos personales o giros en descubierto. Anteriormente, las entidades debían iniciar procesos de cobro judicial o gestiones extrajudiciales que demandaban meses de tramitación. Con la nueva arquitectura del sistema de pagos interoperable, los algoritmos de las entidades ejecutan búsquedas sobre las cuentas registradas bajo el mismo CUIL o CUIT del deudor para retener el saldo pendiente.\n\nDesde el sector bancario y financiero celebraron la disposición, argumentando que la reducción del riesgo crediticio permitirá bajar las tasas de interés en las líneas de crédito al consumo y fortalecer la liquidez general del sistema. Según los voceros del sector, la medida aporta previsibilidad a las operaciones y desincentiva la toma de compromisos financieros sin respaldo de pago.\n\nSin embargo, la iniciativa encendió alertas entre asociaciones de consumidores y especialistas en derecho bancario. Advierten que el cobro automático podría afectar saldos inembargables como sueldos, jubilaciones o asignaciones sociales, dejando a los usuarios en situaciones de vulnerabilidad económica extrema sin una instancia previa de defensa o negociación de montos.\n\nLa implementación práctica del débito automático intercuentas reconfigura el vínculo entre las instituciones financieras y sus clientes. ¿Representa esta medida un avance necesario hacia la eficiencia crediticia o se trata de una herramienta desproporcionada que desprotege el ingreso de las familias?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "debito-automatico-deudas-bancos-fintech-bcra",
+    "fecha": "2026-09-01",
+    "imagen": "img/economia_2.png",
+    "destacada": false,
+    "meta_title": "Débito automático entre cuentas: cómo es la norma de deudas",
+    "meta_description": "Bancos y fintech podrán cobrar saldos adeudados tomando fondos directamente de otras cuentas del titular. Conocé los detalles y el alcance del sistema.",
+    "keyword_principal": "debito automatico deudas bancos fintech",
+    "keywords_secundarias": [
+      "cobro de deudas fintech",
+      "bancos embargo de cuentas",
+      "cuentas bancarias argentina",
+      "bcra normativa cobros"
+    ],
+    "angulo_editorial": "Guía práctica y alcance de la medida regulatoria que habilita el cobro directo de morosidades intercuentas."
+  },
+  {
+    "titulo": "Misión a Brasilia: opositores buscan recomponer lazos con Lula tras las críticas de Javier Milei",
+    "bajada": "Una comitiva de legisladores nacionales viajó al país vecino para mantener reuniones institucionales y preservar los vínculos comerciales estratégicos con el principal socio del Mercosur.",
+    "cuerpo": "Diputados y senadores del bloque opositor emprendieron una gira parlamentaria oficial a la capital de Brasil con el objetivo explícito de tender puentes diplomáticos con el gobierno de Luiz Inácio Lula da Silva. La iniciativa surge como respuesta a la tensión política generada por las reiteradas declaraciones públicas del presidente Javier Milei, quien mantuvo una postura confrontativa con el mandatario brasileño desde el inicio de su gestión.\n\nLa agenda de la delegación argentina incluye audiencias con el canciller brasilero, líderes de las bancadas oficialistas del Congreso de Brasil y representantes del sector industrial paulista. Los legisladores buscan transmitir señales de previsibilidad institucional y garantizar la continuidad de los tratados bilaterales que sostienen el flujo de exportaciones manufactureras e insumos energéticos entre ambos países. Para la economía argentina, Brasil representa el destino clave de las manufacturas de origen industrial.\n\nDesde la diplomacia parlamentaria destacaron que el canal legislativo resulta indispensable en coyunturas donde las relaciones entre los Poderes Ejecutivos sufren enfriamientos ideológicos. Señalan que la integración del Mercosur no debe quedar supeditada a los alineamientos partidarios del momento, ya que la cadena de valor automotriz y el intercambio agroindustrial generan miles de puestos de trabajo directos a ambos lados de la frontera.\n\nEn la Casa Rosada observan con recelo la comitiva opositora, calificándola como un intento de interferir en las atribuciones exclusivas que la Constitución le otorga al Presidente en materia de política exterior. El oficialismo ratifica que las relaciones estratégicas del país priorizan la alianza con Washington y Tel Aviv, sosteniendo un pragmatismo comercial estricto con el resto de los bloques sin ceder en lo ideológico.\n\nEl despliegue en Brasilia expone el doble comando con el que Argentina aborda sus vínculos internacionales más delicados. ¿Pueden los acuerdos parlamentarios preservar la integración económica regional más allá de los intensos cruces verbales entre los mandatarios de la región?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "mision-brasilia-opositores-lula-milei-relaciones",
+    "fecha": "2026-09-01",
+    "imagen": "img/politica_4.png",
+    "destacada": false,
+    "meta_title": "Opositores viajan a Brasilia tras críticas de Milei a Lula",
+    "meta_description": "Diputados viajan a Brasilia para recomponer los lazos institucionales deteriorados por las rispideces entre Javier Milei y Lula da Silva. Los detalles.",
+    "keyword_principal": "diputados opositores brasil lula milei",
+    "keywords_secundarias": [
+      "relaciones argentina brasil",
+      "javier milei lula da silva",
+      "diplomacia parlamento",
+      "politica exterior argentina"
+    ],
+    "angulo_editorial": "La ofensiva diplomática parlamentaria para mitigar el impacto de los cruces verbales entre la Casa Rosada y Brasil."
+  },
+  {
+    "titulo": "Frente de gobernadores: Kicillof y Ziliotto exigen a Nación partidas urgentes contra El Niño",
+    "bajada": "Los mandatarios provinciales ratificaron el reclamo formal ante la Casa Rosada para la reactivación de fondos de prevención de desastres hídricos e infraestructura.",
+    "cuerpo": "El gobernador de la provincia de Buenos Aires, Axel Kicillof, y su par de La Pampa, Sergio Ziliotto, unificaron posturas ante la administración central para exigir la transferencia inmediata de las partidas presupuestarias destinadas a mitigar los efectos climáticos severos proyectados por el fenómeno El Niño. La paralización de la obra pública nacional y el recorte de fondos fiduciarios mantienen frenados los trabajos de canalización y contención hídrica en zonas de alto riesgo productivo.\n\nEn un documento conjunto enviado al Ministerio del Interior y a la Jefatura de Gabinete, los mandatarios argumentaron que las previsiones meteorológicas advierten sobre precipitaciones extraordinarias durante la primavera. Las provincias sostienen que sin las obras estructurales de drenaje en las cuencas compartidas, miles de hectáreas agrícolas y cascos urbanos correrán peligro de anegamiento prolongado, lo que derivaría en cuantiosas pérdidas económicas.\n\nDesde el Gobierno nacional remarcaron la necesidad de mantener la severidad en el gasto público para consolidar el equilibrio fiscal. La política del Palacio de Hacienda establece que la ejecución de obras de infraestructura local debe ser asumida por los presupuestos provinciales o financiada mediante el sector privado, restringiendo las transferencias discrecionales únicamente a situaciones de emergencia declaradas a posteriori.\n\nEl conflicto pone de manifiesto la tensión continua entre las provincias y el Poder Ejecutivo en torno a la coparticipación federal y el financiamiento de contingencias. Las entidades del campo y las administraciones locales coinciden en que la falta de mantenimiento preventivo encarecerá de forma significativa los costos de asistencia posterior en caso de desastres naturales.\n\nLa controversia por los fondos para la emergencia hídrica reaviva la discusión sobre los límites del ajuste fiscal en materia de prevención. ¿Debe el Estado nacional sostener la partida para obras preventivas de infraestructura o recae en los distritos provinciales la responsabilidad financiera absoluta?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "gobernadores-kicillof-ziliotto-exigen-fondos-el-nino",
+    "fecha": "2026-09-01",
+    "imagen": "img/politica_7.png",
+    "destacada": false,
+    "meta_title": "Gobernadores exigen a Nación fondos por el fenómeno El Niño",
+    "meta_description": "Axel Kicillof y Sergio Ziliotto solicitaron a la Casa Rosada partidas presupuestarias para mitigar el impacto del fenómeno climática El Niño en el campo.",
+    "keyword_principal": "kicillof ziliotto fondos el niño milei",
+    "keywords_secundarias": [
+      "fondos provinciales emergencia",
+      "fenomeno el niño argentina",
+      "reclamo gobernadores a milei",
+      "coparticipacion y obras"
+    ],
+    "angulo_editorial": "El reclamo de las provincias de Buenos Aires y La Pampa por la parálisis de fondos federales para emergencias."
+  },
+  {
+    "titulo": "Giro geopolítico: la versión sobre la postura de Donald Trump ante la soberanía de Malvinas",
+    "bajada": "Reportes procedentes de Estados Unidos sugieren que el espacio político del expresidente evalúa un enfoque estratégico diferente sobre el diferendo en el Atlántico Sur.",
+    "cuerpo": "Informes y análisis diplomáticos procedentes de Washington señalan que el entorno político cercano a Donald Trump analiza una revisión del histórico respaldo incondicional que Estados Unidos otorga al Reino Unido en el diferendo sobre la soberanía de las Islas Malvinas. La información provocó atención inmediata tanto en el Palacio San Martín como en la cancillería británica.\n\nEl eventual cambio doctrinal estaría motivado por el reordenamiento de prioridades en materia de política exterior por parte del movimiento conservador estadounidense, el cual cuestiona el costo de mantener compromisos tradicionales con aliados europeos en teatros secundarios. En ese marco, sectores de la administración de Washington evalúan adoptar una postura de neutralidad estricta o incentivar acuerdos bilaterales que garanticen el acceso a recursos energéticos en el Atlántico Sur.\n\nEn la Cancillería argentina siguen los trascendidos con prudencia. Si bien el gobierno de Javier Milei ha construido un fuerte alineamiento con las posiciones geopolíticas del movimiento conservador norteamericano, la diplomacia profesional recuerda que Estados Unidos históricamente ha evitado chocar de forma directa con los intereses estratégicos de Gran Bretaña en la OTAN.\n\nEspecialistas en relaciones internacionales advierten que, de concretarse un cambio de matiz en Washington, Argentina podría encontrar un marco favorable para reactivar las resoluciones de las Naciones Unidas que instan al diálogo bilateral. No obstante, remarcan que la soberanía británica en las islas se apoya en la presencia militar desplegada en la base de Monte Agradable.\n\nLa especulación geopolítica abre un debate inédito en la estrategia exterior del país. ¿Puede un cambio de postura en Washington destrabar las negociaciones por la soberanía de Malvinas o la alianza angloamericana prevalecerá sobre cualquier giro coyuntural?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "giro-geopolitico-donald-trump-soberania-malvinas",
+    "fecha": "2026-09-01",
+    "imagen": "img/politica_12.png",
+    "destacada": false,
+    "meta_title": "Postura de Donald Trump y la soberanía de las Islas Malvinas",
+    "meta_description": "Trascendidos internacionales indican que Donald Trump revisaría el histórico apoyo a Gran Bretaña por las Islas Malvinas. Repercusión en la Cancillería.",
+    "keyword_principal": "trump soberania malvinas",
+    "keywords_secundarias": [
+      "donald trump malvinas",
+      "soberania islas malvinas",
+      "eeuu gran bretaña malvinas",
+      "cancilleria argentina"
+    ],
+    "angulo_editorial": "Repercusión en la política exterior argentina ante un eventual cambio de enfoque de Washington sobre las islas."
+  },
+  {
+    "titulo": "Caída en el mercado automotor: cuáles fueron los 10 vehículos más vendidos de agosto",
+    "bajada": "Las ventas de vehículos cero kilómetro volvieron a registrar una retracción mensual. El ranking de los modelos que sostienen el volumen comercial del sector.",
+    "cuerpo": "El mercado automotor finalizó el mes de agosto con una cifra de patentamientos por debajo de las expectativas iniciales de la industria automotriz. De acuerdo con los datos recabados por las cámaras del sector concesionario, la venta de unidades cero kilómetro marcó una nueva caída interanual, reflejando el impacto del encarecimiento de los precios finales, la quita de incentivos crediticios y el reajuste en las decisiones de gasto de las familias.\n\nA pesar de la menor dinámica comercial general, el ranking de ventas estuvo encabezado por las camionetas medianas de producción nacional y los modelos compactos económicos. Las unidades utilitarias continúan liderando las preferencias de compra en el ámbito del trabajo agrario y logístico, mientras que los vehículos de menor cilindrada concentran las operaciones en los centros urbanos debido a sus menores costos de mantenimiento.\n\nLos ejecutivos de la industria explicaron que el sector enfrenta costos de insumos elevados y una presión impositiva que todavía condiciona los valores de venta al público. Aunque la paulatina normalización en el flujo de importaciones permitió diversificar la oferta en los salones de venta, la demanda no responde con la fuerza esperada debido al estancamiento de los salarios reales frente a las cuotas de los planes de ahorro.\n\nFrente a este escenario, varias marcas generalistas comenzaron a ofrecer bonificaciones especiales, tasas de financiación subsidiadas a corto plazo y congelamiento de precios para sostener la participación de mercado y evitar un acumulado excesivo de stock en las terminales.\n\nEl resultado del mes de agosto ratifica las complejas transformaciones del sector automotriz. ¿Lograrán las estrategias comerciales de las terminales dinamizar el consumo en el último cuatrimestre o la retracción de ventas se profundizará hasta el próximo año?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "caida-mercado-automotor-10-autos-mas-vendidos-agosto",
+    "fecha": "2026-09-01",
+    "imagen": "img/economia_4.png",
+    "destacada": false,
+    "meta_title": "Mercado automotor: los 10 autos más vendidos de agosto 2026",
+    "meta_description": "Los patentamientos cayeron en agosto. Conocé el ranking de los 10 vehículos más vendidos de la Argentina y los factores que explican la desaceleración del sector.",
+    "keyword_principal": "patentamientos autos agosto mas vendidos",
+    "keywords_secundarias": [
+      "venta de autos agosto",
+      "autos mas vendidos argentina",
+      "mercado automotor 2026",
+      "precios de autos 0km"
+    ],
+    "angulo_editorial": "Radiografía del sector automotriz nacional tras un nuevo mes con números en rojo."
+  },
+  {
+    "titulo": "Banco Provincia lanzó líneas de crédito para compra y construcción de viviendas",
+    "bajada": "La institución bancaria de la provincia de Buenos Aires puso a disposición del público líneas hipotecarias destinadas a dinamizar el acceso al techo propio.",
+    "cuerpo": "El Banco Provincia oficializó la apertura de una nueva línea de créditos hipotecarios orientada a la adquisición, ampliación y construcción de viviendas familiares en el territorio bonaerense. La medida busca dar respuesta a la sostenida demanda habitacional de los sectores medios, ofreciendo montos adaptados a las capacidades de ingreso formal de las familias trabajadoras.\n\nEl programa crediticio contempla dos modalidades principales: la primera destinada a la compra de inmuebles terminados con plazos de amortización extendidos, y la segunda enfocada en el financiamiento por etapas de obras de construcción en terrenos propios. Las tasas de interés contarán con esquemas diferenciados para aquellos clientes que perciban sus haberes en la entidad bancaria estatal.\n\nRepresentantes del sector de la construcción y de las cámaras inmobiliarias valoraron positivamente la medida, destacando que el financiamiento crediticio es el motor indispensable para reactivar la cadena de valor de la edificación, el empleo en el rubro de la albañilería y la compraventa de propiedades residenciales, áreas afectadas por el contexto recesivo.\n\nSin embargo, analistas financieros recomendaron a los solicitantes evaluar con cautela la evolución de las cuotas mensuales ajustables en función de las proyecciones inflacionarias y la estabilidad de las fuentes laborales. Remarcaron que la sostenibilidad a largo plazo de los compromisos bancarios exige un margen de previsibilidad en los ingresos de los hogares.\n\nLa iniciativa del Banco Provincia reactiva el debate sobre las alternativas de crédito habitacional en el país. ¿Constituye este lanzamiento un instrumento accesible para resolver el déficit de vivienda o los requisitos de ingreso limitarán su alcance en la sociedad?",
+    "categoria": "economia",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "banco-provincia-creditos-hipotecarios-compra-construccion-viviendas",
+    "fecha": "2026-09-01",
+    "imagen": "img/economia_13.png",
+    "destacada": false,
+    "meta_title": "Banco Provincia créditos hipotecarios vivienda y construcción",
+    "meta_description": "El Banco Provincia lanzó créditos para la compra y construcción de viviendas. Enterate de los montos, tasas de interés, plazos y requisitos para acceder.",
+    "keyword_principal": "creditos banco provincia vivienda",
+    "keywords_secundarias": [
+      "creditos hipotecarios bapro",
+      "prestamos construccion provincia",
+      "banco provincia vivienda",
+      "requisitos credito hipotecario"
+    ],
+    "angulo_editorial": "Detalles técnicos, montos y requisitos de la nueva oferta hipotecaria bonaerense."
+  },
+  {
+    "titulo": "Tensión en Mendoza: masiva marcha contra el proyecto de Ley de Propiedad Privada en el Senado",
+    "bajada": "Organizaciones sociales y manifestantes se concentraron frente a la Legislatura provincial para repudiar el debate de una iniciativa legislativa controversial.",
+    "cuerpo": "La ciudad de Mendoza fue escenario de una multitudinaria movilización popular convocada por organizaciones sociales, agrupaciones territoriales y sectores de la oposición legislativa para rechazar el proyecto de Ley de Propiedad Privada que inició su tratamiento en el Senado mendocino. La protesta provocó un amplio despliegue de las fuerzas de seguridad en los alrededores de la sede parlamentaria.\n\nLos manifestantes denuncian que el texto propuesto por el bloque oficialista local endurece las causales de desalojo express, flexibiliza los requisitos institucionales para la adjudicación de tierras y limita los derechos de posesión de comunidades originarias y pequeños productores del ámbito rural. Según los voceros de las organizaciones, la norma favorece la especulación inmobiliaria y minera en detrimento del arraigo comunitario.\n\nPor el contrario, los impulsores de la legislación en la Cámara Alta argumentan que la provincia necesita un marco jurídico moderno que proteja las inversiones privadas, combata las ocupaciones ilegales de terrenos y otorgue garantías claras a los propietarios legítimos. Sostienen que el proyecto brinda transparencia institucional y previsibilidad económica para el desarrollo de nuevos emprendimientos productivos.\n\nEl debate parlamentario se desarrolla en un clima de marcada polarización política, con acusaciones cruzadas en el recinto. Los bloques opositores han solicitado el archivo del proyecto o la apertura de audiencias públicas para escuchar a los actores sociales afectados antes de avanzar con el dictamen de comisión.\n\nEl conflicto social desatado alrededor de la iniciativa pone a prueba la capacidad de diálogo institucional en Mendoza. ¿Prevalecerá la postura del oficialismo provincial para sancionar la norma o la presión callejera logrará modificar el articulado en el Senado?",
+    "categoria": "politica",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "tension-mendoza-marcha-ley-propiedad-privada-senado",
+    "fecha": "2026-09-01",
+    "imagen": "img/politica_2.png",
+    "destacada": false,
+    "meta_title": "Mendoza: protesta masiva contra la Ley de Propiedad Privada",
+    "meta_description": "Cientos de manifestantes marcharon al Senado de Mendoza contra la polémica Ley de Propiedad Privada. Las razones del conflicto social y el debate en puerta.",
+    "keyword_principal": "mendoza marcha ley propiedad privada senado",
+    "keywords_secundarias": [
+      "ley de propiedad privada mendoza",
+      "protesta senado mendoza",
+      "conflicto de tierras mendoza",
+      "debate legislativo mendoza"
+    ],
+    "angulo_editorial": "La movilización social y el debate institucional por el proyecto de ley que genera fuerte resistencia legislativa."
+  },
+  {
+    "titulo": "Eliminación clave en Gran Hermano: Pincoya cayó ante Yipio en la antesala de la final",
+    "bajada": "La participante abandonó la casa más famosa del país tras perder una reñida votación telefónica en una de las galas con mayor nivel de audiencia del ciclo televisivo.",
+    "cuerpo": "El programa de entretenimiento con mayor impacto de la televisión argentina sumó un nuevo capítulo decisivo con la eliminación de Pincoya en la instancia previa a la gran final de Gran Hermano. La participante, que se había consolidado como uno de los personajes más potentes de la edición debido a su personalidad espontánea y al fuerte respaldo popular en redes sociales, fue superada en el cómputo telefónico final por Yipio.\n\nLa gala de eliminación alcanzó métricas récord de audiencia y encendió las interacciones en las plataformas digitales, donde las comunidades de fanáticos desplegaron intensas campañas de votación. Durante las horas previas a la decisión del público, las especulaciones sobre el resultado final reflejaban la paridad de los participantes, convirtiendo el duelo telefónico en una de las instancias más tensas del concurso.\n\nAl conocerse la definición del supremo, la concursante eliminada agradeció la oportunidad de haber formado parte del reality y destacó la experiencia humana que significó convivir durante meses en un aislamiento absoluto. Por su parte, Yipio celebró el respaldo de los votantes y ratificó su candidatura de cara a la definición del premio mayor de la competencia.\n\nEl fenómeno televisivo ratifica el vigor del formato de la telerrealidad en la cultura de masas contemporánea, generando debates cotidianos que trascienden la pantalla chica y alimentan los espacios de análisis en programas de espectáculos y redes de streaming.\n\nCon la partida de una de las competidoras centrales, la competencia ingresa en su fase definitoria. ¿Tendrá el participante sobreviviente el caudal de votos necesario para coronarse como el nuevo ganador del certamen?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "eliminacion-gran-hermano-pincoya-yipio-antesala-final",
+    "fecha": "2026-09-01",
+    "imagen": "img/sociedad_1.png",
+    "destacada": false,
+    "meta_title": "Gran Hermano: Pincoya fue eliminada ante Yipio en la gala",
+    "meta_description": "Pincoya abandonó la casa de Gran Hermano tras caer en el mano a mano telefónico contra Yipio en la gala de eliminación. Todo sobre una noche clave.",
+    "keyword_principal": "pincoya eliminada gran hermano yipio",
+    "keywords_secundarias": [
+      "pincoya gran hermano",
+      "yipio gran hermano",
+      "eliminado gran hermano 2026",
+      "final gran hermano"
+    ],
+    "angulo_editorial": "El impacto televisivo y la masiva repercusión en redes sociales del resultado del reality."
+  },
+  {
+    "titulo": "Prohibición oficial: ANMAT saca del mercado los juguetes blandos 'squishy' por riesgos sanitarios",
+    "bajada": "El organismo nacional sacó de circulación la comercialización de estos productos tras detectar componentes tóxicos que comprometen la salud infantil.",
+    "cuerpo": "La Administración Nacional de Medicamentos, Alimentos y Tecnología Médica (ANMAT) dispuso la prohibición inmediata de la elaboración, importación y venta en todo el territorio argentino de los juguetes de textura blanda populares denominados 'squishy'. La medida sanitaria fue publicada de manera oficial luego de que exhaustivos ensayos de laboratorio confirmaran la presencia de sustancias químicas nocivas en los materiales constitutivos del producto.\n\nLos análisis realizados por el organismo técnico revelaron la liberación de compuestos orgánicos volátiles en concentraciones superiores a las permitidas por la regulación vigente. La exposición prolongada o la ingesta accidental de pequeños fragmentos de estos productos antiestrés puede desencadenar reacciones alérgicas severas, irritaciones en las vías respiratorias y afecciones dermatológicas en los niños pequeños.\n\nLa decisión gubernamental ordena el retiro inmediato de los lotes afectados de jugueterías, comercios de regalos y plataformas de venta electrónica. Asimismo, la autoridad sanitaria instó a los padres de familia a deshacerse de estos objetos de manera segura para evitar accidentes domésticos con los menores de edad.\n\nCámaras del sector juguetero apoyaron la intervención de la ANMAT, recordando la importancia de adquirir juguetes que cuenten con el sello de certificación de seguridad correspondiente para frenar el ingreso de mercadería de contrabando o sin controles de calidad.\n\nLa prohibición de estos juguetes blandos resalta la necesidad de un control riguroso sobre las importaciones. ¿Lograrán las autoridades de fiscalización barrer del mercado informal la totalidad de los productos nocivos para la salud infantil?",
+    "categoria": "sociedad",
+    "autor": "Redacción Panorama",
+    "lectura": "4 min",
+    "slug": "prohibicion-anmat-juguetes-squishy-riesgos-salud-infantil",
+    "fecha": "2026-09-01",
+    "imagen": "img/sociedad_6.png",
+    "destacada": false,
+    "meta_title": "ANMAT prohibió los juguetes squishy por riesgos sanitarios",
+    "meta_description": "La ANMAT retiró del mercado los juguetes blandos tipo squishy por riesgos de toxicidad infantil. Conocé las razones del informe de salud y las alertas.",
+    "keyword_principal": "prohibicion juguetes squishy argentina",
+    "keywords_secundarias": [
+      "anmat squishy prohibidos",
+      "salud infantil squishy",
+      "juguetes peligrosos argentina",
+      "gobierno prohibe squishy"
+    ],
+    "angulo_editorial": "La intervención estatal sobre la importación y comercialización de productos tóxicos para niños."
+  },
+  {
     "titulo": "La inflación baja pero se recalienta el dólar: el dilema cambiario que desvela al Gobierno",
     "bajada": "Mientras los índices de precios confirman la desaceleración inflacionaria, la presión sobre las cotizaciones financieras y el dólar blue vuelve a encender alarmas en el Palacio de Hacienda.",
     "cuerpo": "El programa económico impulsado por el Poder Ejecutivo atraviesa un escenario de contrastes marcados. Por un lado, la desinflación argentina muestra signos de consolidación apoyada en la disciplina fiscal, la emisión cero y el ancla monetaria. Sin embargo, la brecha cambiaria y la demanda creciente de divisas amenazan con convertirse en el principal obstáculo para la estabilidad general del plan.\n\nDurante los últimos días, los dólares financieros y el paralelo registraron una tendencia alcista constante. Esta situación vuelve a colocar en el centro de la escena el futuro del cepo cambiario y la capacidad del Banco Central para acumular reservas internacionales. La brecha entre el tipo de cambio oficial y los paralelos comenzó a widening nuevamente, disparando cautela en los operadores financieros y en las decisiones de inversión de las pymes.\n\nDesde el equipo económico insisten en que la volatilidad es temporal y que el ordenamiento de las cuentas públicas garantiza la solvencia de fondo. No obstante, economistas del sector privado advierten que mantener un atraso cambiario mientras se dilata la apertura total del mercado único de cambios genera dudas en los exportadores al momento de liquidar divisas, restringiendo aún más la oferta cambiaria disponible.\n\nEl desafío para la administración libertaria reside en calibrar la velocidad de salida de las restricciones cambiarias sin poner en riesgo los logros en materia monetaria. La experiencia reciente demuestra que controlar la inflación no basta si la incertidumbre sobre el valor de la moneda extranjera vuelve a trasladarse a las expectativas de precios de insumos importados.\n\n¿Logrará el Gobierno sostener la tendencia bajista de los precios si el mercado presiona por un reajuste en la política cambiaria?",
@@ -9,7 +229,7 @@
     "slug": "inflacion-baja-recalienta-dolar-dilema-cambiario",
     "fecha": "2026-09-01",
     "imagen": "img/economia_14.png",
-    "destacada": true,
+    "destacada": false,
     "meta_title": "Inflación y dólar: el dilema cambiario del Gobierno",
     "meta_description": "La desinflación convive con la fuerte presión sobre la demanda de divisas. Análisis del plan económico ante el recalentamiento del dólar.",
     "keyword_principal": "inflacion y dolar",
@@ -346,27 +566,6 @@
       "debate senado argentina"
     ],
     "angulo_editorial": "Conflicto social y provincial por el debate legislativo en torno a la propiedad privada y derechos constitucionales."
-  },
-  {
-    "titulo": "Caída del mercado automotor: los 10 autos más vendidos en medio del parón de agosto",
-    "bajada": "El sector automotriz experimentó un freno significativo en las operaciones comerciales de unidades cero kilómetro. Conocé los diez modelos que lograron sostenerse al frente de las ventas.",
-    "cuerpo": "El negocio de la venta de vehículos cero kilómetro volvió a mostrar signos de enfriamiento durante el mes de agosto. Las cifras consolidaron los patentamientos agosto autos mas vendidos con una baja interanual respecto a los períodos previos, marcados por la restricción del poder adquisitivo de la clase media y el encarecimiento del costo de financiamiento para la adquisición de unidades cero kilómetro.\n\nLas concesionarias oficiales y las terminales locales señalan que, si bien la disponibilidad de stock ha mejorado notablemente a partir de la apertura importadora, el volumen de operaciones reales chocó contra el techo del consumo interno. Sin embargo, en medio del enfriamiento generalizado del mercado automotor argentina, una nómina acotada de vehículos logró mantenerse en los puestos de privilegio de las preferencias del público.\n\nEl podio de patentamientos continuó liderado por las camionetas medianas de producción nacional y por los autos compactos más accesibles del segmento B. El ranking autos mas vendidos argentina volvió a destacar la fortaleza de modelos icónicos ensamblados en las plantas bonaerenses y cordobesas, que sostienen su cuota de mercado gracias a promociones comerciales agresivas, bonificaciones directas en concesionarios y planes de ahorro adjudicados.\n\nLas ventas 0km agosto configuran un mapa donde la demanda se concentró casi en forma exclusiva en unidades utilitarias de trabajo o vehículos urbanos de bajo mantenimiento. El segmento medio superior y los SUV importados sufrieron los embates más pronunciados del parón comercial.\n\n¿Logrará la baja de impuestos y las facilidades crediticias reactivar las ventas de automóviles antes de la finalización del año?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "caida-mercado-automotor-10-autos-mas-vendidos-agosto",
-    "fecha": "2026-09-01",
-    "imagen": "img/economia_4.png",
-    "destacada": false,
-    "meta_title": "Patentamientos agosto autos mas vendidos en Argentina",
-    "meta_description": "Los patentamientos cayeron en agosto reflejando la retracción de la demanda. Te mostramos el ranking de los 10 modelos 0km más vendidos de la Argentina.",
-    "keyword_principal": "patentamientos agosto autos mas vendidos",
-    "keywords_secundarias": [
-      "ventas 0km agosto",
-      "ranking autos mas vendidos argentina",
-      "mercado automotor argentina"
-    ],
-    "angulo_editorial": "Radiografía del sector automotriz, consumo y ranking de ventas en un contexto de retracción de demanda."
   },
   {
     "titulo": "¿Qué es el Súper Niño y por me genera alerta máxima por inundaciones en Argentina?",
@@ -848,203 +1047,5 @@
       "conflicto de tierras"
     ],
     "angulo_editorial": "La reacción local contra un polémico debate legislativo nacional que asambleas mendocinas denuncian como un avance contra las tierras y expropiaciones justas."
-  },
-  {
-    "titulo": "Inteligencia Artificial y geopolítica: los desafíos éticos globales que la región debate en el país",
-    "bajada": "Líderes tecnológicos, referentes académicos y funcionarios debatieron en la cumbre SAIACONF 2025 las implicancias de la automatización masiva sobre los puestos de trabajo.",
-    "cuerpo": "Argentina se convirtió en el epicentro regional de las discusiones sobre desarrollo tecnológico. Durante las jornadas de la SAIACONF 2025, el foro más importante del sector, expertos de todo el continente analizaron el avance vertiginoso de la inteligencia artificial argentina y la urgencia de establecer marcos de regulación gubernamental éticos que protejan los puestos de trabajo sin asfixiar la innovación tecnológica ni la inversión en startups locales.\n\nUno de los ejes centrales del evento giró en torno al impacto que la automatización avanzada tendrá en la fuerza laboral de América Latina. Se estimó que millones de empleos administrativos, de atención al cliente e incluso profesiones cualificadas deberán reconvertirse aceleradamente para no quedar fuera de la economía digital global. En este marco, especialistas reclamaron adaptar la currícula educativa y crear programas de capacitación continua gestionados entre el sector público y el sector privado.\n\nAsimismo, el plano ético y geopolítico ocupó un rol determinante. Frente al monopolio de los modelos algorítmicos desarrollados por las potencias de Estados Unidos y China, la comunidad científica argentina resaltó la importancia vital de promover una soberanía de datos regional. Esto implica resguardar la privacidad de los ciudadanos y evitar los sesgos culturales en la toma de decisiones asistida por algoritmos automatizados.\n\nEl Gobierno nacional busca proyectar al país como un polo de atracción de capital de riesgo para la economía del conocimiento, apostando a la desregulación como incentivo. No obstante, legisladores del Congreso evalúan iniciativas para establecer límites estrictos al uso no ético del reconocimiento facial y el procesamiento automatizado de datos biométricos.\n\n¿Podrá la Argentina liderar la revolución de la inteligencia artificial en la región sin desproteger los derechos de sus trabajadores?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "inteligencia-artificial-y-geopolitica-desafios-eticos-region",
-    "fecha": "2026-09-01",
-    "imagen": "img/sociedad_11.png",
-    "destacada": false,
-    "meta_title": "Inteligencia Artificial en Argentina: debate ético y geopolítico",
-    "meta_description": "Expertos reunidos en SAIACONF 2025 debaten sobre el desarrollo de la inteligencia artificial argentina, la soberanía de datos y la regulación del empleo.",
-    "keyword_principal": "inteligencia artificial argentina",
-    "keywords_secundarias": [
-      "SAIACONF 2025",
-      "etica de la ia",
-      "geopolitica tecnologica",
-      "regulacion de ia"
-    ],
-    "angulo_editorial": "Un análisis sobre el rol que busca ocupar Argentina en el desarrollo tecnológico de la región y las consecuencias de la IA en el mercado laboral y la ética del futuro."
-  },
-  {
-    "titulo": "El dólar mayorista quebró los $1.500: el Gobierno inyecta pesos para sostener la actividad",
-    "bajada": "En una jugada cambiaria estratégica, el Banco Central flexibilizó el tipo de cambio oficial para reactivar el crédito y combatir la recesión industrial.",
-    "cuerpo": "El Banco Central de la República Argentina tomó una determinación clave que encendió las alarmas en el sector financiero: el dólar mayorista superó la barrera de los $1.500. Lejos de ser un desborde descontrolado de la divisa, la medida responde a una sutil y meditada calibración de la política cambiaria por parte del Gobierno nacional. La administración de Javier Milei busca, mediante esta sutil flexibilización, inyectar pesos de manera indirecta en el circuito productivo con el fin de atenuar la profunda recesión que golpea con dureza a la industria manufacturera y al comercio minorista local.\n\nDurante los últimos meses de gestión, el estricto control sobre la emisión monetaria y la absorción de pasivos financieros actuaron como un ancla inflacionaria formidable, logrando reducir el índice de precios al consumidor a mínimos mensuales históricos. Sin embargo, este éxito macroeconómico ha tenido un costo sumamente elevado en términos de actividad económica y empleo. Al permitir un deslizamiento controlado del tipo de cambio oficial, el Banco Central persigue un doble propósito de vital importancia. Por un lado, busca recomponer de manera urgente las alicaídas reservas BCRA, incentivando la liquidación de divisas por parte de los sectores agroexportadores que encontraban la cotización previa poco atractiva para rentabilizar sus operaciones. Por el otro, la inyección resultante de pesos busca reactivar la cadena de pagos y proveer de liquidez a los bancos comerciales, facilitando la reactivación del crédito privado para el consumo y las pymes.\n\nSin embargo, analistas de la city de Buenos Aires advierten sobre los riesgos inherentes de esta arriesgada maniobra. El delgado equilibrio entre dinamizar la actividad comercial y sostener el complejo proceso de desinflación es sumamente frágil en el escenario local. Una devaluación del tipo de cambio oficial, si se traslada rápidamente a los precios internos de la canasta básica familiar, podría espiralizar la inflación nuevamente, neutralizando el fenomenal esfuerzo fiscal y social realizado hasta la fecha por la población. El interrogante clave reside en si el mercado interpretará este movimiento cambiario como un ajuste técnico transitorio y saludable o como el inicio involuntario de una devaluación sin freno.\n\n¿Logrará el Banco Central dinamizar la economía real mediante esta inyección controlada de pesos sin despertar nuevamente al fantasma de la espiral inflacionaria?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "dolar-mayorista-1500-gobierno-inyecta-pesos",
-    "fecha": "2026-08-31",
-    "imagen": "img/economia_9.png",
-    "destacada": false,
-    "meta_title": "El dólar mayorista quebró los $1.500 en Argentina",
-    "meta_description": "El Banco Central superó los $1.500 en el dólar mayorista inyectando pesos para frenar la recesión. Descubrí el impacto de esta medida oficial.",
-    "keyword_principal": "dolar mayorista",
-    "keywords_secundarias": [
-      "Banco Central",
-      "emision monetaria",
-      "tipo de cambio",
-      "reservas BCRA"
-    ],
-    "angulo_editorial": "Análisis del giro en la política cambiaria y monetaria del Banco Central para frenar la recesión."
-  },
-  {
-    "titulo": "Javier Milei declaró $295 millones de patrimonio: aumentó sus bienes en el último año",
-    "bajada": "La Oficina Anticorrupción difundió la declaración jurada de bienes del Presidente, registrando un fuerte aumento nominal impulsado por sus tenencias en moneda extranjera.",
-    "cuerpo": "El presidente de la Nación, Javier Milei, presentó su declaración jurada patrimonial correspondiente al último ejercicio fiscal ante la Oficina Anticorrupción, revelando un patrimonio total de $295 millones de pesos. Este número representa un incremento nominal sumamente significativo respecto de sus presentaciones previas como diputado nacional, posicionando bajo la lupa del debate público la evolución de los bienes presidenciales y el origen de sus ahorros financieros en el marco de su primer tramo de gestión al frente del Poder Ejecutivo nacional.\n\nEl desglose analítico de la declaración muestra que el mandatario mantiene la mayor parte de su riqueza concentrada en cuentas bancarias nominadas en moneda extranjera, plazos fijos y bienes raíces de larga data en territorio nacional. Asimismo, se destaca la valorización de sus activos financieros debido a la natural evolución del tipo de cambio oficial y el rendimiento de los instrumentos financieros de ahorro. Desde el entorno presidencial aclararon de inmediato que el salto en los montos expresados se debe principalmente al efecto de la inflación sobre la tasación fiscal de sus bienes preexistentes y a la pesificación de sus tenencias de divisas extranjeras, descartando cualquier tipo de incompatibilidad ética o incremento injustificado.\n\nEste reporte oficial reactivó el debate político sobre la transparencia pública y las pautas de austeridad de los principales funcionarios de la administración de La Libertad Avanza. Mientras la oposición legislativa exige auditorías más exhaustivas sobre las cuentas bancarias del mandatario y cuestiona la cotización real de sus activos materiales, los partidarios del oficialismo defienden la honestidad histórica de Milei, recordando que sorteaba de manera pública su sueldo legislativo y que sus ingresos actuales se ajustan rigurosamente a la normativa legal vigente que rige el salario del Jefe de Estado.\n\n¿Debería el Poder Ejecutivo nacional implementar mecanismos de auditoría patrimonial aún más rigurosos y en tiempo real para disipar de manera definitiva cualquier duda sobre sus funcionarios públicos?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "javier-milei-declaracion-jurada-patrimonio",
-    "fecha": "2026-08-31",
-    "imagen": "img/politica_6.png",
-    "destacada": false,
-    "meta_title": "Declaración jurada de Javier Milei: $295 millones",
-    "meta_description": "Detalle de la declaración jurada patrimonial de Javier Milei que registra un total de $295 millones de pesos. Analizamos la evolución de sus bienes.",
-    "keyword_principal": "declaracion jurada javier milei",
-    "keywords_secundarias": [
-      "patrimonio milei",
-      "bienes presidenciales",
-      "oficina anticorrupcion",
-      "cuentas bancarias"
-    ],
-    "angulo_editorial": "Detalle y desglose de la declaración jurada patrimonial presentada por el Presidente de la Nación."
-  },
-  {
-    "titulo": "Lionel Messi anunció su retiro de la Selección Argentina y sacude al fútbol mundial",
-    "bajada": "El capitán e ídolo máximo de la Scaloneta comunicó su adiós al seleccionado de manera definitiva, abriendo un complejo recambio de cara al Mundial 2026.",
-    "cuerpo": "En una de las jornadas más conmovedoras para el deporte mundial de las últimas décadas, Lionel Messi anunció formalmente su retiro definitivo de la Selección Argentina, cerrando una era dorada e inigualable que transformó para siempre la historia del fútbol local. La noticia, comunicada a través de un mensaje íntimo que rápidamente se volvió viral en todas las plataformas digitales, generó una ola de conmoción que excede lo meramente futbolístico para impactar de lleno en el tejido social y la identidad cultural de todo el país.\n\nEl capitán y máximo goleador histórico de la Scaloneta fundamentó su sentida decisión en el desgaste físico acumulado a lo largo de su carrera y en la imperiosa necesidad de priorizar el tiempo con su familia, considerando que ya cumplió con creces todos los objetivos deportivos que se trazó desde su infancia, incluyendo la anhelada Copa del Mundo. Su partida deja un vacío imponente de cara a la preparación para el próximo mundial 2026, obligando al cuerpo técnico liderado por Lionel Scaloni y a los directivos de la Asociación del Fútbol Argentino a acelerar un proceso de transición generacional que ya se avizoraba sumamente complejo, pero que ahora adquiere el carácter de urgencia institucional.\n\nLa despedida de Messi no solo sacude las estructuras internas del vestuario nacional, sino que también proyecta un impacto económico y simbólico de dimensiones incalculables. La marca del seleccionado nacional pierde de forma inmediata a su principal activo comercial para giras internacionales y patrocinadores globales, mientras que millones de fanáticos se enfrentan al fin definitivo de una época de gloria deportiva sin precedentes. La herencia futbolística y el liderazgo indiscutido que deja plantean un desafío de proporciones colosales para los nuevos referentes juveniles que deberán asumir la pesada responsabilidad de sostener el prestigio global alcanzado.\n\n¿Está el fútbol argentino preparado institucional y anímicamente para sostener el nivel de competitividad internacional de la Selección sin la presencia de su máximo ícono histórico?",
-    "categoria": "sociedad",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "messi-retiro-seleccion-argentina-impacto",
-    "fecha": "2026-08-31",
-    "imagen": "img/sociedad_10.png",
-    "destacada": false,
-    "meta_title": "Lionel Messi se retira de la Selección Argentina",
-    "meta_description": "La Selección Argentina tiembla tras el retiro de Lionel Messi. El impacto deportivo y social de la partida definitiva del mejor jugador del mundo.",
-    "keyword_principal": "retiro lionel messi seleccion",
-    "keywords_secundarias": [
-      "messi seleccion argentina",
-      "despedida messi",
-      "scaloneta",
-      "mundial 2026"
-    ],
-    "angulo_editorial": "Impacto deportivo, político y social de la despedida del máximo ídolo de la Selección."
-  },
-  {
-    "titulo": "Nuevas reglas de ARCA para facturar: qué cambios rigen para monotributistas y autónomos",
-    "bajada": "El nuevo organismo fiscal de reemplazo de AFIP dispuso cambios severos de control en la facturación electrónica y la fiscalización de las cuentas.",
-    "cuerpo": "La Agencia de Recaudación y Control Aduanero (ARCA), el flamante organismo recaudador que reemplazó a la histórica AFIP, oficializó un nuevo y estricto conjunto de directrices fiscales orientadas a reestructurar por completo el sistema de emisión de comprobantes. Esta profunda reforma, diseñada técnicamente para modernizar el régimen impositivo en la República Argentina, introduce cambios de cumplimiento obligatorio que afectarán de manera directa la operatoria diaria de millones de monotributistas y profesionales autónomos de todo el país.\n\nEl núcleo operativo de la medida se centra en la obligatoriedad de emitir factura electronica arca bajo parámetros técnicos mucho más rígidos que antes, los cuales exigen la declaración en tiempo real de las operaciones comerciales de los contribuyentes y habilitan un cruce automatizado más veloz de cuentas bancarias y billeteras virtuales. Con este nuevo sistema digital, el Gobierno busca reducir sustancialmente la brecha de evasión fiscal que históricamente se registra en los sectores de servicios profesionales y comercios minoristas, optimizando la recaudación nacional sin la necesidad de crear nuevos tributos o aumentar las alícuotas vigentes. Los monotributistas deberán adaptar con urgencia sus sistemas informáticos para emitir los comprobantes al instante, reduciendo el margen de facturas diferidas y evitando bloqueos imprevistos en su clave fiscal por inconsistencias del sistema.\n\nDesde las principales asociaciones de graduados en ciencias económicas y cámaras de comercio del interior alertan sobre el costo operativo oculto y el impacto tecnológico negativo que esta transición forzosa representa para los pequeños contribuyentes que habitan zonas de baja conectividad. Aunque la digitalización de los procesos pretende simplificar la burocracia estatal, la rigidez del nuevo régimen fiscal y el constante riesgo de exclusión de las categorías del monotributo por desajustes formales despiertan justificadas alarmas en un mercado ya resentido por la caída del consumo.\n\n¿Logrará el nuevo organismo fiscal formalizar la economía marginal de manera efectiva o esta renovada presión burocrática terminará asfixiando a los trabajadores independientes que luchan por subsistir?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "3 min",
-    "slug": "arca-facturacion-monotributo-nuevas-reglas",
-    "fecha": "2026-08-31",
-    "imagen": "img/economia_7.png",
-    "destacada": false,
-    "meta_title": "Nuevas reglas de facturación ARCA Monotributo",
-    "meta_description": "Las nuevas exigencias de ARCA para facturar de monotributistas y autónomos. Guía completa sobre los cambios de la facturación electrónica oficial.",
-    "keyword_principal": "arca facturacion monotributo",
-    "keywords_secundarias": [
-      "factura electronica arca",
-      "afip monotributistas",
-      "comprobantes fiscales",
-      "regimen impositivo"
-    ],
-    "angulo_editorial": "Guía práctica sobre las nuevas exigencias de facturación electrónica implementadas por el organismo fiscal."
-  },
-  {
-    "titulo": "Inflación en baja vs presión cambiaria: el dilema que tensiona el plan del Gobierno",
-    "bajada": "A pesar de la notable desaceleración inflacionaria, la fuerte demanda de divisas sobre las escasas reservas del Central abre incertidumbres macroeconómicas.",
-    "cuerpo": "La economía de la República Argentina transita en la actualidad por un laberinto de dinámicas duales sumamente complejo. Mientras los informes mensuales publicados por el INDEC ratifican un descenso sostenido y progresivo en el índice de precios al consumidor, la tensión latente en el mercado cambiario informal e interbancario se niega a ceder. Este frágil escenario plantea un dilema existencial en el centro mismo del plan economico de la gestión de Javier Milei, que debe decidir de manera inminente si prioriza profundizar la baja inflacionaria o si cede ante la creciente presión de la demanda de divisas para evitar un indeseado salto cambiario.\n\nLa estrategia oficial ha logrado, mediante la implementación de una férrea disciplina fiscal sin precedentes y el congelamiento absoluto de la emisión monetaria, desacelerar de manera notable la inercia de los precios internos, un logro macroeconómico reconocido incluso por los organismos de crédito multilaterales. No obstante, la persistencia de una amplia brecha cambiaria y la continua erosión de las reservas del Banco Central exponen con claridad las limitaciones estructurales del esquema monetario actual. La reticencia de los productores agrícolas a liquidar sus divisas bajo el esquema de devaluación mensual programada, sumada a las crecientes obligaciones de pago de deuda y la liberación de importaciones, generan una demanda de dólares que el mercado oficial no logra abastecer de forma orgánica.\n\nEspecialistas y analistas de mercado advierten que sostener artificialmente el valor del tipo de cambio a través de intervenciones directas sobre los dólares financieros puede comprometer las metas de acumulación de reservas comprometidas con el exterior. Por el contrario, un ajuste devaluatorio brusco con el objetivo de unificar los mercados cambiarios pondría en jaque el proceso de desinflación, licuando el poder adquisitivo de la clase media y de los sectores vulnerables.\n\n¿Es técnicamente posible desmantelar el cepo cambiario y estabilizar la economía nacional sin provocar una nueva devaluación que dispare los niveles de pobreza e inestabilidad social?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "inflacion-baja-presion-cambiaria-dilema",
-    "fecha": "2026-08-31",
-    "imagen": "img/economia_7.png",
-    "destacada": false,
-    "meta_title": "Dilema económico: baja inflación vs dólar tenso",
-    "meta_description": "El dilema de la economía argentina: la inflación cae al mínimo pero la demanda de dólares presiona sobre las reservas del Banco Central.",
-    "keyword_principal": "inflacion y dolar argentina",
-    "keywords_secundarias": [
-      "plan economico milei",
-      "ipc indec",
-      "brecha cambiaria",
-      "demanda de dolares"
-    ],
-    "angulo_editorial": "Radiografía de la encrucijada entre la desaceleración del IPC y la creciente demanda de divisas."
-  },
-  {
-    "titulo": "Bancos y fintech debitarán deudas entre cuentas: ¿quiénes pierden con el nuevo régimen?",
-    "bajada": "El Banco Central autorizó una agresiva compensación de deudas mediante el cobro directo y automático en cuentas de otras billeteras virtuales y bancos.",
-    "cuerpo": "A partir de una reciente y debatida resolución dictada por el Banco Central de la República Argentina, ha entrado en vigencia un novedoso régimen que autoriza a las entidades financieras y a las plataformas fintech a debitar deudas impagas directamente de las cuentas que los clientes posean en cualquier otra institución de la red bancaria nacional. Esta drástica disposición busca reducir los niveles de morosidad comercial y sanear los balances del sector de préstamos de consumo, pero al mismo tiempo abre un encendido debate sobre la protección de los datos personales y los límites de la propiedad financiera de los individuos.\n\nEl flamante mecanismo de cobro deudas fintech bancos permite el rastreo informático y la compensación automatizada de los saldos deudores de manera inmediata, sin requerir una autorización o un trámite de embargo judicial formal, siempre y cuando el usuario haya aceptado las cláusulas de débito automatico deudas en sus contratos digitales de adhesión. De este modo, si un consumidor acumula mora en el pago de un préstamo contratado en una billetera virtual, el sistema informático de la entidad acreedora queda habilitado para rastrear y debitar el monto adeudado de los fondos disponibles en sus cuentas de ahorro de otros bancos comerciales del país.\n\nLas principales agrupaciones de defensa del consumidor y juristas del derecho civil han salido al cruce de esta normativa, calificándola como un abuso normativo que avasalla los derechos básicos de los usuarios financieros, alertando que se podrían afectar fondos destinados a salarios básicos o prestaciones sociales. En contraste, los representantes del sector financiero sostienen que esta desregulación reduce de forma directa el riesgo crediticio, lo cual permitirá bajar en el corto plazo las elevadas tasas de interés para el financiamiento de consumo masivo.\n\n¿Constituye esta medida un avance necesario para la transparencia y solidez del sistema de crédito argentino o representa un avasallamiento inaceptable sobre el patrimonio de los ahorristas?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "bancos-fintech-debito-automatico-deudas",
-    "fecha": "2026-08-31",
-    "imagen": "img/economia_9.png",
-    "destacada": false,
-    "meta_title": "Bancos y fintech debitarán deudas automáticamente",
-    "meta_description": "Nuevo régimen del BCRA para el cobro de deudas. Conocé cómo los bancos y fintech pueden debitar saldos cruzados entre las cuentas de sus clientes.",
-    "keyword_principal": "cobro deudas fintech bancos",
-    "keywords_secundarias": [
-      "debito automatico deudas",
-      "billeteras virtuales",
-      "bcra deudores",
-      "embargo de cuentas"
-    ],
-    "angulo_editorial": "Análisis del mecanismo de cobro compulsivo cruzado entre entidades bancarias y billeteras virtuales."
-  },
-  {
-    "titulo": "La Justicia intima al Ejecutivo por el destino de los fondos viales para rutas",
-    "bajada": "Un tribunal de auditoría impuso plazos urgentes para que el Gobierno detalle el flujo financiero de los fondos viales recortados en la obra pública.",
-    "cuerpo": "En un escenario de creciente tensión política y judicial, la Justicia Federal dictaminó una resolución intimando formalmente al Poder Ejecutivo de la Nación para que brinde un informe detallado e integral acerca de la utilización y asignación de los recursos económicos viales previstos para el mantenimiento de las rutas de todo el país. La causa de origen se fundamenta en denuncias que apuntan a una presunta discrecionalidad en el redireccionamiento de fondos específicos provenientes de impuestos directos al combustible, los cuales legalmente debían nutrir fideicomisos destinados a obras camineras de Vialidad Nacional.\n\nEl punto álgido de la confrontación reside en la decisión de la administración central de suspender por completo las partidas de obra publica vial en el marco de su rigurosa política de equilibrio fiscal y déficit cero. De acuerdo con las presentaciones judiciales de gobernadores e intendentes de diversos signos partidarios, las sumas destinadas al fideicomiso de mantenimiento de rutas nacionales habrían sido retenidas de manera unilateral para engrosar el superávit del Tesoro Nacional y financiar otras obligaciones corrientes de carácter financiero. La intimación del tribunal impone plazos perentorios para que los ministros competentes aclaren las auditorías internas del flujo de capitales del fondo fiduciario bajo apercibimiento de severas sanciones legales.\n\nEste conflicto institucional visibiliza el deterioro extremo que presentan amplios tramos de las rutas nacionales más transitadas del país, un factor crítico que incrementa de forma alarmante el índice de accidentes de tránsito y encarece notablemente los costos de logística de las economías regionales que transportan mercadería. Mientras el Gobierno argumenta la necesidad imperiosa de desmantelar estructuras de corrupción históricas ligadas a la cartelización de la construcción vial, los reclamos provinciales se multiplicican en los tribunales federales.\n\n¿Logrará el Ejecutivo nacional blindar sus cuentas y sostener el superávit financiero si los fallos de la Justicia Federal comienzan a forzarlo a reanudar el flujo de partidas presupuestarias específicas?",
-    "categoria": "politica",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "justicia-intima-gobierno-fondos-viales-rutas",
-    "fecha": "2026-08-31",
-    "imagen": "img/politica_5.png",
-    "destacada": false,
-    "meta_title": "Justicia intima al Gobierno por fondos viales",
-    "meta_description": "La Justicia intimó al Poder Ejecutivo a detallar el destino de los fondos del fideicomiso vial paralizado. Crecen las tensiones por la obra pública.",
-    "keyword_principal": "fideicomiso rutas justicia gobierno",
-    "keywords_secundarias": [
-      "obra publica vial",
-      "fondos fiduciarios",
-      "vialidad nacional",
-      "auditoria judicial"
-    ],
-    "angulo_editorial": "Avance judicial por la paralización de la obra pública y el manejo de fideicomisos estatales."
-  },
-  {
-    "titulo": "¿Cómo funcionan los nuevos créditos UVA de Banco Provincia con tope antiinflacionario?",
-    "bajada": "La banca provincial bonaerense lanzó hipotecarios atados al salario para contener desfasajes frente a la inflación y proponer una opción superadora.",
-    "cuerpo": "El Banco Provincia de Buenos Aires oficializó la puesta en marcha de una innovadora línea de créditos hipotecarios UVA que cuenta con una particularidad única en el mercado: un tope antiinflacionario diseñado para proteger el poder adquisitivo de las familias adjudicatarias. Esta propuesta, anunciada bajo la gestión provincial, busca plantear una alternativa viable y superadora frente a las líneas tradicionales que ofrece la banca nacional y privada, las cuales han sido criticadas históricamente por su alta indexación en contextos inflacionarios complejos.\n\nLa ventaja comparativa que ofrecen los creditos uva banco provincia consiste en la incorporación obligatoria de una cláusula de protección que vincula de manera directa el ajuste de las cuotas con el Coeficiente de Variación Salarial. De esta forma, si el índice inflacionario medido por el INDEC experimenta una aceleración que supere la suba de los salarios promedio en más de un margen previamente establecido, la entidad bancaria ajustará el valor de la cuota mensual utilizando la tasa más baja de ambas, evitando la asfixia económica que sufrieron miles de tomadores de créditos similares durante los años de alta inflación.\n\nEste lanzamiento no solo posee relevancia financiera, sino que constituye un claro capítulo de la confrontación conceptual y política entre el gobierno provincial liderado por Axel Kicillof y el modelo macroeconómico nacional de desregulación que encabeza Javier Milei. Mientras el oficialismo nacional promueve la no intervención estatal en los acuerdos contractuales, la administración bonaerense intenta demostrar que la banca pública puede y debe actuar como un agente de contención y planificación social frente al severo déficit habitacional de la provincia.\n\n¿Se consolidará este formato de crédito UVA atado a la variación de los salarios como una herramienta confiable para el acceso a la vivienda o la persistente inestabilidad macroeconómica volverá a truncar su viabilidad?",
-    "categoria": "economia",
-    "autor": "Redacción Panorama",
-    "lectura": "4 min",
-    "slug": "creditos-uva-banco-provincia-tope-inflacion",
-    "fecha": "2026-08-31",
-    "imagen": "img/economia_14.png",
-    "destacada": false,
-    "meta_title": "Créditos UVA con tope antiinflacionario del BAPRO",
-    "meta_description": "Banco Provincia lanza créditos UVA atados a la evolución de los salarios bonaerenses. Conocé el funcionamiento del nuevo tope antiinflacionario.",
-    "keyword_principal": "creditos uva banco provincia",
-    "keywords_secundarias": [
-      "prestamos hipotecarios uva",
-      "clausula inflacion",
-      "kicillof creditos",
-      "bapro vivienda"
-    ],
-    "angulo_editorial": "Lanzamiento de hipotecarios bonaerenses que buscan diferenciarse de las líneas bancarias nacionales."
   }
 ]
