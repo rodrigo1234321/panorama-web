@@ -56,6 +56,7 @@ jobs:
         env:
           TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
           TWITTER_CT0: ${{ secrets.TWITTER_CT0 }}
+          TWITTER_AUTH_MULTI: ${{ secrets.TWITTER_AUTH_MULTI }}
           HEADLESS: 'true'
         run: node scripts/post-tweet.js
 

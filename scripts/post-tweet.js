@@ -97,6 +97,14 @@ async function run() {
         );
       }
 
+      if (process.env.TWITTER_AUTH_MULTI) {
+        const rawAuthMulti = process.env.TWITTER_AUTH_MULTI.trim();
+        cookies.push(
+          { name: 'auth_multi', value: rawAuthMulti, domain: '.x.com', path: '/', httpOnly: false, secure: true, sameSite: 'Lax' },
+          { name: 'auth_multi', value: rawAuthMulti, domain: '.twitter.com', path: '/', httpOnly: false, secure: true, sameSite: 'Lax' }
+        );
+      }
+
       await context.addCookies(cookies);
     }
 
