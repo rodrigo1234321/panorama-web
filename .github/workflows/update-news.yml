@@ -27,8 +27,22 @@ jobs:
           node-version: '22'
           cache: 'npm'
 
+      - name: Cachear binarios de Playwright
+        uses: actions/cache@v4
+        id: playwright-cache
+        with:
+          path: ~/.cache/ms-playwright
+          key: ${{ runner.os }}-playwright-v2-${{ hashFiles('package.json') }}
+          restore-keys: |
+            ${{ runner.os }}-playwright-v2-
+            ${{ runner.os }}-playwright-
+
       - name: Instalar dependencias
         run: npm install
+
+      - name: Instalar navegador Chromium para Playwright
+        if: steps.playwright-cache.outputs.cache-hit != 'true'
+        run: npx playwright install chromium --with-deps
 
       - name: Ejecutar script de reposición de noticias
         env:
@@ -36,33 +50,33 @@ jobs:
           SITE_URL: ${{ vars.SITE_URL }}
         run: node scripts/update-news.js
 
-      - name: Commitear y Subir cambios
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add package.json package-lock.json noticias.json notas/ img/ trends.json sitemap.xml robots.txt
-          # Solo hacer commit si el archivo noticias.json o las notas cambiaron
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: actualización de noticias y páginas estáticas" && git push)
-
-      - name: Cachear binarios de Playwright
-        uses: actions/cache@v4
-        id: playwright-cache
-        with:
-          path: ~/.cache/ms-playwright
-          key: ${{ runner.os }}-playwright-${{ hashFiles('package-lock.json') }}
-          restore-keys: |
-            ${{ runner.os }}-playwright-
-
-      - name: Instalar navegador Chromium para Playwright
-        if: steps.playwright-cache.outputs.cache-hit != 'true'
-        run: npx playwright install chromium --with-deps
-
       - name: Publicar Tweet en X (Twitter)
+        id: tweet-step
+        continue-on-error: true
         env:
           TWITTER_AUTH_TOKEN: ${{ secrets.TWITTER_AUTH_TOKEN }}
           TWITTER_CT0: ${{ secrets.TWITTER_CT0 }}
           HEADLESS: 'true'
         run: node scripts/post-tweet.js
+
+      - name: Reportar estado del Tweet
+        if: always()
+        run: |
+          if [ "${{ steps.tweet-step.outcome }}" == "failure" ]; then
+            echo "::warning::⚠️ El tweet no se pudo publicar. Verificar TWITTER_AUTH_TOKEN."
+            echo "### ⚠️ Tweet NO publicado" >> $GITHUB_STEP_SUMMARY
+            echo "El script de publicación en X falló. Posibles causas: token expirado, rate limit o cambio en la UI de Twitter." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "### ✅ Tweet publicado exitosamente" >> $GITHUB_STEP_SUMMARY
+          fi
+
+      - name: Commitear y Subir cambios
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add package.json package-lock.json noticias.json notas/ img/ trends.json sitemap.xml robots.txt tweet.txt
+          # Solo hacer commit si el archivo noticias.json o las notas cambiaron
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: actualización de noticias y páginas estáticas" && git push)
 
       - name: Mostrar Borrador de Tweet para X
         if: always()

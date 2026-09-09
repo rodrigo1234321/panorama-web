@@ -3,9 +3,17 @@ const path = require('path');
 
 // Configuration
 const RSS_FEEDS = [
-  { name: 'politica', url: 'https://news.google.com/rss/search?q=politica+argentina+milei+gobierno&hl=es-419&gl=AR&ceid=AR:es-419' },
-  { name: 'economia', url: 'https://news.google.com/rss/search?q=economia+argentina+dolar+inflacion+medidas&hl=es-419&gl=AR&ceid=AR:es-419' },
-  { name: 'sociedad', url: 'https://news.google.com/rss/search?q=Argentina+sociedad+debate+nacional&hl=es-419&gl=AR&ceid=AR:es-419' },
+  // Core: Política y Gobierno Milei
+  { name: 'politica', url: 'https://news.google.com/rss/search?q=politica+argentina+milei+gobierno+congreso+reforma&hl=es-419&gl=AR&ceid=AR:es-419' },
+  // Core: Economía, mercados, dólar, inflación
+  { name: 'economia', url: 'https://news.google.com/rss/search?q=economia+argentina+dolar+inflacion+superavit+riesgo+pais+reservas&hl=es-419&gl=AR&ceid=AR:es-419' },
+  // Finanzas: Mercados, inversiones, Vaca Muerta, minería
+  { name: 'economia', url: 'https://news.google.com/rss/search?q=argentina+finanzas+mercados+vaca+muerta+inversiones+RIGI+exportaciones&hl=es-419&gl=AR&ceid=AR:es-419' },
+  // Sociedad y debates nacionales
+  { name: 'sociedad', url: 'https://news.google.com/rss/search?q=Argentina+sociedad+debate+seguridad+educacion+inseguridad&hl=es-419&gl=AR&ceid=AR:es-419' },
+  // Desregulación, Estado, reforma estatal
+  { name: 'politica', url: 'https://news.google.com/rss/search?q=argentina+desregulacion+estado+reforma+privatizacion+gasto+publico&hl=es-419&gl=AR&ceid=AR:es-419' },
+  // Portada general Argentina
   { name: 'portada', url: 'https://news.google.com/rss?hl=es-419&gl=AR&ceid=AR:es-419' }
 ];
 
@@ -152,10 +160,14 @@ async function fetchNews() {
   return allItems.slice(0, 35);
 }
 
-const candidateModels = ['gemini-flash-latest', 'gemini-3.5-flash', 'gemini-3.6-flash', 'gemini-2.5-flash'];
+const candidateModels = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-1.5-flash'];
 
-// Helper to call Gemini API with fallback models
+// Helper to call Gemini API with fallback models and timeout
 async function callGemini(prompt, responseSchema, description) {
+  if (!GEMINI_API_KEY) {
+    throw new Error('Variable GEMINI_API_KEY no encontrada en el entorno.');
+  }
+
   const requestBody = {
     contents: [
       {
@@ -181,17 +193,23 @@ async function callGemini(prompt, responseSchema, description) {
     try {
       console.log(`[Gemini API] Ejecutando "${description}" con modelo: ${modelName}...`);
       const url = `https://generativelanguage.googleapis.com/v1beta/models/${modelName}:generateContent?key=${GEMINI_API_KEY}`;
+      
+      const controller = new AbortController();
+      const timeoutId = setTimeout(() => controller.abort(), 45000); // 45s timeout
+
       const res = await fetch(url, {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json'
         },
-        body: JSON.stringify(requestBody)
+        body: JSON.stringify(requestBody),
+        signal: controller.signal
       });
+      clearTimeout(timeoutId);
 
       if (!res.ok) {
         const errText = await res.text();
-        console.warn(`[Gemini API] Modelo ${modelName} falló con status ${res.status}. Probando siguiente modelo...`);
+        console.warn(`[Gemini API] Modelo ${modelName} falló con status ${res.status}. Probando siguiente modelo... Detalle: ${errText.slice(0, 120)}`);
         lastError = new Error(`Status ${res.status}: ${errText.slice(0, 150)}`);
         continue;
       }
@@ -213,20 +231,23 @@ async function callGemini(prompt, responseSchema, description) {
   throw new Error(`Error crítico en Gemini (${description}): ${lastError?.message}`);
 }
 
-// ETAPA 1: Editor Jefe y Selector Editorial con Scoring
+// ETAPA 1: Editor Jefe — Selección Editorial Republicana / Liberal
 async function selectTopStories(newsItems, trends = []) {
   console.log('📌 [Etapa 1/2] Iniciando Evaluación Editorial y Selección de Top 10 Noticias...');
   const today = new Date().toISOString().split('T')[0];
 
   const prompt = `
-    Sos el editor jefe de "Panorama.ar", el portal digital argentino de periodismo de análisis político, económico y debate social con fuerte distribución en Google Discover, Google Search y X (Twitter).
+    Sos el editor jefe de "Panorama.ar", un portal digital argentino de análisis político, económico y actualidad nacional con distribución en Google Search, Discover y X (Twitter).
+    Tu línea editorial es REPUBLICANA, PRO-LIBERTAD y PRO-MERCADO. Combina dos registros según el tipo de noticia:
+    - ENFOQUE COMBATIVO/DIRECTO: Para desenmascarar abusos de poder, privilegios sindicales, corrupción y debates de "batalla cultural" (inspirado en La Derecha Diario, Traductor, Gordo Dan).
+    - ENFOQUE SUTIL Y RIGUROSO: Para análisis económico, inflación, reformas estructurales, finanzas y decisiones de Estado, con datos duros y lenguaje periodístico serio (inspirado en Jonatan Viale, Break Point, Focus, Caputo).
 
     OBJETIVO PRINCIPAL (ETAPA 1 — SELECCIÓN EDITORIAL Y SCORING):
-    A partir de la lista de noticias de entrada y de las tendencias en tiempo real de Argentina, evaluá y seleccioná EXACTAMENTE las 10 noticias con mayor potencial combinado de:
+    A partir de las noticias de entrada y tendencias de Argentina, evaluá y seleccioná EXACTAMENTE las 10 noticias más relevantes:
     1. Tráfico orgánico en Google Search y Discover.
-    2. Interés público, debate e impresiones en X (Twitter).
-    3. Relevancia política y económica nacional.
-    4. Actualidad y frescura informativa.
+    2. Interés y debate en X (Twitter).
+    3. Relevancia política y económica para el debate nacional.
+    4. Actualidad y precisión informativa.
 
     TENDENCIAS ACTUALES EN ARGENTINA (X/Twitter y Google Trends):
     ${JSON.stringify(trends, null, 2)}
@@ -234,41 +255,35 @@ async function selectTopStories(newsItems, trends = []) {
     NOTICIAS DE ENTRADA (${newsItems.length} noticias recolectadas):
     ${JSON.stringify(newsItems, null, 2)}
 
-    REGLAS DE SELECCIÓN EDITORIAL (OBLIGATORIAS):
+    REGLAS DE SELECCIÓN EDITORIAL:
 
-    1. EVALUACIÓN Y SCORING MULTIDIMENSIONAL:
-       - Evaluá internamente cada noticia de 0 a 10 en: relevancia política/económica, coincidencia real con tendencias, potencial de búsqueda, potencial de CTR en Discover, debate en X e impacto nacional.
-       - DESCARTÁ noticias intrascendentes, gacetillas menores, sucesos locales irrelevantes o notas sin interés nacional.
-       - Seleccioná únicamente las 10 noticias con mejor score general.
+    1. DISTRIBUCIÓN ESTRICTA DE CATEGORÍAS (OBLIGATORIO — SOLO 3 CATEGORÍAS):
+       - Exactamente 4 notas de "politica"
+       - Exactamente 4 notas de "economia"
+       - Exactamente 2 notas de "sociedad"
 
-    2. PRIORIDADES TEMÁTICAS:
-       - Priorizá: Política nacional, Economía argentina, Decisiones del gobierno de Javier Milei, Congreso, Inflación, Dólar, Salarios, Jubilaciones, Pymes, Seguridad y grandes controversias sociales con impacto nacional.
-       - Si la política y economía dominan claramente la agenda del día, pueden ocupar la gran mayoría del TOP 10.
+    2. ENCUADRE EDITORIAL INTELIGENTE:
+       - PRIORIZÁ: Logros de gestión, baja de inflación, superávit, desregulaciones, debates en el Congreso, seguridad, y exposición de privilegios de la casta.
+       - Calibrá el tono: algunas notas deben ser incisivas y picantes, y otras analíticas y profundas.
 
-    3. CONEXIÓN FACTUAL CON TENDENCIAS (SIN FORZAR):
-       - Las tendencias de X y Google Trends funcionan como señales editoriales, NO como palabras que deban insertarse artificialmente.
-       - Si una noticia tiene relación real y factual con una tendencia (ej: trata sobre Milei, Caputo o el Dólar), asigná el término exacto en "relacion_tendencia_real".
-       - Si la noticia NO tiene relación directa con la tendencia, NO la fuerces (dejá null o cadena vacía). Prohibido inventar conexiones.
+    3. CONEXIÓN CON TENDENCIAS:
+       - Si una noticia se relaciona de forma real y factual con una tendencia de X, asigná el término exacto en "relacion_tendencia_real". Si no, dejá null o cadena vacía.
 
     4. ROTACIÓN DE FÓRMULAS DE TITULARES:
-       - Asigná a cada nota una fórmula de título distinta para evitar repeticiones:
-         * "Dato + consecuencia"
-         * "Medida + impacto"
-         * "Conflicto + protagonista"
-         * "Qué cambia y a quién beneficia/afecta"
-         * "Quién gana / quién pierde"
-         * "Tensión política"
-         * "Pregunta/incógnita"
-         * "Explicación / Análisis a fondo"
+       * "Dato contundente + impacto real"
+       * "Medida de gobierno + qué cambia y qué se elimina"
+       * "Contraste con la gestión anterior + números duros"
+       * "Conflicto político + quién gana y quién pierde"
+       * "Pregunta incisiva + respuesta con datos"
+       * "Análisis a fondo + claves para entender el escenario"
 
-    5. DEFINICIÓN DE ÁNGULO Y SEO:
-       - Para cada una de las 10 noticias definí:
-         * titulo_propuesto: Título claro y magnético (máx 15 palabras).
-         * angulo_editorial: El enfoque periodístico específico de la nota.
-         * keyword_principal: La consulta central de búsqueda en Google.
-         * keywords_secundarias: Array de 3 a 5 términos semánticos vinculados.
-         * categoria: "politica", "economia" o "sociedad".
-         * destacada: true SOLO para la noticia de mayor impacto nacional de la jornada (las otras 9 deben tener false).
+    5. CAMPOS A DEFINIR POR NOTICIA:
+       * titulo_propuesto: Titular periodístico magnético (máx 15 palabras).
+       * angulo_editorial: El enfoque (combativo o analítico-sutil con datos).
+       * keyword_principal: Consulta central de búsqueda.
+       * keywords_secundarias: Array de 3 a 5 términos vinculados.
+       * categoria: "politica", "economia" o "sociedad" (SOLO una de estas tres).
+       * destacada: true SOLO para la nota principal del día.
   `;
 
   const schema = {
@@ -303,51 +318,120 @@ async function selectTopStories(newsItems, trends = []) {
   return selected.slice(0, 10);
 }
 
-// ETAPA 2: Redactor Periodístico Senior, SEO/Discover y Redacción de Tweets
+// ETAPA 2: Redactor Periodístico Senior — Línea Republicana/Liberal, SEO y Tweets
 async function draftFullArticles(selectedStories, rawNewsItems, trends = []) {
   console.log('✍️ [Etapa 2/2] Iniciando Redacción Periodística Profunda, Optimización SEO y Redes...');
   const today = new Date().toISOString().split('T')[0];
 
   const prompt = `
-    Sos el Redactor Periodístico Senior y Especialista en SEO/Discover de "Panorama.ar".
+    Sos el Redactor Periodístico Senior y Especialista en SEO de "Panorama.ar".
+    Tu línea editorial es REPUBLICANA, LIBERAL y PRO-MERCADO. Manejás con destreza dos registros:
+    - TONO SUTIL Y RIGUROSO: Para notas de economía, finanzas, reformas y datos duros. Argumentación sólida, citas de fuentes oficiales, contrastes estadísticos y análisis serio sin estridencias.
+    - TONO COMBATIVO E INCISIVO: Para notas sobre operaciones políticas, privilegios gremiales, hipocresías del relato opositor y debates culturales. Contundente, directo y sin concesiones.
 
-    Tu misión: Redactar los 10 artículos completos a partir de la selección editorial definida por el Editor Jefe.
+    Tu misión: Redactar los 10 artículos completos a partir de la selección del Editor Jefe.
 
-    SELECCIÓN EDITORIAL DEFINIDA (TOP 10 CON ÁNGULOS, FÓRMULAS Y KEYWORDS):
+    SELECCIÓN EDITORIAL DEFINIDA:
     ${JSON.stringify(selectedStories, null, 2)}
 
-    FUENTES DE NOTICIAS DE ENTRADA COMO REFERENCIA:
+    FUENTES DE ENTRADA COMO REFERENCIA:
     ${JSON.stringify(rawNewsItems, null, 2)}
 
-    REGLAS DE REDACCIÓN Y PERIODISMO (OBLIGATORIAS):
+    REGLAS DE REDACCIÓN (OBLIGATORIAS):
 
-    1. ESTRUCTURA DEL ARTÍCULO Y EXTENSIÓN:
-       - Cada artículo debe tener entre 350 y 600 palabras (densidad analítica y calidad sin notas artificialmente cortas).
-       - Separar los párrafos con dobles saltos de línea (\\n\\n).
-       - Párrafo 1: Apertura fuerte con el hecho principal, protagonistas y por qué importa.
-       - Párrafos siguientes: Desarrollo con datos duros, contexto, antecedentes, declaraciones y posturas de los protagonistas.
-       - Párrafo de análisis: Consecuencias políticas, económicas o sociales concretas.
-       - Cierre: SIEMPRE cerrar el último párrafo con una pregunta incisiva y reflexiva que invite al debate en comentarios.
+    1. ESTRUCTURA Y EXTENSIÓN:
+       - Cada artículo: entre 350 y 550 palabras, con buena densidad informativa.
+       - Párrafos separados por dobles saltos de línea (\\\\n\\\\n).
+       - Párrafo 1: Noticia principal + contexto + por qué importa.
+       - Párrafos centrales: Datos duros, cifras, comparaciones con gestiones anteriores, citas y antecedentes.
+       - Párrafo final: Análisis de impacto y cierre con una pregunta reflexiva que invite al lector a pensar.
 
-    2. LÍNEA EDITORIAL CAMALEÓNICA:
-       - ESCENARIO A (Medidas favorables al gobierno de Javier Milei / reformas): Destacá datos duros oficiales, reducción de déficit, inflación a la baja, desregulación y firmeza. Contrastá con las fallas estructurales del modelo estatista previo sin caer en propaganda.
-       - ESCENARIO B (Críticas o costos sociales de las medidas): NUNCA militar a favor del kirchnerismo o la izquierda. Planteá un análisis inteligente en zonas de GRISES: costos sociales, impacto en clase media, jubilados, pymes, velocidad de implementación o contradicciones, con datos reales y preguntas legítimas.
-       - ESCENARIO C (Temas institucionales o judiciales): Tono analítico, directo y riguroso basado en hechos comprobables.
+    2. ENCUADRE TEMÁTICO:
+       - Medidas económicas y fiscales: Enmarcar en la necesidad de orden monetario, superávit y eliminación de trabas burocráticas.
+       - Dificultades o costos de transición: Explicar las raíces estructurales heredadas sin ocultar los desafíos actuales.
+       - Oposición / Sindicatos: Cuestionar con datos el mantenimiento de privilegios o posturas corporativas.
+       - Seguridad / Instituciones: Defensa de la ley, orden y transparencia republicana.
 
-    3. OPTIMIZACIÓN MULTIDIMENSIONAL (SEO + DISCOVER + SEARCH):
-       - "titulo": Titular editorial magnético de máximo 15 palabras, claro, evitando clickbait engañoso o mayúsculas innecesarias.
-       - "meta_title": Titular optimizado para Google Search y Discover (máximo 60 caracteres).
-       - "meta_description": Resumen gancho de 140 a 155 caracteres optimizado para CTR en resultados de búsqueda.
-       - "keyword_principal" y "keywords_secundarias": Integrar de manera 100% natural en el texto.
-       - "slug": URL slug limpio en minúsculas, guiones y sin tildes ni caracteres especiales.
+    3. FORMATO DE TWEETS PARA X (OPTIMIZADO PARA ENGAGEMENT):
+       - MÁXIMO 220 caracteres (el enlace al sitio se agrega automáticamente al final).
+       - SIN enlaces y SIN hashtags con '#'.
+       - Estructura: Gancho inicial (dato o síntesis contundente) + remate o pregunta que invite al debate.
+       - Emojis moderados y efectivos al inicio (ej: 🇦🇷, 📊, ⚡, 🚨).
 
-    4. FORMATO DE TWEET PARA X/TWITTER:
-       - MÁXIMO 220 caracteres.
-       - NO incluir enlaces ni URLs (se agregarán automáticamente después).
-       - PROHIBIDO poner hashtags con '#' dentro de las oraciones o en el medio del texto.
-       - Estructura: Oración 1 con gancho potente o dato revelador + Oración 2 con pregunta punzante sobre el conflicto específico de la nota.
+    4. CATEGORÍAS PERMITIDAS:
+       - Únicamente: "politica", "economia" o "sociedad".
+  `;
 
-    5. CAMPOS DEL JSON REQUERIDOS:
+  const schema = {
+    type: "ARRAY",
+    description: "Lista de 10 noticias seleccionadas por el Editor Jefe",
+    items: {
+      type: "OBJECT",
+      properties: {
+        id_fuente: { type: "INTEGER", description: "Índice de la noticia en la lista de entrada" },
+        titulo_fuente_original: { type: "STRING" },
+        titulo_propuesto: { type: "STRING" },
+        categoria: { type: "STRING", enum: ["politica", "economia", "sociedad", "opinion"] },
+        angulo_editorial: { type: "STRING" },
+        formula_titular: { type: "STRING" },
+        keyword_principal: { type: "STRING" },
+        keywords_secundarias: { type: "ARRAY", items: { type: "STRING" } },
+        destacada: { type: "BOOLEAN" },
+        relacion_tendencia_real: { type: "STRING" }
+      },
+      required: [
+        "titulo_propuesto", "categoria", "angulo_editorial", "formula_titular", 
+        "keyword_principal", "keywords_secundarias", "destacada"
+      ]
+    }
+  };
+
+  const selected = await callGemini(prompt, schema, "Etapa 1: Selección Editorial y Scoring");
+  if (!Array.isArray(selected) || selected.length === 0) {
+    throw new Error('La selección editorial no devolvió noticias válidas.');
+  }
+
+  return selected.slice(0, 10);
+}
+
+// ETAPA 2: Redactor Periodístico Senior — Línea Republicana/Liberal, SEO y Tweets
+async function draftFullArticles(selectedStories, rawNewsItems, trends = []) {
+  console.log('✍️ [Etapa 2/2] Iniciando Redacción Periodística Profunda, Optimización SEO y Redes...');
+  const today = new Date().toISOString().split('T')[0];
+
+  const prompt = `
+    Sos el Redactor Periodístico Senior y Especialista en SEO de "Panorama.ar".
+    Tu línea editorial es REPUBLICANA, LIBERAL y PRO-MERCADO. Alternás con maestría entre dos registros según el tema:
+    - TONO SUTIL Y RIGUROSO (Periodismo de datos): Para notas de economía, finanzas, inflación, desregulación y reformas estructurales. Utilizá cifras oficiales, datos duros, comparaciones de gestiones y análisis fundamentado (estilo Jonatan Viale, Break Point, Focus, Caputo).
+    - TONO COMBATIVO E INCISIVO (Batalla cultural y política): Para notas sobre abusos de poder, privilegios sindicales, contradicciones de la oposición o controversias públicas. Titulares con fuerza, desenmascarando hipocresías sin caer en vulgaridades (estilo La Derecha Diario, Traductor, Gordo Dan).
+
+    Tu misión: Redactar los 10 artículos completos a partir de la selección editorial del Editor Jefe.
+
+    SELECCIÓN EDITORIAL DEFINIDA:
+    ${JSON.stringify(selectedStories, null, 2)}
+
+    FUENTES DE ENTRADA COMO REFERENCIA:
+    ${JSON.stringify(rawNewsItems, null, 2)}
+
+    REGLAS DE REDACCIÓN (OBLIGATORIAS):
+
+    1. ESTRUCTURA Y EXTENSIÓN:
+       - Cada artículo debe tener entre 350 y 550 palabras (calidad y densidad informativa).
+       - Separar párrafos con dobles saltos de línea (\\\\n\\\\n).
+       - Párrafo 1: Noticia principal + contexto relevante + por qué importa.
+       - Párrafos centrales: Datos duros, cifras, comparaciones, declaraciones y antecedentes.
+       - Cierre: Siempre cerrar con una pregunta reflexiva que invite al debate en redes.
+
+    2. CATEGORÍAS PERMITIDAS (ESTRICTAMENTE 3):
+       - Solo "politica", "economia" o "sociedad".
+
+    3. FORMATO DE TWEET PARA X/TWITTER (VIRAL Y EFECTIVO):
+       - MÁXIMO 220 caracteres (el enlace al sitio se agrega automáticamente al final).
+       - NO incluir enlaces ni URLs.
+       - PROHIBIDO poner hashtags con '#'.
+       - Estructura: Gancho con emoji al inicio (🇦🇷, 📊, ⚡, 🚨, 🔥) + dato o afirmación potente + remate o pregunta que invite al RT/comentario.
+
+    4. CAMPOS DEL JSON REQUERIDOS:
        - titulo, bajada, cuerpo, categoria, autor ("Redacción Panorama"), lectura ("4 min"), slug, fecha ("${today}"), imagen ("img/fallback_general.png"), destacada (boolean), tweet, meta_title, meta_description, keyword_principal, keywords_secundarias, angulo_editorial.
   `;
 

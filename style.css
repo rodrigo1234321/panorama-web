@@ -31,24 +31,24 @@
   --shadow-lg:    0 12px 40px oklch(0 0 0 / 0.08);
 
   /* Modern engines rewrite with light-dark() */
-  --bg:           light-dark(oklch(0.98 0.004 80), oklch(0.12 0.005 80));
-  --bg-card:      light-dark(#ffffff, oklch(0.16 0.008 80));
-  --bg-navbar:    light-dark(oklch(0.98 0.004 80 / 0.90), oklch(0.12 0.005 80 / 0.90));
+  --bg:           light-dark(oklch(0.985 0.003 80), oklch(0.13 0.012 250));
+  --bg-card:      light-dark(#ffffff, oklch(0.17 0.015 250));
+  --bg-navbar:    light-dark(oklch(0.985 0.003 80 / 0.92), oklch(0.13 0.012 250 / 0.92));
   --text-main:    light-dark(oklch(0.12 0.005 80), oklch(0.98 0.004 80));
-  --text-soft:    light-dark(oklch(0.44 0.01 80), oklch(0.76 0.01 80));
+  --text-soft:    light-dark(oklch(0.40 0.01 80), oklch(0.78 0.01 80));
   --text-muted:   light-dark(oklch(0.48 0.01 80), oklch(0.58 0.01 80));
-  --border-color: light-dark(oklch(0.91 0.004 80), oklch(0.24 0.008 80));
+  --border-color: light-dark(oklch(0.90 0.005 80), oklch(0.24 0.015 250));
   
-  --primary:      light-dark(oklch(0.48 0.20 25), oklch(0.60 0.22 25)); /* Accent Red */
-  --primary-glow: light-dark(oklch(0.48 0.20 25 / 0.12), oklch(0.60 0.22 25 / 0.20));
+  --primary:      light-dark(oklch(0.48 0.22 25), oklch(0.62 0.22 25)); /* Crimson / Red Accent */
+  --primary-glow: light-dark(oklch(0.48 0.22 25 / 0.12), oklch(0.62 0.22 25 / 0.22));
 
   /* Categories with guaranteed WCAG AA >= 4.5:1 contrast */
-  --economia:     light-dark(oklch(0.44 0.16 145), oklch(0.72 0.16 145)); /* Emerald */
+  --economia:     light-dark(oklch(0.44 0.16 145), oklch(0.72 0.16 145)); /* Emerald / Finance */
   --economia-bg:  light-dark(oklch(0.95 0.03 145), oklch(0.22 0.05 145));
-  --sociedad:     light-dark(oklch(0.42 0.18 250), oklch(0.70 0.18 250)); /* Blue */
-  --sociedad-bg:  light-dark(oklch(0.95 0.03 250), oklch(0.20 0.05 250));
-  --politica:     light-dark(oklch(0.48 0.16 75),  oklch(0.75 0.15 75));  /* Amber/Warm Brown */
-  --politica-bg:  light-dark(oklch(0.96 0.03 75),  oklch(0.22 0.05 75));
+  --sociedad:     light-dark(oklch(0.42 0.16 295), oklch(0.72 0.16 295)); /* Plum / Society */
+  --sociedad-bg:  light-dark(oklch(0.95 0.03 295), oklch(0.22 0.05 295));
+  --politica:     light-dark(oklch(0.42 0.18 250), oklch(0.70 0.18 250)); /* Institutional Navy/Blue */
+  --politica-bg:  light-dark(oklch(0.95 0.03 250), oklch(0.22 0.05 250));
 
   --shadow-sm:    light-dark(0 1px 3px oklch(0 0 0 / 0.04),  0 1px 3px oklch(0 0 0 / 0.2));
   --shadow-md:    light-dark(0 4px 20px oklch(0 0 0 / 0.06), 0 4px 20px oklch(0 0 0 / 0.3));
@@ -110,6 +110,8 @@
   --sociedad-bg:  oklch(0.95 0.03 250);
   --politica:     oklch(0.55 0.16 75);
   --politica-bg:  oklch(0.96 0.03 75);
+  --opinion:      oklch(0.45 0.22 25);
+  --opinion-bg:   oklch(0.96 0.04 25);
   --shadow-sm:    0 1px 3px oklch(0 0 0 / 0.04);
   --shadow-md:    0 4px 20px oklch(0 0 0 / 0.06);
   --shadow-lg:    0 12px 40px oklch(0 0 0 / 0.08);
@@ -132,6 +134,8 @@
   --sociedad-bg:  oklch(0.20 0.05 250);
   --politica:     oklch(0.72 0.15 75);
   --politica-bg:  oklch(0.22 0.05 75);
+  --opinion:      oklch(0.65 0.22 25);
+  --opinion-bg:   oklch(0.20 0.06 25);
   --shadow-sm:    0 1px 3px oklch(0 0 0 / 0.2);
   --shadow-md:    0 4px 20px oklch(0 0 0 / 0.3);
   --shadow-lg:    0 12px 40px oklch(0 0 0 / 0.4);
@@ -426,6 +430,7 @@ header {
 .tag-badge.economia { background: var(--economia-bg); color: var(--economia); }
 .tag-badge.sociedad { background: var(--sociedad-bg); color: var(--sociedad); }
 .tag-badge.politica { background: var(--politica-bg); color: var(--politica); }
+.tag-badge.opinion { background: var(--opinion-bg); color: var(--opinion); }
 
 /* ---------- Hero Section (Grid) ---------- */
 .hero-section {
@@ -716,6 +721,7 @@ header {
 .feed-card.cat-economia:hover { border-color: var(--economia); }
 .feed-card.cat-sociedad:hover { border-color: var(--sociedad); }
 .feed-card.cat-politica:hover { border-color: var(--politica); }
+.feed-card.cat-opinion:hover { border-color: var(--opinion); }
 
 .card-img-wrap {
   width: 100%;
