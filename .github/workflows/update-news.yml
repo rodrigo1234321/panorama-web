@@ -63,13 +63,21 @@ jobs:
       - name: Reportar estado del Tweet
         if: always()
         run: |
-          if [ "${{ steps.tweet-step.outcome }}" == "failure" ]; then
-            echo "::warning::⚠️ El tweet no se pudo publicar. Verificar TWITTER_AUTH_TOKEN."
-            echo "### ⚠️ Tweet NO publicado" >> $GITHUB_STEP_SUMMARY
-            echo "El script de publicación en X falló. Posibles causas: token expirado, rate limit o cambio en la UI de Twitter." >> $GITHUB_STEP_SUMMARY
-          else
-            echo "### ✅ Tweet publicado exitosamente" >> $GITHUB_STEP_SUMMARY
-          fi
+          node -e '
+            const fs = require("fs");
+            if (fs.existsSync("./tweet-result.json")) {
+              const res = JSON.parse(fs.readFileSync("./tweet-result.json", "utf8"));
+              if (res.success) {
+                fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, "\n### ✅ Tweet publicado exitosamente en X\n");
+              } else {
+                console.log("::warning::⚠️ Tweet no publicado: " + res.message);
+                fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, "\n### ⚠️ Tweet NO publicado\n**Causa:** " + res.message + "\n");
+              }
+            } else {
+              console.log("::warning::⚠️ No se generó reporte de tweet.");
+              fs.appendFileSync(process.env.GITHUB_STEP_SUMMARY, "\n### ⚠️ Tweet NO publicado\nEl script de Twitter no pudo inicializar la sesión.\n");
+            }
+          '
 
       - name: Commitear y Subir cambios
         run: |
