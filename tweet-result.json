@@ -1,0 +1,6 @@
+{
+  "success": false,
+  "message": "Falta la variable TWITTER_AUTH_TOKEN en GitHub Secrets",
+  "detail": "",
+  "timestamp": "2026-09-10T02:03:10.316Z"
+}

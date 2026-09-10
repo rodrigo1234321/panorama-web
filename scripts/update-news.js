@@ -661,6 +661,27 @@ function updateDatabase(newArticles) {
     } else {
       console.warn('Advertencia: No se encontró la plantilla templates/noticia-template.html.');
     }
+
+    // Guardar el borrador del tweet para X de la nota destacada (calibrado a max 270 chars con link)
+    const featuredArticle = newArticles.find(a => a.destacada) || newArticles[0];
+    if (featuredArticle && featuredArticle.tweet) {
+      const articleUrl = `${SITE_URL}/notas/${featuredArticle.slug}.html`;
+      let text = featuredArticle.tweet.trim();
+      if (text.length > 200) {
+        text = text.slice(0, 197) + '...';
+      }
+      const fullTweet = `${text}\n\n👉 ${articleUrl}`;
+      fs.writeFileSync(TWEET_FILE, fullTweet, 'utf8');
+      console.log(`✓ Borrador de tweet guardado en tweet.txt (${fullTweet.length} caracteres).`);
+    }
+
+    try {
+      const { execSync } = require('child_process');
+      execSync('node scripts/generate-sitemap.js', { stdio: 'inherit' });
+    } catch (e) {
+      console.warn('Advertencia al generar sitemap:', e.message);
+    }
+    console.log('Pipeline de noticias finalizado con éxito.');
   } catch (err) {
     console.error('Error al guardar noticias.json o generar páginas estáticas:', err);
     process.exit(1);
@@ -677,13 +698,6 @@ async function main() {
   }
   const newArticles = await generateArticles(newsItems, trends);
   updateDatabase(newArticles);
-  try {
-    const { execSync } = require('child_process');
-    execSync('node scripts/generate-sitemap.js', { stdio: 'inherit' });
-  } catch (e) {
-    console.warn('Advertencia al generar sitemap:', e.message);
-  }
-  console.log('Pipeline de noticias finalizado con éxito.');
 }
 
 main();

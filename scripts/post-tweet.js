@@ -67,6 +67,19 @@ async function run() {
     process.exit(0);
   }
 
+  // Asegurar que el tweet NUNCA supere el límite estricto de 270 caracteres de X
+  if (tweetText.length > 270) {
+    const urlMatch = tweetText.match(/https?:\/\/[^\s]+/);
+    if (urlMatch) {
+      const url = urlMatch[0];
+      const textPart = tweetText.replace(url, '').replace(/👉\s*$/, '').trim();
+      const maxTextLen = 260 - url.length - 8;
+      tweetText = `${textPart.slice(0, maxTextLen)}...\n\n👉 ${url}`;
+    } else {
+      tweetText = tweetText.slice(0, 267) + '...';
+    }
+  }
+
   console.log(`📝 Tweet a publicar (${tweetText.length} caracteres):\n"${tweetText}"\n`);
 
   if (!process.env.TWITTER_AUTH_TOKEN) {
@@ -74,6 +87,9 @@ async function run() {
     saveResult(false, 'Falta la variable TWITTER_AUTH_TOKEN en GitHub Secrets');
     process.exit(1);
   }
+
+  // Asegurar que la carpeta de sesión exista en Linux/Windows
+  fs.mkdirSync(USER_DATA_DIR, { recursive: true });
 
   const context = await chromium.launchPersistentContext(USER_DATA_DIR, {
     headless: isHeadless,
